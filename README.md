@@ -410,9 +410,46 @@
 
 - 5.1. Software Configuration Management.
   - 5.1.1. Software Development Environment Configuration.
+  
+Para desarrollar el proyecto, hemos hecho uso de los siguientes programas y aplicaciones: 
+
+		[UxPressia](http://uxpressia.com/w/pFiiX ) :Para la elaboración de los User persona, User Task Matrix e Impact Map. 
+		Miro/LucidChart: Elboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML. 
+		[Vertabelo](https://my.vertabelo.com/drive ): Elaboración de los 
+		[Figma](https://www.figma.com ): Elaboración de Wireframes, Mock-ups y Prototypes
+		HTML, CSS3 y Javascript para la elaboración del Landing Page
+		[Visual Studio Code:](https://code.visualstudio.com/download) Para la elaboración del Landing Page 
+		[Github](https://github.com): Se utilizará para el control y almacenamiento de nuestro codigo, junto a GitFlow
+		[M editor.md](https://pandao.github.io/editor.md/en.html#H2%20header): Para la edición de archivos tipo .md o Markdown. 
+		[Trello](https://trello.com/es ): Para la división y organización de Tasks. 
+		[Microsoft 365](https://www.microsoft.com/es-es/microsoft-365/try?culture=es-es&country=es): Para la elaboración del Keynote y la presentación de nuestro proyecto en Power Point. 
+		[Zoom(64 bits)](https://zoom.us/client/latest/ZoomRooms.exe?archType=x64 ) : Para la elaboración de las entrevistas de nuestro proyecto. 
+		[Google Meets:](https://meet.google.com "Google Meets:") Para la organización y las reuniones virtuales de grupo.
+
   - 5.1.2. Source Code Management.
+  
+Según la obra de Vinven Dreissen, el modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama principal y seguimos con una branch: AAAAA. Hacer una x cada feature
+
+Respecto, a las Release branches y Hotfix branches, incluimos las siguientes convenciones: 
+
+Usamos nombres como AAAA, aplicando Semanting Versioning para nombrar nuestras Releases y Conventional Commits para los textos de mensajes en nuestros commits. 
+
+
+
+
+Link del Landing Page: 
   - 5.1.3. Source Code Style Guide & Conventions.
+Aquí el equipo explica e indica las referencias que adoptará para nombrar elementos
+y programar en los lenguajes que se utilizan en la solución (en este caso HTML, CSS,
+JavaScript, TypeScript, Java, así como Gherkin para los archivos .feature). Para todos
+los lenguajes debe aplicar la nomenclatura en inglés. Adicionalmente, adopte
+convenciones estándares para coding (Vea “HTML Style Guide and Coding
+Conventions”, “Google HTML/CSS Style Guide”, “Gherkin Conventions for Readable
+Specifications”, “Angular coding style guide”, “Google Java Style Guide”, “Google
+TypeScript Style Guide” y “Spring Boot Features” en la sección de Referencias).
   - 5.1.4. Software Deployment Configuration.
+como se despliega el landing page, a partir de los repositorios de codigo fuente. 
+
 - 5.2. Landing Page, Services & Applications Implementation.
   - 5.2.1. Sprint n
     - 5.2.1.1. Sprint Planning.
