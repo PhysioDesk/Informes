@@ -179,11 +179,55 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 | Oportunidades | - Aumento de la conciencia sobre la importancia de la salud y el bienestar en el entorno laboral. - Expansión del mercado de salud y bienestar con el crecimiento de la fuerza laboral remota. - Colaboraciones estratégicas con empresas y profesionales de la salud ocupacional para promover la adopción de PhysioDesk. | - Crecimiento del mercado de salud ocupacional y ergonomía en empresas preocupadas por el bienestar de sus empleados. - Expansión internacional a nuevos mercados emergentes con una demanda creciente de soluciones ergonómicas. - Desarrollo de nuevas características y soluciones para abordar las necesidades cambiantes del mercado. | - Expansión del mercado de fitness y salud con el aumento de la conciencia sobre la importancia de la actividad física y la nutrición. - Colaboraciones estratégicas con empresas de tecnología y dispositivos para integrar MyFitnessPal en productos y servicios existentes. - Desarrollo y mejora continua de nuevas características y herramientas para mantener la relevancia en el mercado. | - Aumento de la demanda de tratamientos terapéuticos y fisioterapia en el entorno laboral. - Colaboraciones con empresas y profesionales de la salud para la promoción y adopción de PhysioAdvisor. - Desarrollo de nuevas características y servicios para abordar las necesidades cambiantes del mercado de salud ocupacional. |
 | Amenazas | - Competencia intensa de empresas establecidas en el mercado de salud y bienestar. - Riesgos de seguridad y privacidad asociados con el almacenamiento y procesamiento de datos de usuarios. - Cambios en las regulaciones y políticas gubernamentales que pueden afectar la operación y la expansión internacional de PhysioDesk. | - Competencia de otras empresas de ergonomía y soluciones de salud ocupacional con mayor reconocimiento de marca y recursos financieros. - Vulnerabilidades de seguridad y riesgos de privacidad asociados con el almacenamiento y procesamiento de datos de clientes. - Cambios en las regulaciones y políticas gubernamentales que pueden afectar la industria de la salud ocupacional y ergonomía. | - Competencia de otras aplicaciones de fitness y salud en el mercado, que pueden ofrecer características similares y una experiencia de usuario comparable. - Amenazas de seguridad cibernética y violaciones de datos que pueden socavar la confianza del usuario en la plataforma. - Cambios en las preferencias y necesidades del usuario que pueden afectar la demanda de servicios de fitness y salud en línea. | - Competencia de otras aplicaciones y servicios de fisioterapia en el mercado, que pueden ofrecer tratamientos similares y una experiencia de usuario comparable. - Amenazas de seguridad cibernética y violaciones de datos que pueden socavar la confianza del usuario en la plataforma. - Cambios en las preferencias y necesidades del usuario que pueden afectar la demanda de servicios de fisioterapia en línea. |
 
+- 2.3. Estrategias y tácticas frente a competidores.
+  
+## Estrategias:
+
+| Estrategia                           | Descripción                                                                                                                         |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| Enfoque en Soluciones Ergonómicas   | Centrarse en proporcionar soluciones ergonómicas efectivas para mejorar la salud y el bienestar de los trabajadores de oficina.      |
+| Personalización de Servicios        | Ofrecer servicios personalizados adaptados a las necesidades específicas de cada cliente para maximizar su efectividad y satisfacción.|
+| Colaboración con Profesionales de la Salud | Establecer asociaciones con fisioterapeutas y expertos en salud ocupacional para respaldar la efectividad de los servicios ofrecidos.|
+	
+ ## Tácticas:
+
+| Táctica                                          | Descripción                                                                                                                            |
+|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| Desarrollar Programas de Ejercicios Personalizados | Crear programas de ejercicios personalizados según las necesidades individuales de los usuarios para obtener mejores resultados.   |
+| Ofrecer Consultas Virtuales con Expertos         | Proporcionar la opción de consultas virtuales con fisioterapeutas y profesionales de la salud para obtener asesoramiento personalizado. |
+| Colaborar con Empresas para Programas de Bienestar| Establecer colaboraciones con empresas para implementar programas de bienestar en el lugar de trabajo, incluyendo el uso de PhysioDesk.|
+| Promoción en Eventos de Salud y Bienestar        | Participar en eventos de salud y bienestar para promover los servicios de PhysioDesk y aumentar su visibilidad en el mercado.           |
+| Crear Contenido Educativo y de Sensibilización   | Desarrollar contenido educativo sobre ergonomía y salud en el trabajo para sensibilizar a los usuarios sobre la importancia del cuidado corporal. |
 
   
 - 2.4. Entrevistas.
   - 2.4.1. Diseño de entrevistas.
-  
+  	#### Para el segmento de usuarios:
+
+	1. ¿Cuáles son los principales problemas de salud relacionados con el trabajo de oficina que enfrentas en tu día a día?
+	2. ¿Qué tipo de soluciones o herramientas has utilizado previamente para mejorar tu postura y prevenir lesiones relacionadas con la ergonomía?
+	3. ¿Qué aspectos consideras más importantes al elegir una plataforma o aplicación para mejorar tu salud y bienestar en el entorno laboral?
+	4. ¿Qué tipo de ejercicios o rutinas de fitness te resultan más efectivos para contrarrestar los efectos negativos de pasar largas horas frente al ordenador?
+	5. ¿Cuál es tu nivel de interés en utilizar tecnología como PhysioDesk para mejorar tu salud en el trabajo?
+	6. ¿Qué características o funcionalidades esperarías encontrar en una plataforma diseñada para mejorar la salud y bienestar en el entorno laboral?
+	7. ¿Has experimentado algún beneficio tangible al utilizar herramientas o aplicaciones para mejorar tu postura y salud en el trabajo?
+	8. ¿Qué obstáculos crees que podrían impedirte utilizar una plataforma como PhysioDesk de manera regular?
+	9. ¿Qué tan importante es para ti recibir recomendaciones personalizadas y seguimiento de tu progreso al utilizar una plataforma de salud en el trabajo?
+	10. ¿Cómo crees que una plataforma como PhysioDesk podría integrarse mejor en tu rutina diaria de trabajo?
+
+	#### Para el segmento de empresas:
+
+	1. ¿Qué iniciativas o programas tienen actualmente en su empresa para promover la salud y el bienestar de los empleados en el entorno laboral?
+	2. ¿Qué desafíos enfrentan al implementar soluciones ergonómicas y de salud en el lugar de trabajo?
+	3. ¿Qué criterios consideran al evaluar nuevas tecnologías o plataformas diseñadas para mejorar la salud de los empleados?
+	4. ¿Cómo medirían el éxito o la efectividad de una plataforma como PhysioDesk en su empresa?
+	5. ¿Qué aspectos de la cultura empresarial consideran más importantes para fomentar la adopción de herramientas de salud y bienestar entre los empleados?
+	6. ¿Cuál es su nivel de interés en invertir en tecnologías o programas que mejoren la salud y el bienestar de sus empleados?
+	7. ¿Qué tipo de funciones o características esperarían encontrar en una plataforma diseñada para mejorar la salud en el lugar de trabajo?
+	8. ¿Qué preocupaciones tendrían en cuanto a la privacidad y seguridad de los datos de los empleados al utilizar una plataforma como PhysioDesk?
+	9. ¿Qué recursos o apoyo interno estarían disponibles para implementar y promover el uso de una plataforma de salud en la empresa?
+	10. ¿Cómo creen que una plataforma como PhysioDesk podría contribuir a la productividad y satisfacción general de los empleados en su empresa?
+
   
   - 2.4.2. Registro de entrevistas.
   - 2.4.3. Análisis de entrevistas.
