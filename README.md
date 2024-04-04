@@ -159,7 +159,18 @@
 
 - 5.1. Software Configuration Management.
   - 5.1.1. Software Development Environment Configuration.
-  
+  	[UxPressia](http://uxpressia.com/w/pFiiX ) :Para la elaboración de los User persona, User Task Matrix e Impact Map. 
+	Miro/LucidChart: Elboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML. 
+	[Vertabelo](https://my.vertabelo.com/drive ): Elaboración de los 
+	[Figma](https://www.figma.com ): Elaboración de Wireframes, Mock-ups y Prototypes
+	HTML, CSS3 y Javascript para la elaboración del Landing Page
+	[Visual Studio Code:](https://code.visualstudio.com/download) Para la elaboración del Landing Page 
+	[Github](https://github.com): Se utilizará para el control y almacenamiento de nuestro codigo, junto a GitFlow
+	[M editor.md](https://pandao.github.io/editor.md/en.html#H2%20header): Para la edición de archivos tipo .md o Markdown. 
+	[Trello](https://trello.com/es ): Para la división y organización de Tasks. 
+	[Microsoft 365](https://www.microsoft.com/es-es/microsoft-365/try?culture=es-es&country=es): Para la elaboración del Keynote y la presentación de nuestro proyecto en Power Point. 
+	[Zoom(64 bits)](https://zoom.us/client/latest/ZoomRooms.exe?archType=x64 ) : Para la elaboración de las entrevistas de nuestro proyecto. 
+	[Google Meets:](https://meet.google.com "Google Meets:") Para la organización y las reuniones virtuales de grupo.
 
 
   - 5.1.2. Source Code Management.
