@@ -22,7 +22,7 @@
 |  |  |
 | Erick Joaquin Palomino Santa Cruz | Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta. |
 | Anthony Jeandet Guerrero Castillo | Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo. |
-|                                   |                                                                                                                  |
+| Juan Pablo Ramos Mendoza | Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera. |
 | Giacomo Zoppi Rodriguez | Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion|                                                                                                                 |
 
 
