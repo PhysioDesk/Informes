@@ -232,23 +232,38 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
   - 2.4.2. Registro de entrevistas.
   - 2.4.3. Análisis de entrevistas.
 - 2.5. Needfinding.
-  
-#### Problemas Identificados:
 
-
-#### Soluciones Propuestas:
-
-
-- 2.6. User Personas.
+	# User Personas.
   	Con el propósito de profundizar en nuestra comprensión de nuestro público objetivo, hemos analizado la información recopilada de entrevistas previas. A partir de este análisis, hemos creado un "User Persona" para cada segmento objetivo, una representación ficticia de un usuario típico dentro de nuestro segmento. Este perfil detallado incluye información sobre la personalidad, historia, motivaciones, objetivos y desafíos del usuario. Esta herramienta será invaluable para nuestro equipo, ya que nos permitirá establecer una conexión más sólida con el cliente ideal de nuestro producto, lo que a su vez nos ayudará a desarrollar mejoras que satisfagan de manera óptima las necesidades de nuestros usuarios.
 
 	### Para el segmento Usuarios
   ![Imagen de WhatsApp 2024-04-03 a las 23 09 43_ff0742ff](https://github.com/PhysioDesk/Informes/assets/127764958/9dbf4033-db47-4f9a-add9-e9225702b446)
 
 	### Para el segmento Empresa
-  ![image](https://github.com/PhysioDesk/Informes/assets/127764958/8dfb63f2-4430-4c8e-857b-88c241279102)
+  ![Carlos Rivera](https://github.com/PhysioDesk/Informes/assets/127764958/044a5c69-9378-4082-a8ca-d7e611a131fc)
+
 
 - 2.7. User Task Matrix.
+### Bruno Moises   
+| Actividades                                                 | Frecuencia    | Importancia |
+|-------------------------------------------------------------|---------------|-------------|
+| Realizar ejercicios ergonómicos y terapéuticos             | Diariamente   | Alta        |
+| Seguir programas de ejercicios personalizados              | Regularmente | Alta        |
+| Utilizar herramientas de seguimiento y análisis del progreso | Regularmente | Media       |
+| Integrar dispositivos ergonómicos en la rutina de trabajo  | A veces       | Alta        |
+| Participar en sesiones de consulta y capacitación           | A veces       | Media       |
+| Compartir experiencias y consejos en la comunidad en línea  | A veces       | Baja        |
+
+  ### Carlos Zapata
+| Actividades                                                 | Frecuencia    | Importancia |
+|-------------------------------------------------------------|---------------|-------------|
+| Evaluar riesgos ergonómicos en el entorno de trabajo        | Regularmente | Alta        |
+| Implementar soluciones ergonómicas personalizadas           | Regularmente | Alta        |
+| Utilizar software de evaluación ergonómica                  | Diariamente   | Alta        |
+| Capacitar al personal en prácticas ergonómicas              | A veces       | Media       |
+| Participar en programas de bienestar en el lugar de trabajo | A veces       | Alta        |
+| Promover la cultura de la ergonomía en la empresa           | A veces       | Alta        |
+
 - 2.8. User Journey Mapping.
 - 2.9. Empathy Mapping.
 - 2.10. As-is Scenario Mapping.
