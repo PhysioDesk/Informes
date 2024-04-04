@@ -58,32 +58,40 @@
     Un estudio de la Asociación Internacional de Ergonomía y Salud Ocupacional encontró que el dolor musculoesquelético  relacionado con el trabajo es una de las principales causas de discapacidad laboral en todo el mundo, lo que resulta en costos significativos para los empleadores y la sociedad en general.
     
   - 1.2.2. Lean UX Process.
-    - 1.2.2.1. Lean UX Problem Statements.
-      
+     Debido a la pandemia, se formalizaron las clases y trabajos remotos para ayudar a continuar con el desarrollo de los ciudadanos, sin embargo, diversas empresas, institutos y universidades optaron por normalizar el aprendizaje y las labores de manera virtual, por lo que las horas frente al computador aumentaron radicalmente. Esto genera diversos problemas, como la mala postura corporal, lo cual genera lesiones fisiológicas, las cuales de no ser tratadas pueden generar lesiones o atrofias permanentes. 
+
+
+      Según la International Ergonomics Association (IEA), el problema radica en la falta de información de un correcto ambiente laboral ergonómico. Ya que las personas no toman en cuenta su postura en sus horas laborales o de estudio, por lo que genera dolencias en el sistema locomotor que agrupa los huesos, músculos, nervios y articulaciones. Las lesiones más comunes identificadas son la cervicalgia, “codo del programador”, dorsalgia, artritis, lumbalgia, tortícolis, tendinitis, túnel del carpo o carpiano, hombro doloroso y cifosis. 
+
+      Se realizó un estudio en la Dirección Regional de Salud Tacna en el año 2022, en la cual se evaluaron a 45 trabajadores administrativos con modalidad de trabajo remoto, se utilizaron una herramienta de medición de la vértebra cervical y un 100% de los evaluados presentaron síndrome de dolor cervical. Se encontró un nivel leve del 61.4% y un 6.8% moderado. Por lo que se concluye que se debe crear conciencia y capacitación de un ambiente laboral para prevenir las lesiones fisiológicas.  
+
+      Nuestra tarea es encontrar una solución integral que aborde estas preocupaciones y mejore el estilo de vida de los usuarios. Nuestras interrogantes serían: ¿Cómo podemos garantizar que las personas tengan acceso fácil a una variedad de recursos, reciban información clara sobre la correcta forma de sentarse  y disfruten de una experiencia de soporte,  rehabilitación y altamente personalizada? ¿Cómo podemos simplificar el proceso y brindar orientación a los clientes para que tengan una experiencia excepcional en el tratamiento?
+
       
     - 1.2.2.2. Lean UX Assumptions.
   
       **Bussines Outcomes:**
-        * 1
-    
+        - Evaluar la efectividad de los ejercicios fisioterapéuticos mediante sesiones diarias programadas.
+        - Recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
+        - Desarrollar un sistema de seguimiento por medio de recopilación de datos con el fin de optimizar y personalizar los ejercicios adecuados según la lesión.
+        - Diseñar una plataforma interactiva donde el usuario pueda, mediante una imagen 3D del cuerpo humano, señalar la ubicación de su lesión.
+
       **Features:**
      
     
       **User Outcomes:**
-        * 1
-  
+        ##### Para los Usuarios:
+        - Proporcionar a los usuarios una amplia gama de consejos y herramientas ergonómicas.
+        - Ayudar a los usuarios a planificar las sesiones y reservarlas para una experiencia personalizada.
+        - Facilitar la interacción de los clientes con los fisioterapeutas y proporcionar una orientación personalizada para que disfruten de su experiencia.
+
+        ##### Para las Empresas de inmuebles ergonómicos:
+        - Permitir a las empresas llegar a un público más amplio y aumentar sus ingresos a través de las compras por medio de los usuarios.
+        - Facilitar el envío de los productos y la comunicación de los clientes, lo que les permite ofrecer un servicio selección de alta calidad.
+
     - 1.2.2.3. Lean UX Hypothesis Statements.
     - 1.2.2.4. Lean UX Canvas.
 - 1.3. Segmentos objetivo.
-  
-1. **Estudiantes Universitarios**:
-
-   
-2. **Profesores y Educadores**:
-  
-   
-3. **Instituciones Educativas y Empresas de Capacitación**:
-
 
 
 ### 2. Capítulo II: Requirements Elicitation & Analysis
