@@ -240,6 +240,14 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
 
 - 2.6. User Personas.
+  	Con el propósito de profundizar en nuestra comprensión de nuestro público objetivo, hemos analizado la información recopilada de entrevistas previas. A partir de este análisis, hemos creado un "User Persona" para cada segmento objetivo, una representación ficticia de un usuario típico dentro de nuestro segmento. Este perfil detallado incluye información sobre la personalidad, historia, motivaciones, objetivos y desafíos del usuario. Esta herramienta será invaluable para nuestro equipo, ya que nos permitirá establecer una conexión más sólida con el cliente ideal de nuestro producto, lo que a su vez nos ayudará a desarrollar mejoras que satisfagan de manera óptima las necesidades de nuestros usuarios.
+
+	### Para el segmento Usuarios
+  ![Imagen de WhatsApp 2024-04-03 a las 23 09 43_ff0742ff](https://github.com/PhysioDesk/Informes/assets/127764958/9dbf4033-db47-4f9a-add9-e9225702b446)
+
+	### Para el segmento Empresa
+  ![image](https://github.com/PhysioDesk/Informes/assets/127764958/8dfb63f2-4430-4c8e-857b-88c241279102)
+
 - 2.7. User Task Matrix.
 - 2.8. User Journey Mapping.
 - 2.9. Empathy Mapping.
