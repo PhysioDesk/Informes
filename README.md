@@ -3,7 +3,7 @@
 
 ## Tabla de contenidos
   - [0. Student Outcome]
-  - [Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
+  - [1. Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
   - [2. Capítulo II: Requirements Elicitation & Analysis](#2-cap%C3%ADtulo-ii-requirements-elicitation--analysis)
   - [3. Capítulo III: Requirements Specification](#3-cap%C3%ADtulo-iii-requirements-specification)
   - [4. Capítulo IV: Product Design](#4-cap%C3%ADtulo-iv-product-design)
