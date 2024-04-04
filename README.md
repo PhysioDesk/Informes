@@ -30,26 +30,32 @@
 - 1.2. Solution Profile
   - 1.2.1. Antecedentes y problemática
 
-    #### ¿Cuál es el problema?
-    
+     #### ¿Cuál es el problema?
+    El problema es la generación de lesiones fisiológicas causadas por falta de ergonomía en el entorno laboral. 
     
     #### ¿Cuándo sucede el problema?
-    
+    Sucede de manera continua a lo largo del día tras la exposición prolongada del uso del computador.
     #### ¿Dónde sucede el problema?
-  
+    Sucede dentro del hogar o centros laborales o en cualquier lugar donde se realicen actividades laborales que requieran.
     
     #### ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo?
-    
+    A las personas, mayormente jóvenes de 21 a 30 años de edad.
+    Incluye empleados de oficina y estudiantes de educación remota.
     
     #### ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?
-    
+    El problema sucede debido a la falta de un espacio ergonómico, asi como estar frente al computador por largas jornadas, sin estar informado de la correcta postura al sentarse.
+
+
     #### ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?
-  
+    Comienzan a manifestarse por medio de una  exposición prolongada a condiciones ergonómicamente deficientes, esto incluye malas posturas, realizar movimientos repetitivos durante largos periodos de tiempo, como abusar del uso del celular, sobrecargar la posición del cuello, etc
     
     #### ¿Cuánto impacto genera este problema? Representar datos estadísticos del segmento que tiene el problema.
     Dentro del mismo estudio mencionado anteriormente, se logró determinar que:
-    
-    
+    Según la Administración de Seguridad y Salud Ocupacional (OSHA) de EE. UU., las lesiones musculoesqueléticas  relacionadas con el trabajo, como el síndrome del túnel carpiano y el dolor lumbar, representan aproximadamente un tercio de todas las lesiones registradas en el lugar de trabajo.
+
+    La OSHA también informa que los trabajadores que pasan muchas horas frente al computador tienen un mayor riesgo de desarrollar lesiones musculoesqueléticas debido a una mala ergonomía, como el uso incorrecto de la silla, la posición inadecuada del teclado y el ratón, y la falta de descansos regulares.
+
+    Un estudio de la Asociación Internacional de Ergonomía y Salud Ocupacional encontró que el dolor musculoesquelético  relacionado con el trabajo es una de las principales causas de discapacidad laboral en todo el mundo, lo que resulta en costos significativos para los empleadores y la sociedad en general.
     
   - 1.2.2. Lean UX Process.
     - 1.2.2.1. Lean UX Problem Statements.
