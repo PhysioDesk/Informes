@@ -92,6 +92,36 @@
     - 1.2.2.3. Lean UX Hypothesis Statements.
     - 1.2.2.4. Lean UX Canvas.
 - 1.3. Segmentos objetivo.
+  
+  #### Segmento objetivo 1: Trabajadores Individuales
+  **Aspectos demográficos:**
+	- **Sexo:** Ambos sexos.
+	- **Edades:** Adultos jóvenes y adultos de mediana edad (18-45 años).
+	- **Nivel socioeconómico:** Medio a medio-alto.
+   
+  **Aspectos geográficos:**
+  	- **Nacionalidad:** Sin restricciones, pero principalmente dirigido a países con una alta tasa de uso de computadoras en el trabajo.
+	- **Zona geográfica en la que viven:** Principalmente áreas urbanas y suburbanas.
+   
+  **Aspectos psicográficos:**
+	- Personas que trabajan en entornos de oficina o desde casa.
+	- Personas preocupadas por su salud y bienestar.
+	- Individuos interesados en la prevención de lesiones relacionadas con el trabajo.
+
+  #### Segmento objetivo 2: Empresas y Corporaciones
+  **Aspectos demográficos:**
+	- **Sexo:** Ambos sexos.
+	- **Edades:** Adultos jóvenes y adultos de mediana edad (18-45 años).
+	- **Nivel socioeconómico:** Diverso, desde bajo a alto.
+
+  **Aspectos geográficos:**
+	- **Nacionalidad:** Sin restricciones, pero enfocado en áreas con una alta densidad de empresas y trabajadores de oficina.
+	- **Zona geográfica en la que viven:** Principalmente áreas urbanas y suburbanas.
+
+  **Aspectos psicográficos:**
+	- Empresas interesadas en mejorar la salud y el bienestar de sus empleados.
+	- Empresas que valoran la productividad y el rendimiento laboral de sus empleados.
+	- Empresas dispuestas a invertir en soluciones ergonómicas para mejorar el entorno laboral y reducir el ausentismo por enfermedad.
 
 
 ### 2. Capítulo II: Requirements Elicitation & Analysis
