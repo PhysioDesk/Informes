@@ -2,7 +2,8 @@
 # Contenido
 
 ## Tabla de contenidos
-  - [1. Student Outcome Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
+  - [0. Student Outcome]
+  - [Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
   - [2. Capítulo II: Requirements Elicitation & Analysis](#2-cap%C3%ADtulo-ii-requirements-elicitation--analysis)
   - [3. Capítulo III: Requirements Specification](#3-cap%C3%ADtulo-iii-requirements-specification)
   - [4. Capítulo IV: Product Design](#4-cap%C3%ADtulo-iv-product-design)
@@ -11,7 +12,13 @@
 - [Bibliografía](#bibliograf%C3%ADa)
 - [Anexos](#anexos)
 
-### 1. Student Outcome Capítulo I: Introducción
+### 0. Student Outcome
+Criterio específico | Acciones Realizadas | Conclusiones
+------------------- | ------------------- | ------------
+Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Content Cell | Content Cell
+Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería | Content Cell | Content Cell
+
+### 1. Capítulo I: Introducción
 
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
