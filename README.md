@@ -127,7 +127,19 @@
 ### 2. Capítulo II: Requirements Elicitation & Analysis
 
 - 2.1. Competidores.
- 
+  
+	Para PhysioDesk, una plataforma especializada en soluciones ergonómicas y ejercicios terapéuticos para individuos que pasan largas horas frente al ordenador, los competidores podrían incluir:
+
+	1. **ErgoPlus:** Una empresa que ofrece software de evaluación ergonómica y soluciones de mobiliario diseñadas para mejorar la postura y prevenir lesiones relacionadas con la ergonomía en entornos de trabajo.
+
+	2. **MyFitnessPal:** Una popular aplicación de salud y fitness que incluye ejercicios específicos para mejorar la postura, fortalecer músculos y reducir el riesgo de lesiones, adaptados para personas que trabajan en oficinas.
+
+	3. **Herman Miller:** Una empresa reconocida por proporcionar soluciones ergonómicas para entornos de oficina, incluyendo software, accesorios y mobiliario diseñado para mejorar la salud y el bienestar de los trabajadores.
+
+	4. **PhysioAdvisor:** Una aplicación de fisioterapia que ofrece ejercicios terapéuticos y recomendaciones para mejorar la postura y tratar lesiones relacionadas con el trabajo de oficina.
+
+	Estas empresas representan algunos de los competidores existentes en el mercado de aplicaciones ergonómicas y de salud, compitiendo por la preferencia de usuarios comprometidos con su salud y bienestar mientras trabajan en entornos informáticos.
+
 
 - 2.4. Entrevistas.
   - 2.4.1. Diseño de entrevistas.
