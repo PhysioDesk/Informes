@@ -339,16 +339,34 @@ Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo
 URL del repositorio de Github del Landing Page:
 
 
-Link del Landing Page: 
   - 5.1.3. Source Code Style Guide & Conventions.
-Aquí el equipo explica e indica las referencias que adoptará para nombrar elementos
-y programar en los lenguajes que se utilizan en la solución (en este caso HTML, CSS,
-JavaScript, TypeScript, Java, así como Gherkin para los archivos .feature). Para todos
-los lenguajes debe aplicar la nomenclatura en inglés. Adicionalmente, adopte
-convenciones estándares para coding (Vea “HTML Style Guide and Coding
-Conventions”, “Google HTML/CSS Style Guide”, “Gherkin Conventions for Readable
-Specifications”, “Angular coding style guide”, “Google Java Style Guide”, “Google
-TypeScript Style Guide” y “Spring Boot Features” en la sección de Referencias).
+    
+Configuración del Código HTML:
+
+- Para definir el tipo de documento, se utiliza la etiqueta <!DOCTYPE html>.
+- La cabecera del código se establece entre las etiquetas <head> y </head>
+- Mientras, que el cuerpo del documento HTML se define utilizando las etiquetas <body> y </body>
+- Es preferible poner los atributos en minúsculas. Los valores de los atributos se deben colocar entre comillas, evitando espacios innecesarios, como en <link rel="stylesheet" href="css/estilos.css">.
+
+Precauciones Importantes:
+
+- Es mejor no omitir la etiqueta <body>, ya que su omisión puede causar errores en navegadores antiguos.
+- Se incluye la etiqueta <html> para evitar problemas de funcionamiento de XML.
+
+Convenciones de CSS:
+
+- Para líneas cortas de CSS, se siguen las pautas de escritura en una sola línea, por ejemplo: 
+p.intro {font-family: Arial; font-size: 12px;}.
+- Para reglas de estilo más largas, se formatean con una regla por línea para mejorar la legibilidad, como:
+
+body {
+    background-color: blue;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+
   - 5.1.4. Software Deployment Configuration.
 como se despliega el landing page, a partir de los repositorios de codigo fuente. 
 
