@@ -331,14 +331,12 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
 
   - 5.1.2. Source Code Management.
-  
-Según la obra de Vinven Dreissen, el modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama principal y seguimos con una branch: AAAAA. Hacer una x cada feature
 
-Respecto, a las Release branches y Hotfix branches, incluimos las siguientes convenciones: 
+Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos se unen a la develop Branch. 
 
-Usamos nombres como AAAA, aplicando Semanting Versioning para nombrar nuestras Releases y Conventional Commits para los textos de mensajes en nuestros commits. 
+Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo las enumeraciones que plantea (1.0.0, 1.0.1, 1.1.0), así como los Conventional Commits, para nombrar los commits que hacemos en el proyecto, usando terminos como: "feat", "docs", etc. 
 
-
+URL del repositorio de Github del Landing Page:
 
 
 Link del Landing Page: 
