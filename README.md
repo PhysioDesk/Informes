@@ -341,19 +341,19 @@ URL del repositorio de Github del Landing Page:
 
   - 5.1.3. Source Code Style Guide & Conventions.
     
-- Configuración del Código HTML:
+Configuración del Código HTML:
 
  -  Para definir el tipo de documento, se utiliza la etiqueta <!DOCTYPE html>.
  - La cabecera del código se establece entre las etiquetas <head> y </head>
  - Mientras, que el cuerpo del documento HTML se define utilizando las  etiquetas <body> y </body>
  - Es preferible poner los atributos en minúsculas. Los valores de los atributos se deben colocar entre comillas, evitando espacios innecesarios, como en <link rel="stylesheet" href="css/estilos.css">.
 
-- Precauciones Importantes:
+Precauciones Importantes:
 
  - Es mejor no omitir la etiqueta <body>, ya que su omisión puede causar errores en navegadores antiguos.
  - Se incluye la etiqueta <html> para evitar problemas de funcionamiento de XML.
 
-- Convenciones de CSS:
+Convenciones de CSS:
 
  - Para líneas cortas de CSS, se siguen las pautas de escritura en una sola línea, por ejemplo: 
 p.intro {font-family: Arial; font-size: 12px;}.
