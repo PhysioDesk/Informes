@@ -265,8 +265,23 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 | Promover la cultura de la ergonomía en la empresa           | A veces       | Alta        |
 
 - 2.8. User Journey Mapping.
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-05 a las 23 29 42_88b954a1](https://github.com/PhysioDesk/Informes/assets/127764958/c5043a5c-a075-45d1-aa29-9f6917ba8497)
+
+ 	### Segmento Profesional
+  	![Imagen de WhatsApp 2024-04-05 a las 23 36 36_f7fe5a61](https://github.com/PhysioDesk/Informes/assets/127764958/366f487e-368b-46ca-9f7d-c3f00f7ffeea)
+
 - 2.9. Empathy Mapping.
+  	### Segmento Usuario
+  	![Empathy map Usuario](https://github.com/PhysioDesk/Informes/assets/127764958/813dff6d-4f06-4ed7-9fcc-efe4addb213b)
+
+ 	### Segmento Profesional
+  	![Imagen de WhatsApp 2024-04-06 a las 01 09 50_9aba3370](https://github.com/PhysioDesk/Informes/assets/127764958/f9c4c366-46cd-4285-ae3c-d3517b7fcae3)
+
 - 2.10. As-is Scenario Mapping.
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-06 a las 01 22 47_0b14448b](https://github.com/PhysioDesk/Informes/assets/127764958/fc8c80d6-0ec9-45cb-834d-934a33a3fe22)
+
 - 2.11. Ubiquitous Language.
   ## Términos y Conceptos
 
