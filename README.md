@@ -118,17 +118,18 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
   #### Segmento objetivo 2: Empresas y Corporaciones
   **Aspectos demográficos:**
 	- **Sexo:** Ambos sexos.
-	- **Edades:** Adultos jóvenes y adultos de mediana edad (18-45 años).
-	- **Nivel socioeconómico:** Diverso, desde bajo a alto.
+	- **Edades:** Adultos jóvenes y adultos de mediana edad (25-45 años).
+	- **Nivel socioeconómico:** Diverso, desde medio a alto.
 
   **Aspectos geográficos:**
-	- **Nacionalidad:** Sin restricciones, pero enfocado en áreas con una alta densidad de empresas y trabajadores de oficina.
-	- **Zona geográfica en la que viven:** Principalmente áreas urbanas y suburbanas.
+	- **Nacionalidad:** Sin restricciones, pero enfocado en áreas urbanas y suburbanas con una alta concentración de profesionales.
+	- **Zona geográfica en la que viven:** Principalmente áreas urbanas y suburbanas, donde se encuentran oficinas y centros de trabajo.
 
   **Aspectos psicográficos:**
-	- Empresas interesadas en mejorar la salud y el bienestar de sus empleados.
-	- Empresas que valoran la productividad y el rendimiento laboral de sus empleados.
-	- Empresas dispuestas a invertir en soluciones ergonómicas para mejorar el entorno laboral y reducir el ausentismo por enfermedad.
+	- Profesionales comprometidos con su salud y bienestar laboral.
+	- Individuos que valoran la eficiencia y el rendimiento en su trabajo.
+	- Profesionales que buscan mejorar su calidad de vida en el entorno laboral.
+	- Aquellos dispuestos a invertir en soluciones ergonómicas para aumentar su comodidad y productividad en el trabajo.
 
 
 ### 2. Capítulo II: Requirements Elicitation & Analysis
@@ -215,18 +216,18 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 	9. ¿Qué tan importante es para ti recibir recomendaciones personalizadas y seguimiento de tu progreso al utilizar una plataforma de salud en el trabajo?
 	10. ¿Cómo crees que una plataforma como PhysioDesk podría integrarse mejor en tu rutina diaria de trabajo?
 
-	#### Para el segmento de empresas:
+	#### Para el segmento profesional:
 
-	1. ¿Qué iniciativas o programas tienen actualmente en su empresa para promover la salud y el bienestar de los empleados en el entorno laboral?
-	2. ¿Qué desafíos enfrentan al implementar soluciones ergonómicas y de salud en el lugar de trabajo?
-	3. ¿Qué criterios consideran al evaluar nuevas tecnologías o plataformas diseñadas para mejorar la salud de los empleados?
-	4. ¿Cómo medirían el éxito o la efectividad de una plataforma como PhysioDesk en su empresa?
-	5. ¿Qué aspectos de la cultura empresarial consideran más importantes para fomentar la adopción de herramientas de salud y bienestar entre los empleados?
-	6. ¿Cuál es su nivel de interés en invertir en tecnologías o programas que mejoren la salud y el bienestar de sus empleados?
-	7. ¿Qué tipo de funciones o características esperarían encontrar en una plataforma diseñada para mejorar la salud en el lugar de trabajo?
-	8. ¿Qué preocupaciones tendrían en cuanto a la privacidad y seguridad de los datos de los empleados al utilizar una plataforma como PhysioDesk?
-	9. ¿Qué recursos o apoyo interno estarían disponibles para implementar y promover el uso de una plataforma de salud en la empresa?
-	10. ¿Cómo creen que una plataforma como PhysioDesk podría contribuir a la productividad y satisfacción general de los empleados en su empresa?
+	1. ¿Qué desafíos enfrenta habitualmente al tratar con problemas de salud relacionados con la postura y la ergonomía en su práctica?
+	2. ¿Qué herramientas o recursos utiliza actualmente para evaluar y abordar los problemas ergonómicos de sus pacientes?
+	3. ¿Qué características considera más importantes al evaluar una plataforma o herramienta digital para su práctica profesional?
+	4. ¿Cómo cree que una plataforma como PhysioDesk podría beneficiar su trabajo diario y mejorar los resultados del tratamiento para sus pacientes?
+	5. ¿Cuál es su opinión sobre la integración de tecnología en la práctica de la fisioterapia y la promoción de la salud ergonómica?
+	6. ¿Qué funciones específicas le gustaría ver en una plataforma diseñada para profesionales de la salud, como PhysioDesk?
+	7. ¿Cómo se asegura de mantenerse actualizado sobre las últimas investigaciones y avances en el campo de la ergonomía y la fisioterapia?
+	8. ¿Cuál es su enfoque para capacitar a sus pacientes en prácticas ergonómicas y promover la salud postural fuera del entorno clínico?
+	9. ¿Cómo evalúa el éxito del tratamiento ergonómico en sus pacientes y qué métricas utiliza para medirlo?
+	1¿Qué desafíos anticipa al adoptar una nueva plataforma o herramienta digital en su práctica profesional, y cómo planea superarlos?
 
   
   - 2.4.2. Registro de entrevistas.
@@ -281,6 +282,9 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 - 2.10. As-is Scenario Mapping.
   	### Segmento Usuario
   	![Imagen de WhatsApp 2024-04-06 a las 01 22 47_0b14448b](https://github.com/PhysioDesk/Informes/assets/127764958/fc8c80d6-0ec9-45cb-834d-934a33a3fe22)
+
+ 	### Segmento Profesional
+  	![Imagen de WhatsApp 2024-04-06 a las 08 56 04_deebcd1f](https://github.com/PhysioDesk/Informes/assets/127764958/0173bf4b-94b5-4e78-b85b-6651e8c36796)
 
 - 2.11. Ubiquitous Language.
   ## Términos y Conceptos
