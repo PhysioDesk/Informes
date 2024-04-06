@@ -287,7 +287,23 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
   	![Imagen de WhatsApp 2024-04-06 a las 08 56 04_deebcd1f](https://github.com/PhysioDesk/Informes/assets/127764958/0173bf4b-94b5-4e78-b85b-6651e8c36796)
 
 - 2.11. Ubiquitous Language.
-  ## Términos y Conceptos
+  ### Términos y Conceptos
+  
+ 	 1. **PhysioDesk**: El nombre del proyecto en sí mismo, que se refiere a la plataforma y al asistente virtual diseñado para proporcionar soluciones ergonómicas y ejercicios para usuarios que pasan mucho tiempo frente al computador.
+
+	2. **Asistente Virtual**: El componente de software de PhysioDesk que interactúa con los usuarios, recopila datos, ofrece recomendaciones ergonómicas y proporciona asistencia personalizada para mejorar la salud y el bienestar en el entorno laboral.
+
+	3. **Usuario**: Cualquier persona que utilice PhysioDesk para recibir recomendaciones ergonómicas y realizar ejercicios para mejorar su salud y bienestar mientras trabaja frente al computador.
+
+	4. **Soluciones Ergonómicas**: Las recomendaciones, consejos y sugerencias proporcionadas por PhysioDesk para mejorar la postura, configuración del lugar de trabajo y hábitos de trabajo del usuario con el fin de prevenir lesiones y mejorar el bienestar.
+
+	5. **Ejercicios Ergonómicos**: Rutinas de ejercicios diseñadas para aliviar la tensión muscular, mejorar la flexibilidad y promover una postura saludable mientras se trabaja frente al computador.
+
+	6. **Configuración del Lugar de Trabajo**: La disposición física y ergonómica de los elementos del entorno laboral, como la altura del monitor, la posición del teclado y la silla, que pueden influir en la comodidad y la salud del usuario.
+
+	7. **Pausas Activas**: Breves interrupciones en el trabajo para realizar ejercicios de estiramiento, movimientos y respiración diseñados para reducir la fatiga y mejorar la concentración.
+
+	8. **Productos Ergonómicos**: Herramientas, dispositivos y accesorios diseñados para mejorar la ergonomía y la comodidad en el entorno laboral, como sillas de oficina ajustables, soportes para monitor y teclados ergonómicos.
 
 
 
