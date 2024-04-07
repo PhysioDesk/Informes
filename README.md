@@ -277,10 +277,10 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 - 3.1. To-Be Scenario Mapping.
 
 	### Segmento Usuarios
-	![image](https://github.com/PhysioDesk/Informes/assets/89022078/c16921ed-1524-4df3-888c-ab78d2905ff0)
+	![image](https://github.com/PhysioDesk/Informes/assets/89022078/5104680a-188e-464b-a7c1-77c80dee1a93)
 
 	### Segmento Profesional
-	![image](https://github.com/PhysioDesk/Informes/assets/89022078/7b064040-0170-484f-9228-8bb42dd2f330)
+	![image](https://github.com/PhysioDesk/Informes/assets/89022078/3f7e968c-0b6c-456d-ad27-ba83878fc880)
 
 
 - 3.2. User Stories.
