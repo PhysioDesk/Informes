@@ -377,7 +377,19 @@ como se despliega el landing page, a partir de los repositorios de codigo fuente
     Un Sprint se trata de un plazo fijo y corto de tiempo en el que el equipo se centra en desarrollar el objetio final del proyecto, también llamado "Product Goal" .
 Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se centra en cumplir el objetivo de desarrollar nuestra Landing Page.
 
-que e
+| Sprint #  | Sprint 1  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-04-05  |
+| Time  |  11:04 PM |
+| Location  | Google Meeting |
+| Prepared  by  | Erick Palomino, Giacomo Zoppi |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco   |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Elaborar una Landing page que resulte atrayente, útil y apropiada para nuestro proyecto |
+| Spring n Velocity | 19  puntos |
+| Sum of Story Points |   19 puntos|
+
 
     - 5.2.1.2. Sprint Backlog.
 | Sprint #  | Sprint 1  | | | | | | |
