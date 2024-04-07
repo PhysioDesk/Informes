@@ -1,5 +1,33 @@
 
-# Contenido
+<p align ="center">
+   <img src="./static/img/Logos/UPC_logo.png" >
+</p>
+
+<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+
+<h2 align="center">Ingeniería de Software</h2>
+
+<div align="center">
+<h3>Aplicaciones Open Source</h3>
+
+**Sección:** WX52 </br>
+**Docente:** Elio Jefferrson Navarrete Vilca </br>
+**Ciclo:** 2024-01 </br>
+**Nombre de la Startup:** Name </br>
+**Nombre del producto:** PhysioDesk </br>
+
+<h3>Integrantes</h3>
+
+| Alumnos                          |   Codigo   |
+| :------------------------------- | :--------: |
+| Erick Joaquin Palomino Santa Cruz| U--------- |
+| Anthony Jeandet Guerrero Castillo| U--------- |
+| Juan Pablo Ramos Mendoza         | U--------- |
+| Giacomo Zoppi Rodriguez          | U--------- |
+| Gianfranco Luna Morales          | U201824343 |
+
+</div>
+</br>
 
 ## Tabla de contenidos
   - [0. Student Outcome](#0)
@@ -23,16 +51,54 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
     - PhysioDesk/Ergonomic-Style es la implementación de un modelo de un asistente virtual que brinda soluciones ergonómicas y ejercicios para personas que ocupan gran parte del día en el computador. La iniciativa busca analizar el estilo de vida del usuario con el fin de brindar las herramientas indicadas para aliviar y/o prevenir lesiones fisiológicas mediante un entorno ergonómico. Así mismo, recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
-
-| Integrante                         | Descripción del Perfil                                                                                          |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-|  |  |
-| Erick Joaquin Palomino Santa Cruz | Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta. |
-| Anthony Jeandet Guerrero Castillo | Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo. |
-| Juan Pablo Ramos Mendoza | Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera. |
-| Giacomo Zoppi Rodriguez | Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion|                                                                                                                 |
+   
 
 
+<div align="center">
+   <table>
+      <thead>
+         <tr>
+            <th style="text-align: center;">Foto</th>
+            <th style="text-align: center;">Miembro</th>
+            <th style="text-align: center;">Descripciónn personal</th>
+            <th style="text-align: center;">Código</th>
+         </tr>
+      </thead>
+      <tbody>
+         <tr>
+            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Erick Joaquin Palomino Santa Cruz</td>
+            <td tyle="text-align: justify;"> Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta.</td>
+            <td style="text-align: center;">U----------</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Anthony Jeandet Guerrero Castillo</td>
+            <td style="text-align: justify;">Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo..</td>
+            <td style="text-align: center;">U---------</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="../img/team-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Gianfranco Luna</td>
+            <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
+            <td style="text-align: center;">U201824343</td>
+         </tr>
+         <tr>
+            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Juan Pablo Ramos Mendoza</td>
+            <td style="text-align: justify;">Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera. </td>
+            <td style="text-align: center;">U------------</td>
+         </tr>
+        <tr>
+            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;">Giacomo Zoppi Rodriguez</td>
+            <td style="text-align: justify;">Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion. </td>
+            <td style="text-align: center;">U------------</td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+</br>
 
 - 1.2. Solution Profile
   - 1.2.1. Antecedentes y problemática
