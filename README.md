@@ -330,6 +330,14 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 | EP-008 | Gestión de Registros de Usarios y Fisioterapeutas | | | |
   
 - 3.3. Impact Mapping.
+
+ 	### Segmento Usuarios
+  	![image](https://github.com/PhysioDesk/Informes/assets/89022078/adf3ed17-4305-452d-bf25-2121ebe0ee71)
+
+	### Segmento Profesional
+	![image](https://github.com/PhysioDesk/Informes/assets/89022078/1cd3908d-c5e6-4126-b987-1b7d041c42e5)
+
+
 - 3.4. Product Backlog.
 
 
