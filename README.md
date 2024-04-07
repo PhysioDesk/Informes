@@ -412,12 +412,19 @@ Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se c
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
   Testeo del landing page
 - 5.2.1.5. Execution Evidence for Sprint Review.
-  
+  Mas ejecucion del Landing Page
 - 5.2.1.6. Services Documentation Evidence for Sprint Review.
   Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence. 
 - 5.2.1.7. Software Deployment Evidence for Sprint Review.
+  Ejecucion del Landing Page tmb
 - 5.2.1.8. Team Collaboration Insights during Sprint.    
-    
+    | Integrante                         | Actividad                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Gianfranco Luna Morales|  |
+| Erick Joaquin Palomino Santa Cruz |  |
+| Anthony Jeandet Guerrero Castillo | |
+| Juan Pablo Ramos Mendoza | . |
+| Giacomo Zoppi Rodriguez | |    
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
 - 5.3.2. Registro de Entrevistas.
