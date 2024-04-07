@@ -275,6 +275,14 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 ### 3. Capítulo III: Requirements Specification
 
 - 3.1. To-Be Scenario Mapping.
+
+	### Segmento Usuarios
+	![image](https://github.com/PhysioDesk/Informes/assets/89022078/c16921ed-1524-4df3-888c-ab78d2905ff0)
+
+	### Segmento Profesional
+	![image](https://github.com/PhysioDesk/Informes/assets/89022078/7b064040-0170-484f-9228-8bb42dd2f330)
+
+
 - 3.2. User Stories.
 
 | Epic / StoryId | Título  | Descripción   | Criterios de aceptación | Relacionado con (Epic ID) |
