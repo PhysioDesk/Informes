@@ -377,21 +377,22 @@ como se despliega el landing page, a partir de los repositorios de codigo fuente
     Un Sprint se trata de un plazo fijo y corto de tiempo en el que el equipo se centra en desarrollar el objetio final del proyecto, también llamado "Product Goal" .
 Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se centra en cumplir el objetivo de desarrollar nuestra Landing Page.
 
-| Sprint #  | Sprint 1  |
-| ------------ | ------------ |
-| **Sprint Planning Background**  |
-|  Date  | 2024-04-05  |
-| Time  |  11:04 PM |
-| Location  | Google Meeting |
-| Prepared  by  | Erick Palomino, Giacomo Zoppi |
-| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco   |
-| **Sprint Goal And User Stories**   |
-| Sprint n Goal | Elaborar una Landing page que resulte atrayente, útil y apropiada para nuestro proyecto |
-| Spring n Velocity | 19  puntos |
-| Sum of Story Points |   19 puntos|
+que e
 
     - 5.2.1.2. Sprint Backlog.
-
+| Sprint #  | Sprint 1  | | | | | | |
+| ------------ | ------------ | | | | | | | |
+| **User Story** | | |  | | | |
+|  **Id**  | **Title**  | **IdTask**| **Title** | **Description** | **Estimation(Hours)**| **Assigned to**| **Status**|
+| US02  | Agregar herramienta ergonómica al carrito de compra |  UT01|Funcionalidad "Carrito de Compras" | Añadir la funcionalidad de Carrito de Compras |1 | Juan Ramos|Done |
+| US03  | Ver detalle de la herramienta ergonómica |UT02 |Añadir botón para desplegar texto| | | | | To do |
+| US04  |Filtrar herramientas ergonómicas|UT03 |Permitir a los usuarios interactuar con la barra de navegación| | |2 | | | |
+| US04  |Filtrar herramientas ergonómicas|UT04 |Permitir a los usuarios interactuar con filtros de busqueda| | |2 | | | |
+| US06  |Visualizar los horarios de atención de cada fisioterapeuta|UT05| | | | | | | |
+| US07 |Reservar cita con fisioterapeuta|UT06 | | | | 1| | |
+| US08 |Acceder a un entorno fácil de usar para la cita|UT07| | | | |1 | | |
+| US011|Calificar al fisioterapeuta |UT08 | | | | |1 | | |
+| US07| |UT08 | | | | | | |
 
 ---
 - 5.2.1.3. Development Evidence for Sprint Review.
