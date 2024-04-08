@@ -282,6 +282,7 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 	### Segmento Profesional
 	![image](https://github.com/PhysioDesk/Informes/assets/89022078/3f7e968c-0b6c-456d-ad27-ba83878fc880)
 
+	Link para visualizar el To-Be Scenario Mapping en Miro: https://miro.com/welcomeonboard/ZnZpOEtKc0tXcFUwTkN3OXlRQ0drN09JUHFPR29YZ3VVWjBlNTlVTWVEc0tnbkNxekxkczJIaGpHekE3ek8ycnwzMDc0NDU3MzQ3Njk4ODc5OTg5fDI=?share_link_id=155036395771
 
 - 3.2. User Stories.
 
@@ -337,6 +338,7 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 	### Segmento Profesional
 	![image](https://github.com/PhysioDesk/Informes/assets/89022078/1cd3908d-c5e6-4126-b987-1b7d041c42e5)
 
+	Link para visualizar el Impact Map de ambos segmentos en UXPressia: https://uxpressia.com/w/2nIbe/i/yEYYu
 
 - 3.4. Product Backlog.
 
@@ -375,6 +377,8 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 | 31 | USER-006 | Visualizar los horarios de atención de cada fisioterapeuta | Como usuario, quiero visualizar los horarios disponibles de cada fisioterapeuta, para conocer cuál se acomoda a mis tiempos libres. | 1 |
 | 32 | FISIO-007 | Enviar solicitud de incorporación como fisioterapeuta | Como fisioterapeuta interesado en colaborar con la aplicación, quiero poder enviar una solicitud de incorporación desde el landing page para iniciar el proceso de registro. | 2 |
 | 33 | USER-022 | Registrarse en la aplicación | Como usuario interesado en mejorar su postura y bienestar general, quiero poder registrarme en la aplicación de manera sencilla e intuitiva, para acceder a todas las funcionalidades y servicios disponibles de manera rápida. | 2 |
+
+Link para visualizar el Product Backlog en Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2700540
   
 
 ### 4. Capítulo IV: Product Design
