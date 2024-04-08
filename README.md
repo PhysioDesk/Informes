@@ -352,7 +352,62 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
 - 4.1. Style Guidelines.
   - 4.1.1. General Style Guidelines.
+El nombre del software identificado es PhysioDesk. Descomponiendo el nombre en dos, ‘Physio’ que significa condición física y ‘Desk’ que significa carpeta. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal especializado en contactar y gestionar sus sesiones para recibir una atención de calidad, por ello se optó por la búsqueda de fisioterapeutas. Se usará también el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. A continuación, se presenta el logo o marca de nuestra solución propuesta.
+
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/IconsPhy.png" >
+</br>
+</br>
+Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural.
+</br>
+</br>
+Typography
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/tipografia.PNG" >
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/body.PNG" >
+Colors
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/colors.png" >
+Spacing
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/spacing.PNG" >
+</br>
+</br>
+Tono de comunicación y lenguaje aplicado
+</br>
+</br>
+Color Primario: El color azul suele relacionarse con elementos de la naturaleza, tales como el agua y el aire. Además, inspira sentimientos de amistad, lealtad, seguridad y confianza.
+</br>
+</br>
+Color Secundario: Celeste, además de transmitir tranquilidad y calma, se asocia con la naturaleza, prosperidad, fertilidad, salud, y generosidad.
+</br>
+</br>
+Blanco: Representa limpieza y claridad.
+</br>
+</br>Desktop Web Browseto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
+
+
   - 4.1.2. Web Style Guidelines.
+
+Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
+
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/botones.PNG" >
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/big-elements.PNG" >
+</br>
+</br>
+<img src="../img/Chapter 4/style-guidelines/cards.PNG" >
+
+
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
   - 4.2.2. Labeling Systems.
