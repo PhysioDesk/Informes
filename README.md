@@ -289,10 +289,76 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
   - 4.1.2. Web Style Guidelines.
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
+    
+  	**Organización visual del contenido** <br><br>
+   
+	1. Jerárquica (Visual Hierarchy):<br><br>
+  	- La organización jerárquica se aplicará en las páginas principales del sitio web, donde se destacan las secciones principales y subsecciones de manera visualmente clara para orientar a los usuarios.
+  	- Por ejemplo, en la página de inicio, se presentarán los apartados principales como "Servicios", "Acerca de Nosotros" y "Contacto" de manera prominente, seguidos de las subsecciones relevantes.<br><br>
+ 
+	2. Secuencial (Step-by-Step to Accomplish):<br><br>
+  	- Este sistema de organización se utilizará en secciones que guían al usuario a través de un proceso paso a paso para lograr un objetivo específico, como el registro o la solicitud de servicios.
+	- Por ejemplo, en la sección de registro de usuarios, se presentarán pasos secuenciales para completar el proceso, como ingresar información personal, seleccionar preferencias y confirmar la cuenta. <br><br>
+
+	 **Esquemas de Categorización de Contenido:** <br><br>
+	
+	1. Alfabético:<br><br>
+	- La categorización alfabética se aplicará en secciones como un directorio de recursos o un catálogo de productos, donde el contenido se puede clasificar fácilmente por orden alfabético.
+	- Por ejemplo, en la sección de "Productos Ergonómicos", los artículos se organizan alfabéticamente por título para facilitar la búsqueda de los usuarios.<br><br>
+
+	2. Por Tópicos:<br><br>
+	- Este esquema se utilizará para agrupar contenido relacionado bajo categorías o temas específicos, facilitando la navegación del usuario hacia información relevante.
+	- Por ejemplo, en la sección de "Productos Ergonómicos", los artículos se categorizan por temas como "Salud Postural" y "Ejercicios Ergonómicos"<br><br>
+
   - 4.2.2. Labeling Systems.
+ 
+	- Etiquetas de Menú: Utiliza etiquetas descriptivas y breves para los elementos del menú principal, como "Inicio", "Servicios", "Blog", "Recursos", "Contacto", etc. Estas etiquetas deben reflejar claramente el contenido o la función de cada sección.
+
+	- Etiquetas de Categoría: Si la información se organiza en categorías o secciones específicas, utiliza etiquetas que indiquen claramente el tema o el tipo de contenido que se encuentra en cada sección. Por ejemplo, "Lesiones Comunes", "Ejercicios Recomendados", "Artículos de Compra", etc.
+
+	- Etiquetas de Acción: Cuando se presentan opciones de acción para los usuarios, como botones o enlaces, utiliza etiquetas que describan claramente la acción que realizarán al hacer clic en ellas. Por ejemplo, "Registrarse", "Iniciar Sesión", "Agendar Cita", "Descargar Recurso", etc.
+
+	- Etiquetas de Navegación: Enlaces internos dentro del contenido o elementos de navegación como botones de "Siguiente" o "Anterior" deben tener etiquetas claras que indiquen la acción que realizarán. Por ejemplo, "Siguiente Paso", "Volver al Inicio", etc.
+
+	- Etiquetas de Formulario: Para campos de entrada en formularios, utiliza etiquetas claras que indiquen qué información se espera que ingrese el usuario. Por ejemplo, "Nombre", "Correo Electrónico", "Contraseña", "Especialidad", etc.<br><br>
+
   - 4.2.3. SEO Tags and Meta Tags.
+ 
+	**Landing Page:**
+	
+	- Title: PhysioDesk - Plataforma de Fisioterapia en Línea | Mejora tu Salud Hoy.
+	- Meta Description: Con PhysioDesk, accede a fisioterapeutas calificados desde cualquier lugar. Programa citas, sigue tu progreso y mejora tu bienestar de forma remota.
+	- Keywords: fisioterapia en línea, rehabilitación virtual, fisioterapeuta en línea, terapia física remota, consulta con fisioterapeutas.
+	- Author: PhysioDesk Team
+	
+	**Web Application:**
+	
+	- Title: PhysioDesk - Tu Compañero en la Recuperación | Plataforma de Fisioterapia en Línea.
+	- Meta Description: PhysioDesk te ofrece una experiencia completa de fisioterapia en línea. Programa citas, accede a ejercicios personalizados y mejora tu salud desde casa.
+	- Keywords: plataforma de fisioterapia, aplicación de rehabilitación, seguimiento de ejercicios, terapia virtual, consulta con especialistas en fisioterapia.
+	- Author: PhysioDesk Team. <br><br>
+
   - 4.2.4. Searching Systems.
+ 
+	En PhysioDesk, se proporcionarán diversos medios de ayuda para que los usuarios encuentren fácilmente la información que están buscando dentro del producto digital. Estos medios están diseñados para evitar que los usuarios se sientan perdidos entre el volumen de información y garantizar una experiencia de búsqueda eficiente y satisfactoria. Las opciones de búsqueda y los filtros disponibles para los usuarios variarán según el contexto y la sección de la aplicación. Aquí se detallan algunas de las características principales:
+	
+	- Barra de búsqueda principal: En la página de inicio y en otras secciones clave de la aplicación, los usuarios encontrarán una barra de búsqueda prominente. Esta barra les permitirá realizar búsquedas rápidas y directas utilizando palabras clave y frases relevantes.
+	
+	- Filtros de búsqueda avanzada: Después de realizar una búsqueda, los usuarios tendrán la opción de aplicar filtros avanzados para refinar los resultados según sus necesidades específicas. Estos filtros podrán incluir categorías como tipo de contenido (artículos, ejercicios, productos).
+	
+	- Resultados de búsqueda destacados: Después de realizar una búsqueda, los resultados se presentarán de manera clara y organizada, con los elementos más relevantes y útiles destacados de manera prominente. Esto ayudará a los usuarios a identificar rápidamente la información que están buscando y a tomar decisiones informadas.<br><br>
+
   - 4.2.5. Navigation Systems.
+ 
+	En PhysioDesk, los usuarios podrán navegar fácilmente por el Landing Page y la aplicación web para encontrar la información y las funciones que necesitan. Esto se logrará a través de las siguientes acciones y técnicas:
+	
+	- Barra de búsqueda prominente: En el Landing Page y en la aplicación, los usuarios encontrarán una barra de búsqueda fácilmente accesible en la parte superior de la página. Esta barra permitirá a los usuarios buscar términos específicos relacionados con fisioterapia, ejercicios, consejos de salud y más.
+	
+	- Filtros de búsqueda avanzada: En la sección de búsqueda de la aplicación, los usuarios tendrán la opción de aplicar filtros avanzados para refinar sus resultados. Estos filtros podrán incluir categorías como tipo de servicio (fisioterapia en línea, ejercicios de rehabilitación, etc.), especialidad del fisioterapeuta, disponibilidad de citas y más.
+	
+	- Sugerencias de búsqueda instantánea: Cuando los usuarios comiencen a escribir en la barra de búsqueda, recibirán sugerencias instantáneas basadas en términos populares y relevantes. Esto ayudará a los usuarios a encontrar rápidamente contenido relacionado sin necesidad de escribir la consulta completa.
+	
+	- Navegación intuitiva: Tanto en el Landing Page como en la aplicación, se seguirán principios de diseño de navegación intuitiva. Los usuarios podrán desplazarse fácilmente por las diferentes secciones utilizando un menú claro y etiquetado, así como botones de navegación y enlaces prominentes.<br><br>
 - 4.3. Landing Page UI Design.
   - 4.3.1. Landing Page Wireframe.
   - 4.3.2. Landing Page Mock-up.
