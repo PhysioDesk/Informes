@@ -370,13 +370,28 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
   - 4.4.5. Web Applications Prototyping.
 - 4.5. Domain-Driven Software Architecture.
   - 4.5.1. Software Architecture Context Diagram.
+    <img src="static/img/Chapter 4/D_Contextual.png">
   - 4.5.2. Software Architecture Container Diagrams.
+    <img src="static/img/Chapter 4/D_Contenedores.png">
   - 4.5.3. Software Architecture Components Diagrams.
+    <img src="static/img/Chapter 4/D_Componentes.png">
 - 4.6. Software Object-Oriented Design.
   - 4.6.1. Class Diagrams.
-  - 4.6.2. Class Dictionary.
+    <img src="static/img/Chapter 4/D_Clases.png">
+  - 4.6.2. Class Dictionary. 
+    - **Usuario:** Clase que representa a todos los usuarios en sí, teniendo los atributos principales del nombre del usuario y su clave para iniciar sesión y el número de teléfono para permitir el contacto entre usuarios regulares con los fisioterapeutas y vendedores. Además, presenta un método para agregar rutinas, algo que tanto los usuarios regulares como los fisioterapeutas pueden utilizar. 
+  	- **Fisioterapeuta:** Subclase de usuario que representa a los expertos en fisioterapias y pueden comunicarse con los usuarios regulares para entrenamientos o asignarles rutinas. Presentan el atributo de especialidad para diferentes tipos de actividades. 
+  	- **Vendedor:** Subclase de usuario que representa a los vendedores y empresas de muebles ergonómicos y herramientas para terapias físicas. Presentan un método para agregar productos a la lista de productos en venta. \
+    - **Producto:** Clase que representa a los productos ergonómicos o de fisioterapias que se encuentran en venta por los vendedores y empresas. Presentan atributos de nombre del producto, una descripción y el precio de cada producto. \
+  	- **ListaProductos:** Clase que representa todos los productos en venta de un usuario vendedor, con cada uno teniendo una lista de productos. 
+    - **Rutina:** Clase que representa cada rutina y ejercicio registrado por los usuarios, tanto los usuarios regulares con rutinas propias como las rutinas registradas por los expertos para mejorar las condiciones físicas de los usuarios. Presenta atributos de nombre de la rutina, una descripción detallando cada rutina y una duración aproximada. 
+  	- **ListaRutina:** Clase que representa la colección de todas las rutinas registradas para un usuario. Cada usuario tiene su propia lista de rutinas. 
+    - **InterfazAplicación:** Clase general que representa las funcionalidades básicas dentro de la aplicación. Presenta métodos para el inicio de sesión requiriendo el nombre de usuario y su contraseña, mostrar la lista de productos en venta disponibles, mostrar las rutinas registradas por el usuario y la forma de contactarse con los fisioterapeutas a través de su nombre y teléfono. 
+   - **BasedeDatos:** Clase general que representa la base de datos interna de la aplicación, registrando todos los usuarios, sus rutinas y los productos en venta. 
+
 - 4.7. Database Design.
-  - 4.7.1. Database Diagram.
+  - 4.7.1. Database Diagram. \
+     <img src="static/img/Chapter 4/D_Database.png">
 
 ### 5. Capítulo V: Product Implementation, Validation & Deployment
 
