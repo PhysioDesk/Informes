@@ -412,7 +412,7 @@ Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se c
 
 | Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
 | ------------  | ------------  | ------------ | ------------ |------------|------------|
-|   |   |   | |  |  |
+|   |   |825a7c9|feat: Added first draft of Landing Page|Added first draft of Landing Page incluiding main menu.|11/04/24|
 
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
   Testeo del landing page
@@ -435,7 +435,7 @@ Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se c
 | Erick Joaquin Palomino Santa Cruz | ..... |
 | Anthony Jeandet Guerrero Castillo |..... |
 | Juan Pablo Ramos Mendoza | .... |
-| Giacomo Zoppi Rodriguez |...... |    
+| Giacomo Zoppi Rodriguez | Implementación de la sección header de la landing page |    
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
 - 5.3.2. Registro de Entrevistas.
