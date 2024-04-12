@@ -402,7 +402,7 @@ Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se c
 | US04  |Filtrar herramientas ergonómicas|UT03 |Permitir a los usuarios interactuar con la barra de navegación|------------ |2 |------------ |------------
 | US04  |Filtrar herramientas ergonómicas|UT04 |Permitir a los usuarios interactuar con filtros de busqueda| ------------|------------ |2 |------------ |
 | US06  |Visualizar los horarios de atención de cada fisioterapeuta|UT05|------------ |------------ |------------ |------------ |------------
-| US07 |Reservar cita con fisioterapeuta|UT06 |------------ |------------ | 1|------------ |------------ 
+| US22 | Registrar en la aplicación |UT06 |------------ |------------ | 1|------------ |------------ 
 | US08 |Acceder a un entorno fácil de usar para la cita|UT07|------------ |------------ |1 |------------|------------
 | US011|Calificar al fisioterapeuta |UT08 |------------ |------------ | 1|------------ |------------ 
 
