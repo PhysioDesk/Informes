@@ -399,14 +399,14 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 ![trellocaptura](https://github.com/PhysioDesk/Informes/assets/129527802/110bdb99-8f2a-43bd-bff5-20a23c0d9151)
 
 
-| Sprint #  | Sprint 1  |------------|------------|------------|------------|------------|
-| ------------ | ------------ |------------|------------|------------|------------|------------|
-| User Story |------------|------------|------------|------------|------------|------------|
+| Sprint #  | Sprint 1  |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
 |  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
 | US02  | Agregar herramienta ergonómica al carrito de compra |  UT01|Funcionalidad "Carrito de Compras" | Añadir la funcionalidad de Carrito de Compras |1 | Juan Ramos|Done
-| US03  | Ver detalle de la herramienta ergonómica |UT02 |Desplegar Texto|Añadir botón para ver mas información |------------ |------------ | ------------| To do
+| US03  | Ver detalle de la herramienta ergonómica |UT02 |Desplegar Texto|Añadir botón para ver mas información|1 | ------------| To do
 | US04  |Filtrar herramientas ergonómicas|UT03 |Barra de navegación|Permitir a los usuarios interactuar con la barra de navegación |2 |------------ |------------
-| US04  |Filtrar herramientas ergonómicas|UT04 |Filtros de Busqueda|Permitir a los usuarios interactuar con filtros de busqueda|------------ |2 |------------ |
+| US04  |Filtrar herramientas ergonómicas|UT04 |Filtros de Busqueda|Permitir a los usuarios interactuar con filtros de busqueda|2 |------------ ||------------
 | US22 | Registrar en la aplicación |UT05 |Ingreso de datos| Permitir a los usuarios ingresar datos  | 1|------------ |------------ 
 | US08 |Acceder a un entorno fácil de usar para la cita|UT06| Creación de un entorno agil y amigable |Creación de un entorno agil y amigable |1 |------------|------------
 | US011|Calificar al fisioterapeuta |UT07 |Sección Terapeutas|Añadir sección Terapeutas | 1|------------ |------------ 
