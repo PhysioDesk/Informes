@@ -43,8 +43,8 @@
 ### 0. Student Outcome
 Criterio específico | Acciones Realizadas | Conclusiones
 ------------------- | ------------------- | ------------
-Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Content Cell | Content Cell
-Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería | Content Cell | Content Cell
+Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1-Luna Morales, Gianfranco: Se compartió ideas con respecto a la problemática de la falta de ergonomización en los hogares, mediante ello se diseño la landing page mediante las necesidades encontradas.|  TB1-Luna Morales, Gianfranco: Se reforzó la práctica en el desarollo del langind, mock y wireframes, se solicitó apoyo del equipo para generar más ideas.
+Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería | TB1-Luna Morales, Gianfranco: Se tuvo reuniones en Discord y en sesiones Google Meet para distriubir los puntos del trabajo, se comunicó dificultad al realizar los wireframes ya que necesitaba otra perfectiva, la cual mis compañeros pudieron realizar. |  TB1-Luna Morales, Gianfranco: Se logró delimitar los objetivos y extensión de la Startup, se basó en el público laboral y académico.
 
 ### 1. Capítulo I: Introducción
 
