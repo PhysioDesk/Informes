@@ -164,6 +164,9 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
     - 1.2.2.3. Lean UX Hypothesis Statements.
     - 1.2.2.4. Lean UX Canvas.
+
+
+<img src="static/img/Chapter 1/Canva.jpg">
 - 1.3. Segmentos objetivo.
   
   #### Segmento objetivo 1: Trabajadores Individuales
