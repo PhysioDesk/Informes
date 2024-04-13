@@ -284,6 +284,9 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 - 2.4.3. Análisis de entrevistas.
   	## Entrevista 1: Maria Lucia Paez Cairo
   	- En la entrevista, Maria Lucia Paez discute los problemas de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. No ha utilizado herramientas específicas, pero realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad. Muestra interés en tecnologías como Seiko Desk y valora la atención personalizada en las plataformas de salud. Ve la integración de PhysioDesk en su rutina diaria como la adquisición de un hábito para mejorar su postura.
+ 
+	## Entrevista 2: Kevin Quintana Cauti
+	- El fisioterapeuta identificó desafíos comunes en la falta de conciencia sobre la postura y la dificultad para cambiar hábitos. Utiliza evaluaciones físicas y herramientas de medición para abordar estos problemas. Valora la accesibilidad y personalización en plataformas digitales como PhysioDesk, que simplificarían la gestión de datos y mejorarían la participación del paciente. Cree en el poder de la tecnología para mejorar la fisioterapia y enfatiza la importancia de mantenerse actualizado. Utiliza demostraciones prácticas y recursos digitales para educar a los pacientes. Evalúa el éxito del tratamiento por la mejora de síntomas y la reducción de lesiones relacionadas con la ergonomía. Planea superar desafíos en la adopción de nuevas plataformas mediante planificación y colaboración con proveedores confiables.
 - 2.5. Needfinding.
 
 	# User Personas.
