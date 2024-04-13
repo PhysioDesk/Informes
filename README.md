@@ -398,9 +398,31 @@ Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológi
 	- Sugerencias de búsqueda instantánea: Cuando los usuarios comiencen a escribir en la barra de búsqueda, recibirán sugerencias instantáneas basadas en términos populares y relevantes. Esto ayudará a los usuarios a encontrar rápidamente contenido relacionado sin necesidad de escribir la consulta completa.
 	
 	- Navegación intuitiva: Tanto en el Landing Page como en la aplicación, se seguirán principios de diseño de navegación intuitiva. Los usuarios podrán desplazarse fácilmente por las diferentes secciones utilizando un menú claro y etiquetado, así como botones de navegación y enlaces prominentes.<br><br>
+ 
 - 4.3. Landing Page UI Design.
   - 4.3.1. Landing Page Wireframe.
+    En esta sección, presentaremos los fundamentos para diseñar el sitio web de nuestro software. Estos fundamentos nos ayudarán a brindar una comprensión más clara del contenido que la plataforma y la versión móvil mostrarán. El Landing Page se ajustará al tamaño de las pantallas de cada dispositivo, asegurando que la información esté centrada y sea fácilmente visible para el usuario. Nuestro objetivo es proporcionar información precisa sin abrumar al usuario, y para lograrlo, hemos incorporado una barra de navegación estática que facilitará la exploración de la Landing Page.
+    
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/wireframes-landing-page/Desktop-wireframe1.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/wireframes-landing-page/Desktop-wireframe2.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/wireframes-landing-page/Desktop-wireframe3.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/wireframes-landing-page/Desktop-wireframe4.jpg">
+
+ <p align="left"><strong>URL: </strong> <a href="[https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page](https://www.figma.com/file/Iy6r9KFG9P1Fb3BwaokDib/PhysioDesk---Landing-Page?type=design&node-id=0-1&mode=design&t=VoPpYosKHsr2xNye-0)" target="_blank">PhysioDesk Figma</a></p>   
+ 
   - 4.3.2. Landing Page Mock-up.
+
+Se muestra una vista previa de lo que constituirá nuestro sitio web, describiendo en detalle su contenido, aplicando los colores correspondientes según nuestra guía de estilos y complementando la información con imágenes coherentes. Esto se hace con el objetivo de brindar al usuario una comprensión más nítida de las ideas que estamos tratando de comunicar.
+
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/mock-ups-landing-page/mock-up1.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/mock-ups-landing-page/mock-up2.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/mock-ups-landing-page/mock-up3.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/mock-ups-landing-page/mock-up4.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/mock-ups-landing-page/mock-up5.jpg">
+<img src="static/img/Chapter 4/style-guidelines/ui-desing/mock-ups-landing-page/mock-up6.jpg">
+
+<p align="left"><strong>URL: </strong> <a href="[https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page](https://www.figma.com/file/Iy6r9KFG9P1Fb3BwaokDib/PhysioDesk---Landing-Page?type=design&node-id=0-1&mode=design&t=VoPpYosKHsr2xNye-0)" target="_blank">PhysioDesk Figma</a></p>   
+
 - 4.4. Web Applications UX/UI Design.
   - 4.4.1. Web Applications Wireframes.
   - 4.4.2. Web Applications Wireflow Diagrams.
