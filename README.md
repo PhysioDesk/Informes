@@ -84,6 +84,21 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
         - Diseñar una plataforma interactiva donde el usuario pueda, mediante una imagen 3D del cuerpo humano, señalar la ubicación de su lesión.
 
       **Features:**
+	- Asistente Virtual Ergonómico: Un asistente virtual que proporciona recomendaciones personalizadas sobre ergonomía y ejercicios para mejorar la postura y prevenir lesiones fisiológicas causadas por el uso prolongado del computador.
+
+	- Análisis de Estilo de Vida: Funcionalidad que analiza el estilo de vida del usuario, incluyendo sus hábitos de trabajo y descanso, para ofrecer recomendaciones específicas y adaptadas a sus necesidades individuales.
+
+	- Recomendaciones de Postura y Herramientas Ergonómicas: Recomendaciones sobre la postura adecuada al sentarse frente al computador, así como sugerencias para la adquisición de herramientas ergonómicas según el presupuesto del usuario.
+
+	- Entorno Ergonómico Personalizado: Herramientas para personalizar el entorno de trabajo del usuario, incluyendo ajustes de silla, monitor, teclado y ratón, para asegurar una postura óptima durante las horas de trabajo.
+
+	- Recordatorios y Notificaciones: Funcionalidad de recordatorios y notificaciones para recordar al usuario tomar descansos regulares, realizar ejercicios de estiramiento y ajustar su postura durante las largas sesiones frente al computador.
+
+	- Seguimiento y Registro de Progreso: Capacidad para realizar un seguimiento y registrar el progreso del usuario en la mejora de su postura y la prevención de lesiones fisiológicas, proporcionando retroalimentación y motivación adicional.
+
+	- Biblioteca de Ejercicios Ergonómicos: Acceso a una biblioteca de ejercicios ergonómicos recomendados por profesionales de la salud, con instrucciones paso a paso y videos demostrativos para una correcta ejecución.
+
+	- Chat en Vivo con Expertos: Posibilidad de comunicarse con expertos en ergonomía a través de un chat en vivo integrado en la plataforma, para recibir asesoramiento personalizado y respuestas a preguntas específicas sobre salud y postura.
      
     
       **User Outcomes:**
@@ -97,10 +112,26 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
         - Facilitar el envío de los productos y la comunicación de los clientes, lo que les permite ofrecer un servicio selección de alta calidad.
 
     - 1.2.2.3. Lean UX Hypothesis Statements.
+      
+	- Creemos que al ofrecer recomendaciones personalizadas de ergonomía y ejercicios a través de un asistente virtual, los usuarios mejorarán su postura y reducirán el riesgo de lesiones fisiológicas.
+	Sabremos esto cuando observemos una disminución en las quejas de dolor relacionadas con el trabajo y una mayor adherencia a las recomendaciones ergonómicas.
+
+	- Creemos que al proporcionar herramientas para ajustar el entorno de trabajo del usuario, como la silla y el monitor, podremos mejorar la postura y la comodidad durante las horas de trabajo.
+	Sabremos esto cuando notemos una mejora en la ergonomía del espacio de trabajo y una disminución en las molestias físicas reportadas por los usuarios.
+
+	- Creemos que al enviar recordatorios y notificaciones para tomar descansos regulares y realizar ejercicios de estiramiento, los usuarios desarrollarán hábitos más saludables frente al computador.
+	Sabremos esto cuando veamos un aumento en la frecuencia de los descansos tomados por los usuarios y una reducción en la fatiga y el malestar asociados con el trabajo prolongado.
+
+	- Creemos que al ofrecer acceso a una biblioteca de ejercicios ergonómicos, los usuarios mejorarán su conocimiento sobre cómo cuidar su salud postural.
+	Sabremos esto cuando observemos un aumento en la participación de los usuarios con la biblioteca de ejercicios y una mayor autoeficacia percibida en el manejo de su bienestar físico.
+
+	- Creemos que al facilitar el acceso a expertos en ergonomía a través de un chat en vivo integrado, los usuarios recibirán orientación personalizada y respuestas a sus preguntas específicas sobre salud y postura.
+	Sabremos esto cuando notemos una mayor interacción de los usuarios con el chat en vivo y una mejora en su comprensión de los principios ergonómicos aplicados a su situación individual.
+
     - 1.2.2.4. Lean UX Canvas.
 - 1.3. Segmentos objetivo.
   
-  #### Segmento objetivo 1: Trabajadores Individuales
+  #### Segmento objetivo 1: Usuarios 
   **Aspectos demográficos:**
 	- **Sexo:** Ambos sexos.
 	- **Edades:** Adultos jóvenes y adultos de mediana edad (18-45 años).
@@ -115,7 +146,7 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 	- Personas preocupadas por su salud y bienestar.
 	- Individuos interesados en la prevención de lesiones relacionadas con el trabajo.
 
-  #### Segmento objetivo 2: Empresas y Corporaciones
+  #### Segmento objetivo 2: Profesionales de Ergonomia
   **Aspectos demográficos:**
 	- **Sexo:** Ambos sexos.
 	- **Edades:** Adultos jóvenes y adultos de mediana edad (25-45 años).
