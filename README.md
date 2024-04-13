@@ -262,7 +262,19 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
   
   - 2.4.2. Registro de entrevistas.
-  - 2.4.3. Análisis de entrevistas.
+
+	- Usuarios:
+      	- Entrevista #1:
+  	![Imagen de WhatsApp 2024-04-13 a las 02 05 38_3c2aa5f7](https://github.com/PhysioDesk/Informes/assets/127764958/9cd6d5ed-cbbf-4f2c-922f-941c9d9ab121)
+	Entrevistado: Maria Lucia Paez<br>
+ 	Entrevistador: Erick Joaquin Palomino Santa Cruz<br>
+  	Duracion: 05:19<br>
+   	Link: https://youtu.be/7mP6-3dtAM8?si=7I2ffvJz830Z_dSs <br>
+    	Resumen: La entrevista enfatiza la importancia de una plataforma de salud con una interfaz atractiva y fácil de usar, así como la atención personalizada. Se menciona la integración de PhysioDesk en la rutina diaria para mejorar la postura.
+
+- 2.4.3. Análisis de entrevistas.
+  	## Entrevista 1: Maria Lucia Paez Cairo
+  	- En la entrevista, Maria Lucia Paez discute los problemas de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. No ha utilizado herramientas específicas, pero realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad. Muestra interés en tecnologías como Seiko Desk y valora la atención personalizada en las plataformas de salud. Ve la integración de PhysioDesk en su rutina diaria como la adquisición de un hábito para mejorar su postura.
 - 2.5. Needfinding.
 
 	# User Personas.
