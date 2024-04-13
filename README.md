@@ -369,7 +369,17 @@ p.intro {font-family: Arial; font-size: 12px;}.
 
 
   - 5.1.4. Software Deployment Configuration.
-como se despliega el landing page, a partir de los repositorios de codigo fuente. 
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+Crear una carpeta llamada "docs" para alojar el Landing Page.
+Asegurarse de que los archivos sigan las nomenclaturas "index.html", "style.css", "funcionalities.js" y una carpeta llamada "img" que contenga las imágenes.
+Cargar los archivos al repositorio mediante un commit.
+Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main".
+Especificar la carpeta "docs" como la fuente de la página.
+Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/4bda1c94-7479-4072-a733-94a495e8fc0e)
+
 
 - 5.2. Landing Page, Services & Applications Implementation.
   - 5.2.1. Sprint n
@@ -408,7 +418,7 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 | US04  |Filtrar herramientas ergonómicas|UT03 |Barra de navegación|Permitir a los usuarios interactuar con la barra de navegación |2 |------------ |------------
 | US04  |Filtrar herramientas ergonómicas|UT04 |Filtros de Busqueda|Permitir a los usuarios interactuar con filtros de busqueda|2 |------------ ||------------
 | US22 | Registrar en la aplicación |UT05 |Ingreso de datos| Permitir a los usuarios ingresar datos  | 1|------------ |------------ 
-| US08 |Acceder a un entorno fácil de usar para la cita|UT06| Creación de un entorno agil y amigable |Creación de un entorno agil y amigable |1 |------------|------------
+| US08 |Acceder a un entorno fácil de usar para la cita|UT06| Creación de un entorno agil y amigable |Creación de un entorno agil y amigable |1 |Giacomo Zoppi|Done
 | US011|Calificar al fisioterapeuta |UT07 |Sección Terapeutas|Añadir sección Terapeutas | 1|------------ |------------ 
 | US011|Calificar al fisioterapeuta |UT08 |Calificación|Añadir calificación a Terapeutas | 1|------------ |------------ 
 
@@ -417,7 +427,13 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 | Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
 | ------------  | ------------  | ------------ | ------------ |------------|------------|
-|   |   |825a7c9|feat: Added first draft of Landing Page|Added first draft of Landing Page incluiding main menu.|11/04/24|
+|   |main|825a7c9|feat: Added first draft of Landing Page|Added first draft of Landing Page incluiding main menu.|11/04/24|
+|   |main|94af9ee|feat: Added images|Added images|12/04/24|
+|   |main|35f4891|Update index.html|Update index..html|12/04/24|
+|   |main|2ada6fb|Update style.css|Updated style.css|12/04/24|
+|   |main|98df8fa|Create funcionalities.js|Created funcionalities.js|13/04/24|
+
+
 
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
   Testeo del landing page
