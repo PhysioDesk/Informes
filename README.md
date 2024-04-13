@@ -272,6 +272,15 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
    	Link: https://youtu.be/7mP6-3dtAM8?si=7I2ffvJz830Z_dSs <br>
     	Resumen: La entrevista enfatiza la importancia de una plataforma de salud con una interfaz atractiva y fácil de usar, así como la atención personalizada. Se menciona la integración de PhysioDesk en la rutina diaria para mejorar la postura.
 
+	- Profesional:
+		- Entrevista #2:
+		![image](https://github.com/PhysioDesk/Informes/assets/89022078/71b761e7-b69e-48a3-9c8d-659a11d83578)
+		Entrevistado: Kevin Quintana Cauti<br>
+		Entrevistador: Anthony Jeandet Guerrero Castillo<br>
+		Duracion: 07:37<br>
+		Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/ERP_ICuU7vFOo6UU5kwRIT4BgZ2Y3powGDwu2qtq7wSHpg?e=HSbS7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
+		Resumen: La entrevista resalta los métodos que utilizan a día de hoy los fisioterapeutas para tratar con sus clientes. Se puede destacar que la tecnología llega para mejorar los aspectos críticos del mercado, facilitando la comunicación entre profesional y cliente, mediante una aplicación web, donde el fisioterapeuta podrá brindar sus servicios. Todo ello mejorará la organización de tiempos y ayudará a llegar a más clientes.
+
 - 2.4.3. Análisis de entrevistas.
   	## Entrevista 1: Maria Lucia Paez Cairo
   	- En la entrevista, Maria Lucia Paez discute los problemas de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. No ha utilizado herramientas específicas, pero realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad. Muestra interés en tecnologías como Seiko Desk y valora la atención personalizada en las plataformas de salud. Ve la integración de PhysioDesk en su rutina diaria como la adquisición de un hábito para mejorar su postura.
