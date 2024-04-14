@@ -768,58 +768,308 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
 
 - 5.1. Software Configuration Management.
   - 5.1.1. Software Development Environment Configuration.
-  	[UxPressia](http://uxpressia.com/w/pFiiX ) :Para la elaboración de los User persona, User Task Matrix e Impact Map. 
-	Miro/LucidChart: Elboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML. 
-	[Vertabelo](https://my.vertabelo.com/drive ): Elaboración de los 
+  	[UxPressia](http://uxpressia.com/w/pFiiX ) :Para la elaboración de los User persona, User Task Matrix e Impact Map.
+
+	[LucidChart](https://lucid.app/documents#/documents?folder_id=recent): Elaboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML.
+ 
+	[Vertabelo](https://my.vertabelo.com/drive ): Elaboración del daigrama de base de datos
+
 	[Figma](https://www.figma.com ): Elaboración de Wireframes, Mock-ups y Prototypes
+
 	HTML, CSS3 y Javascript para la elaboración del Landing Page
-	[Visual Studio Code:](https://code.visualstudio.com/download) Para la elaboración del Landing Page 
+
+	[Visual Studio Code:](https://code.visualstudio.com/download) Para la elaboración del Landing Page
+
 	[Github](https://github.com): Se utilizará para el control y almacenamiento de nuestro codigo, junto a GitFlow
-	[M editor.md](https://pandao.github.io/editor.md/en.html#H2%20header): Para la edición de archivos tipo .md o Markdown. 
-	[Trello](https://trello.com/es ): Para la división y organización de Tasks. 
-	[Microsoft 365](https://www.microsoft.com/es-es/microsoft-365/try?culture=es-es&country=es): Para la elaboración del Keynote y la presentación de nuestro proyecto en Power Point. 
-	[Zoom(64 bits)](https://zoom.us/client/latest/ZoomRooms.exe?archType=x64 ) : Para la elaboración de las entrevistas de nuestro proyecto. 
+
+	[M editor.md](https://pandao.github.io/editor.md/en.html#H2%20header): Para la edición de archivos tipo .md o Markdown.
+
+	[Trello](https://trello.com/es ): Para la división y organización de Tasks.
+
+	[Microsoft 365](https://www.microsoft.com/es-es/microsoft-365/try?culture=es-es&country=es): Para la elaboración del Keynote y la presentación de nuestro proyecto en Power Point.
+
+	[Zoom(64 bits)](https://zoom.us/client/latest/ZoomRooms.exe?archType=x64 ) : Para la elaboración de las entrevistas de nuestro proyecto.
+
 	[Google Meets:](https://meet.google.com "Google Meets:") Para la organización y las reuniones virtuales de grupo.
 
 
   - 5.1.2. Source Code Management.
-  
-Según la obra de Vinven Dreissen, el modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama principal y seguimos con una branch: AAAAA. Hacer una x cada feature
 
-Respecto, a las Release branches y Hotfix branches, incluimos las siguientes convenciones: 
+Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos se unen a la develop Branch. 
 
-Usamos nombres como AAAA, aplicando Semanting Versioning para nombrar nuestras Releases y Conventional Commits para los textos de mensajes en nuestros commits. 
+Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo las enumeraciones que plantea (1.0.0, 1.0.1, 1.1.0), así como los Conventional Commits, para nombrar los commits que hacemos en el proyecto, usando terminos como: "feat", "docs", etc. 
 
-
+URL del repositorio de Github del Landing Page: https://github.com/PhysioDesk/Frontend.git 
 
 
-Link del Landing Page: 
   - 5.1.3. Source Code Style Guide & Conventions.
-Aquí el equipo explica e indica las referencias que adoptará para nombrar elementos
-y programar en los lenguajes que se utilizan en la solución (en este caso HTML, CSS,
-JavaScript, TypeScript, Java, así como Gherkin para los archivos .feature). Para todos
-los lenguajes debe aplicar la nomenclatura en inglés. Adicionalmente, adopte
-convenciones estándares para coding (Vea “HTML Style Guide and Coding
-Conventions”, “Google HTML/CSS Style Guide”, “Gherkin Conventions for Readable
-Specifications”, “Angular coding style guide”, “Google Java Style Guide”, “Google
-TypeScript Style Guide” y “Spring Boot Features” en la sección de Referencias).
+    
+Configuración del Código HTML:
+
+ -  Para definir el tipo de documento, se utiliza la etiqueta <!DOCTYPE html>.
+ - La cabecera del código se establece entre las etiquetas <head> y </head>
+ - Mientras, que el cuerpo del documento HTML se define utilizando las  etiquetas <body> y </body>
+ - Es preferible poner los atributos en minúsculas. Los valores de los atributos se deben colocar entre comillas, evitando espacios innecesarios, como en <link rel="stylesheet" href="css/estilos.css">.
+
+Precauciones Importantes:
+
+ - Es mejor no omitir la etiqueta <body>, ya que su omisión puede causar errores en navegadores antiguos.
+ - Se incluye la etiqueta <html> para evitar problemas de funcionamiento de XML.
+
+Convenciones de CSS:
+
+ - Para líneas cortas de CSS, se siguen las pautas de escritura en una sola línea, por ejemplo: 
+p.intro {font-family: Arial; font-size: 12px;}.
+ - Para reglas de estilo más largas, se formatean con una regla por línea para mejorar la legibilidad, como:
+
+  body {
+    background-color: blue;
+    font-family: "Arial Black", Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+
+
   - 5.1.4. Software Deployment Configuration.
-como se despliega el landing page, a partir de los repositorios de codigo fuente. 
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+Crear una carpeta llamada "docs" para alojar el Landing Page.
+Asegurarse de que los archivos sigan las nomenclaturas "index.html", "style.css", "funcionalities.js" y una carpeta llamada "img" que contenga las imágenes.
+Cargar los archivos al repositorio mediante un commit.
+Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main".
+Especificar la carpeta "docs" como la fuente de la página.
+Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/4bda1c94-7479-4072-a733-94a495e8fc0e)
+
 
 - 5.2. Landing Page, Services & Applications Implementation.
-  - 5.2.1. Sprint n
+  - 5.2.1. Sprint 1
     - 5.2.1.1. Sprint Planning.
-    - 5.2.1.2. Sprint Backlog.
+    Un Sprint se trata de un plazo fijo y corto de tiempo en el que el equipo se centra en desarrollar el objetio final del proyecto, también llamado "Product Goal" .
+Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se centra en cumplir el objetivo de desarrollar nuestra Landing Page.
+
+| Sprint #  | Sprint 1  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-04-05  |
+| Time  |  11:04 PM |
+| Location  | Google Meeting |
+| Prepared  by  | Erick Palomino |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Elaborar una Landing page que resulte atrayente, útil y apropiada para nuestro proyecto |
+| Spring n Velocity | 19  puntos |
+| Sum of Story Points |   19 puntos|
 
 
----
+- 5.2.1.2. Sprint Backlog
+Para nuestro primer Sprint Bakclog, el equipo se centró principalmente en la elaboración de nuestra landing page. Siendo este el foco principal, nos dedicamos
+a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementarlas, basandonos en nuestras user sotires. Es así, que las dividimos en
+tareas mas maneajables y organizables y las asignamos a cada uno de los miembros. Hicimos uso de Trello para la elaboración de esta actividad.
+
+Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e4594376a9a0f55062C60E/sprint 
+
+
+| Sprint #  | Sprint 1  |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
+|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+| VISIT-001:  |  Acceso a la sección de Inicio |  UT01|Sección Inicio | Añadir la sección de Inicio |2 | Giacomo Zoppi|Done
+| VISIT-001:  |  Navegación por la página de Inicio |UT02 |Navegación |Creación de una pagina web dinamica y navegable|1 | Giacomo Zoppi| Done
+| VISIT-002:  | Acceso a la sección de Servicios|UT03 |Seccion Servicios|Permitir a los usuarios acceder a la sección Servicios |2 |Giacomo Zoppi, Erick Palomino |Done
+| VISIT-002:  | Reserva de cita con fisioterapeuta|UT04 |Citas con Fisioterapeutas|Permitir a los usuarios interactuar con los fisioterapeutas|2 | Gianfranco Luna | In Progress
+| VISIT-003 | Acceso a la sección de Testimonios |UT05 |Seccion Testimonios| Permitir a los usuarios visualizar testimonios de otros usuarios  | 1|Erick Palomino | Done 
+| VISIT-004 |Acceso a la sección de Contacto|UT06| Seccion Contacto |Creación de una sección de Contacto |1 |Erick Palomino |Done
+| VISIT-004|Envío de mensaje al equipo de soporte |UT07 |Mensaje al equipo de soporte|Permitira al usuario comunicarse con soporte | 2|Erick Palomino  |Done
+| VISIT-005|Acceso a la sección de Colaboradores |UT08 |Seccion Colaboradores|Añadir una sección de colaboradores| 2| Juan Ramos | In Progress
+| VISIT-005|Información sobre cómo unirse a la plataforma |UT09 |Unirse |Añadir una sección para unirse a la plataforma| 1| Juan Ramos | In Progress
+| VISIT-006|Acceso a la sección de Beneficios para Profesionales |UT10 | Beneficios sobre profesionales |Añadir una sección de beneficios para profesionales| 2| Gianfranco Luna, Anthony Guerrero | In Progress
+| VISIT-006|Información sobre los beneficios de asociarse con la aplicación |UT1 |Beneficios sobre profesionales (informacion)|Brindar información sobre beneficios para profesionales| 1| Anthony Guerrero | In Progress
+
 - 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
+| ------------  | ------------  | ------------ | ------------ |------------|------------|
+|   |main|825a7c9|feat: Added first draft of Landing Page|Added first draft of Landing Page incluiding main menu.|11/04/24|
+|   |main|94af9ee|feat: Added images|Added images|12/04/24|
+|   |main|35f4891|Update index.html|Update index..html|12/04/24|
+|   |main|2ada6fb|Update style.css|Updated style.css|12/04/24|
+|   |main|98df8fa|Create funcionalities.js|Created funcionalities.js|13/04/24|
+|   |main|7e24545|Create js.js|Create js.js.|13/04/24|
+|   |main|da39ea0|feat: typos|feat:typos|13/04/24|
+
+
+
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+ |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|erickpalomino1923|Acceptance-Test/Main|d92ec96|Add Feature|Add Feature 1,2 |14/04/2024| 
+|Gianfranco4991|Acceptance-Test/Main|9d47fd4|Create Feature_5.feature|Create Feature_5.feature |14/04/2024|
+|Gianfranco4991|Acceptance-Test/Main|658cf91|Create Feature_6.feature|Create Feature_6.feature |14/04/2024|
+|Giacomo202210029|Acceptance-Test/Main|dddb713|docs: Created feature 7: visit-004|docs: Created feature 7: visit-004 |14/04/2024| 
+|Giacomo202210029|Acceptance-Test/Main|854f739|docs: Added feature 8 visit 005|docs: Added feature 8 visit 005 |14/04/2024|
+|AnthonyGuerrero56|Acceptance-Test/Main|3e327e1|Create Feature_9.feature|Create Feature_9.feature |14/04/2024|
+|AnthonyGuerrero56|Acceptance-Test/Main|46c8cb9|Create Feature_10.feature|Create Feature_10.feature|14/04/2024|
+
+
+ ```gherkin
+  Feature: VISIT-001: Acceso a la sección de Inicio
+  Como visitante
+  Quiero ser redirigido automáticamente a la sección de Inicio al ingresar al sitio web
+  Para obtener una visión general rápida de la aplicación
+
+  Scenario: Acceso a la sección de Inicio
+    Given que un visitante accede a la página de inicio
+    When ingresa al sitio web
+    Then debe ser redirigido automáticamente a la sección de Inicio
+
+Feature: VISIT-001: Navegación por la página de Inicio
+  Como visitante
+  Quiero poder desplazarme hacia abajo en la página de Inicio y acceder fácilmente a otras secciones importantes de la aplicación
+  Para obtener más información sobre los servicios ofrecidos y la sección de contacto
+
+  Scenario: Navegación por la página de Inicio
+    Given que un visitante está en la sección de Inicio
+    When desplaza hacia abajo la página
+    Then debe poder ver enlaces o botones que le permitan acceder a otras secciones importantes de la aplicación, como los servicios ofrecidos y la sección de contacto
+
+Feature: VISIT-002: Acceso a la sección de Servicios
+  Como visitante
+  Quiero encontrar un enlace claro que me dirija a la sección de Servicios
+  Para obtener información detallada sobre los servicios ofrecidos por la aplicación
+
+  Scenario: Acceso a la sección de Servicios
+    Given que un visitante interesado en los servicios accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Servicios
+
+Feature: VISIT-002: Reserva de cita con fisioterapeuta
+  Como visitante
+  Quiero poder reservar una cita con un fisioterapeuta desde la sección de Servicios
+  Para obtener atención personalizada
+
+  Scenario: Reserva de cita con fisioterapeuta
+    Given que un visitante está en la sección de Servicios
+    When desea programar una cita con un fisioterapeuta
+    Then debe poder encontrar un enlace o botón que lo redirija a la página de reserva de citas
+
+Feature: VISIT-003: Acceso a la sección de Testimonios
+  Como visitante
+  Quiero encontrar un enlace claro que me dirija a la sección de Testimonios
+  Para leer experiencias de usuarios anteriores
+
+  Scenario: Lectura de testimonios de usuarios anteriores
+    Given que un visitante interesado en la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Testimonios
+
+Feature: VISIT-004: Acceso a la sección de Contacto
+  Como visitante
+  Quiero encontrar un enlace claro que me dirija a la sección de Contacto
+  Para obtener información de contacto y poder comunicarme con el equipo de soporte si es necesario
+
+  Scenario: Acceso a la sección de Contacto
+    Given que un visitante interesado en obtener más información sobre la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Contacto
+
+Feature: VISIT-004: Envío de mensaje al equipo de soporte
+  Como visitante
+  Quiero poder completar un formulario de contacto en la sección de Contacto con mi nombre, dirección de correo electrónico y mensaje
+  Para enviar consultas al equipo de soporte
+
+  Scenario: Envío de mensaje al equipo de soporte
+    Given que un visitante está en la sección de Contacto
+    When decide enviar un mensaje al equipo de soporte
+    Then debe poder completar un formulario de contacto con su nombre, dirección de correo electrónico y mensaje
+
+Feature: VISIT-005: Acceso a la sección de Colaboradores
+  Como fisioterapeuta interesado en colaborar con la aplicación
+  Quiero encontrar un enlace claro que me dirija a la sección de Colaboradores
+  Para obtener información sobre cómo puedo unirme a la plataforma
+
+  Scenario: Acceso a la sección de Colaboradores
+    Given que un fisioterapeuta interesado en colaborar con la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Colaboradores
+
+Feature: VISIT-005: Información sobre cómo unirse a la plataforma
+  Como fisioterapeuta interesado en colaborar con la aplicación
+  Quiero encontrar información sobre cómo unirme a la plataforma
+  Para poder colaborar con la aplicación y ofrecer mis servicios a los usuarios
+
+  Scenario: Información sobre cómo unirse a la plataforma
+    Given que un fisioterapeuta está en la sección de Colaboradores
+    When encuentra información sobre cómo unirse a la plataforma
+    Then debe poder seguir un enlace o completar un formulario de registro
+
+Feature: VISIT-006: Acceso a la sección de Beneficios para Profesionales
+  Como fisioterapeuta interesado en asociarse con la aplicación
+  Quiero encontrar un enlace claro que me dirija a la sección de Beneficios para Profesionales
+  Para conocer los beneficios de colaborar con la aplicación
+
+  Scenario: Acceso a la sección de Beneficios para Profesionales
+    Given que un fisioterapeuta interesado en asociarse con la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Beneficios para Profesionales
+
+Feature: VISIT-006: Información sobre los beneficios de asociarse con la aplicación
+  Como fisioterapeuta interesado en asociarse con la aplicación
+  Quiero encontrar información sobre los beneficios de colaborar con la aplicación
+  Para tomar una decisión informada sobre mi colaboración
+
+  Scenario: Información sobre los beneficios de asociarse con la aplicación
+    Given que un fisioterapeuta está en la sección de Beneficios para Profesionales
+    When lee sobre los beneficios de colaborar con la aplicación
+    Then debe poder encontrar testimonios de otros fisioterapeutas que han tenido éxito al asociarse con la plataforma
+
+
+```
+
 - 5.2.1.5. Execution Evidence for Sprint Review.
+  	1. Sección Inicial: Aquí presentamos nuestro proyecto y los productos ergonomicos.
+     ![image](https://github.com/PhysioDesk/Informes/assets/129527802/3cfe16e5-0611-46d1-91cc-6e836d431c26)
+     	2. Sección Sesiones virtuales: Presentación de lo que seria la funcionalidad de contratar terapeutas
+  	      ![image](https://github.com/PhysioDesk/Informes/assets/129527802/b7c220d6-2604-44f4-8ece-c2eed7ed38fa)
+  	3. Sección productos ergonomicos: Sección centrada en la visualización de productos ergonomicos
+  	  ![image](https://github.com/PhysioDesk/Informes/assets/129527802/ae9a0e81-16d7-4197-988c-f96c2aafc34b)
+	4. Sección About Us: Sección que explica nuestra historia y nuestro propósito.
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/04b00e97-2edb-4a38-9e46-782f2a6b1e05)
+	5. Sección Our Services: Sección que explica los servicios que otorgamos
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/8fe865e3-94d5-4d16-8591-7e0c54049d6d)
+	6. Sección Contact Us: Sección que permite a los usuarios contactar con nosotros
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/92b2626c-5c79-4b7f-b7b0-d563b1d03bd5)
+	7. Seccion Our Testimonals: Sección que permite visualizar testimonios de usuarios.
+ 	![image](https://github.com/PhysioDesk/Informes/assets/129527802/90dc9712-322c-4e07-84b7-9e698f32ebb5) 	 
+     
 - 5.2.1.6. Services Documentation Evidence for Sprint Review.
+   Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
 - 5.2.1.7. Software Deployment Evidence for Sprint Review.
-- 5.2.1.8. Team Collaboration Insights during Sprint.    
-    
+En esta entrega del sprint 1, logramos implementar una Landing Page funcional. 
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/3cfe16e5-0611-46d1-91cc-6e836d431c26)
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/b7c220d6-2604-44f4-8ece-c2eed7ed38fa)
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/ae9a0e81-16d7-4197-988c-f96c2aafc34b)
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/04b00e97-2edb-4a38-9e46-782f2a6b1e05)
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/8fe865e3-94d5-4d16-8591-7e0c54049d6d)
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/92b2626c-5c79-4b7f-b7b0-d563b1d03bd5)
+ 	![image](https://github.com/PhysioDesk/Informes/assets/129527802/90dc9712-322c-4e07-84b7-9e698f32ebb5)
+  	Link del Landing Page: https://github.com/PhysioDesk/Frontend.git  
+- 5.2.1.8. Team Collaboration Insights during Sprint.
+  
+| Integrante                         | Actividad                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Gianfranco Luna Morales| Diseño y estructura de la landing page |
+| Erick Joaquin Palomino Santa Cruz | Implementación de funcionalidades |
+| Anthony Jeandet Guerrero Castillo | Diseño y estructura de la landing page |
+| Juan Pablo Ramos Mendoza | Creación de Typos |
+| Giacomo Zoppi Rodriguez | Implementación de la sección header de la landing page |    
+
+![image](https://github.com/PhysioDesk/Informes/assets/127764958/7821f714-d344-432d-8797-bf996093d619)
+
+
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
 - 5.3.2. Registro de Entrevistas.
@@ -829,7 +1079,19 @@ como se despliega el landing page, a partir de los repositorios de codigo fuente
 ## Conclusiones
 
 - Conclusiones y recomendaciones.
+  En conclusión, podemos decir que PhysioDesk es un proyecto que podria funcionar y podria tener una gran acogida por su publico objetivo, asi como por la comunidad medica y terapeutica a nivel nacional . A lo largo del proyecto, tambien hemos determinado algunos puntos que mejorar, tanto en nuestra idea de proyecto, como en nuestra organización de grupo. Concluimos esta primera entrega, hasta el punto 5.2.1.8 y la elaboración unicamente del primer sprint, centrado en la elaboración de la Landing Page. Creemos que con todo lo aprendido en este entregable, podremos otorgar un producto y una marca mas pulida y mejor elaborada. 
 - Video About-the-Team.
 
 ## Bibliografía 
+ErgoPlus. (2023). Soluciones Ergonómicas para Oficinas. Recuperado de https://ergoplus.com/
+
+MyFitnessPal. (2023). Ejercicios para Mejorar la Postura en la Oficina. Recuperado de https://www.myfitnesspal.com/es/
+
+Herman Miller. (2023). Soluciones Ergonómicas para Espacios de Trabajo. Recuperado de https://www.hermanmiller.com/
+
+PhysioAdvisor. (2023). Aplicación de Fisioterapia para Trabajos de Oficina. Recuperado de https://physioadvisor.com/ 
+
 ## Anexos
+[Link del Github](https://github.com/PhysioDesk)
+
+[Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EcJAiWeePadJjl7rkmipPF4BK_bGQDE1r4K_iPBXZEv2iA?e=CMxI4U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
