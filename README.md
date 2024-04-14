@@ -287,22 +287,46 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 	9. ¿Qué tan importante es para ti recibir recomendaciones personalizadas y seguimiento de tu progreso al utilizar una plataforma de salud en el trabajo?
 	10. ¿Cómo crees que una plataforma como PhysioDesk podría integrarse mejor en tu rutina diaria de trabajo?
 
-	#### Para el segmento de empresas:
+	#### Para el segmento profesional:
 
-	1. ¿Qué iniciativas o programas tienen actualmente en su empresa para promover la salud y el bienestar de los empleados en el entorno laboral?
-	2. ¿Qué desafíos enfrentan al implementar soluciones ergonómicas y de salud en el lugar de trabajo?
-	3. ¿Qué criterios consideran al evaluar nuevas tecnologías o plataformas diseñadas para mejorar la salud de los empleados?
-	4. ¿Cómo medirían el éxito o la efectividad de una plataforma como PhysioDesk en su empresa?
-	5. ¿Qué aspectos de la cultura empresarial consideran más importantes para fomentar la adopción de herramientas de salud y bienestar entre los empleados?
-	6. ¿Cuál es su nivel de interés en invertir en tecnologías o programas que mejoren la salud y el bienestar de sus empleados?
-	7. ¿Qué tipo de funciones o características esperarían encontrar en una plataforma diseñada para mejorar la salud en el lugar de trabajo?
-	8. ¿Qué preocupaciones tendrían en cuanto a la privacidad y seguridad de los datos de los empleados al utilizar una plataforma como PhysioDesk?
-	9. ¿Qué recursos o apoyo interno estarían disponibles para implementar y promover el uso de una plataforma de salud en la empresa?
-	10. ¿Cómo creen que una plataforma como PhysioDesk podría contribuir a la productividad y satisfacción general de los empleados en su empresa?
+	1. ¿Qué desafíos enfrenta habitualmente al tratar con problemas de salud relacionados con la postura y la ergonomía en su práctica?
+	2. ¿Qué herramientas o recursos utiliza actualmente para evaluar y abordar los problemas ergonómicos de sus pacientes?
+	3. ¿Qué características considera más importantes al evaluar una plataforma o herramienta digital para su práctica profesional?
+	4. ¿Cómo cree que una plataforma como PhysioDesk podría beneficiar su trabajo diario y mejorar los resultados del tratamiento para sus pacientes?
+	5. ¿Cuál es su opinión sobre la integración de tecnología en la práctica de la fisioterapia y la promoción de la salud ergonómica?
+	6. ¿Qué funciones específicas le gustaría ver en una plataforma diseñada para profesionales de la salud, como PhysioDesk?
+	7. ¿Cómo se asegura de mantenerse actualizado sobre las últimas investigaciones y avances en el campo de la ergonomía y la fisioterapia?
+	8. ¿Cuál es su enfoque para capacitar a sus pacientes en prácticas ergonómicas y promover la salud postural fuera del entorno clínico?
+	9. ¿Cómo evalúa el éxito del tratamiento ergonómico en sus pacientes y qué métricas utiliza para medirlo?
+	1¿Qué desafíos anticipa al adoptar una nueva plataforma o herramienta digital en su práctica profesional, y cómo planea superarlos?
 
   
   - 2.4.2. Registro de entrevistas.
-  - 2.4.3. Análisis de entrevistas.
+
+	- Usuarios:
+      	- Entrevista #1:
+  	![Imagen de WhatsApp 2024-04-13 a las 02 05 38_3c2aa5f7](https://github.com/PhysioDesk/Informes/assets/127764958/9cd6d5ed-cbbf-4f2c-922f-941c9d9ab121)
+	Entrevistado: Maria Lucia Paez<br>
+ 	Entrevistador: Erick Joaquin Palomino Santa Cruz<br>
+  	Duracion: 05:19<br>
+   	Link: https://youtu.be/7mP6-3dtAM8?si=7I2ffvJz830Z_dSs <br>
+    	Resumen: La entrevista enfatiza la importancia de una plataforma de salud con una interfaz atractiva y fácil de usar, así como la atención personalizada. Se menciona la integración de PhysioDesk en la rutina diaria para mejorar la postura.
+
+	- Profesional:
+		- Entrevista #2:
+		![image](https://github.com/PhysioDesk/Informes/assets/89022078/71b761e7-b69e-48a3-9c8d-659a11d83578)
+		Entrevistado: Kevin Quintana Cauti<br>
+		Entrevistador: Anthony Jeandet Guerrero Castillo<br>
+		Duracion: 07:37<br>
+		Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/ERP_ICuU7vFOo6UU5kwRIT4BgZ2Y3powGDwu2qtq7wSHpg?e=HSbS7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
+		Resumen: La entrevista resalta los métodos que utilizan a día de hoy los fisioterapeutas para tratar con sus clientes. Se puede destacar que la tecnología llega para mejorar los aspectos críticos del mercado, facilitando la comunicación entre profesional y cliente, mediante una aplicación web, donde el fisioterapeuta podrá brindar sus servicios. Todo ello mejorará la organización de tiempos y ayudará a llegar a más clientes.
+
+- 2.4.3. Análisis de entrevistas.
+  	## Entrevista 1: Maria Lucia Paez Cairo
+  	- En la entrevista, Maria Lucia Paez discute los problemas de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. No ha utilizado herramientas específicas, pero realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad. Muestra interés en tecnologías como Seiko Desk y valora la atención personalizada en las plataformas de salud. Ve la integración de PhysioDesk en su rutina diaria como la adquisición de un hábito para mejorar su postura.
+ 
+	## Entrevista 2: Kevin Quintana Cauti
+	- El fisioterapeuta identificó desafíos comunes en la falta de conciencia sobre la postura y la dificultad para cambiar hábitos. Utiliza evaluaciones físicas y herramientas de medición para abordar estos problemas. Valora la accesibilidad y personalización en plataformas digitales como PhysioDesk, que simplificarían la gestión de datos y mejorarían la participación del paciente. Cree en el poder de la tecnología para mejorar la fisioterapia y enfatiza la importancia de mantenerse actualizado. Utiliza demostraciones prácticas y recursos digitales para educar a los pacientes. Evalúa el éxito del tratamiento por la mejora de síntomas y la reducción de lesiones relacionadas con la ergonomía. Planea superar desafíos en la adopción de nuevas plataformas mediante planificación y colaboración con proveedores confiables.
 - 2.5. Needfinding.
 
 	# User Personas.
@@ -337,10 +361,44 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 | Promover la cultura de la ergonomía en la empresa           | A veces       | Alta        |
 
 - 2.8. User Journey Mapping.
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-05 a las 23 29 42_88b954a1](https://github.com/PhysioDesk/Informes/assets/127764958/c5043a5c-a075-45d1-aa29-9f6917ba8497)
+
+ 	### Segmento Profesional
+  	![Imagen de WhatsApp 2024-04-05 a las 23 36 36_f7fe5a61](https://github.com/PhysioDesk/Informes/assets/127764958/366f487e-368b-46ca-9f7d-c3f00f7ffeea)
+
 - 2.9. Empathy Mapping.
+  	### Segmento Usuario
+  	![Empathy map Usuario](https://github.com/PhysioDesk/Informes/assets/127764958/813dff6d-4f06-4ed7-9fcc-efe4addb213b)
+
+ 	### Segmento Profesional
+  	![Imagen de WhatsApp 2024-04-06 a las 01 09 50_9aba3370](https://github.com/PhysioDesk/Informes/assets/127764958/f9c4c366-46cd-4285-ae3c-d3517b7fcae3)
+
 - 2.10. As-is Scenario Mapping.
+  	### Segmento Usuario
+  	![Imagen de WhatsApp 2024-04-06 a las 01 22 47_0b14448b](https://github.com/PhysioDesk/Informes/assets/127764958/fc8c80d6-0ec9-45cb-834d-934a33a3fe22)
+
+ 	### Segmento Profesional
+  	![Imagen de WhatsApp 2024-04-06 a las 08 56 04_deebcd1f](https://github.com/PhysioDesk/Informes/assets/127764958/0173bf4b-94b5-4e78-b85b-6651e8c36796)
+
 - 2.11. Ubiquitous Language.
-  ## Términos y Conceptos
+  ### Términos y Conceptos
+  
+ 	 1. **PhysioDesk**: El nombre del proyecto en sí mismo, que se refiere a la plataforma y al asistente virtual diseñado para proporcionar soluciones ergonómicas y ejercicios para usuarios que pasan mucho tiempo frente al computador.
+
+	2. **Asistente Virtual**: El componente de software de PhysioDesk que interactúa con los usuarios, recopila datos, ofrece recomendaciones ergonómicas y proporciona asistencia personalizada para mejorar la salud y el bienestar en el entorno laboral.
+
+	3. **Usuario**: Cualquier persona que utilice PhysioDesk para recibir recomendaciones ergonómicas y realizar ejercicios para mejorar su salud y bienestar mientras trabaja frente al computador.
+
+	4. **Soluciones Ergonómicas**: Las recomendaciones, consejos y sugerencias proporcionadas por PhysioDesk para mejorar la postura, configuración del lugar de trabajo y hábitos de trabajo del usuario con el fin de prevenir lesiones y mejorar el bienestar.
+
+	5. **Ejercicios Ergonómicos**: Rutinas de ejercicios diseñadas para aliviar la tensión muscular, mejorar la flexibilidad y promover una postura saludable mientras se trabaja frente al computador.
+
+	6. **Configuración del Lugar de Trabajo**: La disposición física y ergonómica de los elementos del entorno laboral, como la altura del monitor, la posición del teclado y la silla, que pueden influir en la comodidad y la salud del usuario.
+
+	7. **Pausas Activas**: Breves interrupciones en el trabajo para realizar ejercicios de estiramiento, movimientos y respiración diseñados para reducir la fatiga y mejorar la concentración.
+
+	8. **Productos Ergonómicos**: Herramientas, dispositivos y accesorios diseñados para mejorar la ergonomía y la comodidad en el entorno laboral, como sillas de oficina ajustables, soportes para monitor y teclados ergonómicos.
 
 
 
