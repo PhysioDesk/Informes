@@ -616,7 +616,19 @@ En esta entrega del sprint 1, logramos implementar una Landing Page funcional.
 ## Conclusiones
 
 - Conclusiones y recomendaciones.
+  En conclusión, podemos decir que PhysioDesk es un proyecto que podria funcionar y podria tener una gran acogida por su publico objetivo, asi como por la comunidad medica y terapeutica a nivel nacional . A lo largo del proyecto, tambien hemos determinado algunos puntos que mejorar, tanto en nuestra idea de proyecto, como en nuestra organización de grupo. Concluimos esta primera entrega, hasta el punto 5.2.1.8 y la elaboración unicamente del primer sprint, centrado en la elaboración de la Landing Page. Creemos que con todo lo aprendido en este entregable, podremos otorgar un producto y una marca mas pulida y mejor elaborada. 
 - Video About-the-Team.
 
 ## Bibliografía 
+ErgoPlus. (2023). Soluciones Ergonómicas para Oficinas. Recuperado de https://ergoplus.com/
+
+MyFitnessPal. (2023). Ejercicios para Mejorar la Postura en la Oficina. Recuperado de https://www.myfitnesspal.com/es/
+
+Herman Miller. (2023). Soluciones Ergonómicas para Espacios de Trabajo. Recuperado de https://www.hermanmiller.com/
+
+PhysioAdvisor. (2023). Aplicación de Fisioterapia para Trabajos de Oficina. Recuperado de https://physioadvisor.com/ 
+
 ## Anexos
+Link del Github: https://github.com/PhysioDesk 
+
+
