@@ -317,7 +317,7 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 - 5.1. Software Configuration Management.
   - 5.1.1. Software Development Environment Configuration.
   	[UxPressia](http://uxpressia.com/w/pFiiX ) :Para la elaboración de los User persona, User Task Matrix e Impact Map. 
-	Miro/LucidChart: Elboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML. 
+	[LucidChart](https://lucid.app/documents#/documents?folder_id=recent): Elboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML. 
 	[Vertabelo](https://my.vertabelo.com/drive ): Elaboración de los 
 	[Figma](https://www.figma.com ): Elaboración de Wireframes, Mock-ups y Prototypes
 	HTML, CSS3 y Javascript para la elaboración del Landing Page
@@ -336,7 +336,7 @@ Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto
 
 Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo las enumeraciones que plantea (1.0.0, 1.0.1, 1.1.0), así como los Conventional Commits, para nombrar los commits que hacemos en el proyecto, usando terminos como: "feat", "docs", etc. 
 
-URL del repositorio de Github del Landing Page:
+URL del repositorio de Github del Landing Page: https://github.com/PhysioDesk/Frontend.git 
 
 
   - 5.1.3. Source Code Style Guide & Conventions.
@@ -382,7 +382,7 @@ Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el
 
 
 - 5.2. Landing Page, Services & Applications Implementation.
-  - 5.2.1. Sprint n
+  - 5.2.1. Sprint 1
     - 5.2.1.1. Sprint Planning.
     Un Sprint se trata de un plazo fijo y corto de tiempo en el que el equipo se centra en desarrollar el objetio final del proyecto, también llamado "Product Goal" .
 Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se centra en cumplir el objetivo de desarrollar nuestra Landing Page.
@@ -393,8 +393,8 @@ Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se c
 |  Date  | 2024-04-05  |
 | Time  |  11:04 PM |
 | Location  | Google Meeting |
-| Prepared  by  | Erick Palomino, Giacomo Zoppi |
-| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco   |
+| Prepared  by  | Erick Palomino |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
 | **Sprint Goal And User Stories**   |
 | Sprint n Goal | Elaborar una Landing page que resulte atrayente, útil y apropiada para nuestro proyecto |
 | Spring n Velocity | 19  puntos |
@@ -419,10 +419,10 @@ Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e459
 | VISIT-002:  | Reserva de cita con fisioterapeuta|UT04 |Citas con Fisioterapeutas|Permitir a los usuarios interactuar con los fisioterapeutas|2 | Gianfranco Luna || In Progress
 | VISIT-003 | Acceso a la sección de Testimonios |UT05 |Seccion Testimonios| Permitir a los usuarios visualizar testimonios de otros usuarios  | 1|Erick Palomino | Done 
 | VISIT-004 |Acceso a la sección de Contacto|UT06| Seccion Contacto |Creación de una sección de Contacto |1 |Erick Palomino |Done
-| VISIT-004|Envío de mensaje al equipo de soporte |UT07 |Mensaje al equipo de soporte|Permitira al usuario comunicarse con soporte | 1|Erick Palomino  |Done
-| VISIT-005|Acceso a la sección de Colaboradores |UT08 |Seccion Colaboradores|Añadir una sección de colaboradores| 1| Juan Ramos | In Progress
+| VISIT-004|Envío de mensaje al equipo de soporte |UT07 |Mensaje al equipo de soporte|Permitira al usuario comunicarse con soporte | 2|Erick Palomino  |Done
+| VISIT-005|Acceso a la sección de Colaboradores |UT08 |Seccion Colaboradores|Añadir una sección de colaboradores| 2| Juan Ramos | In Progress
 | VISIT-005|Información sobre cómo unirse a la plataforma |UT09 |Unirse |Añadir una sección para unirse a la plataforma| 1| Juan Ramos | In Progress
-| VISIT-006|Acceso a la sección de Beneficios para Profesionales |UT10 | Beneficios sobre profesionales |Añadir una sección de beneficios para profesionales| 1| Gianfranco Luna, Anthony Guerrero | In Progress
+| VISIT-006|Acceso a la sección de Beneficios para Profesionales |UT10 | Beneficios sobre profesionales |Añadir una sección de beneficios para profesionales| 2| Gianfranco Luna, Anthony Guerrero | In Progress
 | VISIT-006|Información sobre los beneficios de asociarse con la aplicación |UT1 |Beneficios sobre profesionales (informacion)|Brindar información sobre beneficios para profesionales| 1| Anthony Guerrero | In Progress
 
 - 5.2.1.3. Development Evidence for Sprint Review.
