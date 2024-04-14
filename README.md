@@ -20,7 +20,7 @@
 
 | Alumnos                          |   Codigo   |
 | :------------------------------- | :--------: |
-| Erick Joaquin Palomino Santa Cruz| U--------- |
+| Erick Joaquin Palomino Santa Cruz| U202214843 |
 | Anthony Jeandet Guerrero Castillo| U--------- |
 | Juan Pablo Ramos Mendoza         | U--------- |
 | Giacomo Zoppi Rodriguez          | U--------- |
