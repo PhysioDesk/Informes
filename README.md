@@ -66,10 +66,10 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
       </thead>
       <tbody>
          <tr>
-            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="../img/team-photos/Erick_Foto.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Erick Joaquin Palomino Santa Cruz</td>
             <td tyle="text-align: justify;"> Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta.</td>
-            <td style="text-align: center;">U----------</td>
+            <td style="text-align: center;">U202214843</td>
          </tr>
          <tr>
             <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
