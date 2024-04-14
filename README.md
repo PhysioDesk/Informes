@@ -557,19 +557,41 @@ Feature: VISIT-006: Información sobre los beneficios de asociarse con la aplica
 ```
 
 - 5.2.1.5. Execution Evidence for Sprint Review.
-  Mas ejecucion del Landing Page
+  	1. Sección Inicial: Aquí presentamos nuestro proyecto y los productos ergonomicos.
+     ![image](https://github.com/PhysioDesk/Informes/assets/129527802/3cfe16e5-0611-46d1-91cc-6e836d431c26)
+     	2. Sección Sesiones virtuales: Presentación de lo que seria la funcionalidad de contratar terapeutas
+  	      ![image](https://github.com/PhysioDesk/Informes/assets/129527802/b7c220d6-2604-44f4-8ece-c2eed7ed38fa)
+  	3. Sección productos ergonomicos: Sección centrada en la visualización de productos ergonomicos
+  	  ![image](https://github.com/PhysioDesk/Informes/assets/129527802/ae9a0e81-16d7-4197-988c-f96c2aafc34b)
+	4. Sección About Us: Sección que explica nuestra historia y nuestro propósito.
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/04b00e97-2edb-4a38-9e46-782f2a6b1e05)
+	5. Sección Our Services: Sección que explica los servicios que otorgamos
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/8fe865e3-94d5-4d16-8591-7e0c54049d6d)
+	6. Sección Contact Us: Sección que permite a los usuarios contactar con nosotros
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/92b2626c-5c79-4b7f-b7b0-d563b1d03bd5)
+	7. Seccion Our Testimonals: Sección que permite visualizar testimonios de usuarios.
+ 	![image](https://github.com/PhysioDesk/Informes/assets/129527802/90dc9712-322c-4e07-84b7-9e698f32ebb5) 	 
+     
 - 5.2.1.6. Services Documentation Evidence for Sprint Review.
-  Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence. 
+   Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
 - 5.2.1.7. Software Deployment Evidence for Sprint Review.
-  Ejecucion del Landing Page tmb
+En esta entrega del sprint 1, logramos implementar una Landing Page funcional. 
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/3cfe16e5-0611-46d1-91cc-6e836d431c26)
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/b7c220d6-2604-44f4-8ece-c2eed7ed38fa)
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/ae9a0e81-16d7-4197-988c-f96c2aafc34b)
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/04b00e97-2edb-4a38-9e46-782f2a6b1e05)
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/8fe865e3-94d5-4d16-8591-7e0c54049d6d)
+	![image](https://github.com/PhysioDesk/Informes/assets/129527802/92b2626c-5c79-4b7f-b7b0-d563b1d03bd5)
+ 	![image](https://github.com/PhysioDesk/Informes/assets/129527802/90dc9712-322c-4e07-84b7-9e698f32ebb5)
+  	Link del Landing Page: https://github.com/PhysioDesk/Frontend.git  
 - 5.2.1.8. Team Collaboration Insights during Sprint.
   
 | Integrante                         | Actividad                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Gianfranco Luna Morales| ....... |
-| Erick Joaquin Palomino Santa Cruz | ..... |
-| Anthony Jeandet Guerrero Castillo |..... |
-| Juan Pablo Ramos Mendoza | .... |
+| Gianfranco Luna Morales| Diseño y estructura de la landing page |
+| Erick Joaquin Palomino Santa Cruz | Implementación de funcionalidades |
+| Anthony Jeandet Guerrero Castillo | Diseño y estructura de la landing page |
+| Juan Pablo Ramos Mendoza | Creación de Typos |
 | Giacomo Zoppi Rodriguez | Implementación de la sección header de la landing page |    
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
