@@ -432,6 +432,8 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 |   |main|35f4891|Update index.html|Update index..html|12/04/24|
 |   |main|2ada6fb|Update style.css|Updated style.css|12/04/24|
 |   |main|98df8fa|Create funcionalities.js|Created funcionalities.js|13/04/24|
+|   |main|7e24545|Create js.js|Create js.js.|13/04/24|
+|   |main|da39ea0|feat: typos|feat:typos|13/04/24|
 
 
 
