@@ -316,17 +316,28 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
 - 5.1. Software Configuration Management.
   - 5.1.1. Software Development Environment Configuration.
-  	[UxPressia](http://uxpressia.com/w/pFiiX ) :Para la elaboración de los User persona, User Task Matrix e Impact Map. 
-	[LucidChart](https://lucid.app/documents#/documents?folder_id=recent): Elboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML. 
-	[Vertabelo](https://my.vertabelo.com/drive ): Elaboración de los 
+  	[UxPressia](http://uxpressia.com/w/pFiiX ) :Para la elaboración de los User persona, User Task Matrix e Impact Map.
+
+	[LucidChart](https://lucid.app/documents#/documents?folder_id=recent): Elaboración de As-Is y To-Be, Wireflows, User Flows y los diagramas de UML.
+ 
+	[Vertabelo](https://my.vertabelo.com/drive ): Elaboración del daigrama de base de datos
+
 	[Figma](https://www.figma.com ): Elaboración de Wireframes, Mock-ups y Prototypes
+
 	HTML, CSS3 y Javascript para la elaboración del Landing Page
-	[Visual Studio Code:](https://code.visualstudio.com/download) Para la elaboración del Landing Page 
+
+	[Visual Studio Code:](https://code.visualstudio.com/download) Para la elaboración del Landing Page
+
 	[Github](https://github.com): Se utilizará para el control y almacenamiento de nuestro codigo, junto a GitFlow
-	[M editor.md](https://pandao.github.io/editor.md/en.html#H2%20header): Para la edición de archivos tipo .md o Markdown. 
-	[Trello](https://trello.com/es ): Para la división y organización de Tasks. 
-	[Microsoft 365](https://www.microsoft.com/es-es/microsoft-365/try?culture=es-es&country=es): Para la elaboración del Keynote y la presentación de nuestro proyecto en Power Point. 
-	[Zoom(64 bits)](https://zoom.us/client/latest/ZoomRooms.exe?archType=x64 ) : Para la elaboración de las entrevistas de nuestro proyecto. 
+
+	[M editor.md](https://pandao.github.io/editor.md/en.html#H2%20header): Para la edición de archivos tipo .md o Markdown.
+
+	[Trello](https://trello.com/es ): Para la división y organización de Tasks.
+
+	[Microsoft 365](https://www.microsoft.com/es-es/microsoft-365/try?culture=es-es&country=es): Para la elaboración del Keynote y la presentación de nuestro proyecto en Power Point.
+
+	[Zoom(64 bits)](https://zoom.us/client/latest/ZoomRooms.exe?archType=x64 ) : Para la elaboración de las entrevistas de nuestro proyecto.
+
 	[Google Meets:](https://meet.google.com "Google Meets:") Para la organización y las reuniones virtuales de grupo.
 
 
@@ -629,6 +640,8 @@ Herman Miller. (2023). Soluciones Ergonómicas para Espacios de Trabajo. Recuper
 PhysioAdvisor. (2023). Aplicación de Fisioterapia para Trabajos de Oficina. Recuperado de https://physioadvisor.com/ 
 
 ## Anexos
-Link del Github: https://github.com/PhysioDesk 
+[Link del Github](https://github.com/PhysioDesk)
+
+[Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EcJAiWeePadJjl7rkmipPF4BK_bGQDE1r4K_iPBXZEv2iA?e=CMxI4U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
