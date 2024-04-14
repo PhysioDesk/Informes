@@ -406,24 +406,26 @@ Para nuestro primer Sprint Bakclog, el equipo se centró principalmente en la el
 a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementarlas, basandonos en nuestras user sotires. Es así, que las dividimos en
 tareas mas maneajables y organizables y las asignamos a cada uno de los miembros. Hicimos uso de Trello para la elaboración de esta actividad.
 
-![trellocaptura](https://github.com/PhysioDesk/Informes/assets/129527802/110bdb99-8f2a-43bd-bff5-20a23c0d9151)
+Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e4594376a9a0f55062C60E/sprint 
 
 
 | Sprint #  | Sprint 1  |------------|------------|------------|------------|------------|------------
 | ------------ | ------------ |------------|------------|------------|------------|------------|------------
 | User Story |------------|------------|------------|------------|------------|------------|------------
 |  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
-| US02  | Agregar herramienta ergonómica al carrito de compra |  UT01|Funcionalidad "Carrito de Compras" | Añadir la funcionalidad de Carrito de Compras |1 | Juan Ramos|Done
-| US03  | Ver detalle de la herramienta ergonómica |UT02 |Desplegar Texto|Añadir botón para ver mas información|1 | ------------| To do
-| US04  |Filtrar herramientas ergonómicas|UT03 |Barra de navegación|Permitir a los usuarios interactuar con la barra de navegación |2 |------------ |------------
-| US04  |Filtrar herramientas ergonómicas|UT04 |Filtros de Busqueda|Permitir a los usuarios interactuar con filtros de busqueda|2 |------------ ||------------
-| US22 | Registrar en la aplicación |UT05 |Ingreso de datos| Permitir a los usuarios ingresar datos  | 1|------------ |------------ 
-| US08 |Acceder a un entorno fácil de usar para la cita|UT06| Creación de un entorno agil y amigable |Creación de un entorno agil y amigable |1 |Giacomo Zoppi|Done
-| US011|Calificar al fisioterapeuta |UT07 |Sección Terapeutas|Añadir sección Terapeutas | 1|------------ |------------ 
-| US011|Calificar al fisioterapeuta |UT08 |Calificación|Añadir calificación a Terapeutas | 1|------------ |------------ 
+| VISIT-001:  |  Acceso a la sección de Inicio |  UT01|Sección Inicio | Añadir la sección de Inicio |2 | Giacomo Zoppi|Done
+| VISIT-001:  |  Navegación por la página de Inicio |UT02 |Navegación |Creación de una pagina web dinamica y navegable|1 | Giacomo Zoppi| Done
+| VISIT-002:  | Acceso a la sección de Servicios|UT03 |Seccion Servicios|Permitir a los usuarios acceder a la sección Servicios |2 |Giacomo Zoppi, Erick Palomino |Done
+| VISIT-002:  | Reserva de cita con fisioterapeuta|UT04 |Citas con Fisioterapeutas|Permitir a los usuarios interactuar con los fisioterapeutas|2 | Gianfranco Luna || In Progress
+| VISIT-003 | Acceso a la sección de Testimonios |UT05 |Seccion Testimonios| Permitir a los usuarios visualizar testimonios de otros usuarios  | 1|Erick Palomino | Done 
+| VISIT-004 |Acceso a la sección de Contacto|UT06| Seccion Contacto |Creación de una sección de Contacto |1 |Erick Palomino |Done
+| VISIT-004|Envío de mensaje al equipo de soporte |UT07 |Mensaje al equipo de soporte|Permitira al usuario comunicarse con soporte | 1|Erick Palomino  |Done
+| VISIT-005|Acceso a la sección de Colaboradores |UT08 |Seccion Colaboradores|Añadir una sección de colaboradores| 1| Juan Ramos | In Progress
+| VISIT-005|Información sobre cómo unirse a la plataforma |UT09 |Unirse |Añadir una sección para unirse a la plataforma| 1| Juan Ramos | In Progress
+| VISIT-006|Acceso a la sección de Beneficios para Profesionales |UT10 | Beneficios sobre profesionales |Añadir una sección de beneficios para profesionales| 1| Gianfranco Luna, Anthony Guerrero | In Progress
+| VISIT-006|Información sobre los beneficios de asociarse con la aplicación |UT1 |Beneficios sobre profesionales (informacion)|Brindar información sobre beneficios para profesionales| 1| Anthony Guerrero | In Progress
 
 - 5.2.1.3. Development Evidence for Sprint Review.
-  Como hemos ido desarrollando el landing page
 
 | Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
 | ------------  | ------------  | ------------ | ------------ |------------|------------|
