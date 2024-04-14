@@ -66,31 +66,31 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
       </thead>
       <tbody>
          <tr>
-            <td style="text-align: center;"><img src="../img/team-photos/Erick_Foto.jpg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="static/img/team-photos/Erick_Foto.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Erick Joaquin Palomino Santa Cruz</td>
             <td tyle="text-align: justify;"> Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta.</td>
             <td style="text-align: center;">U202214843</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="static/img/team-photos/Antony.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Anthony Jeandet Guerrero Castillo</td>
             <td style="text-align: justify;">Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo..</td>
             <td style="text-align: center;">U---------</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="../img/team-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="static/img/team-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Gianfranco Luna</td>
             <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
             <td style="text-align: center;">U201824343</td>
          </tr>
          <tr>
-            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="static/img/team-photos/Juan Pablo.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Juan Pablo Ramos Mendoza</td>
             <td style="text-align: justify;">Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera. </td>
             <td style="text-align: center;">U------------</td>
          </tr>
         <tr>
-            <td style="text-align: center;"><img src="../img/team-photos/" width="50" height="60" style="border-radius: 25%;"></td>
+            <td style="text-align: center;"><img src="static/img/team-photos/Giacomo.jpg" width="50" height="60" style="border-radius: 25%;"></td>
             <td style="text-align: center;">Giacomo Zoppi Rodriguez</td>
             <td style="text-align: justify;">Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion. </td>
             <td style="text-align: center;">U------------</td>
