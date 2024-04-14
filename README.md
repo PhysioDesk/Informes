@@ -416,7 +416,7 @@ Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e459
 | VISIT-001:  |  Acceso a la sección de Inicio |  UT01|Sección Inicio | Añadir la sección de Inicio |2 | Giacomo Zoppi|Done
 | VISIT-001:  |  Navegación por la página de Inicio |UT02 |Navegación |Creación de una pagina web dinamica y navegable|1 | Giacomo Zoppi| Done
 | VISIT-002:  | Acceso a la sección de Servicios|UT03 |Seccion Servicios|Permitir a los usuarios acceder a la sección Servicios |2 |Giacomo Zoppi, Erick Palomino |Done
-| VISIT-002:  | Reserva de cita con fisioterapeuta|UT04 |Citas con Fisioterapeutas|Permitir a los usuarios interactuar con los fisioterapeutas|2 | Gianfranco Luna || In Progress
+| VISIT-002:  | Reserva de cita con fisioterapeuta|UT04 |Citas con Fisioterapeutas|Permitir a los usuarios interactuar con los fisioterapeutas|2 | Gianfranco Luna | In Progress
 | VISIT-003 | Acceso a la sección de Testimonios |UT05 |Seccion Testimonios| Permitir a los usuarios visualizar testimonios de otros usuarios  | 1|Erick Palomino | Done 
 | VISIT-004 |Acceso a la sección de Contacto|UT06| Seccion Contacto |Creación de una sección de Contacto |1 |Erick Palomino |Done
 | VISIT-004|Envío de mensaje al equipo de soporte |UT07 |Mensaje al equipo de soporte|Permitira al usuario comunicarse con soporte | 2|Erick Palomino  |Done
@@ -443,8 +443,14 @@ Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e459
 
  |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
-|erickpalomino1923|Main|d92ec96|Add Feature|Add Feature 1,2 |14/04/2024| 
-||Main|2f7e60d|Add Feature|Add Feature |14/04/2024|
+|erickpalomino1923|Acceptance-Test/Main|d92ec96|Add Feature|Add Feature 1,2 |14/04/2024| 
+|Gianfranco4991|Main|9d47fd4|Create Feature_5.feature|Create Feature_5.feature |14/04/2024|
+|Gianfranco4991|Main|658cf91|Create Feature_6.feature|Create Feature_6.feature |14/04/2024|
+|Giacomo202210029|Main|dddb713|docs: Created feature 7: visit-004|docs: Created feature 7: visit-004 |14/04/2024| 
+|Giacomo202210029|Main|854f739|docs: Added feature 8 visit 005|docs: Added feature 8 visit 005 |14/04/2024|
+|AnthonyGuerrero|Main|854f739|docs: Added feature 8 visit 005|docs: Added feature 8 visit 005 |14/04/2024|
+|AnthonyGuerrero|Main|854f739|docs: Added feature 8 visit 005|docs: Added feature 8 visit 005 |14/04/2024|
+
 
  ```gherkin
   Feature: VISIT-001: Acceso a la sección de Inicio
