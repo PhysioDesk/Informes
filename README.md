@@ -163,6 +163,9 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
         - Facilitar el envío de los productos y la comunicación de los clientes, lo que les permite ofrecer un servicio selección de alta calidad.
 
     - 1.2.2.3. Lean UX Hypothesis Statements.
+   
+	Creemos que al proporcionar herramientas para ajustar el entorno de trabajo del usuario, como la silla y el monitor, podremos mejorar la postura y la comodidad durante las horas de trabajo. Sabremos esto cuando notemos una mejora en la ergonomía del espacio de trabajo y una disminución en las molestias físicas reportadas por los usuarios.
+
     - 1.2.2.4. Lean UX Canvas.
 
 
