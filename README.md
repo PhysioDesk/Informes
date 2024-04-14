@@ -425,10 +425,78 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 
 - 4.4. Web Applications UX/UI Design.
   - 4.4.1. Web Applications Wireframes.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/b88e6998-baa4-490c-86cb-6ba71c650a9c)
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/01d3f010-3b10-453d-86c7-fd5e3cf5217c)
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/bbd3cdb8-ccfe-409d-ab3f-b557ae5f0c44)
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/b11a675b-becd-4e4d-966f-b3d3150f2168)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/51e76517-939e-42ab-9e58-0893e1d6adf7)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/16efeaa2-04ca-432b-9651-aa6b30805223)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/01f7401a-cae0-4e52-af95-3a5b8ab70511)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/2522eccc-50a9-4886-aec9-41c6513f94c6)
+Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
+
   - 4.4.2. Web Applications Wireflow Diagrams.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/5034f4d5-8d6c-4d7e-9c19-061ac93863b5)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/24870a28-61f2-4743-84d8-21ab20a6051c)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/f2dd1814-c1f7-41e1-82ac-8f24bb733ac4)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/c87f5b25-d558-4e97-9f27-7d636bb8678d)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/c8a49309-8e90-4fed-a1f0-280bb9eca681)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/21215453-3143-4c0e-9dc8-c25f74fbcdc4)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/98b06b75-baac-44c6-b34d-805c76303831)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d2c53094-f991-471c-a801-b682517a0088)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/90823aeb-8d32-47a5-a0a4-660a73cca7e9)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/82404488-c05c-4295-8e6f-5b8544dade80)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/af036dba-09d7-46c9-b878-0773091de0c2)
+
+Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943 
+
   - 4.4.3. Web Applications Mock-ups.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/e69f5fe9-c672-4f49-8e08-2f23e549de15)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/04b07c8d-083d-48f5-9d25-2a2cd4717624)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/7ab1565a-db45-43ea-90f4-0a7625fd3817)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/5c398feb-6525-4c18-8bb4-ea6adbbc1634)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/f62ad3cc-36d6-46bd-a812-21d2f7fff9ef)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/b6479a3b-5f6f-42eb-bffc-e348efa10db8)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/e274385f-cfc0-46ee-a92b-20d42baa0ab9)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ff6c8c12-b211-477e-8e37-765069dba9c9)
+Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
+
   - 4.4.4. Web Applications User Flow Diagrams.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c4e2e3f6-d58b-4685-97b6-d8ea6b473364)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/f130eede-4fde-40e6-8834-8be9356021f2)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/72d38c22-d56a-44ff-9145-6b5278dd0d48)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d34fa867-adbf-4c3c-8c6b-67a81505cd4f)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/0581d6f6-31aa-4a7e-8407-b5911fa6e792)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/9f382d63-ad52-4f5b-be09-5335250ece25)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/2a36562d-406d-41eb-8040-d0eb8f8afedf)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/3137ed8e-def7-4296-ae2b-a3d7985f6f90)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/456f4e62-c7e7-4796-9965-00dfebcd70bd)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b12810c-f12d-4efb-9448-cd2430c67bdb)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/4fafb095-7606-48f3-b19d-4d2515f82f87)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/766a3b93-aaf0-4530-8990-a2b04cabbc27)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/25cd8cbe-15a4-411c-af36-9427043e415d)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ad68d7a5-349c-4de0-ae97-5685e9893235)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/93a388ca-fe2d-4e91-b641-af22c73f3c0c)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/513fd527-1c39-46f4-842a-8bd0d00b8651)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/e8eb9830-1477-4475-ad30-b739076c9e9a)
+
+Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943
+
   - 4.4.5. Web Applications Prototyping.
+    
+Se siguieron una serie de principios esenciales para desarrollar los prototipos de la interfaz de usuario :
+
+Claridad y Usabilidad: Se priorizó hacer que la navegación en la página web sea intuitiva y fácil de entender para los usuarios. Esto implica que puedan comprender completamente las funciones principales, como buscar granjas, ver granjas destacadas y publicar anuncios.
+
+Diseño Responsivo: Se consideró crucial adoptar un diseño "responsive" para asegurar que la página sea compatible con diferentes tamaños de pantalla. Así, los usuarios pueden acceder sin problemas desde dispositivos de escritorio o móviles, sin limitaciones.
+
+Destacar la Información Relevante: El diseño se centró en mostrar solo la información más relevante para los usuarios, como los detalles de las granjas destacadas, las opciones de búsqueda y los pasos para publicar anuncios.
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/1f6234b8-0aa8-4ddf-95a9-6f6346886696)
+
+
 - 4.5. Domain-Driven Software Architecture.
   - 4.5.1. Software Architecture Context Diagram.
     <img src="static/img/Chapter 4/D_Contextual.png">
