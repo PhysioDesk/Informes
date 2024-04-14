@@ -436,11 +436,125 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 
 - 5.2.1.4. Testing Suite Evidence for Sprint Review.
-  Testeo del landing page
 
-| Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
-| ------------  | ------------  | ------------ | ------------ |------------|------------|
-| link  |   |  | |  |  |
+ |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|erickpalomino1923|Main|d92ec96|Add Feature|Add Feature 1,2 |14/04/2024| 
+||Main|2f7e60d|Add Feature|Add Feature |14/04/2024|
+
+ ```gherkin
+  Feature: VISIT-001: Acceso a la sección de Inicio
+  Como visitante
+  Quiero ser redirigido automáticamente a la sección de Inicio al ingresar al sitio web
+  Para obtener una visión general rápida de la aplicación
+
+  Scenario: Acceso a la sección de Inicio
+    Given que un visitante accede a la página de inicio
+    When ingresa al sitio web
+    Then debe ser redirigido automáticamente a la sección de Inicio
+
+Feature: VISIT-001: Navegación por la página de Inicio
+  Como visitante
+  Quiero poder desplazarme hacia abajo en la página de Inicio y acceder fácilmente a otras secciones importantes de la aplicación
+  Para obtener más información sobre los servicios ofrecidos y la sección de contacto
+
+  Scenario: Navegación por la página de Inicio
+    Given que un visitante está en la sección de Inicio
+    When desplaza hacia abajo la página
+    Then debe poder ver enlaces o botones que le permitan acceder a otras secciones importantes de la aplicación, como los servicios ofrecidos y la sección de contacto
+
+Feature: VISIT-002: Acceso a la sección de Servicios
+  Como visitante
+  Quiero encontrar un enlace claro que me dirija a la sección de Servicios
+  Para obtener información detallada sobre los servicios ofrecidos por la aplicación
+
+  Scenario: Acceso a la sección de Servicios
+    Given que un visitante interesado en los servicios accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Servicios
+
+Feature: VISIT-002: Reserva de cita con fisioterapeuta
+  Como visitante
+  Quiero poder reservar una cita con un fisioterapeuta desde la sección de Servicios
+  Para obtener atención personalizada
+
+  Scenario: Reserva de cita con fisioterapeuta
+    Given que un visitante está en la sección de Servicios
+    When desea programar una cita con un fisioterapeuta
+    Then debe poder encontrar un enlace o botón que lo redirija a la página de reserva de citas
+
+Feature: VISIT-003: Acceso a la sección de Testimonios
+  Como visitante
+  Quiero encontrar un enlace claro que me dirija a la sección de Testimonios
+  Para leer experiencias de usuarios anteriores
+
+  Scenario: Lectura de testimonios de usuarios anteriores
+    Given que un visitante interesado en la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Testimonios
+
+Feature: VISIT-004: Acceso a la sección de Contacto
+  Como visitante
+  Quiero encontrar un enlace claro que me dirija a la sección de Contacto
+  Para obtener información de contacto y poder comunicarme con el equipo de soporte si es necesario
+
+  Scenario: Acceso a la sección de Contacto
+    Given que un visitante interesado en obtener más información sobre la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Contacto
+
+Feature: VISIT-004: Envío de mensaje al equipo de soporte
+  Como visitante
+  Quiero poder completar un formulario de contacto en la sección de Contacto con mi nombre, dirección de correo electrónico y mensaje
+  Para enviar consultas al equipo de soporte
+
+  Scenario: Envío de mensaje al equipo de soporte
+    Given que un visitante está en la sección de Contacto
+    When decide enviar un mensaje al equipo de soporte
+    Then debe poder completar un formulario de contacto con su nombre, dirección de correo electrónico y mensaje
+
+Feature: VISIT-005: Acceso a la sección de Colaboradores
+  Como fisioterapeuta interesado en colaborar con la aplicación
+  Quiero encontrar un enlace claro que me dirija a la sección de Colaboradores
+  Para obtener información sobre cómo puedo unirme a la plataforma
+
+  Scenario: Acceso a la sección de Colaboradores
+    Given que un fisioterapeuta interesado en colaborar con la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Colaboradores
+
+Feature: VISIT-005: Información sobre cómo unirse a la plataforma
+  Como fisioterapeuta interesado en colaborar con la aplicación
+  Quiero encontrar información sobre cómo unirme a la plataforma
+  Para poder colaborar con la aplicación y ofrecer mis servicios a los usuarios
+
+  Scenario: Información sobre cómo unirse a la plataforma
+    Given que un fisioterapeuta está en la sección de Colaboradores
+    When encuentra información sobre cómo unirse a la plataforma
+    Then debe poder seguir un enlace o completar un formulario de registro
+
+Feature: VISIT-006: Acceso a la sección de Beneficios para Profesionales
+  Como fisioterapeuta interesado en asociarse con la aplicación
+  Quiero encontrar un enlace claro que me dirija a la sección de Beneficios para Profesionales
+  Para conocer los beneficios de colaborar con la aplicación
+
+  Scenario: Acceso a la sección de Beneficios para Profesionales
+    Given que un fisioterapeuta interesado en asociarse con la aplicación accede al sitio web
+    When ingresa al sitio
+    Then debe encontrar un enlace claro que lo dirija a la sección de Beneficios para Profesionales
+
+Feature: VISIT-006: Información sobre los beneficios de asociarse con la aplicación
+  Como fisioterapeuta interesado en asociarse con la aplicación
+  Quiero encontrar información sobre los beneficios de colaborar con la aplicación
+  Para tomar una decisión informada sobre mi colaboración
+
+  Scenario: Información sobre los beneficios de asociarse con la aplicación
+    Given que un fisioterapeuta está en la sección de Beneficios para Profesionales
+    When lee sobre los beneficios de colaborar con la aplicación
+    Then debe poder encontrar testimonios de otros fisioterapeutas que han tenido éxito al asociarse con la plataforma
+
+
+```
 
 - 5.2.1.5. Execution Evidence for Sprint Review.
   Mas ejecucion del Landing Page
