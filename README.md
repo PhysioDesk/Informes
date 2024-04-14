@@ -523,91 +523,246 @@ Link para visualizar el Product Backlog en Pivotal Tracker: https://www.pivotalt
 
 
   
-
 ### 4. Capítulo IV: Product Design
 
 - 4.1. Style Guidelines.
   - 4.1.1. General Style Guidelines.
+
 El nombre del software identificado es PhysioDesk. Descomponiendo el nombre en dos, ‘Physio’ que significa condición física y ‘Desk’ que significa carpeta. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal especializado en contactar y gestionar sus sesiones para recibir una atención de calidad, por ello se optó por la búsqueda de fisioterapeutas. Se usará también el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/IconsPhy.png" >
-</br>
-</br>
-Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural.
-</br>
-</br>
-Typography
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/tipografia.PNG" >
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/body.PNG" >
-Colors
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/colors.png" >
-Spacing
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/spacing.PNG" >
-</br>
-</br>
-Tono de comunicación y lenguaje aplicado
-</br>
-</br>
-Color Primario: El color azul suele relacionarse con elementos de la naturaleza, tales como el agua y el aire. Además, inspira sentimientos de amistad, lealtad, seguridad y confianza.
-</br>
-</br>
-Color Secundario: Celeste, además de transmitir tranquilidad y calma, se asocia con la naturaleza, prosperidad, fertilidad, salud, y generosidad.
-</br>
-</br>
-Blanco: Representa limpieza y claridad.
-</br>
-</br>Desktop Web Browseto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
 
+<img src="static/img/Chapter 4/style-guidelines/IconsPhy.png">
+
+
+Con el propósito de dar estilo y reconocimiento, nuestra app web posee una gran variedad de ajustes en los temas de colores, las fuentes de tipografía y en el aspecto de diseño estructural.
+
+Typography
+
+<img src="static/img/Chapter 4/style-guidelines/tipografia.PNG">
+<img src="static/img/Chapter 4/style-guidelines/body.PNG">
+
+Colors
+
+<img src="static/img/Chapter 4/style-guidelines/Colors.jpg">
+
+Spacing
+
+<img src="static/img/Chapter 4/style-guidelines/spacing.PNG">
+
+Tono de comunicación y lenguaje aplicado
+
+Color Primario: El color verde claro suele relacionarse con elementos de un establecimiento médico. Además, inspira sentimientos de amistad, lealtad, seguridad y confianza.
+
+Color Secundario: Marino, además de transmitir tranquilidad y calma, se asocia con la naturaleza, prosperidad, fertilidad, salud, y generosidad.
+
+Blanco: Representa limpieza y claridad.
+
+Desktop Web Browseto con entusiasmo y perseverancia. Puesto que se incluirán experiencias y recomendaciones que aumentarán las perspectivas del usuario.
 
   - 4.1.2. Web Style Guidelines.
 
 Desarrollaremos una aplicación que se adeque a cualquier dispositivo tecnológico sin la necesidad de malograr el diseño del contenido. Por ello, se tendrá que tomar en cuenta cada tipo de dispositivo para que el contenido este estructurado de la mejor manera para cada uno.
 
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/botones.PNG" >
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/big-elements.PNG" >
-</br>
-</br>
-<img src="../img/Chapter 4/style-guidelines/cards.PNG" >
-
-
+<img src="static/img/Chapter 4/style-guidelines/Botones.jpg">
+<img src="static/img/Chapter 4/style-guidelines/bing-elements.jpg">
+<img src="static/img/Chapter 4/style-guidelines/cards.jpg">
+    
 - 4.2. Information Architecture.
   - 4.2.1. Organization Systems.
+    
+  	**Organización visual del contenido** <br><br>
+   
+	1. Jerárquica (Visual Hierarchy):<br><br>
+  	- La organización jerárquica se aplicará en las páginas principales del sitio web, donde se destacan las secciones principales y subsecciones de manera visualmente clara para orientar a los usuarios.
+  	- Por ejemplo, en la página de inicio, se presentarán los apartados principales como "Servicios", "Acerca de Nosotros" y "Contacto" de manera prominente, seguidos de las subsecciones relevantes.<br><br>
+ 
+	2. Secuencial (Step-by-Step to Accomplish):<br><br>
+  	- Este sistema de organización se utilizará en secciones que guían al usuario a través de un proceso paso a paso para lograr un objetivo específico, como el registro o la solicitud de servicios.
+	- Por ejemplo, en la sección de registro de usuarios, se presentarán pasos secuenciales para completar el proceso, como ingresar información personal, seleccionar preferencias y confirmar la cuenta. <br><br>
+
+	 **Esquemas de Categorización de Contenido:** <br><br>
+	
+	1. Alfabético:<br><br>
+	- La categorización alfabética se aplicará en secciones como un directorio de recursos o un catálogo de productos, donde el contenido se puede clasificar fácilmente por orden alfabético.
+	- Por ejemplo, en la sección de "Productos Ergonómicos", los artículos se organizan alfabéticamente por título para facilitar la búsqueda de los usuarios.<br><br>
+
+	2. Por Tópicos:<br><br>
+	- Este esquema se utilizará para agrupar contenido relacionado bajo categorías o temas específicos, facilitando la navegación del usuario hacia información relevante.
+	- Por ejemplo, en la sección de "Productos Ergonómicos", los artículos se categorizan por temas como "Salud Postural" y "Ejercicios Ergonómicos"<br><br>
+
   - 4.2.2. Labeling Systems.
+ 
+	- Etiquetas de Menú: Utiliza etiquetas descriptivas y breves para los elementos del menú principal, como "Inicio", "Servicios", "Blog", "Recursos", "Contacto", etc. Estas etiquetas deben reflejar claramente el contenido o la función de cada sección.
+
+	- Etiquetas de Categoría: Si la información se organiza en categorías o secciones específicas, utiliza etiquetas que indiquen claramente el tema o el tipo de contenido que se encuentra en cada sección. Por ejemplo, "Lesiones Comunes", "Ejercicios Recomendados", "Artículos de Compra", etc.
+
+	- Etiquetas de Acción: Cuando se presentan opciones de acción para los usuarios, como botones o enlaces, utiliza etiquetas que describan claramente la acción que realizarán al hacer clic en ellas. Por ejemplo, "Registrarse", "Iniciar Sesión", "Agendar Cita", "Descargar Recurso", etc.
+
+	- Etiquetas de Navegación: Enlaces internos dentro del contenido o elementos de navegación como botones de "Siguiente" o "Anterior" deben tener etiquetas claras que indiquen la acción que realizarán. Por ejemplo, "Siguiente Paso", "Volver al Inicio", etc.
+
+	- Etiquetas de Formulario: Para campos de entrada en formularios, utiliza etiquetas claras que indiquen qué información se espera que ingrese el usuario. Por ejemplo, "Nombre", "Correo Electrónico", "Contraseña", "Especialidad", etc.<br><br>
+
   - 4.2.3. SEO Tags and Meta Tags.
+ 
+	**Landing Page:**
+	
+	- Title: PhysioDesk - Plataforma de Fisioterapia en Línea | Mejora tu Salud Hoy.
+	- Meta Description: Con PhysioDesk, accede a fisioterapeutas calificados desde cualquier lugar. Programa citas, sigue tu progreso y mejora tu bienestar de forma remota.
+	- Keywords: fisioterapia en línea, rehabilitación virtual, fisioterapeuta en línea, terapia física remota, consulta con fisioterapeutas.
+	- Author: PhysioDesk Team
+	
+	**Web Application:**
+	
+	- Title: PhysioDesk - Tu Compañero en la Recuperación | Plataforma de Fisioterapia en Línea.
+	- Meta Description: PhysioDesk te ofrece una experiencia completa de fisioterapia en línea. Programa citas, accede a ejercicios personalizados y mejora tu salud desde casa.
+	- Keywords: plataforma de fisioterapia, aplicación de rehabilitación, seguimiento de ejercicios, terapia virtual, consulta con especialistas en fisioterapia.
+	- Author: PhysioDesk Team. <br><br>
+
   - 4.2.4. Searching Systems.
+ 
+	En PhysioDesk, se proporcionarán diversos medios de ayuda para que los usuarios encuentren fácilmente la información que están buscando dentro del producto digital. Estos medios están diseñados para evitar que los usuarios se sientan perdidos entre el volumen de información y garantizar una experiencia de búsqueda eficiente y satisfactoria. Las opciones de búsqueda y los filtros disponibles para los usuarios variarán según el contexto y la sección de la aplicación. Aquí se detallan algunas de las características principales:
+	
+	- Barra de búsqueda principal: En la página de inicio y en otras secciones clave de la aplicación, los usuarios encontrarán una barra de búsqueda prominente. Esta barra les permitirá realizar búsquedas rápidas y directas utilizando palabras clave y frases relevantes.
+	
+	- Filtros de búsqueda avanzada: Después de realizar una búsqueda, los usuarios tendrán la opción de aplicar filtros avanzados para refinar los resultados según sus necesidades específicas. Estos filtros podrán incluir categorías como tipo de contenido (artículos, ejercicios, productos).
+	
+	- Resultados de búsqueda destacados: Después de realizar una búsqueda, los resultados se presentarán de manera clara y organizada, con los elementos más relevantes y útiles destacados de manera prominente. Esto ayudará a los usuarios a identificar rápidamente la información que están buscando y a tomar decisiones informadas.<br><br>
+
   - 4.2.5. Navigation Systems.
+ 
+	En PhysioDesk, los usuarios podrán navegar fácilmente por el Landing Page y la aplicación web para encontrar la información y las funciones que necesitan. Esto se logrará a través de las siguientes acciones y técnicas:
+	
+	- Barra de búsqueda prominente: En el Landing Page y en la aplicación, los usuarios encontrarán una barra de búsqueda fácilmente accesible en la parte superior de la página. Esta barra permitirá a los usuarios buscar términos específicos relacionados con fisioterapia, ejercicios, consejos de salud y más.
+	
+	- Filtros de búsqueda avanzada: En la sección de búsqueda de la aplicación, los usuarios tendrán la opción de aplicar filtros avanzados para refinar sus resultados. Estos filtros podrán incluir categorías como tipo de servicio (fisioterapia en línea, ejercicios de rehabilitación, etc.), especialidad del fisioterapeuta, disponibilidad de citas y más.
+	
+	- Sugerencias de búsqueda instantánea: Cuando los usuarios comiencen a escribir en la barra de búsqueda, recibirán sugerencias instantáneas basadas en términos populares y relevantes. Esto ayudará a los usuarios a encontrar rápidamente contenido relacionado sin necesidad de escribir la consulta completa.
+	
+	- Navegación intuitiva: Tanto en el Landing Page como en la aplicación, se seguirán principios de diseño de navegación intuitiva. Los usuarios podrán desplazarse fácilmente por las diferentes secciones utilizando un menú claro y etiquetado, así como botones de navegación y enlaces prominentes.<br><br>
+ 
 - 4.3. Landing Page UI Design.
   - 4.3.1. Landing Page Wireframe.
+    En esta sección, presentaremos los fundamentos para diseñar el sitio web de nuestro software. Estos fundamentos nos ayudarán a brindar una comprensión más clara del contenido que la plataforma y la versión móvil mostrarán. El Landing Page se ajustará al tamaño de las pantallas de cada dispositivo, asegurando que la información esté centrada y sea fácilmente visible para el usuario. Nuestro objetivo es proporcionar información precisa sin abrumar al usuario, y para lograrlo, hemos incorporado una barra de navegación estática que facilitará la exploración de la Landing Page.
+    
+<img src="static/img/Chapter 4/ui-desing/wireframes-landing-page/Desktop-wireframe1.jpg">
+<img src="static/img/Chapter 4/ui-desing/wireframes-landing-page/Desktop-wireframe2.jpg">
+<img src="static/img/Chapter 4/ui-desing/wireframes-landing-page/Desktop-wireframe3.jpg">
+<img src="static/img/Chapter 4/ui-desing/wireframes-landing-page/Desktop-wireframe4.jpg">
+
+ <p align="left"><strong>URL: </strong> <a href="[https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page](https://www.figma.com/file/Iy6r9KFG9P1Fb3BwaokDib/PhysioDesk---Landing-Page?type=design&node-id=0-1&mode=design&t=VoPpYosKHsr2xNye-0)" target="_blank">PhysioDesk Figma</a></p>   
+ 
   - 4.3.2. Landing Page Mock-up.
+
+Se muestra una vista previa de lo que constituirá nuestro sitio web, describiendo en detalle su contenido, aplicando los colores correspondientes según nuestra guía de estilos y complementando la información con imágenes coherentes. Esto se hace con el objetivo de brindar al usuario una comprensión más nítida de las ideas que estamos tratando de comunicar.
+
+<img src="static/img/Chapter 4/ui-desing/mock-ups-landing-page/mock-up1.jpg">
+<img src="static/img/Chapter 4/ui-desing/mock-ups-landing-page/mock-up2.jpg">
+<img src="static/img/Chapter 4/ui-desing/mock-ups-landing-page/mock-up3.jpg">
+<img src="static/img/Chapter 4/ui-desing/mock-ups-landing-page/mock-up4.jpg">
+<img src="static/img/Chapter 4/ui-desing/mock-ups-landing-page/mock-up5.jpg">
+<img src="static/img/Chapter 4/ui-desing/mock-ups-landing-page/mock-up6.jpg">
+
+<p align="left"><strong>URL: </strong> <a href="[https://www.figma.com/community/file/1282459073116716814/Swift-Ship---Landing-Page](https://www.figma.com/file/Iy6r9KFG9P1Fb3BwaokDib/PhysioDesk---Landing-Page?type=design&node-id=0-1&mode=design&t=VoPpYosKHsr2xNye-0)" target="_blank">PhysioDesk Figma</a></p>   
+
 - 4.4. Web Applications UX/UI Design.
   - 4.4.1. Web Applications Wireframes.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/b88e6998-baa4-490c-86cb-6ba71c650a9c)
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/01d3f010-3b10-453d-86c7-fd5e3cf5217c)
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/bbd3cdb8-ccfe-409d-ab3f-b557ae5f0c44)
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/b11a675b-becd-4e4d-966f-b3d3150f2168)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/51e76517-939e-42ab-9e58-0893e1d6adf7)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/16efeaa2-04ca-432b-9651-aa6b30805223)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/01f7401a-cae0-4e52-af95-3a5b8ab70511)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/2522eccc-50a9-4886-aec9-41c6513f94c6)
+Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
+
   - 4.4.2. Web Applications Wireflow Diagrams.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/5034f4d5-8d6c-4d7e-9c19-061ac93863b5)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/24870a28-61f2-4743-84d8-21ab20a6051c)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/f2dd1814-c1f7-41e1-82ac-8f24bb733ac4)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/c87f5b25-d558-4e97-9f27-7d636bb8678d)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/c8a49309-8e90-4fed-a1f0-280bb9eca681)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/21215453-3143-4c0e-9dc8-c25f74fbcdc4)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/98b06b75-baac-44c6-b34d-805c76303831)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d2c53094-f991-471c-a801-b682517a0088)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/90823aeb-8d32-47a5-a0a4-660a73cca7e9)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/82404488-c05c-4295-8e6f-5b8544dade80)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/af036dba-09d7-46c9-b878-0773091de0c2)
+
+Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943 
+
   - 4.4.3. Web Applications Mock-ups.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/e69f5fe9-c672-4f49-8e08-2f23e549de15)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/04b07c8d-083d-48f5-9d25-2a2cd4717624)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/7ab1565a-db45-43ea-90f4-0a7625fd3817)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/5c398feb-6525-4c18-8bb4-ea6adbbc1634)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/f62ad3cc-36d6-46bd-a812-21d2f7fff9ef)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/b6479a3b-5f6f-42eb-bffc-e348efa10db8)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/e274385f-cfc0-46ee-a92b-20d42baa0ab9)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ff6c8c12-b211-477e-8e37-765069dba9c9)
+Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
+
   - 4.4.4. Web Applications User Flow Diagrams.
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c4e2e3f6-d58b-4685-97b6-d8ea6b473364)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/f130eede-4fde-40e6-8834-8be9356021f2)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/72d38c22-d56a-44ff-9145-6b5278dd0d48)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d34fa867-adbf-4c3c-8c6b-67a81505cd4f)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/0581d6f6-31aa-4a7e-8407-b5911fa6e792)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/9f382d63-ad52-4f5b-be09-5335250ece25)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/2a36562d-406d-41eb-8040-d0eb8f8afedf)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/3137ed8e-def7-4296-ae2b-a3d7985f6f90)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/456f4e62-c7e7-4796-9965-00dfebcd70bd)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b12810c-f12d-4efb-9448-cd2430c67bdb)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/4fafb095-7606-48f3-b19d-4d2515f82f87)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/766a3b93-aaf0-4530-8990-a2b04cabbc27)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/25cd8cbe-15a4-411c-af36-9427043e415d)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ad68d7a5-349c-4de0-ae97-5685e9893235)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/93a388ca-fe2d-4e91-b641-af22c73f3c0c)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/513fd527-1c39-46f4-842a-8bd0d00b8651)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/e8eb9830-1477-4475-ad30-b739076c9e9a)
+
+Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943
+
   - 4.4.5. Web Applications Prototyping.
+    
+Se siguieron una serie de principios esenciales para desarrollar los prototipos de la interfaz de usuario :
+
+Claridad y Usabilidad: Se priorizó hacer que la navegación en la página web sea intuitiva y fácil de entender para los usuarios. Esto implica que puedan comprender completamente las funciones principales, como buscar granjas, ver granjas destacadas y publicar anuncios.
+
+Diseño Responsivo: Se consideró crucial adoptar un diseño "responsive" para asegurar que la página sea compatible con diferentes tamaños de pantalla. Así, los usuarios pueden acceder sin problemas desde dispositivos de escritorio o móviles, sin limitaciones.
+
+Destacar la Información Relevante: El diseño se centró en mostrar solo la información más relevante para los usuarios, como los detalles de las granjas destacadas, las opciones de búsqueda y los pasos para publicar anuncios.
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/1f6234b8-0aa8-4ddf-95a9-6f6346886696)
+
+
 - 4.5. Domain-Driven Software Architecture.
   - 4.5.1. Software Architecture Context Diagram.
+    <img src="static/img/Chapter 4/D_Contextual.png">
   - 4.5.2. Software Architecture Container Diagrams.
+    <img src="static/img/Chapter 4/D_Contenedores.png">
   - 4.5.3. Software Architecture Components Diagrams.
+    <img src="static/img/Chapter 4/D_Componentes.png">
 - 4.6. Software Object-Oriented Design.
   - 4.6.1. Class Diagrams.
-  - 4.6.2. Class Dictionary.
+    <img src="static/img/Chapter 4/D_Clases.png">
+  - 4.6.2. Class Dictionary. 
+    - **Usuario:** Clase que representa a todos los usuarios en sí, teniendo los atributos principales del nombre del usuario y su clave para iniciar sesión y el número de teléfono para permitir el contacto entre usuarios regulares con los fisioterapeutas y vendedores. Además, presenta un método para agregar rutinas, algo que tanto los usuarios regulares como los fisioterapeutas pueden utilizar. 
+  	- **Fisioterapeuta:** Subclase de usuario que representa a los expertos en fisioterapias y pueden comunicarse con los usuarios regulares para entrenamientos o asignarles rutinas. Presentan el atributo de especialidad para diferentes tipos de actividades. 
+  	- **Vendedor:** Subclase de usuario que representa a los vendedores y empresas de muebles ergonómicos y herramientas para terapias físicas. Presentan un método para agregar productos a la lista de productos en venta. \
+    - **Producto:** Clase que representa a los productos ergonómicos o de fisioterapias que se encuentran en venta por los vendedores y empresas. Presentan atributos de nombre del producto, una descripción y el precio de cada producto. \
+  	- **ListaProductos:** Clase que representa todos los productos en venta de un usuario vendedor, con cada uno teniendo una lista de productos. 
+    - **Rutina:** Clase que representa cada rutina y ejercicio registrado por los usuarios, tanto los usuarios regulares con rutinas propias como las rutinas registradas por los expertos para mejorar las condiciones físicas de los usuarios. Presenta atributos de nombre de la rutina, una descripción detallando cada rutina y una duración aproximada. 
+  	- **ListaRutina:** Clase que representa la colección de todas las rutinas registradas para un usuario. Cada usuario tiene su propia lista de rutinas. 
+    - **InterfazAplicación:** Clase general que representa las funcionalidades básicas dentro de la aplicación. Presenta métodos para el inicio de sesión requiriendo el nombre de usuario y su contraseña, mostrar la lista de productos en venta disponibles, mostrar las rutinas registradas por el usuario y la forma de contactarse con los fisioterapeutas a través de su nombre y teléfono. 
+   - **BasedeDatos:** Clase general que representa la base de datos interna de la aplicación, registrando todos los usuarios, sus rutinas y los productos en venta. 
+
 - 4.7. Database Design.
-  - 4.7.1. Database Diagram.
+  - 4.7.1. Database Diagram. \
+     <img src="static/img/Chapter 4/D_Database.png">
+
 
 ### 5. Capítulo V: Product Implementation, Validation & Deployment
 
