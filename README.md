@@ -597,6 +597,10 @@ En esta entrega del sprint 1, logramos implementar una Landing Page funcional.
 | Anthony Jeandet Guerrero Castillo | Diseño y estructura de la landing page |
 | Juan Pablo Ramos Mendoza | Creación de Typos |
 | Giacomo Zoppi Rodriguez | Implementación de la sección header de la landing page |    
+
+![image](https://github.com/PhysioDesk/Informes/assets/127764958/7821f714-d344-432d-8797-bf996093d619)
+
+
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
 - 5.3.2. Registro de Entrevistas.
