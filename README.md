@@ -1069,6 +1069,58 @@ En esta entrega del sprint 1, logramos implementar una Landing Page funcional.
 
 ![image](https://github.com/PhysioDesk/Informes/assets/127764958/7821f714-d344-432d-8797-bf996093d619)
 
+  - 5.2.1. Sprint 2
+    - 5.2.1.1. Sprint Planning 2
+    El Sprint #2 tiene como fecha de inicio el 22/04/2024 y como meta nos planteamos resolver algunos errores de la landing page y realizar una primera versión del frontend web application de tal modo que resulte funcional y atractiva visualmente.
+
+| Sprint #  | Sprint 1  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-04-22  |
+| Time  |  10:50 PM |
+| Location  | Discord |
+| Prepared  by  | Erick Palomino |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Relizar el front end de la web application de modo que sea funcional y atractiva visualmente  |
+| Spring n Velocity | 47  puntos |
+| Sum of Story Points | 47 puntos|
+
+
+- 5.2.1.2. Sprint Backlog
+Para nuestro segundo Sprint Bakclog, el equipo se centró principalmente en la elaboración del front end de la web application. Siendo este el foco principal, nos dedicamos
+a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementar, basandonos en nuestras user stories. Es así, que las dividimos en
+tareas mas maneajables y organizables y las asignamos a cada uno de los miembros, según sus habiidades. Hicimos uso de Trello para la elaboración de esta actividad.
+
+Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e4594376a9a0f55062C60E/sprint 
+
+
+| Sprint #  | Sprint 1  |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
+|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+| USER-002  | Agregar herramienta ergonómica al carrito de compra y proceder el pago. |  TK01 | Sección Carrito de Compras | Añadir la sección de Carrito de compras |2 |???|To do
+| USER-003 | Ver detalle de la herramienta ergonómica |  TK02 | Sección Compras | Añadir la sección de Compras |2 |???|To do
+| USER-004  | Filtrar herramientas ergonómicas |  TK03 | Barra de busqueda | Añadir una barra de busquedas |2 |???|To do
+| USER-004  | Filtrar herramientas ergonómicas |  TK04 | Filtrado por busqueda | Añadir filtros de busqueda |2 |???|To do
+| USER-006  | Visualizar los horarios de atención de cada fisioterapeuta |  TK05 | Sección Lista de Fisioterapeutas | Añadir la sección de Lista de Fisioterapeutas |2 |???|To do
+| USER-006  | Visualizar los horarios de atención de cada fisioterapeuta |  TK06 | Tabla de Terapeutas | Añadir una tabla de Fisioterapeutas con horario incluido |2 |???|To do
+| USER-008  | Acceder a un entorno fácil de usar para la cita. |  TK07 | Visualizar una atractiva interfaz | Añadir un header y footer |2 |???|To do
+| USER-008  | Acceder a un entorno fácil de usar para la cita. |  TK08 | Visualizar una atractiva interfaz | Mostrar al usuario diferentes secciones |2 |???|To do
+| FISIO-001  | Registrar detalles de cada sesión de tratamiento. |  TK09 | Registro de tratamientos | Registrar el tratameinto de un paciente |2 |???|To do
+| FISIO-001  | Registrar detalles de cada sesión de tratamiento. |  TK10 | Registro de tratamientos | El fisioterapeuta debe poder interactuar con una tabla de tratamientos de pacientes suyos. |2 |???|To do
+| FISIO-003  | Generar informes. |  TK11 | Acceder al perfil del usuario | El fisioterapeuta debe poder acceder al perfil de sus pacientes |2 |???|To do
+| FISIO-003  | Generar informes. |  TK12 | Registrar informes sobre el paciente | El fisioterapeuta debe poder añadir informes al perfil del paciente  |2 |???|To do
+| FISIO-003  | Generar informes. |  TK13 | Acceder a informes pasados | El fisioterapeuta debe poder acceder a una tabla de informes pasados de sus clientes|2 |???|To do
+| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK14 | Sección de Suscripción Premium | Añadir la sección de Suscripción Premium |2 |???|To do
+| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK15 |  Ingreso de metodo de pago | El usuario debe poder ingresar un metodo de pago |2 |???|To do
+| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK16 |  Versión Premium de la aplicación | El usuario debe poder ingresar acceder a la versión premium de la aplicación una vez hecho el pago |2 |???|To do
+| FISIO-004  | Creación de planes de ejercicios de movimiento |  TK17 | Función creación de planes | Añadir la función de creación de planes para el fisioterapeuta |2 |???|To do
+| FISIO-004  | Creación de planes de ejercicios de movimiento |  TK18 | Asignación de planes | El fisioterapeuta debe poder asignar ciertos planes de ejercicios a usuarios especificos. |2 |???|To do
+| USER-019  | Acceder al plan de ejercicios. |  TK19 | Acceso al plan de ejercicio | Añadir una sección de plan de ejercicios en el perfil |2 |???|To do
+| USER-020  | Marcar ejercicios como completados. |  TK20 | Marcar ejercicios como completados | Añadir un status a los ejercicios del plan y que el usuario pueda asignarles un status |2 |???|To do
+| USER-022  | Registrarse en la aplicación |  TK21 | Registro | Permtir al usuario registrarse en la aplicación |2 |???|To do
+| USER-022  | Registrarse en la aplicación |  TK22 | mostrar información del perfil | Permtir al usuario ver la información registrada en su perfil |2 |???|To do
 
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
