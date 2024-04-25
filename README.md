@@ -13,7 +13,7 @@
 **Sección:** WX52 </br>
 **Docente:** Elio Jefferrson Navarrete Vilca </br>
 **Ciclo:** 2024-01 </br>
-**Nombre de la Startup:** Name </br>
+**Nombre de la Startup:** PhysioDesk </br>
 **Nombre del producto:** PhysioDesk </br>
 
 <h3>Integrantes</h3>
@@ -51,76 +51,160 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
     - PhysioDesk/Ergonomic-Style es la implementación de un modelo de un asistente virtual que brinda soluciones ergonómicas y ejercicios para personas que ocupan gran parte del día en el computador. La iniciativa busca analizar el estilo de vida del usuario con el fin de brindar las herramientas indicadas para aliviar y/o prevenir lesiones fisiológicas mediante un entorno ergonómico. Así mismo, recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
-   
+    
+<table border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Erick_Foto.jpg" width="1000" height="300" style="border-radius: 50%;"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Erick Joaquin Palomino Santa
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202214843
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal:</b>
+        <br>
+        Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Antony.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Anthony Jeandet Guerrero Castillo
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202010054
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripcion personal:</b>
+        <br>
+        Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Gianfranco.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Gianfranco Luna
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U201824343
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal:</b>
+        <br>
+        Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Juan Pablo.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Juan Pablo Ramos Mendoza
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202019545
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal</b>
+        <br>
+       Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+                <img src="static/img/team-photos/Giacomo.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Giacomo Zoppi Rodriguez
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202210029
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal:</b>
+        <br>
+        Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion. 
+        </td>
+    </tr>
+    <tr align="center">
 
 
-<div align="center">
-   <table>
-      <thead>
-         <tr>
-            <th style="text-align: center;">Foto</th>
-            <th style="text-align: center;">Miembro</th>
-            <th style="text-align: center;">Descripciónn personal</th>
-            <th style="text-align: center;">Código</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Erick_Foto.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Erick Joaquin Palomino Santa Cruz</td>
-            <td tyle="text-align: justify;"> Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta.</td>
-            <td style="text-align: center;">U202214843</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Antony.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Anthony Jeandet Guerrero Castillo</td>
-            <td style="text-align: justify;">Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo..</td>
-            <td style="text-align: center;">U---------</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Gianfranco Luna</td>
-            <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
-            <td style="text-align: center;">U201824343</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Juan Pablo.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Juan Pablo Ramos Mendoza</td>
-            <td style="text-align: justify;">Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera. </td>
-            <td style="text-align: center;">U------------</td>
-         </tr>
-        <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Giacomo.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Giacomo Zoppi Rodriguez</td>
-            <td style="text-align: justify;">Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion. </td>
-            <td style="text-align: center;">U------------</td>
-         </tr>
-      </tbody>
-   </table>
-</div>
-</br>
 
 - 1.2. Solution Profile
-  - 1.2.1. Antecedentes y problemática
+  - 1.2.1. Antecedentes y problemática: En el entorno laboral contemporáneo, la salud física se ve amenazada por un problema omnipresente: las lesiones fisiológicas derivadas de la falta de ergonomía. Este desafío, cada vez más relevante en un mundo digitalizado, afecta a una amplia gama de individuos, desde empleados de oficina hasta estudiantes de educación remota. La exposición prolongada al uso del computador en entornos no ergonómicos ha desencadenado una serie de preocupaciones relacionadas con la postura y el movimiento repetitivo, lo que resulta en un impacto significativo en la salud y el bienestar de las personas. Para comprender mejor este problema, es fundamental explorar sus causas, efectos y las medidas necesarias para abordarlo de manera efectiva.
 
      #### ¿Cuál es el problema?
-    El problema es la generación de lesiones fisiológicas causadas por falta de ergonomía en el entorno laboral. 
+    El problema se centra en la generación de lesiones fisiológicas debido a la falta de ergonomía en el entorno laboral, manifestadas principalmente por malas posturas y movimientos repetitivos asociados con el uso prolongado del computador. Este es el principal problema que buscamos solucionar en nuestro proyecto. 
     
     #### ¿Cuándo sucede el problema?
-    Sucede de manera continua a lo largo del día tras la exposición prolongada del uso del computador.
+    Este problema es continuo y se manifiesta a lo largo del día, especialmente durante exposiciones prolongadas al uso del computador, como las largas jornadas laborales o académicas.
     #### ¿Dónde sucede el problema?
-    Sucede dentro del hogar o centros laborales o en cualquier lugar donde se realicen actividades laborales que requieran.
+    El problema puede surgir en cualquier lugar donde se realicen actividades laborales que impliquen el uso extensivo del computador, ya sea en el hogar, centros laborales u otros entornos de trabajo remoto. Aquellos lugares en los que el usuario este expuesto durante largas horas a actividades monotonas que dañen su postura o su fisico. 
     
     #### ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo?
-    A las personas, mayormente jóvenes de 21 a 30 años de edad.
+    El problema afecta principalmente a personas jóvenes, con edades comprendidas entre los 21 y 30 años. Este grupo demográfico incluye tanto a empleados de oficina como a estudiantes de educación remota, quienes están especialmente expuestos a las condiciones no ergonómicas durante sus horas de trabajo o estudio.
     Incluye empleados de oficina y estudiantes de educación remota.
     
     #### ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?
-    El problema sucede debido a la falta de un espacio ergonómico, asi como estar frente al computador por largas jornadas, sin estar informado de la correcta postura al sentarse.
+    El problema sucede debido a la falta de un espacio ergonómico, asi como estar frente al computador por largas jornadas, sin estar informado de la correcta postura al sentarse. Todo esto genera que el fisico del usuario se perjudique, que ocurran ciertos problemas, tensiones o dificultades a nivel muscular u oseo que dificulten la vida diaria o la movilidad del usuario. 
 
 
     #### ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?
-    Comienzan a manifestarse por medio de una  exposición prolongada a condiciones ergonómicamente deficientes, esto incluye malas posturas, realizar movimientos repetitivos durante largos periodos de tiempo, como abusar del uso del celular, sobrecargar la posición del cuello, etc
+    Comienzan a manifestarse por medio de una  exposición prolongada a condiciones ergonómicamente deficientes, esto incluye malas posturas, realizar movimientos repetitivos durante largos periodos de tiempo, como abusar del uso del celular, sobrecargar la posición del cuello, etc. Lo que a menudo, resulta en dolores o problemas fisicos en el usuario.
+    
+    #### ¿Como nos conocieron los usuarios?
+    Para dar a conocer nuestro proyecto a los usuarios potenciales, es crucial implementar una estrategia de marketing integral que aproveche una variedad de canales y tácticas.
+    Presencia en redes sociales: Utilizar plataformas como Instagram, Facebook, Twitter y LinkedIn para compartir contenido relevante, consejos de salud, testimonios de clientes, y anuncios sobre nuestros productos y servicios.
+    Publicidad online: Invertir en publicidad digital mediante Google Ads, anuncios en redes sociales y publicaciones patrocinadas en sitios web relacionados con la salud y el bienestar.
+    Marketing de contenido: Crear contenido relevante y valioso, como videos tutoriales, infografías, podcasts y guías descargables, que ayuden a educar a nuestra audiencia sobre la importancia de la ergonomía
+    Participación en eventos y ferias: Asistir a ferias comerciales, eventos de salud y bienestar, y conferencias relacionadas con la ergonomía y la prevención de lesiones laborales para mostrar nuestros productos
     
     #### ¿Cuánto impacto genera este problema? Representar datos estadísticos del segmento que tiene el problema.
     Dentro del mismo estudio mencionado anteriormente, se logró determinar que:
@@ -130,7 +214,10 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
     Un estudio de la Asociación Internacional de Ergonomía y Salud Ocupacional encontró que el dolor musculoesquelético  relacionado con el trabajo es una de las principales causas de discapacidad laboral en todo el mundo, lo que resulta en costos significativos para los empleadores y la sociedad en general.
     
+
+    
   - 1.2.2. Lean UX Process.
+    - 1.2.2.1 Lean UX Problem Statement
      Debido a la pandemia, se formalizaron las clases y trabajos remotos para ayudar a continuar con el desarrollo de los ciudadanos, sin embargo, diversas empresas, institutos y universidades optaron por normalizar el aprendizaje y las labores de manera virtual, por lo que las horas frente al computador aumentaron radicalmente. Esto genera diversos problemas, como la mala postura corporal, lo cual genera lesiones fisiológicas, las cuales de no ser tratadas pueden generar lesiones o atrofias permanentes. 
 
 
