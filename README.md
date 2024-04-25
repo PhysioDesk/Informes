@@ -237,7 +237,11 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
         - Diseñar una plataforma interactiva donde el usuario pueda, mediante una imagen 3D del cuerpo humano, señalar la ubicación de su lesión.
 
       **Features:**
-     
+      - Un marketplace integrado donde los usuarios puedan explorar y comprar una selección de productos ergonómicos recomendados, como sillas de oficina, soportes para computadoras y accesorios para mejorar la postura.
+      - Funcionalidades de comparación de productos y filtros de búsqueda avanzados para ayudar a los usuarios a encontrar los productos que mejor se adapten a sus necesidades y presupuesto.
+      - Integración de un directorio de fisioterapeutas y profesionales de la salud especializados en ergonomía, con la posibilidad de programar consultas y sesiones de rehabilitación directamente desde la plataforma.
+      - Herramientas para medir y rastrear el progreso del usuario en términos de mejora de la postura, reducción de dolores musculoesqueléticos y aumento del bienestar general.
+      - Mecanismos para recopilar informes y citas de los usuarios.
     
       **User Outcomes:**
         ##### Para los Usuarios:
@@ -245,13 +249,19 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
         - Ayudar a los usuarios a planificar las sesiones y reservarlas para una experiencia personalizada.
         - Facilitar la interacción de los clientes con los fisioterapeutas y proporcionar una orientación personalizada para que disfruten de su experiencia.
 
-        ##### Para las Empresas de inmuebles ergonómicos:
-        - Permitir a las empresas llegar a un público más amplio y aumentar sus ingresos a través de las compras por medio de los usuarios.
+        ##### Para los fisioterapeutas:
+        - Permitir a los fisioterapeutas llegar a un público más amplio y aumentar sus ingresos a través de las compras por medio de los usuarios.
         - Facilitar el envío de los productos y la comunicación de los clientes, lo que les permite ofrecer un servicio selección de alta calidad.
 
     - 1.2.2.3. Lean UX Hypothesis Statements.
    
 	Creemos que al proporcionar herramientas para ajustar el entorno de trabajo del usuario, como la silla y el monitor, podremos mejorar la postura y la comodidad durante las horas de trabajo. Sabremos esto cuando notemos una mejora en la ergonomía del espacio de trabajo y una disminución en las molestias físicas reportadas por los usuarios.
+
+Creemos que brindando una mas facil y accesible comunicación y atención entre cliente y fisioterapeuta, podremos aumentar la cantidad de citas que tienen los terapeutas. Sabremos esto cuando veamos un aumento en la cantidad de pacientes que asisten a terapia fisica. 
+
+Creemos que al proporcionar seguimiento y conscientización sobre el dolor fisico, los usuarios tomaran mayor preocupación e importancia a su postura o su dolor muscular. Sabremos que hemos tenido exito cuando observemos una disminución en las molestias fisicas reportadas por los usuarios. 
+
+Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuario, motivaremos a los usuarios a continuar una rutina de ejercicio que mejore su postura. Sabermos que hemos tenido exito cuando observemos las rutinas de ejercicio de los usuarios ser completadas. 
 
     - 1.2.2.4. Lean UX Canvas.
 
@@ -274,7 +284,7 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 	- Personas preocupadas por su salud y bienestar.
 	- Individuos interesados en la prevención de lesiones relacionadas con el trabajo.
 
-  #### Segmento objetivo 2: Empresas y Corporaciones
+  #### Segmento objetivo 2: Fisioterapeutas
   **Aspectos demográficos:**
 	- **Sexo:** Ambos sexos.
 	- **Edades:** Adultos jóvenes y adultos de mediana edad (18-45 años).
