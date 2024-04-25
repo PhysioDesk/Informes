@@ -13,7 +13,7 @@
 **Sección:** WX52 </br>
 **Docente:** Elio Jefferrson Navarrete Vilca </br>
 **Ciclo:** 2024-01 </br>
-**Nombre de la Startup:** Name </br>
+**Nombre de la Startup:** PhysioDesk </br>
 **Nombre del producto:** PhysioDesk </br>
 
 <h3>Integrantes</h3>
