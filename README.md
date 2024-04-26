@@ -29,7 +29,9 @@
 </div>
 </br>
 
-## Tabla de contenidos
+## Project Report Collaboration Insights
+
+## Contenido
   - [0. Student Outcome](#0)
   - [1. Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
   - [2. Capítulo II: Requirements Elicitation & Analysis](#2-cap%C3%ADtulo-ii-requirements-elicitation--analysis)
@@ -316,7 +318,7 @@ Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuar
 
 	Estas empresas representan algunos de los competidores existentes en el mercado de aplicaciones ergonómicas y de salud, compitiendo por la preferencia de usuarios comprometidos con su salud y bienestar mientras trabajan en entornos informáticos.
 
-- 2.2. Analisis Competitivo
+- 2.1.1. Analisis Competitivo
 
 ### Perfil de la Startup
 
@@ -348,7 +350,7 @@ Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuar
 | Oportunidades | - Aumento de la conciencia sobre la importancia de la salud y el bienestar en el entorno laboral. - Expansión del mercado de salud y bienestar con el crecimiento de la fuerza laboral remota. - Colaboraciones estratégicas con empresas y profesionales de la salud ocupacional para promover la adopción de PhysioDesk. | - Crecimiento del mercado de salud ocupacional y ergonomía en empresas preocupadas por el bienestar de sus empleados. - Expansión internacional a nuevos mercados emergentes con una demanda creciente de soluciones ergonómicas. - Desarrollo de nuevas características y soluciones para abordar las necesidades cambiantes del mercado. | - Expansión del mercado de fitness y salud con el aumento de la conciencia sobre la importancia de la actividad física y la nutrición. - Colaboraciones estratégicas con empresas de tecnología y dispositivos para integrar MyFitnessPal en productos y servicios existentes. - Desarrollo y mejora continua de nuevas características y herramientas para mantener la relevancia en el mercado. | - Aumento de la demanda de tratamientos terapéuticos y fisioterapia en el entorno laboral. - Colaboraciones con empresas y profesionales de la salud para la promoción y adopción de PhysioAdvisor. - Desarrollo de nuevas características y servicios para abordar las necesidades cambiantes del mercado de salud ocupacional. |
 | Amenazas | - Competencia intensa de empresas establecidas en el mercado de salud y bienestar. - Riesgos de seguridad y privacidad asociados con el almacenamiento y procesamiento de datos de usuarios. - Cambios en las regulaciones y políticas gubernamentales que pueden afectar la operación y la expansión internacional de PhysioDesk. | - Competencia de otras empresas de ergonomía y soluciones de salud ocupacional con mayor reconocimiento de marca y recursos financieros. - Vulnerabilidades de seguridad y riesgos de privacidad asociados con el almacenamiento y procesamiento de datos de clientes. - Cambios en las regulaciones y políticas gubernamentales que pueden afectar la industria de la salud ocupacional y ergonomía. | - Competencia de otras aplicaciones de fitness y salud en el mercado, que pueden ofrecer características similares y una experiencia de usuario comparable. - Amenazas de seguridad cibernética y violaciones de datos que pueden socavar la confianza del usuario en la plataforma. - Cambios en las preferencias y necesidades del usuario que pueden afectar la demanda de servicios de fitness y salud en línea. | - Competencia de otras aplicaciones y servicios de fisioterapia en el mercado, que pueden ofrecer tratamientos similares y una experiencia de usuario comparable. - Amenazas de seguridad cibernética y violaciones de datos que pueden socavar la confianza del usuario en la plataforma. - Cambios en las preferencias y necesidades del usuario que pueden afectar la demanda de servicios de fisioterapia en línea. |
 
-- 2.3. Estrategias y tácticas frente a competidores.
+- 2.1.2 Estrategias y tácticas frente a competidores.
   
 ## Estrategias:
 
@@ -369,8 +371,8 @@ Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuar
 | Crear Contenido Educativo y de Sensibilización   | Desarrollar contenido educativo sobre ergonomía y salud en el trabajo para sensibilizar a los usuarios sobre la importancia del cuidado corporal. |
 
   
-- 2.4. Entrevistas.
-  - 2.4.1. Diseño de entrevistas.
+- 2.2. Entrevistas.
+  - 2.2.1. Diseño de entrevistas.
   	#### Para el segmento de usuarios:
 
 	1. ¿Cuáles son los principales problemas de salud relacionados con el trabajo de oficina que enfrentas en tu día a día?
@@ -398,7 +400,7 @@ Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuar
 	1¿Qué desafíos anticipa al adoptar una nueva plataforma o herramienta digital en su práctica profesional, y cómo planea superarlos?
 
   
-  - 2.4.2. Registro de entrevistas.
+  - 2.2.2. Registro de entrevistas.
 
 	- Usuarios:
       	- Entrevista #1:
@@ -418,15 +420,15 @@ Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuar
 		Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/ERP_ICuU7vFOo6UU5kwRIT4BgZ2Y3powGDwu2qtq7wSHpg?e=HSbS7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
 		Resumen: La entrevista resalta los métodos que utilizan a día de hoy los fisioterapeutas para tratar con sus clientes. Se puede destacar que la tecnología llega para mejorar los aspectos críticos del mercado, facilitando la comunicación entre profesional y cliente, mediante una aplicación web, donde el fisioterapeuta podrá brindar sus servicios. Todo ello mejorará la organización de tiempos y ayudará a llegar a más clientes.
 
-- 2.4.3. Análisis de entrevistas.
+- 2.2.3. Análisis de entrevistas.
   	## Entrevista 1: Maria Lucia Paez Cairo
   	- En la entrevista, Maria Lucia Paez discute los problemas de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. No ha utilizado herramientas específicas, pero realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad. Muestra interés en tecnologías como Seiko Desk y valora la atención personalizada en las plataformas de salud. Ve la integración de PhysioDesk en su rutina diaria como la adquisición de un hábito para mejorar su postura.
  
 	## Entrevista 2: Kevin Quintana Cauti
 	- El fisioterapeuta identificó desafíos comunes en la falta de conciencia sobre la postura y la dificultad para cambiar hábitos. Utiliza evaluaciones físicas y herramientas de medición para abordar estos problemas. Valora la accesibilidad y personalización en plataformas digitales como PhysioDesk, que simplificarían la gestión de datos y mejorarían la participación del paciente. Cree en el poder de la tecnología para mejorar la fisioterapia y enfatiza la importancia de mantenerse actualizado. Utiliza demostraciones prácticas y recursos digitales para educar a los pacientes. Evalúa el éxito del tratamiento por la mejora de síntomas y la reducción de lesiones relacionadas con la ergonomía. Planea superar desafíos en la adopción de nuevas plataformas mediante planificación y colaboración con proveedores confiables.
-- 2.5. Needfinding.
+- 2.3. Needfinding.
 
-	# User Personas.
+  - 2.3.1. User Personas.
   	Con el propósito de profundizar en nuestra comprensión de nuestro público objetivo, hemos analizado la información recopilada de entrevistas previas. A partir de este análisis, hemos creado un "User Persona" para cada segmento objetivo, una representación ficticia de un usuario típico dentro de nuestro segmento. Este perfil detallado incluye información sobre la personalidad, historia, motivaciones, objetivos y desafíos del usuario. Esta herramienta será invaluable para nuestro equipo, ya que nos permitirá establecer una conexión más sólida con el cliente ideal de nuestro producto, lo que a su vez nos ayudará a desarrollar mejoras que satisfagan de manera óptima las necesidades de nuestros usuarios.
 
 	### Para el segmento Usuarios
@@ -436,7 +438,7 @@ Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuar
   ![Carlos Rivera](https://github.com/PhysioDesk/Informes/assets/127764958/044a5c69-9378-4082-a8ca-d7e611a131fc)
 
 
-- 2.7. User Task Matrix.
+- 2.3.2. User Task Matrix.
 ### Bruno Moises   
 | Actividades                                                 | Frecuencia    | Importancia |
 |-------------------------------------------------------------|---------------|-------------|
@@ -457,28 +459,28 @@ Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuar
 | Participar en programas de bienestar en el lugar de trabajo | A veces       | Alta        |
 | Promover la cultura de la ergonomía en la empresa           | A veces       | Alta        |
 
-- 2.8. User Journey Mapping.
+- 2.3.3. User Journey Mapping.
   	### Segmento Usuario
   	![Imagen de WhatsApp 2024-04-05 a las 23 29 42_88b954a1](https://github.com/PhysioDesk/Informes/assets/127764958/c5043a5c-a075-45d1-aa29-9f6917ba8497)
 
  	### Segmento Profesional
   	![Imagen de WhatsApp 2024-04-05 a las 23 36 36_f7fe5a61](https://github.com/PhysioDesk/Informes/assets/127764958/366f487e-368b-46ca-9f7d-c3f00f7ffeea)
 
-- 2.9. Empathy Mapping.
+- 2.3.4. Empathy Mapping.
   	### Segmento Usuario
   	![Empathy map Usuario](https://github.com/PhysioDesk/Informes/assets/127764958/813dff6d-4f06-4ed7-9fcc-efe4addb213b)
 
  	### Segmento Profesional
   	![Imagen de WhatsApp 2024-04-06 a las 01 09 50_9aba3370](https://github.com/PhysioDesk/Informes/assets/127764958/f9c4c366-46cd-4285-ae3c-d3517b7fcae3)
 
-- 2.10. As-is Scenario Mapping.
+- 2.3.5. As-is Scenario Mapping.
   	### Segmento Usuario
   	![Imagen de WhatsApp 2024-04-06 a las 01 22 47_0b14448b](https://github.com/PhysioDesk/Informes/assets/127764958/fc8c80d6-0ec9-45cb-834d-934a33a3fe22)
 
  	### Segmento Profesional
   	![Imagen de WhatsApp 2024-04-06 a las 08 56 04_deebcd1f](https://github.com/PhysioDesk/Informes/assets/127764958/0173bf4b-94b5-4e78-b85b-6651e8c36796)
 
-- 2.11. Ubiquitous Language.
+- 2.4. Ubiquitous Language.
   ### Términos y Conceptos
   
  	 1. **PhysioDesk**: El nombre del proyecto en sí mismo, que se refiere a la plataforma y al asistente virtual diseñado para proporcionar soluciones ergonómicas y ejercicios para usuarios que pasan mucho tiempo frente al computador.
@@ -624,7 +626,14 @@ Link para visualizar el Product Backlog en Pivotal Tracker: https://www.pivotalt
 
 - 4.1. Style Guidelines.
   - 4.1.1. General Style Guidelines.
+ 
+Visión:
+"Nos visualizamos como líderes en la promoción de la salud física y el bienestar en entornos laborales y educativos, transformando la manera en que las personas interactúan con la tecnología para prevenir lesiones fisiológicas y mejorar su calidad de vida".
 
+Misión
+"Nuestra misión es proporcionar soluciones innovadoras y accesibles que ayuden a las personas a mantener una postura saludable, prevenir lesiones fisiológicas y optimizar su rendimiento en entornos laborales y educativos. A través de nuestro compromiso con la educación, la tecnología y el apoyo personalizado, estamos dedicados a empoderar a nuestros usuarios para que tomen el control de su salud física y alcancen su máximo potencial en un mundo digitalizado".
+
+Origen del Nombre
 El nombre del software identificado es PhysioDesk. Descomponiendo el nombre en dos, ‘Physio’ que significa condición física y ‘Desk’ que significa carpeta. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal especializado en contactar y gestionar sus sesiones para recibir una atención de calidad, por ello se optó por la búsqueda de fisioterapeutas. Se usará también el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
 
@@ -822,7 +831,7 @@ Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app
 
 Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943
 
-  - 4.4.5. Web Applications Prototyping.
+  - 4.5. Web Applications Prototyping.
     
 Se siguieron una serie de principios esenciales para desarrollar los prototipos de la interfaz de usuario :
 
@@ -835,17 +844,17 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/1f6234b8-0aa8-4ddf-95a9-6f6346886696)
 
 
-- 4.5. Domain-Driven Software Architecture.
-  - 4.5.1. Software Architecture Context Diagram.
+- 4.6. Domain-Driven Software Architecture.
+  - 4.6.1. Software Architecture Context Diagram.
     <img src="static/img/Chapter 4/D_Contextual.png">
-  - 4.5.2. Software Architecture Container Diagrams.
+  - 4.6.2. Software Architecture Container Diagrams.
     <img src="static/img/Chapter 4/D_Contenedores.png">
-  - 4.5.3. Software Architecture Components Diagrams.
+  - 4.6.3. Software Architecture Components Diagrams.
     <img src="static/img/Chapter 4/D_Componentes.png">
-- 4.6. Software Object-Oriented Design.
-  - 4.6.1. Class Diagrams.
+- 4.7. Software Object-Oriented Design.
+  - 4.7.1. Class Diagrams.
     <img src="static/img/Chapter 4/D_Clases.png">
-  - 4.6.2. Class Dictionary. 
+  - 4.7.2. Class Dictionary. 
     - **Usuario:** Clase que representa a todos los usuarios en sí, teniendo los atributos principales del nombre del usuario y su clave para iniciar sesión y el número de teléfono para permitir el contacto entre usuarios regulares con los fisioterapeutas y vendedores. Además, presenta un método para agregar rutinas, algo que tanto los usuarios regulares como los fisioterapeutas pueden utilizar. 
   	- **Fisioterapeuta:** Subclase de usuario que representa a los expertos en fisioterapias y pueden comunicarse con los usuarios regulares para entrenamientos o asignarles rutinas. Presentan el atributo de especialidad para diferentes tipos de actividades. 
   	- **Vendedor:** Subclase de usuario que representa a los vendedores y empresas de muebles ergonómicos y herramientas para terapias físicas. Presentan un método para agregar productos a la lista de productos en venta. \
@@ -856,8 +865,8 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
     - **InterfazAplicación:** Clase general que representa las funcionalidades básicas dentro de la aplicación. Presenta métodos para el inicio de sesión requiriendo el nombre de usuario y su contraseña, mostrar la lista de productos en venta disponibles, mostrar las rutinas registradas por el usuario y la forma de contactarse con los fisioterapeutas a través de su nombre y teléfono. 
    - **BasedeDatos:** Clase general que representa la base de datos interna de la aplicación, registrando todos los usuarios, sus rutinas y los productos en venta. 
 
-- 4.7. Database Design.
-  - 4.7.1. Database Diagram. \
+- 4.8. Database Design.
+  - 4.8.1. Database Diagram. \
      <img src="static/img/Chapter 4/D_Database.png">
 
 
@@ -892,9 +901,17 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
 
   - 5.1.2. Source Code Management.
 
-Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos se unen a la develop Branch. 
+Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos, mediante un merge, se unen a la develop Branch. Y la develop branch al Main. 
 
-Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo las enumeraciones que plantea (1.0.0, 1.0.1, 1.1.0), así como los Conventional Commits, para nombrar los commits que hacemos en el proyecto, usando terminos como: "feat", "docs", etc. 
+Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo las enumeraciones que plantea (1.0.0, 1.0.1, 1.1.0), 
+- Siendo el primer numero, la verisón mayor, que elimina la compatibilidad con versiones mayores
+- El segundo numero, la version menor, que introduce caracteristicas que son compatibles con versiones anteriores
+- Y el tercer numero, el parche, que solo se incrementa cuando se introducen pequeñas correcciones que no afectan la compatibilidad. 
+
+así como los Conventional Commits, para nombrar los commits que hacemos en el proyecto, usando: 
+- Types: El tipo de cambio hecho, tales como fix, add, feat, build, chore, docs, test, entre otrs.
+- Scope: Permite señalizar la ubicación del commit en el proyecto. Nuestro proyecto no requirió su uso.
+- Description: Permite añadir una pequeña descripción. De igual, forma no recurrimos al uso del Description en la mayoria de Commits en nuestro proyecto. 
 
 URL del repositorio de Github del Landing Page: https://github.com/PhysioDesk/Frontend.git 
 
