@@ -1245,7 +1245,12 @@ Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e459
 ## Conclusiones
 
 - Conclusiones y recomendaciones.
-  En conclusión, podemos decir que PhysioDesk es un proyecto que podria funcionar y podria tener una gran acogida por su publico objetivo, asi como por la comunidad medica y terapeutica a nivel nacional . A lo largo del proyecto, tambien hemos determinado algunos puntos que mejorar, tanto en nuestra idea de proyecto, como en nuestra organización de grupo. Concluimos esta primera entrega, hasta el punto 5.2.1.8 y la elaboración unicamente del primer sprint, centrado en la elaboración de la Landing Page. Creemos que con todo lo aprendido en este entregable, podremos otorgar un producto y una marca mas pulida y mejor elaborada. 
+  En conclusión, podemos decir que PhysioDesk es un proyecto que podria funcionar y podria tener una gran acogida por su publico objetivo, asi como por la comunidad medica y terapeutica a nivel nacional. Creemos que puede beneficiar a un gran conjunto de personas, que laboran a diario en oficinas o escritorios y que no disponen del tiempo o del conocimiento como para contrarrestar el daño que le hace una vida tan monotona a su fisico. Esperamos de igual forma, poder brindar mayor atención e importancia al sector de la terapia fisica, pues por lo general no se tiene tanta consciencia sobre la importancia de la misma y lo perjudicial que puede ser no atender a terapia fisica cuando se es necesario. 
+  
+ A lo largo del proyecto, tambien hemos determinado algunos puntos que mejorar, tanto en nuestra idea de proyecto, como en nuestra organización de grupo. Concluimos esta primera entrega, hasta el punto 5.2.1.8 y la elaboración unicamente del primer sprint, centrado en la elaboración de la Landing Page. Creemos que con todo lo aprendido en este entregable, podremos otorgar un producto y una marca mas pulida y mejor elaborada. 
+
+ Para el segundo entregable, nos centramos en la creación del Web Application Service. Logramos aplicar todo lo aprendido en clase para su elaboración y además, pudimos corregir algunos puntos de la primera entrega del TB, asi como del Landing Page. 
+ 
 - Video About-the-Team.
 
 ## Bibliografía 
