@@ -853,17 +853,55 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
     <img src="static/img/Chapter 4/D_Componentes.png">
 - 4.7. Software Object-Oriented Design.
   - 4.7.1. Class Diagrams.
-    <img src="static/img/Chapter 4/D_Clases.png">
+    - **User Bounded Context**
+     <img src="static/img/Chapter 4/D_Clases_1.png">
+     
+    - **Product Bounded Context** 
+     <img src="static/img/Chapter 4/D_Clases_2.png">
+
+    - **Payment Bounded Context** 
+     <img src="static/img/Chapter 4/D_Clases_3.png">
+
   - 4.7.2. Class Dictionary. 
-    - **Usuario:** Clase que representa a todos los usuarios en sí, teniendo los atributos principales del nombre del usuario y su clave para iniciar sesión y el número de teléfono para permitir el contacto entre usuarios regulares con los fisioterapeutas y vendedores. Además, presenta un método para agregar rutinas, algo que tanto los usuarios regulares como los fisioterapeutas pueden utilizar. 
-  	- **Fisioterapeuta:** Subclase de usuario que representa a los expertos en fisioterapias y pueden comunicarse con los usuarios regulares para entrenamientos o asignarles rutinas. Presentan el atributo de especialidad para diferentes tipos de actividades. 
-  	- **Vendedor:** Subclase de usuario que representa a los vendedores y empresas de muebles ergonómicos y herramientas para terapias físicas. Presentan un método para agregar productos a la lista de productos en venta. \
-    - **Producto:** Clase que representa a los productos ergonómicos o de fisioterapias que se encuentran en venta por los vendedores y empresas. Presentan atributos de nombre del producto, una descripción y el precio de cada producto. \
-  	- **ListaProductos:** Clase que representa todos los productos en venta de un usuario vendedor, con cada uno teniendo una lista de productos. 
-    - **Rutina:** Clase que representa cada rutina y ejercicio registrado por los usuarios, tanto los usuarios regulares con rutinas propias como las rutinas registradas por los expertos para mejorar las condiciones físicas de los usuarios. Presenta atributos de nombre de la rutina, una descripción detallando cada rutina y una duración aproximada. 
-  	- **ListaRutina:** Clase que representa la colección de todas las rutinas registradas para un usuario. Cada usuario tiene su propia lista de rutinas. 
-    - **InterfazAplicación:** Clase general que representa las funcionalidades básicas dentro de la aplicación. Presenta métodos para el inicio de sesión requiriendo el nombre de usuario y su contraseña, mostrar la lista de productos en venta disponibles, mostrar las rutinas registradas por el usuario y la forma de contactarse con los fisioterapeutas a través de su nombre y teléfono. 
-   - **BasedeDatos:** Clase general que representa la base de datos interna de la aplicación, registrando todos los usuarios, sus rutinas y los productos en venta. 
+    - **User:** Clase que representa a los usuarios en general y su información. Tiene una relación de asociación con la clase UserFactory.
+      
+    - **Physiotherapist:** Clase que representa a los expertos en fisioterapias con la capacidad de comunicarse con usuarios regulares. Está asociado a la clase PhysiotherapistFactory.
+   
+    - **UserFactory:** Clase hija de UserManager. Permite la creación de los usuarios en el sistema y presenta una relación de asociación con la clase User. Presenta el método *createUser()* que crea objetos y define su funcionalidad para su clase hija.
+   
+    - **PhysiotherapistFactory:** Clase hija de UserFactory. Crea usuarios específicamente del tipo fisioterapeuta. Presenta una relación de asociación con Physiotherapist y presenta el método *createUser()*, heredado de su clase padre y modificado para crear usuarios del tipo fisioterapeuta.
+   
+    - **UserManager:** Clase encargada de gestionar todos los usuarios en el sistema. Presenta los métodos *createUser()*, *getUser()*, *updateUser()* y *deleteUser()*, encargadas de la creación, lectura, actualización y eliminación de los usuarios (CRUD).
+   
+    - **UserObserver:** Clase que gestiona el estado de los usuarios en el sistema, relacionada con la clase UserManager. Presenta el método *update()* para responder a los cambios en UserManager.
+   
+    - **Product:** Clase que representa a los productos ergonómicos en venta. Presenta una relación de asociación con ProductFactory y una de agregación con ProductsList.
+   
+    - **ProductFactory:** Clase encargada de crear nuevos objetos Product para ser agregados al sistema. Asociada a la clase Product. Presenta el método *createProduct()* utilizado para agregar nuevos productos al sistema.
+   
+    - **ProductsList:** Clase que representa toda la lista de productos ergonómicos en venta. Presenta una relación de asociación con la clase ProductsListviewStrategy y una de agregación con la clase Product.
+   
+    - **ViewStrategy:** Clase que define estrategias para visualizar el contenido de la lista de productos. Presenta una relación de herencia con ProductsListViewStrategy. Presenta el método *viewContent()* con la definición de la estrategia para visualizar la lista de productos.
+   
+    - **ProductsListViewStrategy:** Clase hija de ViewStrategy que representa la interfaz con la forma de visualizar el contenido de la lista de productos a través de diferentes estrategias. Presenta una relación de asociación con ProductsList y de herencia con ViewStrategy, ListViewStrategy y DetailViewStrategy. Presenta el método *viewContent()* para definir la forma que se visualiza la lista de productos sin la lógica de fondo.
+   
+    - **ListViewStrategy:** Clase hija de ProductsListViewStrategy que representa una de las estrategias para revisar la lista de productos. Presenta el método *viewContent()* que permite revisar el contenido de la lista de todos los productos como una lista general.
+   
+    - **DetailViewStrategy:** Clase hija de ProductsListViewStrategy que representa una de las estrategias para revisar la lista de productos. Presenta el método *viewContent()* que permite revisar el contenido de la lista de todos los productos con más información detallada de cada producto.
+   
+    - **PaymentObserver:** Clase hija de la clase Observer con una relación de asociación con la clase Payment. Está encargada de revisar los cambios de estado en la clase mencionada.
+   
+    - **SubscriptionObserver:** Clase hija de la clase Observer con una relación de asociación con la clase Subscription. Está encargada de revisar los cambios de estado en la clase mencionada.
+   
+    - **Subscription:** Clase que representa una subscripción premium a la aplicación. Presenta una relación de asociación con las clases SubscriptionStrategy, SubscriptionObserver y Payment.
+   
+    - **SubscriptionStrategy:** Clase que representa una interfaz para visualizar las suscripciones. Presenta una relación de asociación con las clases SubscriptionManager y Subscription.
+   
+    - **SubscriptionManager:** Clase que gestiona a los objetos de la clase Subscription. Asociada a la clase SubscriptionStrategy.
+   
+    - **Payment:** Clase que representa a los pagos en la aplicación, tanto los de suscripciones como los de compra de productos. Asociada a las clases PaymentObserver, PaymentFacade y Subscription.
+   
+    - **PaymentFacade:** Clase que facilita la relación entre los componentes de la aplicación y la realización de pagos.
 
 - 4.8. Database Design.
   - 4.8.1. Database Diagram. \
