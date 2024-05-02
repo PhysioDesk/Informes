@@ -1274,6 +1274,18 @@ Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e459
 | USER-022  | Registrarse en la aplicación |  TK21 | Registro | Permtir al usuario registrarse en la aplicación |2 |???|To do
 | USER-022  | Registrarse en la aplicación |  TK22 | mostrar información del perfil | Permtir al usuario ver la información registrada en su perfil |2 |???|To do
 
+- 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
+| ------------  | ------------  | ------------ | ------------ |------------|------------|
+|   |main|825a7c9|feat: Added first draft of Landing Page|Added first draft of Landing Page incluiding main menu.|11/04/24|
+|   |main|94af9ee|feat: Added images|Added images|12/04/24|
+|   |main|35f4891|Update index.html|Update index..html|12/04/24|
+|   |main|2ada6fb|Update style.css|Updated style.css|12/04/24|
+|   |main|98df8fa|Create funcionalities.js|Created funcionalities.js|13/04/24|
+|   |main|7e24545|Create js.js|Create js.js.|13/04/24|
+|   |main|da39ea0|feat: typos|feat:typos|13/04/24|
+
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
 - 5.3.2. Registro de Entrevistas.
