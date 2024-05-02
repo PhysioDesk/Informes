@@ -737,6 +737,19 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
 
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/1f6234b8-0aa8-4ddf-95a9-6f6346886696)
 
+- 4.5. Mobile Application UI Design.
+	- 4.5.1. Mobile Application Mock-ups.
+   	![image](https://github.com/PhysioDesk/Informes/assets/89022078/358515bd-c2ae-419b-8e50-c27775952f1d)
+   ![image](https://github.com/PhysioDesk/Informes/assets/89022078/4c1af68a-a2da-4597-930e-079870f34057)
+   ![image](https://github.com/PhysioDesk/Informes/assets/89022078/038fc310-e932-40bc-b075-b000416c5e4a)
+   ![image](https://github.com/PhysioDesk/Informes/assets/89022078/6e9dabd8-7805-4d9d-a22f-dd0fa983ea98)
+   ![image](https://github.com/PhysioDesk/Informes/assets/89022078/ad0d803c-926f-488b-841e-6214efc43355)
+   ![image](https://github.com/PhysioDesk/Informes/assets/89022078/b0541ccb-29a3-4f16-989c-775ab6ab7f10)
+   ![image](https://github.com/PhysioDesk/Informes/assets/89022078/9e6bbb6f-e3fd-4800-997f-12434a9370af)
+   ![image](https://github.com/PhysioDesk/Informes/assets/89022078/eb2df572-d1b8-414f-b22f-d02c8f1f5fca)
+
+   - 4.5.2 Mobile Application <br>
+     Link del prototipo: https://www.figma.com/proto/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=4539-1088&t=ZYIJf1jJyE4EWrhK-1&scaling=min-zoom&page-id=16%3A124&starting-point-node-id=4539%3A1088&show-proto-sidebar=1&mode=design
 
 - 4.5. Domain-Driven Software Architecture.
   - 4.5.1. Software Architecture Context Diagram.
