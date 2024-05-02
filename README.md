@@ -751,17 +751,17 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
    - 4.5.2 Mobile Application <br>
      Link del prototipo: https://www.figma.com/proto/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=4539-1088&t=ZYIJf1jJyE4EWrhK-1&scaling=min-zoom&page-id=16%3A124&starting-point-node-id=4539%3A1088&show-proto-sidebar=1&mode=design
 
-- 4.5. Domain-Driven Software Architecture.
-  - 4.5.1. Software Architecture Context Diagram.
+- 4.6. Domain-Driven Software Architecture.
+  - 4.6.1. Software Architecture Context Diagram.
     <img src="static/img/Chapter 4/D_Contextual.png">
-  - 4.5.2. Software Architecture Container Diagrams.
+  - 4.6.2. Software Architecture Container Diagrams.
     <img src="static/img/Chapter 4/D_Contenedores.png">
-  - 4.5.3. Software Architecture Components Diagrams.
+  - 4.6.3. Software Architecture Components Diagrams.
     <img src="static/img/Chapter 4/D_Componentes.png">
-- 4.6. Software Object-Oriented Design.
-  - 4.6.1. Class Diagrams.
+- 4.7. Software Object-Oriented Design.
+  - 4.7.1. Class Diagrams.
     <img src="static/img/Chapter 4/D_Clases.png">
-  - 4.6.2. Class Dictionary. 
+  - 4.7.2. Class Dictionary. 
     - **Usuario:** Clase que representa a todos los usuarios en sí, teniendo los atributos principales del nombre del usuario y su clave para iniciar sesión y el número de teléfono para permitir el contacto entre usuarios regulares con los fisioterapeutas y vendedores. Además, presenta un método para agregar rutinas, algo que tanto los usuarios regulares como los fisioterapeutas pueden utilizar. 
   	- **Fisioterapeuta:** Subclase de usuario que representa a los expertos en fisioterapias y pueden comunicarse con los usuarios regulares para entrenamientos o asignarles rutinas. Presentan el atributo de especialidad para diferentes tipos de actividades. 
   	- **Vendedor:** Subclase de usuario que representa a los vendedores y empresas de muebles ergonómicos y herramientas para terapias físicas. Presentan un método para agregar productos a la lista de productos en venta. \
@@ -772,8 +772,8 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
     - **InterfazAplicación:** Clase general que representa las funcionalidades básicas dentro de la aplicación. Presenta métodos para el inicio de sesión requiriendo el nombre de usuario y su contraseña, mostrar la lista de productos en venta disponibles, mostrar las rutinas registradas por el usuario y la forma de contactarse con los fisioterapeutas a través de su nombre y teléfono. 
    - **BasedeDatos:** Clase general que representa la base de datos interna de la aplicación, registrando todos los usuarios, sus rutinas y los productos en venta. 
 
-- 4.7. Database Design.
-  - 4.7.1. Database Diagram. \
+- 4.8. Database Design.
+  - 4.8.1. Database Diagram. \
      <img src="static/img/Chapter 4/D_Database.png">
 
 
