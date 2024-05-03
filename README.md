@@ -1218,7 +1218,7 @@ En esta entrega del sprint 1, logramos implementar una Landing Page funcional.
   
 | Integrante                         | Actividad                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Gianfranco Luna Morales| Diseño y estructura de la landing page |
+| Gianfranco Luna Morales| Diseño y estructura de la landing page. Vistas/estilos del personal data, side card. Appointment component.  |
 | Erick Joaquin Palomino Santa Cruz | Implementación de funcionalidades |
 | Anthony Jeandet Guerrero Castillo | Diseño y estructura de la landing page |
 | Juan Pablo Ramos Mendoza | Creación de Typos |
