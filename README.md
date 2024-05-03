@@ -305,28 +305,127 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
 	- Usuarios:
       	- Entrevista #1:
-  	![Imagen de WhatsApp 2024-04-13 a las 02 05 38_3c2aa5f7](https://github.com/PhysioDesk/Informes/assets/127764958/9cd6d5ed-cbbf-4f2c-922f-941c9d9ab121)
+  	![Image](https://github.com/PhysioDesk/Informes/assets/127764958/9cd6d5ed-cbbf-4f2c-922f-941c9d9ab121)
 	Entrevistado: Maria Lucia Paez<br>
+ 	Edad: 18 años. 
  	Entrevistador: Erick Joaquin Palomino Santa Cruz<br>
   	Duracion: 05:19<br>
-   	Link: https://youtu.be/7mP6-3dtAM8?si=7I2ffvJz830Z_dSs <br>
-    	Resumen: La entrevista enfatiza la importancia de una plataforma de salud con una interfaz atractiva y fácil de usar, así como la atención personalizada. Se menciona la integración de PhysioDesk en la rutina diaria para mejorar la postura.
+   	Minuto de inicio: 
+   	Link:  <br>
+    	Resumen: En la entrevista, María Lucía Páez discute los desafíos de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. Aunque no utiliza herramientas específicas, realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad.
+  	
+  	  Además, muestra interés en tecnologías como Physio Desk y valora la atención personalizada en las plataformas de salud. María Lucía considera la integración de PhysioDesk en su rutina diaria como una oportunidad para adquirir hábitos saludables y mejorar su postura. Su búsqueda de una plataforma similar a las aplicaciones de dieta, donde se ingresa información personalizada, refleja su deseo de personalización y facilidad de uso. Además, destaca la importancia de los ejercicios de relajación y estiramientos.
 
-	- Profesional:
-		- Entrevista #2:
+  	   Está ansiosa por probar PhysioDesk y evaluar si cumple con sus expectativas, esperando que sea fácil de usar, proteja los datos del usuario y tenga una interfaz interactiva. A pesar de no haber tenido experiencias positivas con productos ergonómicos, está dispuesta a probar la plataforma y valora la posibilidad de recibir recomendaciones personalizadas para mejorar su salud y convertir rutinas en hábitos.
+    
+	- Entrevista #2:
+  	![Imagen](https://github.com/PhysioDesk/Informes/assets/129527802/52931cd4-ab7f-4a2e-8dcc-b2a0c326347d)
+	Entrevistado: Samary Catalán<br>
+ 	Edad: 22 años. 
+ 	Entrevistador: Anthony Jeandet Guerrero Castillo<br>
+  	Duracion: 11:20<br>
+   	Minuto de inicio: 
+   	Link:  <br>
+    	Resumen: Samary, una estudiante de medicina en Puebla, México, de 22 años, destaca su uso frecuente de la computadora para realizar trabajos académicos y reportes de laboratorio. Al observar los principales problemas de salud entre sus compañeros universitarios, identifica el dolor de cuello, la incomodidad en la espalda debido a la postura y una silla poco ergonómica, así como problemas en la muñeca causados por el uso prolongado del mouse. Reconoce que un fisioterapeuta podría ayudarla a mejorar su técnica, dedicarle más tiempo y ser más precisa en sus estariamientos y practicas para una mejor postura.
+
+    Samary muestra interés en la idea de una tienda virtual asociada, donde los especialistas puedan recomendar productos para aliviar estas molestias. Además, ha experimentado mejoras tangibles al realizar ejercicios de muñeca y confía en los beneficios de la terapia física.
+    
+    - Entrevista #3:
+  	![Imagen](https://github.com/PhysioDesk/Informes/assets/129527802/b532c83e-cf66-4450-b212-1bcc09fb25c4)
+	Entrevistado: Verónica Mendoza<br>
+ 	Edad: 52 años. 
+ 	Entrevistador: Juan Pablo Ramos<br>
+  	Duracion: 06:02<br>
+   	Minuto de inicio: 
+   	Link:  <br>
+    	Resumen: Veronica Mendoza, Profesora de contabilidad de la UPC, enfocada principalmente en la enseñanza mediante clases virtuales, menciona una gran importancia hacia los estiramientos y ejercicios simples para mantener una buena postura, sin embargo, debido al tiempo que pasa o dictando clases o en trabajos administrativos, no puede mantener un buen horario para realizarlos.
+
+ Es por esto que ella podría mantener un mejor estado físico y de salud si es que tuviera una herramienta como la que brindamos con PhysioDesk, mencionando un uso principal al registro de un horario para los ejercicios o pausas activas, con alertas y recordatorios constantes.
+ 
+Cabe mencionar que la entrevistada presenta un alto interés en aplicaciones y no considera como un obstáculo alguno tener que instalar una aplicación como la nuestra.
+A pesar de ello, ella no ha utilizado ninguna aplicación como la que brindamos, con lo más cercano siendo una aplicación enfocada a ejercicios rutinarios de mayor esfuerzo.
+
+  - Entrevista #4:
+  	![Imagen](https://github.com/PhysioDesk/Informes/assets/129527802/cdbd9624-1a26-4c97-b655-692074201ce8)
+	Entrevistado: Narda Gomez Vera<br>
+ 	Edad: 21 años 
+ 	Entrevistador: Giacomo Zoppi Rodriguez<br>
+  	Duracion: 07:12<br>
+   	Minuto de inicio: 
+   	Link:  <br>
+    	Resumen: Narda Gomez, estudiante de la UPC, a menudo experimenta problemas de postura debido a su trabajo, lo que resulta en malestar en la espalda y fatiga visual. Aunque toma breves descansos y realiza estiramientos para aliviar la tensión, siente que hay demasiada información y no sabe por dónde empezar.
+
+    Espera que PhysioDesk sea confiable y efectivo, ofreciendo una amplia variedad de productos y profesionales seguros y confiables, con una búsqueda simple y una interfaz fácil de usar. Aunque realiza ejercicio interdiario y estiramientos musculares, siente que no tiene suficiente tiempo y, por lo tanto, toma descansos breves pero limitados. Está interesada en una herramienta tecnológica para mejorar su ergonomía, siempre y cuando sea práctica y confiable, ya que llega a un punto en el que se siente cansada.
+
+    Le gustaría que PhysioDesk sea práctico de usar, que ofrezca la capacidad de rastrear su progreso a distancia y que demuestre su efectividad. Aunque cree que los métodos de ergonomía, como los estiramientos y una silla ergonómica, funcionan hasta cierto punto, a veces se le olvida seguirlos. Sin embargo, considera que la falta de tiempo es un problema al buscar consejos de salud, ya que a menudo priorizamos el trabajo y los estudios sobre nuestra salud. Identifica el tiempo y el precio como las principales barreras. Cree que las recomendaciones de la aplicación son muy importantes, ya que demuestran el compromiso de la empresa con la salud de sus clientes y la motivan a seguir utilizando la plataforma.
+    
+**PROFESIONAL**
+ - Entrevista #1:
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/04add89c-c9c0-4e14-b0ac-5772a9cb61fd)
+
+	Entrevistado: Giancarlo Delaude<br>
+ 	Edad: 39 años 
+ 	Entrevistador: Erick Palomino<br>
+  	Duracion: 10:42<br>
+   	Minuto de inicio: 
+   	Link:  <br>
+    	Resumen: Giancarlo Delaude, fisioterapeuta que ofrece servicios a domicilio para adultos mayores, enfrenta varios desafíos en su práctica. Reconoce que muchos profesionales de la salud no tienen todas las herramientas necesarias, y debido a su altura, Giancarlo debe tener precaución con las camillas y otras herramientas que utiliza para evitar problemas de ergonomía tanto para él como para sus pacientes.
+
+En su trabajo, Giancarlo utiliza herramientas como fichas para evaluar a sus pacientes y trabaja con un panel con recuadros. Además, utiliza radiografías para evaluar aspectos como el alineamiento corporal de sus pacientes.
+
+Aunque el campo de la fisioterapia no está tan actualizado en el uso de plataformas tecnológicas, Giancarlo cree que Physiodesk podría ser una herramienta útil para recopilar datos de los pacientes, lo que considera una buena implementación de la tecnología en su práctica.
+
+Giancarlo valora la implementación de la tecnología en la fisioterapia, ya que facilita un trabajo más adecuado y permite que los fisioterapeutas puedan ver el progreso de los pacientes realizado por otros colegas en el mismo paciente.
+
+Para mantenerse actualizado, Giancarlo se basa en revistas médicas, estudios, fichas y otras publicaciones relevantes, todo con el objetivo de proporcionar mejores resultados a sus pacientes.
+
+Además, Giancarlo se esfuerza por educar a sus pacientes sobre la importancia de seguir las indicaciones en casa, ya que reconoce que algunos pacientes tienden a descuidar sus recomendaciones y realiza actividades que no son adecuadas para su cuerpo. Por ello, considera crucial el papel del fisioterapeuta en guiar y motivar a los pacientes para lograr una recuperación exitosa.
+
+    	 - Entrevista #2:
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/cd7bdb75-57d5-49ea-83d6-4f9c2d134219)
+	Entrevistado: Desiré Abrahamzon<br>
+ 	Edad: 39 años 
+ 	Entrevistador: Juan Pablo Ramos<br>
+  	Duracion: 10:42<br>
+   	Minuto de inicio: 
+   	Link:  
+    	Resumen: La entrevistada menciona que uno de los mayores problemas que presentan los pacientes es la limitación a las actividades que pueden realizar, en especial cuando los problemas son crónicos (mayores a 3 meses, como ella lo explicó), causando que ellos no puedan permanecer en ciertas posiciones por mucho tiempo y afectando su capacidad de trabajar. 
+     
+     Por esta razón, que cada paciente presenta problemas drásticamente distintos a pesar de que tener dolores similares, la entrevistada presenta la alta importancia de que una herramienta como la nuestra presente un buen estudio y análisis de lo que cada paciente realiza como trabajo o de forma rutinaria y exactamente dónde se presenta sus molestias, además de presentar estudios que el paciente se haya realizado, como información de postura y de los músculos y articulaciones.
+Sin embargo, la entrevistada presenta el problema de una herramienta o aplicación completamente nueva tardaría mucho tiempo en poder generar estos historiales que son de alta importancia para su trabajo y de otros fisioterapeutas y médicos.
+
+A pesar del tiempo que pueda tardarse, la entrevistada presenta un gran interés en una aplicación como PhysioDesk debido a que las formas de evaluar y analizar los problemas ergonómicos actualmente tardan mucho tiempo, a pesar de que son más rápidas de lo que eran hace unos años.
+Finalmente, la entrevistada menciona un interés en que nuestra aplicación tenga funciones para ayudar a los pacientes a que ellos puedan tener consciencia de sus propios problemas y cómo están mejorándolos, ya que tener una buena postura y salud física requiere bastante esfuerzo personal y consciente.
+	 - Entrevista #3:
+  	![image](https://github.com/PhysioDesk/Informes/assets/129527802/7a9b8c10-965e-407d-b6eb-982aa6b9d507)
+
+	Entrevistado: Sebastian Vegas<br>
+ 	Edad: 22 años 
+ 	Entrevistador: Giacomo Zoppi Rodriguez<br>
+  	Duracion: 13:46<br>
+   	Minuto de inicio: 
+   	Link:  
+    	Resumen: Sebastian Vegas destaca la falta de conciencia de los pacientes sobre su postura y hábitos ergonómicos, lo que puede afectar su salud a largo plazo. Cree en la importancia de educar a los pacientes sobre estas cuestiones para prevenir lesiones, y considera que las herramientas móviles pueden ser útiles para abordar estos problemas.
+
+Al evaluar a los pacientes, Sebastian se enfoca principalmente en cómo realizan sus actividades diarias para identificar patrones y posibles áreas de mejora.En cuanto a una aplicación como PhysioDesk, Sebastian busca facilidad de uso y una interfaz intuitiva y amigable. Considera crucial que sea segura y proteja la información médica privada. Busca una herramienta innovadora que pueda acercar al paciente y generar confianza, siendo esencial para su vida.Su opinión sobre la tecnología en la fisioterapia es positiva, ya que considera que la tecnología actual puede ser crucial para mejorar la accesibilidad y la salud en general. Cree que funciones como la planificación de tratamientos personalizados y una biblioteca de recursos educativos para la postura y rehabilitación pueden ser muy efectivas con el apoyo de la tecnología.
+
+Sebastian se mantiene actualizado sobre los avances tecnológicos en fisioterapia a través de conferencias, seminarios, noticias científicas e internet. Además, utiliza demostraciones prácticas, recomendaciones de ergonomía y materiales educativos como fotos, videos y afiches para educar a sus pacientes y mejorar su entorno laboral.
+
+		- Entrevista #4:
 		![image](https://github.com/PhysioDesk/Informes/assets/89022078/71b761e7-b69e-48a3-9c8d-659a11d83578)
 		Entrevistado: Kevin Quintana Cauti<br>
 		Entrevistador: Anthony Jeandet Guerrero Castillo<br>
 		Duracion: 07:37<br>
+  		Minuto de inicio:
 		Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/ERP_ICuU7vFOo6UU5kwRIT4BgZ2Y3powGDwu2qtq7wSHpg?e=HSbS7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
-		Resumen: La entrevista resalta los métodos que utilizan a día de hoy los fisioterapeutas para tratar con sus clientes. Se puede destacar que la tecnología llega para mejorar los aspectos críticos del mercado, facilitando la comunicación entre profesional y cliente, mediante una aplicación web, donde el fisioterapeuta podrá brindar sus servicios. Todo ello mejorará la organización de tiempos y ayudará a llegar a más clientes.
+		Resumen: El fisioterapeuta identificó desafíos comunes en la falta de conciencia sobre la postura y la dificultad para cambiar hábitos. Utiliza evaluaciones físicas y herramientas de medición para abordar estos problemas. Valora la accesibilidad y personalización en plataformas digitales como PhysioDesk, que simplificarían la gestión de datos y mejorarían la participación del paciente. Cree en el poder de la tecnología para mejorar la fisioterapia y enfatiza la importancia de mantenerse actualizado. Utiliza demostraciones prácticas y recursos digitales para educar a los pacientes. Evalúa el éxito del tratamiento por la mejora de síntomas y la reducción de lesiones relacionadas con la ergonomía. Planea superar desafíos en la adopción de nuevas plataformas mediante planificación y colaboración con proveedores confiables.
 
 - 2.4.3. Análisis de entrevistas.
   	## Entrevista 1: Maria Lucia Paez Cairo
-  	- En la entrevista, Maria Lucia Paez discute los problemas de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. No ha utilizado herramientas específicas, pero realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad. Muestra interés en tecnologías como Seiko Desk y valora la atención personalizada en las plataformas de salud. Ve la integración de PhysioDesk en su rutina diaria como la adquisición de un hábito para mejorar su postura.
+  	- 
  
 	## Entrevista 2: Kevin Quintana Cauti
-	- El fisioterapeuta identificó desafíos comunes en la falta de conciencia sobre la postura y la dificultad para cambiar hábitos. Utiliza evaluaciones físicas y herramientas de medición para abordar estos problemas. Valora la accesibilidad y personalización en plataformas digitales como PhysioDesk, que simplificarían la gestión de datos y mejorarían la participación del paciente. Cree en el poder de la tecnología para mejorar la fisioterapia y enfatiza la importancia de mantenerse actualizado. Utiliza demostraciones prácticas y recursos digitales para educar a los pacientes. Evalúa el éxito del tratamiento por la mejora de síntomas y la reducción de lesiones relacionadas con la ergonomía. Planea superar desafíos en la adopción de nuevas plataformas mediante planificación y colaboración con proveedores confiables.
+	- 
 - 2.5. Needfinding.
 
 	# User Personas.
