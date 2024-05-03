@@ -436,18 +436,30 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
 
   - 4.4.2. Web Applications Wireflow Diagrams.
+    <br>El usuario da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
     ![image](https://github.com/PhysioDesk/Informes/assets/129527802/5034f4d5-8d6c-4d7e-9c19-061ac93863b5)
+    <br>El usuario da click en "Sign Up", luego digita su nombre, correo, password y telefono, y da click en "Register". Posteriormente, tendrá que iniciar sesión.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/24870a28-61f2-4743-84d8-21ab20a6051c)
+<br>El usuario da click en "Sign In", luego selecciona "Forgot Password", ingresa su correo, ingresa el código y crea una nueva contraseña<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/f2dd1814-c1f7-41e1-82ac-8f24bb733ac4)
+<br>En la sección de información, selecciona "Edit". En la sección de problemas, selecciona "Edit", presiona en añadir, y agrega un nuevo problema<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c87f5b25-d558-4e97-9f27-7d636bb8678d)
+<br>Ingresa a "Ergonomic Zone", selecciona un producto, lo añade al carrito, ingresa al carrito de compras, continúa colocando los datos de su tarjeta, y finalmente aparece un mensaje de compra exitosa con el detalle. Ingresa a "Fisioterapeutas", selecciona un fisioterapeuta, selecciona un horario disponible y finalmente aparece un mensaje de reserva exitosa con el detalle.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c8a49309-8e90-4fed-a1f0-280bb9eca681)
+<br>Ingresa a "Appoinments" y selecciona la sesión pendiente a ocurrir.Ingresa a "Notificaciones" y configura las notificaciones según su preferencia.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/21215453-3143-4c0e-9dc8-c25f74fbcdc4)
+<br>Ingresa a "Acitivdades", selecciona el detalle de una actiuvidad, la realiza, y marca como completada.Ingresa a "Notificaciones" y se visualiza todas las notificaciones no leídas.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/98b06b75-baac-44c6-b34d-805c76303831)
 
+<br>El fisioterapeuta da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/d2c53094-f991-471c-a801-b682517a0088)
+<br>En la sección de información, selecciona "Edit".En la sección de "Schedule", se agrega los horarios disponibles de atencion<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/90823aeb-8d32-47a5-a0a4-660a73cca7e9)
+<br>En la sección de "Active sessions", puede seleccionar la reunion proxima a llevarse a cabo.En la sección de "Active sessions", selecciona un cliente y puede ver la información de este<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/82404488-c05c-4295-8e6f-5b8544dade80)
+<br>En la sección de "Payments", visualiza las tarjetas guardadas, y puede agregar una nueva.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/af036dba-09d7-46c9-b878-0773091de0c2)
+
 
 Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943 
 
@@ -463,23 +475,40 @@ Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?vie
 Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
 
   - 4.4.4. Web Applications User Flow Diagrams.
+    <br>El usuario da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
     ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c4e2e3f6-d58b-4685-97b6-d8ea6b473364)
+    <br>El usuario da click en "Sign Up", luego digita su nombre, correo, password y telefono, y da click en "Register". Posteriormente, tendrá que iniciar sesión.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/f130eede-4fde-40e6-8834-8be9356021f2)
+<br>El usuario da click en "Sign In", luego selecciona "Forgot Password", ingresa su correo, ingresa el código y crea una nueva contraseña<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/72d38c22-d56a-44ff-9145-6b5278dd0d48)
+<br>En la sección de información, selecciona "Edit"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/d34fa867-adbf-4c3c-8c6b-67a81505cd4f)
+<br>En la sección de problemas, selecciona "Edit", presiona en añadir, y agrega un nuevo problema<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/0581d6f6-31aa-4a7e-8407-b5911fa6e792)
+<br>Ingresa a "Ergonomic Zone", selecciona un producto, lo añade al carrito, ingresa al carrito de compras, continúa colocando los datos de su tarjeta, y finalmente aparece un mensaje de compra exitosa con el detalle.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/9f382d63-ad52-4f5b-be09-5335250ece25)
+<br>Ingresa a "Fisioterapeutas", selecciona un fisioterapeuta, selecciona un horario disponible y finalmente aparece un mensaje de reserva exitosa con el detalle.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/2a36562d-406d-41eb-8040-d0eb8f8afedf)
+<br>Ingresa a "Appoinments" y selecciona la sesión pendiente a ocurrir.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/3137ed8e-def7-4296-ae2b-a3d7985f6f90)
+<br>Ingresa a "Notificaciones" y configura las notificaciones según su preferencia.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/456f4e62-c7e7-4796-9965-00dfebcd70bd)
+<br>Ingresa a "Acitivdades", selecciona el detalle de una actiuvidad, la realiza, y marca como completada.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b12810c-f12d-4efb-9448-cd2430c67bdb)
+<br>Ingresa a "Notificaciones" y se visualiza todas las notificaciones no leídas.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/4fafb095-7606-48f3-b19d-4d2515f82f87)
 
+<br>El fisioterapeuta da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/766a3b93-aaf0-4530-8990-a2b04cabbc27)
+<br>En la sección de información, selecciona "Edit"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/25cd8cbe-15a4-411c-af36-9427043e415d)
+<br>En la sección de "Schedule", se agrega los horarios disponibles de atencion<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/ad68d7a5-349c-4de0-ae97-5685e9893235)
+<br>En la sección de "Active sessions", puede seleccionar la reunion proxima a llevarse a cabo.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/93a388ca-fe2d-4e91-b641-af22c73f3c0c)
+<br>En la sección de "Active sessions", selecciona un cliente y puede ver la información de este<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/513fd527-1c39-46f4-842a-8bd0d00b8651)
+<br>En la sección de "Payments", visualiza las tarjetas guardadas, y puede agregar una nueva.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/e8eb9830-1477-4475-ad30-b739076c9e9a)
 
 Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943
