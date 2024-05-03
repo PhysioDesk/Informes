@@ -50,7 +50,7 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
-    - PhysioDesk/Ergonomic-Style es la implementación de un modelo de un asistente virtual que brinda soluciones ergonómicas y ejercicios para personas que ocupan gran parte del día en el computador. La iniciativa busca analizar el estilo de vida del usuario con el fin de brindar las herramientas indicadas para aliviar y/o prevenir lesiones fisiológicas mediante un entorno ergonómico. Así mismo, recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
+    - PhysioDesk es la implementación de un modelo de un asistente virtual que brinda soluciones ergonómicas y ejercicios para personas que ocupan gran parte del día en el computador. La iniciativa busca analizar el estilo de vida del usuario con el fin de brindar las herramientas indicadas para aliviar y/o prevenir lesiones fisiológicas mediante un entorno ergonómico. Así mismo, recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
    
 
 
@@ -142,17 +142,41 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
       
     - 1.2.2.2. Lean UX Assumptions.
-  
-      **Bussines Outcomes:**
-        - Evaluar la efectividad de los ejercicios fisioterapéuticos mediante sesiones diarias programadas.
-        - Recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
-        - Desarrollar un sistema de seguimiento por medio de recopilación de datos con el fin de optimizar y personalizar los ejercicios adecuados según la lesión.
-        - Diseñar una plataforma interactiva donde el usuario pueda, mediante una imagen 3D del cuerpo humano, señalar la ubicación de su lesión.
+  **Business Outcomes:**
+1. **Creemos que nuestros usuarios necesitan**: Una forma mas eficaz de adquirir productos ergonomicos y tener citas con fisioterapeutas.
+2. **Estas necesidades se pueden satisfacer**: Con la creación de un proyecto que les permita acceder a estas funcionalidades desde su telefono movil u ordenador. 
+3. **Nuestros clientes iniciales serán**: Usuarios que requieran de atencion terapaeutica y fisioterapeutas
+4. **El valor #1 que un cliente quiere de nuestro servicio es:** solicitar citas con fisioterapeutas.
+   **Los clientes tambien pueden obtener:** productos ergonomicos y planes
+5. **Vamos a obtener la mayoria de los clientes mediante** publicidad en linea y campañas en internet o televisión. 
+6. **Vamos a hacer dinero mediante** las suscripciones premium. 
+7. **Nuestra competencia en el mercado serán** las plataformas dedicadas tambien a la gestión de citas de terapia o recomendaciones. 
+8. **El mayor riesgo de producción es** que el segmento objetivo no se encuentre dispuesto a adaptarse al avance tecnologico. 
+   **Lo resolvemos realizando**una promoción adecuada que logre cautivar a nuestro segmento obejtivo. Así como una interfaz accesible y facil de utilizar. 
 
-      **Features:**
+User Assumptions
+**1. ¿Quien es el usuario?**
+   - Usuarios que requieran de terapia o productos ergonomicos
+   - Fisioterapeutas
+
+**2. ¿Donde entra nuestro producto en su trabajo o su vida?**
+   - Entra en su vida diaria, en sus habitos y actividades.
+   - Entra en su trabajo. 
      
+**3. ¿Cual es el problema que nuestro producto soluciona?**
+   -La poca consciencia sobre problemas de postura y ergonomia. 
+   -EL dificil acceso a productos ergonomicos.
+   -La complicada comunicacion entre fisioterapeutas y usuarios. 
+     
+**4. ¿Como y cuando nuestro producto es usado?**
+	Es usado cuando el usuario quiere consultar una cita con un fisioteraputa o cuando quiere adquirir un producto ergonomico. 
+
+**5. ¿Como deberia nuestro producto verse o comportarse?**
+    El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. 
     
-      **User Outcomes:**
+
+
+  **User Outcomes:**
         ##### Para los Usuarios:
         - Proporcionar a los usuarios una amplia gama de consejos y herramientas ergonómicas.
         - Ayudar a los usuarios a planificar las sesiones y reservarlas para una experiencia personalizada.
@@ -162,9 +186,20 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
         - Permitir a las empresas llegar a un público más amplio y aumentar sus ingresos a través de las compras por medio de los usuarios.
         - Facilitar el envío de los productos y la comunicación de los clientes, lo que les permite ofrecer un servicio selección de alta calidad.
 
+**Feature Assumptions**
+- **Creemos que** el producto debe recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
+- **Creemos que** el producto debe desarrollar un sistema de seguimiento por medio de recopilación de datos con el fin de optimizar y personalizar los ejercicios adecuados según la lesión.
+- **Creemos que** el producto debe poder atender a citas con terapeutas, asi como consultar su información y horarios.
+- **Creemos que** el producto debe ofrecer la posibilidad del usuario de observar su rutina de ejercicios.
+- **Creemos que** el prodcuto debe implementar  una tienda virtual. 
+- **Creemos que** el producto debe ofrecer una plataforma interactiva donde el usuario pueda, mediante una imagen 3D del cuerpo humano, señalar la ubicación de su lesión.
     - 1.2.2.3. Lean UX Hypothesis Statements.
-   
-	Creemos que al proporcionar herramientas para ajustar el entorno de trabajo del usuario, como la silla y el monitor, podremos mejorar la postura y la comodidad durante las horas de trabajo. Sabremos esto cuando notemos una mejora en la ergonomía del espacio de trabajo y una disminución en las molestias físicas reportadas por los usuarios.
+  Creemos que al implementar un sistema de recomendaciones personalizadas sobre la postura y herramientas ergonómicas, podremos aumentar la conciencia y la adopción de prácticas saludables por parte de los usuarios. Esto se reflejará en una reducción de las lesiones relacionadas con la postura y una mejora en la salud física de los usuarios.
+Creemos que al desarrollar un sistema de seguimiento de datos para personalizar los ejercicios y la terapia según la lesión y las necesidades del usuario, podremos aumentar la eficacia del tratamiento y la satisfacción del usuario. Esto se evidenciará en una disminución de las quejas sobre la falta de progreso en la rehabilitación y una mayor adherencia a los planes de tratamiento.
+Creemos que al integrar un sistema de gestión de citas con fisioterapeutas y una plataforma de comunicación fluida entre usuarios y profesionales de la salud, podremos mejorar la accesibilidad y la eficiencia en la atención médica. Esto se demostrará mediante una mayor cantidad de citas programadas y una mejora en la comunicación entre los usuarios y los fisioterapeutas.
+Creemos que al proporcionar a los usuarios la capacidad de visualizar y seguir su rutina de ejercicios a través de la plataforma, podremos aumentar la motivación y la adherencia al programa de rehabilitación. Esto se reflejará en una mayor consistencia en la realización de ejercicios y una mejoría en los resultados de la terapia.
+Creemos que al integrar una tienda virtual de productos ergonómicos dentro de la plataforma, podremos facilitar el acceso a herramientas y productos que promuevan una mejor postura y salud física. Esto se evidenciará en un aumento en la adquisición de productos ergonómicos por parte de los usuarios y una mejora en la satisfacción general con la plataforma.
+Creemos que al implementar una plataforma interactiva que permita a los usuarios señalar la ubicación de su lesión en una imagen 3D del cuerpo humano, podremos mejorar la precisión en el diagnóstico y la personalización del tratamiento. Esto se demostrará mediante una mayor satisfacción de los usuarios con el nivel de atención y la efectividad de los tratamientos recibidos
 
     - 1.2.2.4. Lean UX Canvas.
 
