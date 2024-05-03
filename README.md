@@ -812,9 +812,18 @@ Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app
 
   - 4.4.2. Web Applications Wireflow Diagrams.
     ![image](https://github.com/PhysioDesk/Informes/assets/129527802/5034f4d5-8d6c-4d7e-9c19-061ac93863b5)
+    Descripcion: El usuario inicia sesión en la pantalla principal dandole al boton de sign up en el header, luego pasa a la siguient evista, en la que le da nuevamente al boton de sign in e ingresa sus datos, con lo que accede a physiodesk. 
+    
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/24870a28-61f2-4743-84d8-21ab20a6051c)
+Descripcion: El usuario entra al inicio de sesión en el header, pero le da al botón de olvidé mi contraseña, la intenta recuperar y puede reescribir una nueva contraseña para su cuenta. Una vez hecho esto, el usuario puede acceder a la pagina sin problema. 
+
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/f2dd1814-c1f7-41e1-82ac-8f24bb733ac4)
+Descripcion: EL usuario modifica la información personal de su cuenta, entrando al botón de edit en la pantall rpincipal. Una vez ahí, el usuario puede editar toda su información. Tambiepn, puede al darle al botónd de edit en la sección de problemas, editar el problema que tiene. 
+
+
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c87f5b25-d558-4e97-9f27-7d636bb8678d)
+Descripción
+
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c8a49309-8e90-4fed-a1f0-280bb9eca681)
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/21215453-3143-4c0e-9dc8-c25f74fbcdc4)
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/98b06b75-baac-44c6-b34d-805c76303831)
@@ -892,6 +901,7 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
     <img src="static/img/Chapter 4/D_Contenedores.png">
   - 4.6.3. Software Architecture Components Diagrams.
     <img src="static/img/Chapter 4/D_Componentes.png">
+    
 - 4.7. Software Object-Oriented Design.
   - 4.7.1. Class Diagrams.
     <img src="static/img/Chapter 4/D_Clases.png">
