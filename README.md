@@ -1449,7 +1449,7 @@ Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e459
 | USER-002  | Agregar herramienta ergonómica al carrito de compra y proceder al pago. |  TK01 | Sección Carrito de Compras | Añadir la sección de Carrito de compras |1 |Anthony Guerrero|Done
 | USER-003 | Ver detalle de la herramienta ergonómica |  TK02 | Sección Compras | Añadir la sección de Compras |2 |Anthony Guerrero|Done
 | USER-004  | Filtrar herramientas ergonómicas |  TK03 | Barra de búsqueda | Añadir una barra de búsquedas |2 |Anthony Guerrero|Done
-| USER-004  | Filtrar herramientas ergonómicas |  TK04 | Filtrado por búsqueda | Añadir filtros de búsqueda |3 |Anthony Guerrero|In process
+| USER-004  | Filtrar herramientas ergonómicas |  TK04 | Filtrado por búsqueda | Añadir filtros de búsqueda |3 |Anthony Guerrero|Done
 | USER-006  | Visualizar los horarios de atención de cada fisioterapeuta |  TK05 | Sección Lista de Fisioterapeutas | Añadir la sección de Lista de Fisioterapeutas |2 |Giacomo Zoppi|Done
 | USER-006  | Visualizar los horarios de atención de cada fisioterapeuta |  TK06 | Tabla de Terapeutas | Añadir una tabla de Fisioterapeutas con horario incluido |2|Giacomo Zoppi|Done
 | USER-007  | Reservar cita con fisioterapeuta |  TK07 | Selección de horario | Añadir una posibilidad de seleccionar citas con fecha y horario |1 |Giacomo Zoppi|Done
@@ -1462,16 +1462,13 @@ Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e459
 | FISIO-001  | Registrar detalles de cada sesión de tratamiento. |  TK14 | Registro de tratamientos | El fisioterapeuta debe poder interactuar con una tabla de tratamientos de pacientes suyos. |3 |Erick Palomino|In process
 | FISIO-003  | Generar informes. |  TK15 | Acceder al perfil del usuario | El fisioterapeuta debe poder acceder al perfil de sus pacientes |2 |Juan Pablo Ramos|In process
 | FISIO-003  | Generar informes. |  TK16 | Registrar informes sobre el paciente | El fisioterapeuta debe poder añadir informes al perfil del paciente  |2 |Juan Pablo Ramos, Erick Palomino|In process
-| FISIO-004  | Creación de planes de ejercicios de movimiento |  TK17 | Función creación de planes | Añadir la función de creación de planes para el fisioterapeuta |2 |Giacomo Zoppi|To do
-| FISIO-004  | Creación de planes de ejercicios de movimiento |  TK18 | Asignación de planes | El fisioterapeuta debe poder asignar ciertos planes de ejercicios a usuarios específicos. |3 |Todos|To do
-| FISIO-006  | Registrar horario disponible por parte del fisioterapeuta |  TK19 | Registro de horario | Añadir la función de registrar horario por parte del fisioterapeuta |3 |Giacomo Zoppi|To do
-| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK20 | Sección de Suscripción Premium | Añadir la sección de Suscripción Premium |4 |Todos|To do
-| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK21 |  Ingreso de método de pago | El usuario debe poder ingresar un método de pago |3 |Anthony Guerrero|Done
-| USER-018  | Registrar dolores musculares |  TK22 |  Registrar problemas y dolores musculares | Añadir una sección en la que registrar problemas musculares |3 |Erick Palomino|Done
-| USER-019  | Acceder al plan de ejercicios. |  TK23 | Acceso al plan de ejercicio | Añadir una sección de plan de ejercicios en el perfil |2 |Todos|To do
-| USER-020  | Marcar ejercicios como completados. |  TK24 | Marcar ejercicios como completados | Añadir un estado a los ejercicios del plan y que el usuario pueda asignarles un estado |2 |Todos|To do
-| USER-022  | Registrarse en la aplicación |  TK25 | Registro | Permitir al usuario registrarse en la aplicación |2 |Juan Pablo Ramos|To do
-| USER-022  | Registrarse en la aplicación |  TK26 | mostrar información del perfil | Permitir al usuario ver la información registrada en su perfil |1 |Juan Pablo Ramos|To do
+| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK17 | Sección de Suscripción Premium | Añadir la sección de Suscripción Premium |4 |Todos|To do
+| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK18 |  Ingreso de método de pago | El usuario debe poder ingresar un método de pago |3 |Anthony Guerrero|Done
+| USER-018  | Registrar dolores musculares |  TK19 |  Registrar problemas y dolores musculares | Añadir una sección en la que registrar problemas musculares |3 |Erick Palomino|Done
+| USER-019  | Acceder al plan de ejercicios. |  TK20 | Acceso al plan de ejercicio | Añadir una sección de plan de ejercicios en el perfil |2 |Todos|To do
+| USER-020  | Marcar ejercicios como completados. |  TK21 | Marcar ejercicios como completados | Añadir un estado a los ejercicios del plan y que el usuario pueda asignarles un estado |2 |Todos|To do
+| USER-022  | Registrarse en la aplicación |  TK22 | Registro | Permitir al usuario registrarse en la aplicación |2 |Juan Pablo Ramos|Done
+| USER-022  | Registrarse en la aplicación |  TK23 | mostrar información del perfil | Permitir al usuario ver la información registrada en su perfil |1 |Juan Pablo Ramos|Done
 
 - 5.2.2.3. Development Evidence for Sprint Review.
 
