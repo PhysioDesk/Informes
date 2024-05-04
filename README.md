@@ -29,7 +29,9 @@
 </div>
 </br>
 
-## Tabla de contenidos
+## Project Report Collaboration Insights
+
+## Contenido
   - [0. Student Outcome](#0)
   - [1. Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
   - [2. Capítulo II: Requirements Elicitation & Analysis](#2-cap%C3%ADtulo-ii-requirements-elicitation--analysis)
@@ -43,84 +45,168 @@
 ### 0. Student Outcome
 Criterio específico | Acciones Realizadas | Conclusiones
 ------------------- | ------------------- | ------------
-Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1-Luna Morales, Gianfranco: Se compartió ideas con respecto a la problemática de la falta de ergonomización en los hogares, mediante ello se diseño la landing page mediante las necesidades encontradas.<br> TB1-Palomino Santa Cruz, Erick Joaquin: Compartio ideas con respecto a la problematica de la falta de ergonomización.<br> TB1-Zoppi Rodriguez, Giacomo: Comuniqué ideas sobre el enfoque de trabajo y los puntos que queriamos completar para el desarrollo del proyecto.<br>TB1-Ramos Mendoza, Juan Pablo: Comuniqué mis ideas y resultados desde un punto de vista objetivo, con el fin de desarrollar nuestro proyecto, <br>TB1-Guerrero Castillo, Anthony: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. |  TB1-Luna Morales, Gianfranco: Se reforzó la práctica en el desarollo del langind, mock y wireframes, se solicitó apoyo del equipo para generar más ideas. <br> TB1-Palomino Santa Cruz, Erick Joaquin: Realizo el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III.<br>TB1-Zoppi Rodriguez, Giacomo: Compartir mis ideas nos permitió elaborar con facilidad y agilidad nuestro Sprint asi como nuestro Landing Page.<br>TB1-Ramos Mendoza, Juan Pablo: Al dialogar con mis compañeros y compartir nuestros objetivos, pudimos sacar adelante al equipo en la elaboración de nuestro proyecto. <br> TB1-Guerrero Castillo, Anthony: Al haber comunicado mis ideas de user story, todos logramos avanzar teniendo la misma noción de las funcionalidades de la aplicación.
-Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería | TB1-Luna Morales, Gianfranco: Se tuvo reuniones en Discord y en sesiones Google Meet para distriubir los puntos del trabajo, se comunicó dificultad al realizar los wireframes ya que necesitaba otra perfectiva, la cual mis compañeros pudieron realizar.<br>TB1-Zoppi Rodriguez, Giacomo: Mediante nuestro chat o nuestro Trello, pudimos compartir ideas y mensajes de forma escrita para la elaboración de nuestro proyecto.<br>TB1-Morales Mendoza, Juan Pablo: Logramos comunicarnos entre todos los integrantes, para poder elaborar nuestro producto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Meidante la comunicación escrita, realizamos el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III., <br> TB1-Guerrero Castillo, Anthony: Me comuniqué de foram escrita para brindar recomendaciones u observaciones sobre el avance del proyecto. |  TB1-Luna Morales, Gianfranco: Se logró delimitar los objetivos y extensión de la Startup, se basó en el público laboral y académico.<br>TB1-Zoppi Rodriguez, Giacomo: Pudimos definir y elaborar la idea de nuestro proyecto gracias a la comunicación escrita<br>TB1-Morales Mendoza, Juan Pablo: Comunicamos de forma escrita ideas y resultados con objetividad en nuestro proyecto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Pudimos hallar nuestro objetivo grupal para el proyecto y logramos culminarlo hasta su version mas reciente gracias a la comunicación escrita. <br>TB1-Guerrero Castillo, Anthony: Gracias a haberme comunicado de forma escrita, logré que todos podamos mejorar nuestra comunicación y afinar algunos puntos del proyecto.
+Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1-Luna Morales, Gianfranco: Se compartió ideas con respecto a la problemática de la falta de ergonomización en los hogares, mediante ello se diseño la landing page mediante las necesidades encontradas.<br> TB1-Palomino Santa Cruz, Erick Joaquin: Compartio ideas con respecto a la problematica de la falta de ergonomización.<br> TB1-Zoppi Rodriguez, Giacomo: Comuniqué ideas sobre el enfoque de trabajo y los puntos que queriamos completar para el desarrollo del proyecto.<br>TB1-Ramos Mendoza, Juan Pablo: Comuniqué mis ideas y resultados desde un punto de vista objetivo, con el fin de desarrollar nuestro proyecto, <br>TB1-Guerrero Castillo, Anthony: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web.<br> TP1-Palomino Santa Cruz, Erick Joaquin: Se compartio ideas para la mejora de la WebApp y ordenamiento de las carpetas.<br> TP1-Guerrero Castillo, Anthony Jeandet: Me puse de acuerdo con mis compañeros para elborar el bounded-context de productos.<br>TP1-Luna Morales, Gianfranco: Se comunicaron las ideas de styles de side-cards, personal data<br>TP1-Ramos Mendoza, Juan Pablo: Gracias a la comunicación con mis compañeros, pude identificar con rapidez los usos de cada clase y componente para poder implementar los estilos de forma rápida y sin problemas <br>TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web.|  TB1-Luna Morales, Gianfranco: Se reforzó la práctica en el desarollo del langind, mock y wireframes, se solicitó apoyo del equipo para generar más ideas. <br> TB1-Palomino Santa Cruz, Erick Joaquin: Realizo el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III.<br>TB1-Zoppi Rodriguez, Giacomo: Compartir mis ideas nos permitió elaborar con facilidad y agilidad nuestro Sprint asi como nuestro Landing Page.<br>TB1-Ramos Mendoza, Juan Pablo: Al dialogar con mis compañeros y compartir nuestros objetivos, pudimos sacar adelante al equipo en la elaboración de nuestro proyecto. <br> TB1-Guerrero Castillo, Anthony: Al haber comunicado mis ideas de user story, todos logramos avanzar teniendo la misma noción de las funcionalidades de la aplicación.<br> TP1-Palomino Santa Cruz, Erick Joaquin: Al haber comunicado mis ideas se desarrollo la creacion y estructura de la WebApp.<br> TP1-Guerrero Castillo, Anthony Jeandet: Teniendo las ideas claras, elaboré los componentes necesarios.<br> TP1-Luna Morales, Gianfranco: Se necesita reforzar conceptos de estilos.<br>TP1-Ramos Mendoza, Juan Pablo: Una buena comunicación nos permite obtener resultados rápidamente y sin problemas. TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. 
+Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. <br>TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. | TB1-Luna Morales, Gianfranco: Se tuvo reuniones en Discord y en sesiones Google Meet para distriubir los puntos del trabajo, se comunicó dificultad al realizar los wireframes ya que necesitaba otra perfectiva, la cual mis compañeros pudieron realizar.<br>TB1-Zoppi Rodriguez, Giacomo: Mediante nuestro chat o nuestro Trello, pudimos compartir ideas y mensajes de forma escrita para la elaboración de nuestro proyecto.<br>TB1-Morales Mendoza, Juan Pablo: Logramos comunicarnos entre todos los integrantes, para poder elaborar nuestro producto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Meidante la comunicación escrita, realizamos el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III., <br> TB1-Guerrero Castillo, Anthony: Me comuniqué de foram escrita para brindar recomendaciones u observaciones sobre el avance del proyecto.<br>TP1-Palomino Santa Cruz Erick Joaquin: Mediante reuniones en discord se distribuyo las partes de cada integrante y se hicieron reuniones cada 3 dias para ver y compartir nuestros avances.<br> TP1: Guerrero Castillo, Anthony Jeandet: Gracias a las reuniones, lograron ser conscientes de nuestro avance general y apoyarnos mutuamente.<br>TP1-Luna Morales, Gianfranco: Mediante el grupo de comunicación del grupo se informó los cambios realizados en el proyecto.<br>TP1-Ramos Mendoza, Juan Pablo: Los comentarios en el programa y nombres claros de clases permitió la fácil identificación de cada uno de los elementos, facilitando el proceso de desarrollo de estilos. <br>TP1-Giacomo Zoppi Rodriguez: Planifiqué reuniones para el avance del frontend.|  TB1-Luna Morales, Gianfranco: Se logró delimitar los objetivos y extensión de la Startup, se basó en el público laboral y académico.<br>TB1-Zoppi Rodriguez, Giacomo: Pudimos definir y elaborar la idea de nuestro proyecto gracias a la comunicación escrita<br>TB1-Morales Mendoza, Juan Pablo: Comunicamos de forma escrita ideas y resultados con objetividad en nuestro proyecto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Pudimos hallar nuestro objetivo grupal para el proyecto y logramos culminarlo hasta su version mas reciente gracias a la comunicación escrita. <br>TB1-Guerrero Castillo, Anthony: Gracias a haberme comunicado de forma escrita, logré que todos podamos mejorar nuestra comunicación y afinar algunos puntos del proyecto.<br>TP1-Palomino Santa Cruz,Erick Joaquin: Gracias a la comunicacion escrita se lograron realizar todos los puntos de nuestro proyecto.<br> TP1-Guerrero Castillo, Anthony Jeandet: Logramos avanzar en conjunto, compartiendo las mejores ideas de cada uno.<br>TP1: Luna Morales, Gianfranco: Los medios de comunicación de discord facilita la comunicación entre el equipo.<br>TP1-Ramos Mendoza, Juan Pablo: Una claridad al programar respetando las reglas de buena programación es de gran ayuda para un mejor desarrollo. <br>TP1-Giacomo Zoppi Rodriguez: Planifiqué reuniones para el avance del frontend.
 
 ### 1. Capítulo I: Introducción
 
 - 1.1. Startup Profile
   - 1.1.1. Descripción de la Startup
-    - PhysioDesk es la implementación de un modelo de un asistente virtual que brinda soluciones ergonómicas y ejercicios para personas que ocupan gran parte del día en el computador. La iniciativa busca analizar el estilo de vida del usuario con el fin de brindar las herramientas indicadas para aliviar y/o prevenir lesiones fisiológicas mediante un entorno ergonómico. Así mismo, recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
-   
+    - PhysioDesk/Ergonomic-Style es la implementación de un modelo de un asistente virtual que brinda soluciones ergonómicas y ejercicios para personas que ocupan gran parte del día en el computador. La iniciativa busca analizar el estilo de vida del usuario con el fin de brindar las herramientas indicadas para aliviar y/o prevenir lesiones fisiológicas mediante un entorno ergonómico. Así mismo, recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
+    
+<table border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Erick_Foto.jpg" width="1000" height="300" style="border-radius: 50%;"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Erick Joaquin Palomino Santa
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202214843
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal:</b>
+        <br>
+        Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Antony.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Anthony Jeandet Guerrero Castillo
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202010054
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripcion personal:</b>
+        <br>
+        Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Gianfranco.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Gianfranco Luna
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U201824343
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal:</b>
+        <br>
+        Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="static/img/team-photos/Juan Pablo.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Juan Pablo Ramos Mendoza
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202019545
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal</b>
+        <br>
+       Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+                <img src="static/img/team-photos/Giacomo.jpg" width="1000" height="300" style="border-radius: 50%;">
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Giacomo Zoppi Rodriguez
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202210029
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción Personal:</b>
+        <br>
+        Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion. 
+        </td>
+    </tr>
+    <tr align="center">
 
 
-<div align="center">
-   <table>
-      <thead>
-         <tr>
-            <th style="text-align: center;">Foto</th>
-            <th style="text-align: center;">Miembro</th>
-            <th style="text-align: center;">Descripciónn personal</th>
-            <th style="text-align: center;">Código</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Erick_Foto.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Erick Joaquin Palomino Santa Cruz</td>
-            <td tyle="text-align: justify;"> Curso el quinto ciclo de la carrera de Ingeneria de Software. Me gusta aprender cosas nuevas y trabajar grupalmente para lograr una meta.</td>
-            <td style="text-align: center;">U202214843</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Antony.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Anthony Jeandet Guerrero Castillo</td>
-            <td style="text-align: justify;">Estudiante del sexto ciclo de Ingeniería de Software. Desde pequeño me ha gustado el mundo de la tecnología. Soy basante colaborativo..</td>
-            <td style="text-align: center;">U202010054</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Gianfranco.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Gianfranco Luna</td>
-            <td style="text-align: justify;">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
-            <td style="text-align: center;">U201824343</td>
-         </tr>
-         <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Juan Pablo.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Juan Pablo Ramos Mendoza</td>
-            <td style="text-align: justify;">Me encuentro en el quinto ciclo de Ingeniería de Software. Al momento de trabajar en equipos trato de mantener el orden y recordar a los miembros las divisiones del trabajo, además de apoyar en cualquier parte que se requiera. </td>
-            <td style="text-align: center;">U202019545</td>
-         </tr>
-        <tr>
-            <td style="text-align: center;"><img src="static/img/team-photos/Giacomo.jpg" width="50" height="60" style="border-radius: 25%;"></td>
-            <td style="text-align: center;">Giacomo Zoppi Rodriguez</td>
-            <td style="text-align: justify;">Me encuentro estudiando para ser un Ingeniero de Software. Me destaco en el analisis de información, asi como actividades de creatividad e innovacion. </td>
-            <td style="text-align: center;">U202210029</td>
-         </tr>
-      </tbody>
-   </table>
-</div>
-</br>
 
 - 1.2. Solution Profile
-  - 1.2.1. Antecedentes y problemática
+  - 1.2.1. Antecedentes y problemática: En el entorno laboral contemporáneo, la salud física se ve amenazada por un problema omnipresente: las lesiones fisiológicas derivadas de la falta de ergonomía. Este desafío, cada vez más relevante en un mundo digitalizado, afecta a una amplia gama de individuos, desde empleados de oficina hasta estudiantes de educación remota. La exposición prolongada al uso del computador en entornos no ergonómicos ha desencadenado una serie de preocupaciones relacionadas con la postura y el movimiento repetitivo, lo que resulta en un impacto significativo en la salud y el bienestar de las personas. Para comprender mejor este problema, es fundamental explorar sus causas, efectos y las medidas necesarias para abordarlo de manera efectiva.
 
      #### ¿Cuál es el problema?
-    El problema es la generación de lesiones fisiológicas causadas por falta de ergonomía en el entorno laboral. 
+    El problema se centra en la generación de lesiones fisiológicas debido a la falta de ergonomía en el entorno laboral, manifestadas principalmente por malas posturas y movimientos repetitivos asociados con el uso prolongado del computador. Este es el principal problema que buscamos solucionar en nuestro proyecto. 
     
     #### ¿Cuándo sucede el problema?
-    Sucede de manera continua a lo largo del día tras la exposición prolongada del uso del computador.
+    Este problema es continuo y se manifiesta a lo largo del día, especialmente durante exposiciones prolongadas al uso del computador, como las largas jornadas laborales o académicas.
     #### ¿Dónde sucede el problema?
-    Sucede dentro del hogar o centros laborales o en cualquier lugar donde se realicen actividades laborales que requieran.
+    El problema puede surgir en cualquier lugar donde se realicen actividades laborales que impliquen el uso extensivo del computador, ya sea en el hogar, centros laborales u otros entornos de trabajo remoto. Aquellos lugares en los que el usuario este expuesto durante largas horas a actividades monotonas que dañen su postura o su fisico. 
     
     #### ¿A quién se le presenta el problema? ¿Cuál es tu público objetivo?
-    A las personas, mayormente jóvenes de 21 a 30 años de edad.
+    El problema afecta principalmente a personas jóvenes, con edades comprendidas entre los 21 y 30 años. Este grupo demográfico incluye tanto a empleados de oficina como a estudiantes de educación remota, quienes están especialmente expuestos a las condiciones no ergonómicas durante sus horas de trabajo o estudio.
     Incluye empleados de oficina y estudiantes de educación remota.
     
     #### ¿Por qué sucede el problema? ¿Qué situación ocasiona el problema?
-    El problema sucede debido a la falta de un espacio ergonómico, asi como estar frente al computador por largas jornadas, sin estar informado de la correcta postura al sentarse.
+    El problema sucede debido a la falta de un espacio ergonómico, asi como estar frente al computador por largas jornadas, sin estar informado de la correcta postura al sentarse. Todo esto genera que el fisico del usuario se perjudique, que ocurran ciertos problemas, tensiones o dificultades a nivel muscular u oseo que dificulten la vida diaria o la movilidad del usuario. 
 
 
     #### ¿Cómo sucede el problema? ¿Cuáles son las precondiciones para que se presente el problema?
-    Comienzan a manifestarse por medio de una  exposición prolongada a condiciones ergonómicamente deficientes, esto incluye malas posturas, realizar movimientos repetitivos durante largos periodos de tiempo, como abusar del uso del celular, sobrecargar la posición del cuello, etc
+    Comienzan a manifestarse por medio de una  exposición prolongada a condiciones ergonómicamente deficientes, esto incluye malas posturas, realizar movimientos repetitivos durante largos periodos de tiempo, como abusar del uso del celular, sobrecargar la posición del cuello, etc. Lo que a menudo, resulta en dolores o problemas fisicos en el usuario.
+    
+    #### ¿Como nos conocieron los usuarios?
+    Para dar a conocer nuestro proyecto a los usuarios potenciales, es crucial implementar una estrategia de marketing integral que aproveche una variedad de canales y tácticas.
+    Presencia en redes sociales: Utilizar plataformas como Instagram, Facebook, Twitter y LinkedIn para compartir contenido relevante, consejos de salud, testimonios de clientes, y anuncios sobre nuestros productos y servicios.
+    Publicidad online: Invertir en publicidad digital mediante Google Ads, anuncios en redes sociales y publicaciones patrocinadas en sitios web relacionados con la salud y el bienestar.
+    Marketing de contenido: Crear contenido relevante y valioso, como videos tutoriales, infografías, podcasts y guías descargables, que ayuden a educar a nuestra audiencia sobre la importancia de la ergonomía
+    Participación en eventos y ferias: Asistir a ferias comerciales, eventos de salud y bienestar, y conferencias relacionadas con la ergonomía y la prevención de lesiones laborales para mostrar nuestros productos
     
     #### ¿Cuánto impacto genera este problema? Representar datos estadísticos del segmento que tiene el problema.
     Dentro del mismo estudio mencionado anteriormente, se logró determinar que:
@@ -130,7 +216,10 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
     Un estudio de la Asociación Internacional de Ergonomía y Salud Ocupacional encontró que el dolor musculoesquelético  relacionado con el trabajo es una de las principales causas de discapacidad laboral en todo el mundo, lo que resulta en costos significativos para los empleadores y la sociedad en general.
     
+
+    
   - 1.2.2. Lean UX Process.
+    - 1.2.2.1 Lean UX Problem Statement
      Debido a la pandemia, se formalizaron las clases y trabajos remotos para ayudar a continuar con el desarrollo de los ciudadanos, sin embargo, diversas empresas, institutos y universidades optaron por normalizar el aprendizaje y las labores de manera virtual, por lo que las horas frente al computador aumentaron radicalmente. Esto genera diversos problemas, como la mala postura corporal, lo cual genera lesiones fisiológicas, las cuales de no ser tratadas pueden generar lesiones o atrofias permanentes. 
 
 
@@ -142,64 +231,39 @@ Comunica en forma escrita ideas y/o resultados con objetividad apúblico de dife
 
       
     - 1.2.2.2. Lean UX Assumptions.
-  **Business Outcomes:**
-1. **Creemos que nuestros usuarios necesitan**: Una forma mas eficaz de adquirir productos ergonomicos y tener citas con fisioterapeutas.
-2. **Estas necesidades se pueden satisfacer**: Con la creación de un proyecto que les permita acceder a estas funcionalidades desde su telefono movil u ordenador. 
-3. **Nuestros clientes iniciales serán**: Usuarios que requieran de atencion terapaeutica y fisioterapeutas
-4. **El valor #1 que un cliente quiere de nuestro servicio es:** solicitar citas con fisioterapeutas.
-   **Los clientes tambien pueden obtener:** productos ergonomicos y planes
-5. **Vamos a obtener la mayoria de los clientes mediante** publicidad en linea y campañas en internet o televisión. 
-6. **Vamos a hacer dinero mediante** las suscripciones premium. 
-7. **Nuestra competencia en el mercado serán** las plataformas dedicadas tambien a la gestión de citas de terapia o recomendaciones. 
-8. **El mayor riesgo de producción es** que el segmento objetivo no se encuentre dispuesto a adaptarse al avance tecnologico. 
-   **Lo resolvemos realizando**una promoción adecuada que logre cautivar a nuestro segmento obejtivo. Así como una interfaz accesible y facil de utilizar. 
+  
+      **Bussines Outcomes:**
+        - Evaluar la efectividad de los ejercicios fisioterapéuticos mediante sesiones diarias programadas.
+        - Recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
+        - Desarrollar un sistema de seguimiento por medio de recopilación de datos con el fin de optimizar y personalizar los ejercicios adecuados según la lesión.
+        - Diseñar una plataforma interactiva donde el usuario pueda, mediante una imagen 3D del cuerpo humano, señalar la ubicación de su lesión.
 
-User Assumptions
-**1. ¿Quien es el usuario?**
-   - Usuarios que requieran de terapia o productos ergonomicos
-   - Fisioterapeutas
-
-**2. ¿Donde entra nuestro producto en su trabajo o su vida?**
-   - Entra en su vida diaria, en sus habitos y actividades.
-   - Entra en su trabajo. 
-     
-**3. ¿Cual es el problema que nuestro producto soluciona?**
-   -La poca consciencia sobre problemas de postura y ergonomia. 
-   -EL dificil acceso a productos ergonomicos.
-   -La complicada comunicacion entre fisioterapeutas y usuarios. 
-     
-**4. ¿Como y cuando nuestro producto es usado?**
-	Es usado cuando el usuario quiere consultar una cita con un fisioteraputa o cuando quiere adquirir un producto ergonomico. 
-
-**5. ¿Como deberia nuestro producto verse o comportarse?**
-    El producto debe verse con una interfaz simple, interactiva, atractiva e inclusiva. 
+      **Features:**
+      - Un marketplace integrado donde los usuarios puedan explorar y comprar una selección de productos ergonómicos recomendados, como sillas de oficina, soportes para computadoras y accesorios para mejorar la postura.
+      - Funcionalidades de comparación de productos y filtros de búsqueda avanzados para ayudar a los usuarios a encontrar los productos que mejor se adapten a sus necesidades y presupuesto.
+      - Integración de un directorio de fisioterapeutas y profesionales de la salud especializados en ergonomía, con la posibilidad de programar consultas y sesiones de rehabilitación directamente desde la plataforma.
+      - Herramientas para medir y rastrear el progreso del usuario en términos de mejora de la postura, reducción de dolores musculoesqueléticos y aumento del bienestar general.
+      - Mecanismos para recopilar informes y citas de los usuarios.
     
-
-
-  **User Outcomes:**
+      **User Outcomes:**
         ##### Para los Usuarios:
         - Proporcionar a los usuarios una amplia gama de consejos y herramientas ergonómicas.
         - Ayudar a los usuarios a planificar las sesiones y reservarlas para una experiencia personalizada.
         - Facilitar la interacción de los clientes con los fisioterapeutas y proporcionar una orientación personalizada para que disfruten de su experiencia.
 
-        ##### Para las Empresas de inmuebles ergonómicos:
-        - Permitir a las empresas llegar a un público más amplio y aumentar sus ingresos a través de las compras por medio de los usuarios.
+        ##### Para los fisioterapeutas:
+        - Permitir a los fisioterapeutas llegar a un público más amplio y aumentar sus ingresos a través de las compras por medio de los usuarios.
         - Facilitar el envío de los productos y la comunicación de los clientes, lo que les permite ofrecer un servicio selección de alta calidad.
 
-**Feature Assumptions**
-- **Creemos que** el producto debe recomendar la correcta postura y herramientas ergonómicas adecuadas para el usuario en función a su rango económico.
-- **Creemos que** el producto debe desarrollar un sistema de seguimiento por medio de recopilación de datos con el fin de optimizar y personalizar los ejercicios adecuados según la lesión.
-- **Creemos que** el producto debe poder atender a citas con terapeutas, asi como consultar su información y horarios.
-- **Creemos que** el producto debe ofrecer la posibilidad del usuario de observar su rutina de ejercicios.
-- **Creemos que** el prodcuto debe implementar  una tienda virtual. 
-- **Creemos que** el producto debe ofrecer una plataforma interactiva donde el usuario pueda, mediante una imagen 3D del cuerpo humano, señalar la ubicación de su lesión.
     - 1.2.2.3. Lean UX Hypothesis Statements.
-  Creemos que al implementar un sistema de recomendaciones personalizadas sobre la postura y herramientas ergonómicas, podremos aumentar la conciencia y la adopción de prácticas saludables por parte de los usuarios. Esto se reflejará en una reducción de las lesiones relacionadas con la postura y una mejora en la salud física de los usuarios.
-Creemos que al desarrollar un sistema de seguimiento de datos para personalizar los ejercicios y la terapia según la lesión y las necesidades del usuario, podremos aumentar la eficacia del tratamiento y la satisfacción del usuario. Esto se evidenciará en una disminución de las quejas sobre la falta de progreso en la rehabilitación y una mayor adherencia a los planes de tratamiento.
-Creemos que al integrar un sistema de gestión de citas con fisioterapeutas y una plataforma de comunicación fluida entre usuarios y profesionales de la salud, podremos mejorar la accesibilidad y la eficiencia en la atención médica. Esto se demostrará mediante una mayor cantidad de citas programadas y una mejora en la comunicación entre los usuarios y los fisioterapeutas.
-Creemos que al proporcionar a los usuarios la capacidad de visualizar y seguir su rutina de ejercicios a través de la plataforma, podremos aumentar la motivación y la adherencia al programa de rehabilitación. Esto se reflejará en una mayor consistencia en la realización de ejercicios y una mejoría en los resultados de la terapia.
-Creemos que al integrar una tienda virtual de productos ergonómicos dentro de la plataforma, podremos facilitar el acceso a herramientas y productos que promuevan una mejor postura y salud física. Esto se evidenciará en un aumento en la adquisición de productos ergonómicos por parte de los usuarios y una mejora en la satisfacción general con la plataforma.
-Creemos que al implementar una plataforma interactiva que permita a los usuarios señalar la ubicación de su lesión en una imagen 3D del cuerpo humano, podremos mejorar la precisión en el diagnóstico y la personalización del tratamiento. Esto se demostrará mediante una mayor satisfacción de los usuarios con el nivel de atención y la efectividad de los tratamientos recibidos
+   
+	Creemos que al proporcionar herramientas para ajustar el entorno de trabajo del usuario, como la silla y el monitor, podremos mejorar la postura y la comodidad durante las horas de trabajo. Sabremos esto cuando notemos una mejora en la ergonomía del espacio de trabajo y una disminución en las molestias físicas reportadas por los usuarios.
+
+Creemos que brindando una mas facil y accesible comunicación y atención entre cliente y fisioterapeuta, podremos aumentar la cantidad de citas que tienen los terapeutas. Sabremos esto cuando veamos un aumento en la cantidad de pacientes que asisten a terapia fisica. 
+
+Creemos que al proporcionar seguimiento y conscientización sobre el dolor fisico, los usuarios tomaran mayor preocupación e importancia a su postura o su dolor muscular. Sabremos que hemos tenido exito cuando observemos una disminución en las molestias fisicas reportadas por los usuarios. 
+
+Creemos que al ofrecer un sistema de monitoreo de ejercicio fisico para el usuario, motivaremos a los usuarios a continuar una rutina de ejercicio que mejore su postura. Sabermos que hemos tenido exito cuando observemos las rutinas de ejercicio de los usuarios ser completadas. 
 
     - 1.2.2.4. Lean UX Canvas.
 
@@ -222,7 +286,7 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
 	- Personas preocupadas por su salud y bienestar.
 	- Individuos interesados en la prevención de lesiones relacionadas con el trabajo.
 
-  #### Segmento objetivo 2: Empresas y Corporaciones
+  #### Segmento objetivo 2: Fisioterapeutas
   **Aspectos demográficos:**
 	- **Sexo:** Ambos sexos.
 	- **Edades:** Adultos jóvenes y adultos de mediana edad (18-45 años).
@@ -254,7 +318,7 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
 
 	Estas empresas representan algunos de los competidores existentes en el mercado de aplicaciones ergonómicas y de salud, compitiendo por la preferencia de usuarios comprometidos con su salud y bienestar mientras trabajan en entornos informáticos.
 
-- 2.2. Analisis Competitivo
+- 2.1.1. Analisis Competitivo
 
 ### Perfil de la Startup
 
@@ -286,7 +350,7 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
 | Oportunidades | - Aumento de la conciencia sobre la importancia de la salud y el bienestar en el entorno laboral. - Expansión del mercado de salud y bienestar con el crecimiento de la fuerza laboral remota. - Colaboraciones estratégicas con empresas y profesionales de la salud ocupacional para promover la adopción de PhysioDesk. | - Crecimiento del mercado de salud ocupacional y ergonomía en empresas preocupadas por el bienestar de sus empleados. - Expansión internacional a nuevos mercados emergentes con una demanda creciente de soluciones ergonómicas. - Desarrollo de nuevas características y soluciones para abordar las necesidades cambiantes del mercado. | - Expansión del mercado de fitness y salud con el aumento de la conciencia sobre la importancia de la actividad física y la nutrición. - Colaboraciones estratégicas con empresas de tecnología y dispositivos para integrar MyFitnessPal en productos y servicios existentes. - Desarrollo y mejora continua de nuevas características y herramientas para mantener la relevancia en el mercado. | - Aumento de la demanda de tratamientos terapéuticos y fisioterapia en el entorno laboral. - Colaboraciones con empresas y profesionales de la salud para la promoción y adopción de PhysioAdvisor. - Desarrollo de nuevas características y servicios para abordar las necesidades cambiantes del mercado de salud ocupacional. |
 | Amenazas | - Competencia intensa de empresas establecidas en el mercado de salud y bienestar. - Riesgos de seguridad y privacidad asociados con el almacenamiento y procesamiento de datos de usuarios. - Cambios en las regulaciones y políticas gubernamentales que pueden afectar la operación y la expansión internacional de PhysioDesk. | - Competencia de otras empresas de ergonomía y soluciones de salud ocupacional con mayor reconocimiento de marca y recursos financieros. - Vulnerabilidades de seguridad y riesgos de privacidad asociados con el almacenamiento y procesamiento de datos de clientes. - Cambios en las regulaciones y políticas gubernamentales que pueden afectar la industria de la salud ocupacional y ergonomía. | - Competencia de otras aplicaciones de fitness y salud en el mercado, que pueden ofrecer características similares y una experiencia de usuario comparable. - Amenazas de seguridad cibernética y violaciones de datos que pueden socavar la confianza del usuario en la plataforma. - Cambios en las preferencias y necesidades del usuario que pueden afectar la demanda de servicios de fitness y salud en línea. | - Competencia de otras aplicaciones y servicios de fisioterapia en el mercado, que pueden ofrecer tratamientos similares y una experiencia de usuario comparable. - Amenazas de seguridad cibernética y violaciones de datos que pueden socavar la confianza del usuario en la plataforma. - Cambios en las preferencias y necesidades del usuario que pueden afectar la demanda de servicios de fisioterapia en línea. |
 
-- 2.3. Estrategias y tácticas frente a competidores.
+- 2.1.2 Estrategias y tácticas frente a competidores.
   
 ## Estrategias:
 
@@ -307,8 +371,8 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
 | Crear Contenido Educativo y de Sensibilización   | Desarrollar contenido educativo sobre ergonomía y salud en el trabajo para sensibilizar a los usuarios sobre la importancia del cuidado corporal. |
 
   
-- 2.4. Entrevistas.
-  - 2.4.1. Diseño de entrevistas.
+- 2.2. Entrevistas.
+  - 2.2.1. Diseño de entrevistas.
   	#### Para el segmento de usuarios:
 
 	1. ¿Cuáles son los principales problemas de salud relacionados con el trabajo de oficina que enfrentas en tu día a día?
@@ -336,7 +400,9 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
 	1¿Qué desafíos anticipa al adoptar una nueva plataforma o herramienta digital en su práctica profesional, y cómo planea superarlos?
 
   
-  - 2.4.2. Registro de entrevistas.
+  - 2.2.2. Registro de entrevistas.
+
+ - 2.4.2. Registro de entrevistas.
 
 	- Usuarios:
       	- Entrevista #1:
@@ -345,8 +411,8 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
  	Edad: 18 años. 
  	Entrevistador: Erick Joaquin Palomino Santa Cruz<br>
   	Duracion: 05:19<br>
-   	Minuto de inicio: 
-   	Link:  <br>
+   	Minuto de inicio: 00:00
+   	Link:  https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
     	Resumen: En la entrevista, María Lucía Páez discute los desafíos de salud relacionados con el trabajo de oficina, como el dolor en las articulaciones y la zona lumbar. Aunque no utiliza herramientas específicas, realiza ejercicios para mejorar su postura. Destaca la importancia de una plataforma de salud que se adapte al usuario y proteja la privacidad.
   	
   	  Además, muestra interés en tecnologías como Physio Desk y valora la atención personalizada en las plataformas de salud. María Lucía considera la integración de PhysioDesk en su rutina diaria como una oportunidad para adquirir hábitos saludables y mejorar su postura. Su búsqueda de una plataforma similar a las aplicaciones de dieta, donde se ingresa información personalizada, refleja su deseo de personalización y facilidad de uso. Además, destaca la importancia de los ejercicios de relajación y estiramientos.
@@ -359,8 +425,8 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
  	Edad: 22 años. 
  	Entrevistador: Anthony Jeandet Guerrero Castillo<br>
   	Duracion: 11:20<br>
-   	Minuto de inicio: 
-   	Link:  <br>
+   	Minuto de inicio: 05:19
+   	Link: https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
     	Resumen: Samary, una estudiante de medicina en Puebla, México, de 22 años, destaca su uso frecuente de la computadora para realizar trabajos académicos y reportes de laboratorio. Al observar los principales problemas de salud entre sus compañeros universitarios, identifica el dolor de cuello, la incomodidad en la espalda debido a la postura y una silla poco ergonómica, así como problemas en la muñeca causados por el uso prolongado del mouse. Reconoce que un fisioterapeuta podría ayudarla a mejorar su técnica, dedicarle más tiempo y ser más precisa en sus estariamientos y practicas para una mejor postura.
 
     Samary muestra interés en la idea de una tienda virtual asociada, donde los especialistas puedan recomendar productos para aliviar estas molestias. Además, ha experimentado mejoras tangibles al realizar ejercicios de muñeca y confía en los beneficios de la terapia física.
@@ -371,8 +437,8 @@ Creemos que al implementar una plataforma interactiva que permita a los usuarios
  	Edad: 52 años. 
  	Entrevistador: Juan Pablo Ramos<br>
   	Duracion: 06:02<br>
-   	Minuto de inicio: 
-   	Link:  <br>
+   	Minuto de inicio: 16:40
+   	Link:  https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
     	Resumen: Veronica Mendoza, Profesora de contabilidad de la UPC, enfocada principalmente en la enseñanza mediante clases virtuales, menciona una gran importancia hacia los estiramientos y ejercicios simples para mantener una buena postura, sin embargo, debido al tiempo que pasa o dictando clases o en trabajos administrativos, no puede mantener un buen horario para realizarlos.
 
  Es por esto que ella podría mantener un mejor estado físico y de salud si es que tuviera una herramienta como la que brindamos con PhysioDesk, mencionando un uso principal al registro de un horario para los ejercicios o pausas activas, con alertas y recordatorios constantes.
@@ -386,13 +452,54 @@ A pesar de ello, ella no ha utilizado ninguna aplicación como la que brindamos,
  	Edad: 21 años 
  	Entrevistador: Giacomo Zoppi Rodriguez<br>
   	Duracion: 07:12<br>
-   	Minuto de inicio: 
-   	Link:  <br>
+   	Minuto de inicio: 20:48
+   	Link:  https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
     	Resumen: Narda Gomez, estudiante de la UPC, a menudo experimenta problemas de postura debido a su trabajo, lo que resulta en malestar en la espalda y fatiga visual. Aunque toma breves descansos y realiza estiramientos para aliviar la tensión, siente que hay demasiada información y no sabe por dónde empezar.
 
     Espera que PhysioDesk sea confiable y efectivo, ofreciendo una amplia variedad de productos y profesionales seguros y confiables, con una búsqueda simple y una interfaz fácil de usar. Aunque realiza ejercicio interdiario y estiramientos musculares, siente que no tiene suficiente tiempo y, por lo tanto, toma descansos breves pero limitados. Está interesada en una herramienta tecnológica para mejorar su ergonomía, siempre y cuando sea práctica y confiable, ya que llega a un punto en el que se siente cansada.
 
     Le gustaría que PhysioDesk sea práctico de usar, que ofrezca la capacidad de rastrear su progreso a distancia y que demuestre su efectividad. Aunque cree que los métodos de ergonomía, como los estiramientos y una silla ergonómica, funcionan hasta cierto punto, a veces se le olvida seguirlos. Sin embargo, considera que la falta de tiempo es un problema al buscar consejos de salud, ya que a menudo priorizamos el trabajo y los estudios sobre nuestra salud. Identifica el tiempo y el precio como las principales barreras. Cree que las recomendaciones de la aplicación son muy importantes, ya que demuestran el compromiso de la empresa con la salud de sus clientes y la motivan a seguir utilizando la plataforma.
+
+  - Entrevista #5:
+    
+    ![image](https://github.com/PhysioDesk/Informes/assets/129527802/7353356f-4b74-4731-873c-4f6540218c37)
+
+	Entrevistado: Jaime Blanco<br>
+ 	Edad: 68 años 
+ 	Entrevistador: Gianfranco Luna<br>
+  	Duracion: 06:08<br>
+   	Minuto de inicio: 26:57
+   	Link:  https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
+    	Resumen: <br>
+     Desafíos habituales al tratar problemas de salud relacionados con la postura y la ergonomía:<br>
+Los desafíos habituales incluyen la identificación precisa de las causas subyacentes del dolor o la incomodidad, la educación de los pacientes sobre la importancia de la ergonomía y la motivación para realizar cambios en sus hábitos posturales.<br>
+
+	Herramientas o recursos utilizados para evaluar y abordar problemas ergonómicos:<br>
+	Utilizo herramientas como evaluaciones posturales, cuestionarios de hábitos laborales y recomendaciones personalizadas sobre ajustes ergonómicos en el entorno de trabajo del paciente. Dependiendo de la gravedad se utiliza magnetos, terapia de choques o combinada por electrodos. Para complementar las terapias se acopla el uso de artefactos ergonómicos como, sillas, mouse, escritorios, etc<br>
+
+	Características importantes al evaluar una plataforma digital:<br>
+	Las características importantes incluyen la facilidad de uso, la seguridad de los datos del paciente, la capacidad de comunicación efectiva con los pacientes y la integración con otros sistemas de salud.<br>
+
+	Beneficios de una plataforma como PhysioDesk:<br>
+	Una plataforma virtual como PhysioDesk podría mejorar la accesibilidad al tratamiento, permitir un monitoreo continuo de los pacientes y facilitar la educación sobre ergonomía y autocuidado.<br>
+
+	Opinión sobre la integración de tecnología en fisioterapia:<br>
+	Creo que la integración de tecnología puede mejorar la eficiencia del tratamiento, la comunicación con los pacientes y la personalización de las intervenciones ergonómicas.<br>
+
+	Funciones deseadas en una plataforma para profesionales de la salud:<br>
+	Funciones deseadas podrían incluir herramientas de videoconferencia seguras, registros de pacientes digitales, herramientas de educación para pacientes y capacidad de compartir recursos de ergonomía.<br>
+
+	Mantenerse actualizado sobre investigación y avances:<br>
+	Me mantengo actualizado a través de la participación en conferencias, cursos de educación continua, revisión de literatura científica y colaboración con colegas en el campo.<br>
+
+	Capacitación de pacientes en prácticas ergonómicas:<br>
+	Utilizo sesiones educativas, demostraciones prácticas, videos instructivos y recursos escritos para capacitar a mis pacientes en prácticas ergonómicas.<br>
+
+	Evaluación del éxito del tratamiento ergonómico:<br>
+	Evalúo el éxito del tratamiento mediante la reducción del dolor, la mejora de la función y la satisfacción del paciente, utilizando cuestionarios de calidad de vida y mediciones objetivas cuando sea posible.<br>
+
+	Desafíos al adoptar una nueva plataforma digital:<br>
+	Los desafíos pueden incluir la curva de aprendizaje, la integración con otros sistemas de salud, la aceptación por parte de los pacientes y la inversión de tiempo y recursos para la implementación y capacitación. Planeo superarlos mediante una planificación cuidadosa, capacitación exhaustiva y comunicación efectiva con el equipo.<br><br>
     
 **PROFESIONAL**
  - Entrevista #1:
@@ -402,8 +509,8 @@ A pesar de ello, ella no ha utilizado ninguna aplicación como la que brindamos,
  	Edad: 39 años 
  	Entrevistador: Erick Palomino<br>
   	Duracion: 10:42<br>
-   	Minuto de inicio: 
-   	Link:  <br>
+   	Minuto de inicio: 40:25
+   	Link: https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
     	Resumen: Giancarlo Delaude, fisioterapeuta que ofrece servicios a domicilio para adultos mayores, enfrenta varios desafíos en su práctica. Reconoce que muchos profesionales de la salud no tienen todas las herramientas necesarias, y debido a su altura, Giancarlo debe tener precaución con las camillas y otras herramientas que utiliza para evitar problemas de ergonomía tanto para él como para sus pacientes.
 
 En su trabajo, Giancarlo utiliza herramientas como fichas para evaluar a sus pacientes y trabaja con un panel con recuadros. Además, utiliza radiografías para evaluar aspectos como el alineamiento corporal de sus pacientes.
@@ -416,14 +523,14 @@ Para mantenerse actualizado, Giancarlo se basa en revistas médicas, estudios, f
 
 Además, Giancarlo se esfuerza por educar a sus pacientes sobre la importancia de seguir las indicaciones en casa, ya que reconoce que algunos pacientes tienden a descuidar sus recomendaciones y realiza actividades que no son adecuadas para su cuerpo. Por ello, considera crucial el papel del fisioterapeuta en guiar y motivar a los pacientes para lograr una recuperación exitosa.
 
-    	 - Entrevista #2:
+- Entrevista #2:
   	![image](https://github.com/PhysioDesk/Informes/assets/129527802/cd7bdb75-57d5-49ea-83d6-4f9c2d134219)
 	Entrevistado: Desiré Abrahamzon<br>
  	Edad: 39 años 
  	Entrevistador: Juan Pablo Ramos<br>
   	Duracion: 10:42<br>
-   	Minuto de inicio: 
-   	Link:  
+   	Minuto de inicio: 50:23
+   	Link:  https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
     	Resumen: La entrevistada menciona que uno de los mayores problemas que presentan los pacientes es la limitación a las actividades que pueden realizar, en especial cuando los problemas son crónicos (mayores a 3 meses, como ella lo explicó), causando que ellos no puedan permanecer en ciertas posiciones por mucho tiempo y afectando su capacidad de trabajar. 
      
      Por esta razón, que cada paciente presenta problemas drásticamente distintos a pesar de que tener dolores similares, la entrevistada presenta la alta importancia de que una herramienta como la nuestra presente un buen estudio y análisis de lo que cada paciente realiza como trabajo o de forma rutinaria y exactamente dónde se presenta sus molestias, además de presentar estudios que el paciente se haya realizado, como información de postura y de los músculos y articulaciones.
@@ -434,36 +541,44 @@ Finalmente, la entrevistada menciona un interés en que nuestra aplicación teng
 	 - Entrevista #3:
   	![image](https://github.com/PhysioDesk/Informes/assets/129527802/7a9b8c10-965e-407d-b6eb-982aa6b9d507)
 
-	Entrevistado: Sebastian Vegas<br>
+Entrevistado: Sebastian Vegas<br>
  	Edad: 22 años 
  	Entrevistador: Giacomo Zoppi Rodriguez<br>
   	Duracion: 13:46<br>
-   	Minuto de inicio: 
-   	Link:  
+   	Minuto de inicio: 1:03:15
+   	Link:  https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj 
     	Resumen: Sebastian Vegas destaca la falta de conciencia de los pacientes sobre su postura y hábitos ergonómicos, lo que puede afectar su salud a largo plazo. Cree en la importancia de educar a los pacientes sobre estas cuestiones para prevenir lesiones, y considera que las herramientas móviles pueden ser útiles para abordar estos problemas.
 
 Al evaluar a los pacientes, Sebastian se enfoca principalmente en cómo realizan sus actividades diarias para identificar patrones y posibles áreas de mejora.En cuanto a una aplicación como PhysioDesk, Sebastian busca facilidad de uso y una interfaz intuitiva y amigable. Considera crucial que sea segura y proteja la información médica privada. Busca una herramienta innovadora que pueda acercar al paciente y generar confianza, siendo esencial para su vida.Su opinión sobre la tecnología en la fisioterapia es positiva, ya que considera que la tecnología actual puede ser crucial para mejorar la accesibilidad y la salud en general. Cree que funciones como la planificación de tratamientos personalizados y una biblioteca de recursos educativos para la postura y rehabilitación pueden ser muy efectivas con el apoyo de la tecnología.
 
 Sebastian se mantiene actualizado sobre los avances tecnológicos en fisioterapia a través de conferencias, seminarios, noticias científicas e internet. Además, utiliza demostraciones prácticas, recomendaciones de ergonomía y materiales educativos como fotos, videos y afiches para educar a sus pacientes y mejorar su entorno laboral.
 
-		- Entrevista #4:
+Entrevista #4:
 		![image](https://github.com/PhysioDesk/Informes/assets/89022078/71b761e7-b69e-48a3-9c8d-659a11d83578)
 		Entrevistado: Kevin Quintana Cauti<br>
 		Entrevistador: Anthony Jeandet Guerrero Castillo<br>
 		Duracion: 07:37<br>
-  		Minuto de inicio:
-		Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/ERP_ICuU7vFOo6UU5kwRIT4BgZ2Y3powGDwu2qtq7wSHpg?e=HSbS7l&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br>
+  		Minuto de inicio: 1:10:13
+		Link: https://1drv.ms/f/s!AnmPPK-dGeRS9AYgpojWNAZWA1A1?e=OAbdWj
 		Resumen: El fisioterapeuta identificó desafíos comunes en la falta de conciencia sobre la postura y la dificultad para cambiar hábitos. Utiliza evaluaciones físicas y herramientas de medición para abordar estos problemas. Valora la accesibilidad y personalización en plataformas digitales como PhysioDesk, que simplificarían la gestión de datos y mejorarían la participación del paciente. Cree en el poder de la tecnología para mejorar la fisioterapia y enfatiza la importancia de mantenerse actualizado. Utiliza demostraciones prácticas y recursos digitales para educar a los pacientes. Evalúa el éxito del tratamiento por la mejora de síntomas y la reducción de lesiones relacionadas con la ergonomía. Planea superar desafíos en la adopción de nuevas plataformas mediante planificación y colaboración con proveedores confiables.
 
-- 2.4.3. Análisis de entrevistas.
-  	## Entrevista 1: Maria Lucia Paez Cairo
-  	- 
- 
-	## Entrevista 2: Kevin Quintana Cauti
-	- 
-- 2.5. Needfinding.
+- 2.2.3. Análisis de entrevistas.
+  	- 2.4.3. Análisis de entrevistas.
+  	  
+| Tipo        | Características                                                     | Usuario                                                            | Profesional                                                        |
+|-------------|---------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
+| Objetivas   | Experimenta problemas de postura o dolores musculares               | Un 40% dice experimentar problemas de esta indole                  | Un 20% menciono tener estos problemas                              |
+| Objetivas   | Practica estiramientos                                              | Un 40% dice practicar estiramientos o actividades para fortalecer los músculos | El 100% destaca la importancia de los estiramientos.               |
+| Objetivas   | Hace uso de productos ergonómicos                                    | El 80% de los usuarios ha usado productos ergonómicos.             | El 25% de los entrevistados utiliza productos ergonómicos o al menos resalta su uso personal. |
+| Objetivas   | Experimenta dolores musculares                                      | El 40% de los usuarios experimenta problemas musculares           | Un 25% experimenta o dice haber experimentado problemas musculares |
+| Subjetivas  | Le gustaría utilizar una aplicación como Physiodesk                 | El 100% de nuestros usuarios estaría dispuesto a utilizarlo.     | El 100% de los fisioterapeutas estaría dispuesto a utilizarlo.    |
+| Subjetivas  | Cree que la practicidad y una interfaz sencilla son importantes     | El 100% de nuestros usuarios lo resaltó como un valor importante.| El 100% de los fisioterapeutas lo resaltó como una característica esencial. |
+| Subjetivas  | Valora las recomendaciones personalizadas                           | El 60% de nuestros usuarios lo destaca como una característica esencial | El 20% de los fisioterapeutas lo mencionó como una característica importante |
+| Subjetivas  | Se informa con informes y estudios científicos del tema              | El 0% mencionó estar informado al respecto.                       | El 100% se informa constantemente                                 |
 
-	# User Personas.
+- 2.3. Needfinding.
+
+  - 2.3.1. User Personas.
   	Con el propósito de profundizar en nuestra comprensión de nuestro público objetivo, hemos analizado la información recopilada de entrevistas previas. A partir de este análisis, hemos creado un "User Persona" para cada segmento objetivo, una representación ficticia de un usuario típico dentro de nuestro segmento. Este perfil detallado incluye información sobre la personalidad, historia, motivaciones, objetivos y desafíos del usuario. Esta herramienta será invaluable para nuestro equipo, ya que nos permitirá establecer una conexión más sólida con el cliente ideal de nuestro producto, lo que a su vez nos ayudará a desarrollar mejoras que satisfagan de manera óptima las necesidades de nuestros usuarios.
 
 	### Para el segmento Usuarios
@@ -473,7 +588,7 @@ Sebastian se mantiene actualizado sobre los avances tecnológicos en fisioterapi
   ![Carlos Rivera](https://github.com/PhysioDesk/Informes/assets/127764958/044a5c69-9378-4082-a8ca-d7e611a131fc)
 
 
-- 2.7. User Task Matrix.
+- 2.3.2. User Task Matrix.
 ### Bruno Moises   
 | Actividades                                                 | Frecuencia    | Importancia |
 |-------------------------------------------------------------|---------------|-------------|
@@ -494,28 +609,28 @@ Sebastian se mantiene actualizado sobre los avances tecnológicos en fisioterapi
 | Participar en programas de bienestar en el lugar de trabajo | A veces       | Alta        |
 | Promover la cultura de la ergonomía en la empresa           | A veces       | Alta        |
 
-- 2.8. User Journey Mapping.
+- 2.3.3. User Journey Mapping.
   	### Segmento Usuario
   	![Imagen de WhatsApp 2024-04-05 a las 23 29 42_88b954a1](https://github.com/PhysioDesk/Informes/assets/127764958/c5043a5c-a075-45d1-aa29-9f6917ba8497)
 
  	### Segmento Profesional
   	![Imagen de WhatsApp 2024-04-05 a las 23 36 36_f7fe5a61](https://github.com/PhysioDesk/Informes/assets/127764958/366f487e-368b-46ca-9f7d-c3f00f7ffeea)
 
-- 2.9. Empathy Mapping.
+- 2.3.4. Empathy Mapping.
   	### Segmento Usuario
   	![Empathy map Usuario](https://github.com/PhysioDesk/Informes/assets/127764958/813dff6d-4f06-4ed7-9fcc-efe4addb213b)
 
  	### Segmento Profesional
   	![Imagen de WhatsApp 2024-04-06 a las 01 09 50_9aba3370](https://github.com/PhysioDesk/Informes/assets/127764958/f9c4c366-46cd-4285-ae3c-d3517b7fcae3)
 
-- 2.10. As-is Scenario Mapping.
+- 2.3.5. As-is Scenario Mapping.
   	### Segmento Usuario
   	![Imagen de WhatsApp 2024-04-06 a las 01 22 47_0b14448b](https://github.com/PhysioDesk/Informes/assets/127764958/fc8c80d6-0ec9-45cb-834d-934a33a3fe22)
 
  	### Segmento Profesional
   	![Imagen de WhatsApp 2024-04-06 a las 08 56 04_deebcd1f](https://github.com/PhysioDesk/Informes/assets/127764958/0173bf4b-94b5-4e78-b85b-6651e8c36796)
 
-- 2.11. Ubiquitous Language.
+- 2.4. Ubiquitous Language.
   ### Términos y Conceptos
   
  	 1. **PhysioDesk**: El nombre del proyecto en sí mismo, que se refiere a la plataforma y al asistente virtual diseñado para proporcionar soluciones ergonómicas y ejercicios para usuarios que pasan mucho tiempo frente al computador.
@@ -661,7 +776,14 @@ Link para visualizar el Product Backlog en Pivotal Tracker: https://www.pivotalt
 
 - 4.1. Style Guidelines.
   - 4.1.1. General Style Guidelines.
+ 
+Visión:
+"Nos visualizamos como líderes en la promoción de la salud física y el bienestar en entornos laborales y educativos, transformando la manera en que las personas interactúan con la tecnología para prevenir lesiones fisiológicas y mejorar su calidad de vida".
 
+Misión
+"Nuestra misión es proporcionar soluciones innovadoras y accesibles que ayuden a las personas a mantener una postura saludable, prevenir lesiones fisiológicas y optimizar su rendimiento en entornos laborales y educativos. A través de nuestro compromiso con la educación, la tecnología y el apoyo personalizado, estamos dedicados a empoderar a nuestros usuarios para que tomen el control de su salud física y alcancen su máximo potencial en un mundo digitalizado".
+
+Origen del Nombre
 El nombre del software identificado es PhysioDesk. Descomponiendo el nombre en dos, ‘Physio’ que significa condición física y ‘Desk’ que significa carpeta. Originalmente surgió a partir de la necesidad identificada, pues los usuarios requieren de personal especializado en contactar y gestionar sus sesiones para recibir una atención de calidad, por ello se optó por la búsqueda de fisioterapeutas. Se usará también el idioma inglés pues nos pareció más amigable y llamativo con los posibles usuarios. A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
 
@@ -811,27 +933,30 @@ Se muestra una vista previa de lo que constituirá nuestro sitio web, describien
 Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
 
   - 4.4.2. Web Applications Wireflow Diagrams.
+    <br>El usuario da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
     ![image](https://github.com/PhysioDesk/Informes/assets/129527802/5034f4d5-8d6c-4d7e-9c19-061ac93863b5)
-    Descripcion: El usuario inicia sesión en la pantalla principal dandole al boton de sign up en el header, luego pasa a la siguient evista, en la que le da nuevamente al boton de sign in e ingresa sus datos, con lo que accede a physiodesk. 
-    
+    <br>El usuario da click en "Sign Up", luego digita su nombre, correo, password y telefono, y da click en "Register". Posteriormente, tendrá que iniciar sesión.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/24870a28-61f2-4743-84d8-21ab20a6051c)
-Descripcion: El usuario entra al inicio de sesión en el header, pero le da al botón de olvidé mi contraseña, la intenta recuperar y puede reescribir una nueva contraseña para su cuenta. Una vez hecho esto, el usuario puede acceder a la pagina sin problema. 
-
+<br>El usuario da click en "Sign In", luego selecciona "Forgot Password", ingresa su correo, ingresa el código y crea una nueva contraseña<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/f2dd1814-c1f7-41e1-82ac-8f24bb733ac4)
-Descripcion: EL usuario modifica la información personal de su cuenta, entrando al botón de edit en la pantall rpincipal. Una vez ahí, el usuario puede editar toda su información. Tambiepn, puede al darle al botónd de edit en la sección de problemas, editar el problema que tiene. 
-
-
+<br>En la sección de información, selecciona "Edit". En la sección de problemas, selecciona "Edit", presiona en añadir, y agrega un nuevo problema<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c87f5b25-d558-4e97-9f27-7d636bb8678d)
-Descripción
-
+<br>Ingresa a "Ergonomic Zone", selecciona un producto, lo añade al carrito, ingresa al carrito de compras, continúa colocando los datos de su tarjeta, y finalmente aparece un mensaje de compra exitosa con el detalle. Ingresa a "Fisioterapeutas", selecciona un fisioterapeuta, selecciona un horario disponible y finalmente aparece un mensaje de reserva exitosa con el detalle.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c8a49309-8e90-4fed-a1f0-280bb9eca681)
+<br>Ingresa a "Appoinments" y selecciona la sesión pendiente a ocurrir.Ingresa a "Notificaciones" y configura las notificaciones según su preferencia.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/21215453-3143-4c0e-9dc8-c25f74fbcdc4)
+<br>Ingresa a "Acitivdades", selecciona el detalle de una actiuvidad, la realiza, y marca como completada.Ingresa a "Notificaciones" y se visualiza todas las notificaciones no leídas.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/98b06b75-baac-44c6-b34d-805c76303831)
 
+<br>El fisioterapeuta da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/d2c53094-f991-471c-a801-b682517a0088)
+<br>En la sección de información, selecciona "Edit".En la sección de "Schedule", se agrega los horarios disponibles de atencion<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/90823aeb-8d32-47a5-a0a4-660a73cca7e9)
+<br>En la sección de "Active sessions", puede seleccionar la reunion proxima a llevarse a cabo.En la sección de "Active sessions", selecciona un cliente y puede ver la información de este<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/82404488-c05c-4295-8e6f-5b8544dade80)
+<br>En la sección de "Payments", visualiza las tarjetas guardadas, y puede agregar una nueva.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/af036dba-09d7-46c9-b878-0773091de0c2)
+
 
 Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943 
 
@@ -847,28 +972,45 @@ Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?vie
 Link del figma: https://www.figma.com/file/I9MSaasDFTAnVkECdeUcrR/Wireframes-app?type=design&node-id=16%3A124&mode=design&t=qthhb9OhKYAEDTSB-1
 
   - 4.4.4. Web Applications User Flow Diagrams.
+    <br>El usuario da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
     ![image](https://github.com/PhysioDesk/Informes/assets/129527802/c4e2e3f6-d58b-4685-97b6-d8ea6b473364)
+    <br>El usuario da click en "Sign Up", luego digita su nombre, correo, password y telefono, y da click en "Register". Posteriormente, tendrá que iniciar sesión.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/f130eede-4fde-40e6-8834-8be9356021f2)
+<br>El usuario da click en "Sign In", luego selecciona "Forgot Password", ingresa su correo, ingresa el código y crea una nueva contraseña<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/72d38c22-d56a-44ff-9145-6b5278dd0d48)
+<br>En la sección de información, selecciona "Edit"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/d34fa867-adbf-4c3c-8c6b-67a81505cd4f)
+<br>En la sección de problemas, selecciona "Edit", presiona en añadir, y agrega un nuevo problema<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/0581d6f6-31aa-4a7e-8407-b5911fa6e792)
+<br>Ingresa a "Ergonomic Zone", selecciona un producto, lo añade al carrito, ingresa al carrito de compras, continúa colocando los datos de su tarjeta, y finalmente aparece un mensaje de compra exitosa con el detalle.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/9f382d63-ad52-4f5b-be09-5335250ece25)
+<br>Ingresa a "Fisioterapeutas", selecciona un fisioterapeuta, selecciona un horario disponible y finalmente aparece un mensaje de reserva exitosa con el detalle.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/2a36562d-406d-41eb-8040-d0eb8f8afedf)
+<br>Ingresa a "Appoinments" y selecciona la sesión pendiente a ocurrir.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/3137ed8e-def7-4296-ae2b-a3d7985f6f90)
+<br>Ingresa a "Notificaciones" y configura las notificaciones según su preferencia.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/456f4e62-c7e7-4796-9965-00dfebcd70bd)
+<br>Ingresa a "Acitivdades", selecciona el detalle de una actiuvidad, la realiza, y marca como completada.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b12810c-f12d-4efb-9448-cd2430c67bdb)
+<br>Ingresa a "Notificaciones" y se visualiza todas las notificaciones no leídas.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/4fafb095-7606-48f3-b19d-4d2515f82f87)
 
+<br>El fisioterapeuta da click en "Sign In", luego digita su username y password, y da click en "Log In"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/766a3b93-aaf0-4530-8990-a2b04cabbc27)
+<br>En la sección de información, selecciona "Edit"<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/25cd8cbe-15a4-411c-af36-9427043e415d)
+<br>En la sección de "Schedule", se agrega los horarios disponibles de atencion<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/ad68d7a5-349c-4de0-ae97-5685e9893235)
+<br>En la sección de "Active sessions", puede seleccionar la reunion proxima a llevarse a cabo.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/93a388ca-fe2d-4e91-b641-af22c73f3c0c)
+<br>En la sección de "Active sessions", selecciona un cliente y puede ver la información de este<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/513fd527-1c39-46f4-842a-8bd0d00b8651)
+<br>En la sección de "Payments", visualiza las tarjetas guardadas, y puede agregar una nueva.<br>
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/e8eb9830-1477-4475-ad30-b739076c9e9a)
 
 Link: https://lucid.app/lucidspark/e8b51f7f-4e65-4ac2-b7df-1d607c007df5/edit?viewport_loc=-884%2C-1335%2C18686%2C8849%2C0_0&invitationId=inv_2bac5c79-b640-48f1-b341-505b58247943
 
-  - 4.4.5. Web Applications Prototyping.
+  - 4.5. Web Applications Prototyping.
     
 Se siguieron una serie de principios esenciales para desarrollar los prototipos de la interfaz de usuario :
 
@@ -879,6 +1021,9 @@ Diseño Responsivo: Se consideró crucial adoptar un diseño "responsive" para a
 Destacar la Información Relevante: El diseño se centró en mostrar solo la información más relevante para los usuarios, como los detalles de las granjas destacadas, las opciones de búsqueda y los pasos para publicar anuncios.
 
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/1f6234b8-0aa8-4ddf-95a9-6f6346886696)
+
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/EeszgnX8vfpEgfm8c88--e8BoXPaXs27Tc8mjUtiNYpI6A?e=yW4mgA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 
 - 4.5. Mobile Application UI Design.
 	- 4.5.1. Mobile Application Mock-ups.
@@ -901,20 +1046,57 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
     <img src="static/img/Chapter 4/D_Contenedores.png">
   - 4.6.3. Software Architecture Components Diagrams.
     <img src="static/img/Chapter 4/D_Componentes.png">
-    
 - 4.7. Software Object-Oriented Design.
   - 4.7.1. Class Diagrams.
-    <img src="static/img/Chapter 4/D_Clases.png">
+    - **User Bounded Context**
+     <img src="static/img/Chapter 4/D_Clases_1.png">
+     
+    - **Product Bounded Context** 
+     <img src="static/img/Chapter 4/D_Clases_2.png">
+
+    - **Payment Bounded Context** 
+     <img src="static/img/Chapter 4/D_Clases_3.png">
+
   - 4.7.2. Class Dictionary. 
-    - **Usuario:** Clase que representa a todos los usuarios en sí, teniendo los atributos principales del nombre del usuario y su clave para iniciar sesión y el número de teléfono para permitir el contacto entre usuarios regulares con los fisioterapeutas y vendedores. Además, presenta un método para agregar rutinas, algo que tanto los usuarios regulares como los fisioterapeutas pueden utilizar. 
-  	- **Fisioterapeuta:** Subclase de usuario que representa a los expertos en fisioterapias y pueden comunicarse con los usuarios regulares para entrenamientos o asignarles rutinas. Presentan el atributo de especialidad para diferentes tipos de actividades. 
-  	- **Vendedor:** Subclase de usuario que representa a los vendedores y empresas de muebles ergonómicos y herramientas para terapias físicas. Presentan un método para agregar productos a la lista de productos en venta. \
-    - **Producto:** Clase que representa a los productos ergonómicos o de fisioterapias que se encuentran en venta por los vendedores y empresas. Presentan atributos de nombre del producto, una descripción y el precio de cada producto. \
-  	- **ListaProductos:** Clase que representa todos los productos en venta de un usuario vendedor, con cada uno teniendo una lista de productos. 
-    - **Rutina:** Clase que representa cada rutina y ejercicio registrado por los usuarios, tanto los usuarios regulares con rutinas propias como las rutinas registradas por los expertos para mejorar las condiciones físicas de los usuarios. Presenta atributos de nombre de la rutina, una descripción detallando cada rutina y una duración aproximada. 
-  	- **ListaRutina:** Clase que representa la colección de todas las rutinas registradas para un usuario. Cada usuario tiene su propia lista de rutinas. 
-    - **InterfazAplicación:** Clase general que representa las funcionalidades básicas dentro de la aplicación. Presenta métodos para el inicio de sesión requiriendo el nombre de usuario y su contraseña, mostrar la lista de productos en venta disponibles, mostrar las rutinas registradas por el usuario y la forma de contactarse con los fisioterapeutas a través de su nombre y teléfono. 
-   - **BasedeDatos:** Clase general que representa la base de datos interna de la aplicación, registrando todos los usuarios, sus rutinas y los productos en venta. 
+    - **User:** Clase que representa a los usuarios en general y su información. Tiene una relación de asociación con la clase UserFactory.
+      
+    - **Physiotherapist:** Clase que representa a los expertos en fisioterapias con la capacidad de comunicarse con usuarios regulares. Está asociado a la clase PhysiotherapistFactory.
+   
+    - **UserFactory:** Clase hija de UserManager. Permite la creación de los usuarios en el sistema y presenta una relación de asociación con la clase User. Presenta el método *createUser()* que crea objetos y define su funcionalidad para su clase hija.
+   
+    - **PhysiotherapistFactory:** Clase hija de UserFactory. Crea usuarios específicamente del tipo fisioterapeuta. Presenta una relación de asociación con Physiotherapist y presenta el método *createUser()*, heredado de su clase padre y modificado para crear usuarios del tipo fisioterapeuta.
+   
+    - **UserManager:** Clase encargada de gestionar todos los usuarios en el sistema. Presenta los métodos *createUser()*, *getUser()*, *updateUser()* y *deleteUser()*, encargadas de la creación, lectura, actualización y eliminación de los usuarios (CRUD).
+   
+    - **UserObserver:** Clase que gestiona el estado de los usuarios en el sistema, relacionada con la clase UserManager. Presenta el método *update()* para responder a los cambios en UserManager.
+   
+    - **Product:** Clase que representa a los productos ergonómicos en venta. Presenta una relación de asociación con ProductFactory y una de agregación con ProductsList.
+   
+    - **ProductFactory:** Clase encargada de crear nuevos objetos Product para ser agregados al sistema. Asociada a la clase Product. Presenta el método *createProduct()* utilizado para agregar nuevos productos al sistema.
+   
+    - **ProductsList:** Clase que representa toda la lista de productos ergonómicos en venta. Presenta una relación de asociación con la clase ProductsListviewStrategy y una de agregación con la clase Product.
+   
+    - **ViewStrategy:** Clase que define estrategias para visualizar el contenido de la lista de productos. Presenta una relación de herencia con ProductsListViewStrategy. Presenta el método *viewContent()* con la definición de la estrategia para visualizar la lista de productos.
+   
+    - **ProductsListViewStrategy:** Clase hija de ViewStrategy que representa la interfaz con la forma de visualizar el contenido de la lista de productos a través de diferentes estrategias. Presenta una relación de asociación con ProductsList y de herencia con ViewStrategy, ListViewStrategy y DetailViewStrategy. Presenta el método *viewContent()* para definir la forma que se visualiza la lista de productos sin la lógica de fondo.
+   
+    - **ListViewStrategy:** Clase hija de ProductsListViewStrategy que representa una de las estrategias para revisar la lista de productos. Presenta el método *viewContent()* que permite revisar el contenido de la lista de todos los productos como una lista general.
+   
+    - **DetailViewStrategy:** Clase hija de ProductsListViewStrategy que representa una de las estrategias para revisar la lista de productos. Presenta el método *viewContent()* que permite revisar el contenido de la lista de todos los productos con más información detallada de cada producto.
+   
+    - **PaymentObserver:** Clase hija de la clase Observer con una relación de asociación con la clase Payment. Está encargada de revisar los cambios de estado en la clase mencionada.
+   
+    - **SubscriptionObserver:** Clase hija de la clase Observer con una relación de asociación con la clase Subscription. Está encargada de revisar los cambios de estado en la clase mencionada.
+   
+    - **Subscription:** Clase que representa una subscripción premium a la aplicación. Presenta una relación de asociación con las clases SubscriptionStrategy, SubscriptionObserver y Payment.
+   
+    - **SubscriptionStrategy:** Clase que representa una interfaz para visualizar las suscripciones. Presenta una relación de asociación con las clases SubscriptionManager y Subscription.
+   
+    - **SubscriptionManager:** Clase que gestiona a los objetos de la clase Subscription. Asociada a la clase SubscriptionStrategy.
+   
+    - **Payment:** Clase que representa a los pagos en la aplicación, tanto los de suscripciones como los de compra de productos. Asociada a las clases PaymentObserver, PaymentFacade y Subscription.
+   
+    - **PaymentFacade:** Clase que facilita la relación entre los componentes de la aplicación y la realización de pagos.
 
 - 4.8. Database Design.
   - 4.8.1. Database Diagram. \
@@ -952,9 +1134,17 @@ Destacar la Información Relevante: El diseño se centró en mostrar solo la inf
 
   - 5.1.2. Source Code Management.
 
-Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos se unen a la develop Branch. 
+Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos, mediante un merge, se unen a la develop Branch. Y la develop branch al Main. 
 
-Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo las enumeraciones que plantea (1.0.0, 1.0.1, 1.1.0), así como los Conventional Commits, para nombrar los commits que hacemos en el proyecto, usando terminos como: "feat", "docs", etc. 
+Para las releases, hemos aplicado Semantic Versioning para nombrarlas, siguiendo las enumeraciones que plantea (1.0.0, 1.0.1, 1.1.0), 
+- Siendo el primer numero, la verisón mayor, que elimina la compatibilidad con versiones mayores
+- El segundo numero, la version menor, que introduce caracteristicas que son compatibles con versiones anteriores
+- Y el tercer numero, el parche, que solo se incrementa cuando se introducen pequeñas correcciones que no afectan la compatibilidad. 
+
+así como los Conventional Commits, para nombrar los commits que hacemos en el proyecto, usando: 
+- Types: El tipo de cambio hecho, tales como fix, add, feat, build, chore, docs, test, entre otrs.
+- Scope: Permite señalizar la ubicación del commit en el proyecto. Nuestro proyecto no requirió su uso.
+- Description: Permite añadir una pequeña descripción. De igual, forma no recurrimos al uso del Description en la mayoria de Commits en nuestro proyecto. 
 
 URL del repositorio de Github del Landing Page: https://github.com/PhysioDesk/Frontend.git 
 
@@ -1186,7 +1376,7 @@ Feature: VISIT-006: Información sobre los beneficios de asociarse con la aplica
 
 ```
 
-- 5.2.1.5. Execution Evidence for Sprint Review.
+- 5.2.1.5.  Evidence for Sprint Review.
   	1. Sección Inicial: Aquí presentamos nuestro proyecto y los productos ergonomicos.
      ![image](https://github.com/PhysioDesk/Informes/assets/129527802/3cfe16e5-0611-46d1-91cc-6e836d431c26)
      	2. Sección Sesiones virtuales: Presentación de lo que seria la funcionalidad de contratar terapeutas
@@ -1218,13 +1408,288 @@ En esta entrega del sprint 1, logramos implementar una Landing Page funcional.
   
 | Integrante                         | Actividad                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Gianfranco Luna Morales| Diseño y estructura de la landing page. Vistas/estilos del personal data, side card. Appointment component.  |
+| Gianfranco Luna Morales| Diseño y estructura de la landing page |
 | Erick Joaquin Palomino Santa Cruz | Implementación de funcionalidades |
 | Anthony Jeandet Guerrero Castillo | Diseño y estructura de la landing page |
 | Juan Pablo Ramos Mendoza | Creación de Typos |
 | Giacomo Zoppi Rodriguez | Implementación de la sección header de la landing page |    
 
 ![image](https://github.com/PhysioDesk/Informes/assets/127764958/7821f714-d344-432d-8797-bf996093d619)
+
+  - 5.2.2. Sprint 2
+    - 5.2.2.1. Sprint Planning 2
+    El Sprint #2 tiene como fecha de inicio el 22/04/2024 y como meta nos planteamos resolver algunos errores de la landing page y realizar una primera versión del frontend web application de tal modo que resulte funcional y atractiva visualmente.
+
+| Sprint #  | Sprint 2  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-04-22  |
+| Time  |  10:50 PM |
+| Location  | Discord |
+| Prepared  by  | Erick Palomino |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Relizar el front end de la web application de modo que sea funcional y atractiva visualmente  |
+| Spring n Velocity | 47  puntos |
+| Sum of Story Points | 47 puntos|
+
+
+- 5.2.2.2. Sprint Backlog
+Para nuestro segundo Sprint Bakclog, el equipo se centró principalmente en la elaboración del front end de la web application. Siendo este el foco principal, nos dedicamos
+a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementar, basandonos en nuestras user stories. Es así, que las dividimos en
+tareas mas maneajables y organizables y las asignamos a cada uno de los miembros, según sus habiidades. Hicimos uso de Trello para la elaboración de esta actividad.
+
+Link del Trello: https://trello.com/invite/b/5c6MdVor/ATTI7c996082cf02b7b4f5e4594376a9a0f55062C60E/sprint 
+
+
+| Sprint #  | Sprint 2  |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
+|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+| USER-002  | Agregar herramienta ergonómica al carrito de compra y proceder al pago. |  TK01 | Sección Carrito de Compras | Añadir la sección de Carrito de compras |1 |Anthony Guerrero|Done
+| USER-003 | Ver detalle de la herramienta ergonómica |  TK02 | Sección Compras | Añadir la sección de Compras |2 |Anthony Guerrero|Done
+| USER-004  | Filtrar herramientas ergonómicas |  TK03 | Barra de búsqueda | Añadir una barra de búsquedas |2 |Anthony Guerrero|Done
+| USER-004  | Filtrar herramientas ergonómicas |  TK04 | Filtrado por búsqueda | Añadir filtros de búsqueda |3 |Anthony Guerrero|In process
+| USER-006  | Visualizar los horarios de atención de cada fisioterapeuta |  TK05 | Sección Lista de Fisioterapeutas | Añadir la sección de Lista de Fisioterapeutas |2 |Giacomo Zoppi|Done
+| USER-006  | Visualizar los horarios de atención de cada fisioterapeuta |  TK06 | Tabla de Terapeutas | Añadir una tabla de Fisioterapeutas con horario incluido |2|Giacomo Zoppi|Done
+| USER-007  | Reservar cita con fisioterapeuta |  TK07 | Selección de horario | Añadir una posibilidad de seleccionar citas con fecha y horario |1 |Giacomo Zoppi|Done
+| USER-007  | Reservar cita con fisioterapeuta |  TK08 | Pantalla de confirmación de cita | Añadir una vista de cita reservada exitosamente |1 |Giacomo Zoppi|Done
+| USER-008  | Acceder a un entorno fácil de usar para la cita. |  TK09 | Visualizar una atractiva interfaz | Añadir un header y footer |1 |Erick Palomino|Done
+| USER-008  | Acceder a un entorno fácil de usar para la cita. |  TK10 | Visualizar una atractiva interfaz | Mostrar al usuario diferentes vistas y estilos |2 |Gianfranco Luna, Giacomo Zoppi, Juan Ramos|Done
+| USER-012  | Configurar notificaciones de cita |  TK11 | Visualizar un recordatorio de cita |  Visualizar un recordatorio de cita|2 |Gianfranco Luna|In process
+| USER-012  | Configurar notificaciones de cita |  TK12 | Configuración de notificaciones | Visualizar una sección de configuración de notificaciones  |2 |Gianfranco Luna|In processs
+| FISIO-001  | Registrar detalles de cada sesión de tratamiento. |  TK13 | Registro de tratamientos | Registrar el tratamiento de un paciente | 3 |Erick Palomino|Done
+| FISIO-001  | Registrar detalles de cada sesión de tratamiento. |  TK14 | Registro de tratamientos | El fisioterapeuta debe poder interactuar con una tabla de tratamientos de pacientes suyos. |3 |Erick Palomino|In process
+| FISIO-003  | Generar informes. |  TK15 | Acceder al perfil del usuario | El fisioterapeuta debe poder acceder al perfil de sus pacientes |2 |Juan Pablo Ramos|In process
+| FISIO-003  | Generar informes. |  TK16 | Registrar informes sobre el paciente | El fisioterapeuta debe poder añadir informes al perfil del paciente  |2 |Juan Pablo Ramos, Erick Palomino|In process
+| FISIO-004  | Creación de planes de ejercicios de movimiento |  TK17 | Función creación de planes | Añadir la función de creación de planes para el fisioterapeuta |2 |Giacomo Zoppi|To do
+| FISIO-004  | Creación de planes de ejercicios de movimiento |  TK18 | Asignación de planes | El fisioterapeuta debe poder asignar ciertos planes de ejercicios a usuarios específicos. |3 |Todos|To do
+| FISIO-006  | Registrar horario disponible por parte del fisioterapeuta |  TK19 | Registro de horario | Añadir la función de registrar horario por parte del fisioterapeuta |3 |Giacomo Zoppi|To do
+| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK20 | Sección de Suscripción Premium | Añadir la sección de Suscripción Premium |4 |Todos|To do
+| USER-017  | Pagar con diversos medios de pago para acceder a la versión premium de la app |  TK21 |  Ingreso de método de pago | El usuario debe poder ingresar un método de pago |3 |Anthony Guerrero|Done
+| USER-018  | Registrar dolores musculares |  TK22 |  Registrar problemas y dolores musculares | Añadir una sección en la que registrar problemas musculares |3 |Erick Palomino|Done
+| USER-019  | Acceder al plan de ejercicios. |  TK23 | Acceso al plan de ejercicio | Añadir una sección de plan de ejercicios en el perfil |2 |Todos|To do
+| USER-020  | Marcar ejercicios como completados. |  TK24 | Marcar ejercicios como completados | Añadir un estado a los ejercicios del plan y que el usuario pueda asignarles un estado |2 |Todos|To do
+| USER-022  | Registrarse en la aplicación |  TK25 | Registro | Permitir al usuario registrarse en la aplicación |2 |Juan Pablo Ramos|To do
+| USER-022  | Registrarse en la aplicación |  TK26 | mostrar información del perfil | Permitir al usuario ver la información registrada en su perfil |1 |Juan Pablo Ramos|To do
+
+- 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
+| ------------  | ------------  | ------------ | ------------ |------------|------------|
+|Erick Palomino   |main|839164d|Add: public components|Add: header y sidebar|23-04-24|
+|Erick Palomino   |main|cc93c57|Add: components|Add: bounded context|30-04-24|
+|Erick Palomino   |main|df1afdf|Add: pages |Add: pages de toda la WebApp |02-05-24|
+|Anthony Guerrero |main|2c871c3|Add: product bounded-context |Add: product bounded-context|30-04-24|
+|Anthony Guerrero |main|768fb33|Add: Merge branch 'main' |Add: Merge branch 'main'|01-05-24|
+|Anthony Guerrero |main|768fb33|Add: CartService |Add: CartService|02-05-24|
+|Juan Pablo|feature/styles|3f298e0|feat: personal-data-container styles|Added and fixed styles for personal-data-container.component|30/04/24|
+|Juan Pablo|feature/styles|8cb2352|update main-container.component styles|Minor update to fix styles for main-container.component|30/04/24|
+|Juan Pablo|main|b167770|feat: main-container & personal-data-container styles|Merged feature/styles branch with main branch|01/05/24|
+|Giacomo Zoppi |main|fff77147|feat: Added fisios-detail|Merged feature/styles branch with main branch|28/04/24|
+|Giacomo Zoppi|main|229c37d|feat: Added fisio-detail and confirmation component|Merged feature/styles branch with main branch|29/04/24|
+|Gianfranco Luna|main|3s86f32|feat:style updated style for side-card|Minor update for styles |02/05/24|
+|Gianfranco Luna|main|2s8bg|feat: Added appointment component|Add:appointment bounded-context |02/05/24|
+
+
+
+
+- 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+ |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|erickpalomino1923|Acceptance-Test-Script-2/Main/Main|08028bb|Add Feature|Add Feature 1 |02/05/2024| 
+|erickpalomino1923|Acceptance-Test-Script-2/Main/Main|f6d4e73|Add Feature|Add Feature 2 |02/05/2024| 
+|Gianfranco4991|Acceptance-Test-Script-2/Main|09cb7ec|Create Feature_5.feature|Create Feature_5.feature |02/05/2024|
+|Gianfranco4991|Acceptance-Test-Script-2/Main|d26f330|Create Feature_6.feature|Create Feature_6.feature |02/05/2024|
+|Giacomo202210029|Acceptance-Test-Script-2/Main|23362b8|Created feature 7|Created feature 7|02/05/2024| 
+|Giacomo202210029|Acceptance-Test-Script-2/Main|c680f26|docs: Added feature 8|docs: Added feature 8|02/05/2024|
+|AnthonyGuerrero56|Acceptance-Test-Script-2/Main|31dd16e|Create Feature_9.feature|Create Feature_9.feature |02/05/2024|
+|AnthonyGuerrero56|Acceptance-Test-Script-2/Main|1c21e79|Create Feature_10.feature|Create Feature_10.feature|02/05/2024|
+|Juan Pablo|Acceptance-Test-Script-2/Main|17a24eb|Create Feature_3.feature|Create Feature_3.feature |02/05/2024|
+|Juan Pablo|Acceptance-Test-Script-2/Main|5ed0f8b|Create Feature_4.feature|Create Feature_4.feature|02/05/2024|
+
+
+ ```gherkin
+Feature: TK01: Agregar herramienta ergonómica al carrito de compra y proceder al pago
+
+Como usuario
+Quiero poder agregar una herramienta ergonómica al carrito de compra y proceder al pago fácilmente
+
+Scenario: Agregar herramienta ergonómica al carrito de compra
+  Given que un usuario está navegando por la tienda
+  When selecciona una herramienta ergonómica para comprar
+  And la agrega al carrito de compra
+  Then la herramienta ergonómica debe estar en el carrito de compra del usuario
+
+Scenario: Proceder al pago desde el carrito de compra
+  Given que un usuario tiene elementos en su carrito de compra
+  When decide proceder al pago
+  Then debe ser redirigido al proceso de pago con los elementos del carrito presentes
+
+Feature: TK02: Ver detalle de la herramienta ergonómica
+
+Como usuario
+Quiero poder ver los detalles de una herramienta ergonómica antes de comprarla
+
+Scenario: Ver detalle de la herramienta ergonómica
+  Given que un usuario está navegando por la tienda
+  When selecciona una herramienta ergonómica
+  Then debe poder ver todos los detalles de la herramienta, como su descripción, precio y características
+
+Feature: TK03: Filtrar herramientas ergonómicas por búsqueda
+
+Como usuario
+Quiero poder filtrar las herramientas ergonómicas por medio de una barra de búsqueda
+
+Scenario: Filtrar herramientas ergonómicas por búsqueda
+  Given que un usuario está navegando por la tienda
+  When ingresa un término de búsqueda relacionado con herramientas ergonómicas en la barra de búsqueda
+  Then debe ver solo las herramientas ergonómicas que coincidan con su búsqueda
+
+Feature: TK04: Filtrar herramientas ergonómicas por filtros de búsqueda
+
+Como usuario
+Quiero poder refinar mi búsqueda de herramientas ergonómicas utilizando filtros
+
+Scenario: Filtrar herramientas ergonómicas por filtros de búsqueda
+  Given que un usuario está navegando por la tienda
+  When aplica filtros específicos, como precio, marca o categoría, a la búsqueda de herramientas ergonómicas
+  Then debe ver solo las herramientas ergonómicas que cumplan con los criterios de filtro aplicados
+
+Feature: TK05: Visualizar los horarios de atención de cada fisioterapeuta
+
+Como usuario
+Quiero poder ver los horarios de atención de los fisioterapeutas disponibles
+
+Scenario: Visualizar los horarios de atención de cada fisioterapeuta
+  Given que un usuario está navegando por la sección de lista de fisioterapeutas
+  When selecciona a un fisioterapeuta específico
+  Then debe poder ver los horarios de atención disponibles para ese fisioterapeuta
+
+Feature: TK06: Visualizar los horarios de atención de cada fisioterapeuta en una tabla
+
+Como usuario
+Quiero poder visualizar los horarios de atención de cada fisioterapeuta en una tabla para una mejor comparación
+
+Scenario: Visualizar los horarios de atención de cada fisioterapeuta en una tabla
+  Given que un usuario está navegando por la sección de lista de fisioterapeutas
+  When visualiza la tabla de horarios de atención
+  Then debe poder ver claramente los horarios de cada fisioterapeuta para una fácil comparación
+
+Feature: TK07: Acceder a un entorno fácil de usar para la cita
+
+Como usuario
+Quiero acceder a una interfaz atractiva y fácil de usar para programar citas
+
+Scenario: Acceder a un entorno fácil de usar para la cita
+  Given que un usuario accede a la sección de citas
+  When observa la interfaz
+  Then debe encontrar fácilmente las opciones para programar una cita y navegar por diferentes secciones
+
+Feature: TK08: Mostrar al usuario diferentes secciones en la interfaz de cita
+
+Como usuario
+Quiero tener acceso fácil a diferentes secciones relevantes mientras programo una cita
+
+Scenario: Mostrar al usuario diferentes secciones en la interfaz de cita
+  Given que un usuario está programando una cita
+  When explora la interfaz
+  Then debe poder ver claramente las opciones para acceder a secciones como perfil, historial de citas, y servicios disponibles
+
+Feature: TK09: Registrar detalles de cada sesión de tratamiento
+
+Como fisioterapeuta
+Quiero poder registrar detalles de cada sesión de tratamiento para mis pacientes
+
+Scenario: Registrar detalles de cada sesión de tratamiento
+  Given que un fisioterapeuta está en la sección de registro de tratamientos
+  When ingresa los detalles de una sesión de tratamiento para un paciente específico
+  Then los detalles deben registrarse correctamente en el sistema
+
+Feature: TK10: Interactuar con una tabla de tratamientos de pacientes
+
+Como fisioterapeuta
+Quiero poder interactuar con una tabla de tratamientos de mis pacientes para una gestión más eficiente
+
+Scenario: Interactuar con una tabla de tratamientos de pacientes
+  Given que un fisioterapeuta está en la sección de registro de tratamientos
+  When visualiza la tabla de tratamientos de sus pacientes
+  Then debe poder editar, eliminar o agregar tratamientos fácilmente desde la tabla
+
+
+```
+
+- 5.2.2.5. Execution Evidence for Sprint Review.
+  - En este Sprint hemos realizado la parte Front End de nuestra aplicación web, con los elementos básicos y principales como se mostraron en los Mockups.  
+  	1. Sección Home: Aquí se visualiza la pantalla principal de un usuario, con su nombre, frase personal, foto de perfil y otros datos, como correo y número. Además, presenta botones para editar el perfil y la lista de problemas.  
+     	   <img src= "static/img/Chapter 5/Execution Evidence/home.png" >
+      
+	2. Sección Personal Data: Pantalla que permite ingresar los datos personales para editar el perfil del usuario.  
+  	   <img src="static/img/Chapter 5/Execution Evidence/personalData.png" >
+
+  	3. Sección Problems: Muestra la lista de los problemas físicos que el usuario presenta con una opción para agregar más.  
+  	   <img src="static/img/Chapter 5/Execution Evidence/problems.png" >
+      
+	4. Sección Add Problem: Sección donde el usuario puede añadir problemas de postura o musculatorios que presenta a una lista.  
+	   <img src="static/img/Chapter 5/Execution Evidence/problemsEdit.png" >
+     
+	5. Sección Products: Pantalla donde se visualiza la lista de los productos en venta. Presenta un espacio para buscar productos específicos.  
+	   <img src="static/img/Chapter 5/Execution Evidence/products.png" >
+     
+	6. Sección Product Detail: Al elegir un producto, se muestra la pantalla con datos a fondo de lo escogido, incluyendo descripción, rating, tamaño y un botón para agregarlo al carrito de compras.  
+	   <img src="static/img/Chapter 5/Execution Evidence/productsDetail.png" >
+    
+	7. Seccion Shopping Cart: Muestra todos los productos escogidos como agregados para confirmar su compra.
+  	   <img src="static/img/Chapter 5/Execution Evidence/shoppingCart.png" >
+    
+	8. Seccion Payment Info: Sección que pide el ingreso de datos de la tarjeta de crédito o débito para realizar la compra.
+  	   <img src="static/img/Chapter 5/Execution Evidence/paymentInformation.png" >
+    
+	9. Seccion Purchase: Luego de realizar una compra, se muestra esta pantalla declarando una compra éxitosa y con los detalles de los artículos comprados.
+  	   <img src="static/img/Chapter 5/Execution Evidence/purchaseFinished.png" >
+    
+	10. Seccion Physiotherapists: Muestra una lista de los fisioterapeutas disponibles, con su nombre, foto, descripción, edad y horario.
+  	   <img src="static/img/Chapter 5/Execution Evidence/fisios.png" >
+    
+	11. Seccion Physiotherapist Detail: Al elegir un fisioterapeuta de la lista, se muestra más información a detalle del escogido, además de un botón para confirmar una cita.
+  	   <img src="static/img/Chapter 5/Execution Evidence/fisiosDetail.png" >
+    
+	12. Seccion Confirmation: Pantalla mostrada para declarar que una cita con un fisioterapeuta ha sido registrada correctamente.
+  	   <img src="static/img/Chapter 5/Execution Evidence/confirmation.png" >
+   
+  - Enlace al video demostrativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010054_upc_edu_pe/EeszgnX8vfpEgfm8c88--e8BoXPaXs27Tc8mjUtiNYpI6A?e=yW4mgA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+- 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+- 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+  
+  Se utilizó el servicio de auto deploy de Netlify. Se seleccionó el nuevo repositorio de la aplicación web.
+  
+    <img src="static/img/Chapter 5/Execution Evidence/netlify.jpg">
+
+    a) Vista del perfil del usuario
+    <img src="static/img/Chapter 5/Execution Evidence/perfil-netlify.jpg" >
+    b) Vista de la selección de los fisioterapeutas disponibles
+    <img src="static/img/Chapter 5/Execution Evidence/fisioterapeuta-netlify.jpg" >
+    c) Vista los productos de ergonomía
+    <img src="static/img/Chapter 5/Execution Evidence/ergonomiczone-netlify.jpg">
+
+    De este modo, se posee un servicio más automatizado el cual refleja los cambios realizados sin tener que destinar tiempo para subir los archivos de manera manual.
+
+
+- 5.2.2.8. Team Collaboration Insights during Sprint.
+  
+| Integrante                         | Actividad                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Gianfranco Luna Morales| Diseño y estructura de la landing page. Vistas/estilos del personal data, side card. Appointment component. |
+| Erick Joaquin Palomino Santa Cruz |Creacion de la estrucutra de la WebApp, creacion de los componentes publicos, bounded context y pages |
+| Anthony Jeandet Guerrero Castillo | Creación de bounded-context para productos, detalle de productos, funcionalidades para carrito de compras y confirmación de compras. |
+| Juan Pablo Ramos Mendoza |Diseño de estilos para componente personal-data y main-container.|
+| Giacomo Zoppi Rodriguez | Creación de la vista de fisioterapeutas y selección de horarios |    
+
+![image](https://github.com/PhysioDesk/Informes/assets/127764958/819ae30d-8bd0-4e9e-97c7-49d59dd0669d)
+
 
 
 - 5.3. Validation Interviews.
@@ -1236,7 +1701,12 @@ En esta entrega del sprint 1, logramos implementar una Landing Page funcional.
 ## Conclusiones
 
 - Conclusiones y recomendaciones.
-  En conclusión, podemos decir que PhysioDesk es un proyecto que podria funcionar y podria tener una gran acogida por su publico objetivo, asi como por la comunidad medica y terapeutica a nivel nacional . A lo largo del proyecto, tambien hemos determinado algunos puntos que mejorar, tanto en nuestra idea de proyecto, como en nuestra organización de grupo. Concluimos esta primera entrega, hasta el punto 5.2.1.8 y la elaboración unicamente del primer sprint, centrado en la elaboración de la Landing Page. Creemos que con todo lo aprendido en este entregable, podremos otorgar un producto y una marca mas pulida y mejor elaborada. 
+  En conclusión, podemos decir que PhysioDesk es un proyecto que podria funcionar y podria tener una gran acogida por su publico objetivo, asi como por la comunidad medica y terapeutica a nivel nacional. Creemos que puede beneficiar a un gran conjunto de personas, que laboran a diario en oficinas o escritorios y que no disponen del tiempo o del conocimiento como para contrarrestar el daño que le hace una vida tan monotona a su fisico. Esperamos de igual forma, poder brindar mayor atención e importancia al sector de la terapia fisica, pues por lo general no se tiene tanta consciencia sobre la importancia de la misma y lo perjudicial que puede ser no atender a terapia fisica cuando se es necesario. 
+  
+ A lo largo del proyecto, tambien hemos determinado algunos puntos que mejorar, tanto en nuestra idea de proyecto, como en nuestra organización de grupo. Concluimos esta primera entrega, hasta el punto 5.2.1.8 y la elaboración unicamente del primer sprint, centrado en la elaboración de la Landing Page. Creemos que con todo lo aprendido en este entregable, podremos otorgar un producto y una marca mas pulida y mejor elaborada. 
+
+ Para el segundo entregable, nos centramos en la creación del Web Application Service. Logramos aplicar todo lo aprendido en clase para su elaboración y además, pudimos corregir algunos puntos de la primera entrega del TB, asi como del Landing Page. 
+ 
 - Video About-the-Team.
 
 ## Bibliografía 
