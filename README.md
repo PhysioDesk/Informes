@@ -1687,6 +1687,58 @@ Scenario: Interactuar con una tabla de tratamientos de pacientes
 
 ![image](https://github.com/PhysioDesk/Informes/assets/127764958/819ae30d-8bd0-4e9e-97c7-49d59dd0669d)
 
+Sprint 3
+  - 5.2.2. Sprint 3
+    - 5.2.2.1. Sprint Planning 3
+    El Sprint #2 tiene como fecha de inicio el 25/05/2024 y como meta nos planteamos resolver algunos errores de la landing page y realizar una primera versión del frontend web application de tal modo que resulte funcional y atractiva visualmente.
+
+| Sprint #  | Sprint 2  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-05-25  |
+| Time  |  10:00 PM |
+| Location  | Discord |
+| Prepared  by  | Erick Palomino |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Relizar el Back end de la web application de modo que sea funcional y efectiva  |
+| Spring n Velocity |   puntos |
+| Sum of Story Points |  puntos|
+
+
+- 5.2.2.2. Sprint Backlog
+Para nuestro segundo Sprint Bakclog, el equipo se centró principalmente en la elaboración del back end de la web application. Siendo este el foco principal, nos dedicamos
+a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementar, basandonos en nuestras user stories. Es así, que las dividimos en
+tareas mas maneajables y organizables y las asignamos a cada uno de los miembros, según sus habiidades. Hicimos uso de Trello para la elaboración de esta actividad.
+
+
+
+
+| Sprint #  | Sprint 2  |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
+|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK24 | Endpoint | Crear endpoint que permite la comunicación para permitir el registro de nuevos usuarios |1 |Anthony Guerrero|To-do
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK25 | Validar correos |Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente |3 |Anthony Guerrero|To-do
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK26 | Validar Id | Recorrer los id ya existentes, para validar que no se repitan |2 |Giacomo Zoppi|To-do
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK27 | Creacion en la base de datos | Crear una nueva cuenta de usuario en la base de datos |2 |Anthony Guerrero|To-do
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK28 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto a un mensaje de exito |2 |Anthony Guerrero|To-do
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK29 | Validar datos | Recorrer los datos ya existentes, para validar los datos e iniciar sesión |2 |Giacomo Zoppi|To-do
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK30 | Crear Token | Se debe generar un token JWT válido |2|Giacomo Zoppi|To-do
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK31 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Giacomo Zoppi|To-do
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK32 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi|To-do
+| DVLOP-003 | Integrar Sistema de Citas | TK33 |Crear endpoint | Crear endpoint que permite que los usuarios reserven cita |2|Giacomo Zoppi|To-do
+| DVLOP-003 | Integrar Sistema de Citas | TK34 | Validar cita | Se debe validar que los detalles coinciden con el horario disponible |2|Giacomo Zoppi|To-do
+| DVLOP-003 | Integrar Sistema de Citas | TK35 | Crear Token | Se debe generar un token JWT válido |2|Giacomo Zoppi|To-do
+| DVLOP-003 | Integrar Sistema de Citas |   TK36 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Giacomo Zoppi|To-do
+| DVLOP-003 | Integrar Sistema de Citas |   TK37 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | TK38 |Crear endpoint | Crear endpoint que permite que los usuarios consultar productos ergonomicos |2|Giacomo Zoppi|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | TK39 | Validar busqueda | Se debe validar que los detalles coinciden con algun producto |2|Giacomo Zoppi|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK40 | Parametros de busqueda | Se deben permitir ciertos parametros en la consulta de productos |2|Giacomo Zoppi|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK41 | Devolver productos | Se debe devolver la informacion de los productos con los parametros designados |2|Giacomo Zoppi|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK42 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Giacomo Zoppi|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK43 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi|To-do
+
 
 
 - 5.3. Validation Interviews.
