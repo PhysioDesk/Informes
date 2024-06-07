@@ -1787,6 +1787,17 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
   
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
+  
+  1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En qué distrito reside actualmente?
+  2. ¿Cuál es su ocupación?
+  3. ¿Qué le parece el diseño de nuestra landing page? ¿Le resulta llamativa o le genera motivos de registro?
+  4. ¿Considera que la aplicación es intuitiva y proporciona información relevante? ¿Se puede desplazar con facilidad? ¿Por qué lo considera de esa manera?
+  5. ¿Qué funcionalidad o caracteristica cree que se podría agregar, sobra o podría actualizarse para generar mayor interés en su uso?
+  6. ¿Le parece adecuado los artículos en venta que le ofrecemos?
+  7. ¿Se siente cómodo con el uso de sesiones virtuales?
+  8. ¿Cuál fue su navegador de preferencia para el uso de la aplicación?
+  9. ¿Se encontró algún elemento visual como el posicionamiento o gama de colores, tipografía que no le fue se su agrado?
+      
 - 5.3.2. Registro de Entrevistas.
 - 5.3.3. Evaluaciones según heurísticas.
 - 5.3.4. Video About-the-Product.
