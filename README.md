@@ -1773,17 +1773,25 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 | DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK54 | Crear endpoint | Crear endpoint mediante una solicitud put que permita a los fisioterapeutas actualizar sus horarios o datos |2|Juan Ramos|To-do 
 | DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK53 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Juan Ramos|To-do
 
-- Development Evidence for Sprint Review.
+- 5.2.3.3. Development Evidence for Sprint Review.
 
 | Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
 | ------------  | ------------  | ------------ | ------------ |------------|------------|
 | ------------  | ------------  | ------------ | ------------ |------------|------------|
 
-- Testing Suite Evidence for Sprint Review.
+- 5.2.3.4. Testing Suite Evidence for Sprint Review.
  |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
 |----------|------|---------|--------------|-------------------|------------------|
 
-- Execution Evidence for Sprint Review.
+- 5.2.3.5. Execution Evidence for Sprint Review.
+
+- 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+- 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+- 5.2.3.8.Team Collaboration Insights during Sprint.
+
+
   
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
