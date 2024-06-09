@@ -781,6 +781,9 @@ Entrevista #4:
 | 43 | DVLOP-010 | Crear Endpoint para cancelar plan de suscripcion | Como desarrollador, quiero crear un endpoint DELETE para permitir que los usuarios cancelen sus planes de suscripcion | 3 |
 | 44 | DVLOP-011 | Crear Endpoint para hacer un pago | Como desarrollador, quiero crear un endpoint POST para permitir a los usuarios efectuar los pagos de su plan de suscripcion o sus citas | 3 |
 | 45 | DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | Como desarrollador, quiero crear un endpoint PUT para permitir a los fisioterapeutas actualizar sus datos, tales como su horario de trabajo | 3 |
+| 46 | DVLOP-013 | Crear Endpoint para subir las grabaciones | Como desarrollador, quiero crear un endpoint POST que permita a los fisioterapeuta colgar las grabaciones de sus sesiones|3|
+| 46 | DVLOP-014 | Crear Endpoint para obtener  las grabaciones | Como desarrollador, quiero crear un endpoint GET que permita a los fisioterapeuta colgar las grabaciones de sus sesiones|3|
+| 46 | DVLOP-015 | Crear Endpoint para elimnar las grabaciones | Como desarrollador, quiero crear un endpoint DELETE que permita a los fisioterapeuta eliminar las grabaciones de las sesiones pasadas|3|
 
 
 
@@ -1767,14 +1770,15 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 | DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK52 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien sus datos |2|Erick Palomino| In Process
 | DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK53 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Erick Palomino| In Process
 | DVLOP-009 | Crear Endpoint para ver plan de suscripcion | TK54 | Crear endpoint | Crear endpoint mediante una solicitud get que permita que los usuarios vean su suscripción |2|Gianfranco Luna|To-do 
-| DVLOP-010 | Crear Endpoint para cancelar plan de suscripcion | TK54 | Crear endpoint | Crear endpoint mediante una solicitud delete que permita que los usuarios vean cancelen su plan de suscripcion |2|Gianfranco Luna|To-do 
-| DVLOP-011 | Crear Endpoint para hacer un pago | TK54 | Crear endpoint | Crear endpoint mediante una solicitud post que permita que los usuarios paguen la suscripción |2|Gianfranco Luna|To-do 
-| DVLOP-011 | Crear Endpoint para hacer un pago | TK54 | Validar datos | Validar datos del metodo de pago |2|Gianfranco Luna|To-do 
-| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK53 | Crear endpoint | Crear endpoint mediante una solicitud put que permita a los fisioterapeutas actualizar sus horarios o datos |2|Juan Ramos|Done
-| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK54 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Juan Ramos|Done
-| DVLOP-013 | Crear Endpoint para subir las grabaciones | TK55 | Crear Endpoint | Crear endpoint mediante una solicitud post que permita a los fisioterapeutas subir las grabaciones de las sesiones|2|Erick Palomino|Done
-| DVLOP-013 | Crear Endpoint para obtener las grabaciones de las sesiones | TK56 | Crear Endpoint | Permite a los usuarios acceder a grabaciones segun la fecha de publicacion |2|Erick Palomino|Done
-| DVLOP-013 | Crear Endpoint para obtener las grabaciones de las sesiones | TK57 | Acceder por Id | Permite a los usuarios acceder a grabaciones segun id |2|Erick Palomino|Done
+| DVLOP-010 | Crear Endpoint para cancelar plan de suscripcion | TK55 | Crear endpoint | Crear endpoint mediante una solicitud delete que permita que los usuarios vean cancelen su plan de suscripcion |2|Gianfranco Luna|To-do 
+| DVLOP-011 | Crear Endpoint para hacer un pago | TK56 | Crear endpoint | Crear endpoint mediante una solicitud post que permita que los usuarios paguen la suscripción |2|Gianfranco Luna|To-do 
+| DVLOP-011 | Crear Endpoint para hacer un pago | TK57 | Validar datos | Validar datos del metodo de pago |2|Gianfranco Luna|To-do 
+| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK58 | Crear endpoint | Crear endpoint mediante una solicitud put que permita a los fisioterapeutas actualizar sus horarios o datos |2|Juan Ramos|Done
+| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK59 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Juan Ramos|Done
+| DVLOP-013 | Crear Endpoint para subir las grabaciones | TK60 | Crear Endpoint | Crear endpoint mediante una solicitud post que permita a los fisioterapeutas subir las grabaciones de las sesiones|2|Erick Palomino|Done
+| DVLOP-014 | Crear Endpoint para obtener las grabaciones de las sesiones | TK61 | Crear Endpoint | Permite a los usuarios acceder a grabaciones segun la fecha de publicacion |2|Erick Palomino|Done
+| DVLOP-014 | Crear Endpoint para obtener las grabaciones de las sesiones | TK62 | Acceder por Id | Permite a los usuarios acceder a grabaciones segun id |2|Erick Palomino|Done
+| DVLOP-015 | Crear Endpoint para eliminar las grabaciones de las sesiones | TK62 | Acceder por Id | Permite a los fisioterapetuas eliminar las grabaciones pasadas |2|Erick Palomino|Done
 
 
 - 5.2.3.3. Development Evidence for Sprint Review.
@@ -1807,7 +1811,70 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 - 5.2.3.5. Execution Evidence for Sprint Review.
 
+US2: Agregar herramienta ergonómica al carrito de compra y proceder al pago
+
+US3:Ver detalle de la herramienta ergonómica
+
+US4: Filtrar herramientas ergonómicas
+
+US6: Visualizar los horarios de atención de cada fisioterapeuta
+
+US7: Reservar cita con fisioterapeuta
+
+US8: Acceder a un entorno fácil de usar para la cita.
+
+US12: Configurar notificaciones de cita
+
+FISIO1:  Registrar detalles de cada sesión de tratamiento.
+
+US19: Acceder al plan de ejercicios
+
+
+DVLOP1: Crear Endpoint para Registro de Usuario
+
+DVLOP2: Implementar Autenticación de Usuario
+
+DVLOP3: Integrar Sistema de Citas
+
+DVLOP4: Crear Endpoint para Consulta de Productos Ergonómicos
+
+DVLOP5: Crear Endpoint para registro de fisioterapeutas
+
+DVLOP6: Crear Endpoint para consulta de fisioterapeutas
+
+DVLOP7: Integrar Cambio de fecha de citas
+
+DVLOP8: Crear Endpoint para cambio de datos de usuario
+
+DVLOP12: Crear Endpoint para actualizar datos de fisioterapia, como horarios
+
+DVLOP13: Crear Endpoint para subir las grabaciones
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b4af2ae-af36-4702-a625-9d35135ee011)
+
+
+DVLOP14: Crear Endpoint para obtener las grabaciones de las sesiones
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/453ec2b4-14eb-484d-b414-d7483fb6e2a0)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/8b1afad8-7c7e-4f97-961a-57ccf5be9a00)
+
+
+
+DVLOP15: Crear Endpoint para eliminar las grabaciones de las sesiones
+
+
+
 - 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Web Service
+
+Web Service Images
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/9cafa1a8-a6c6-4a41-98ec-4d9bc9ccd3de)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/718b9836-e0b2-4d41-8496-0b4477acc9e2)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/17b611a3-0a07-4ad6-908f-7d2bc53ae64a)
+
+
+
+
 
 - 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
@@ -1815,7 +1882,7 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 | Integrante                         | Actividad                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Gianfranco Luna Morales |  |
+| Gianfranco Luna Morales | Diseño de Entrevistas |
 | Erick Joaquin Palomino Santa Cruz | Implementación de Frontend y Desarrollo de Backend |
 | Anthony Jeandet Guerrero Castillo | Diseño de Frontend y Desarrollo de Backend |
 | Juan Pablo Ramos Mendoza | Implementación de Frontend y Desarollo de Backend |
