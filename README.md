@@ -2025,7 +2025,17 @@ Web Service Images
   	Duracion: 7:30<br>
    	Minuto de inicio:<br> 
    	Link: https://youtu.be/xpqmxPZeg2M<br>
-    	Resumen: La entrevistada tuvo una buena experiencia con la landing page, pareciéndole bastante atractiva y con un diseño muy limpio que le permitió revisar el proceso de registro de cuenta sin problema. Sobre el aplicativo, a la entrevistada le pareció de bastante agrado el hecho que los botones y enlaces estaban bien definidos e indicaban de buena forma qué hacía cada uno. Además, los artículos en venta eran de especial interés para ella, ya que están enfocados en el trabajo continuo y largo en oficina. Finalmente, la parte gráfica, colores y tipografía de la aplicación fue buena para la vista y de fácil lectura. El único problema que la entrevistada presentó fue la falta de diagramas o explicaciones gráficas de los ejercicios.
+    	Resumen: La entrevistada tuvo una buena experiencia con la landing page, pareciéndole bastante atractiva y con un diseño muy limpio que le permitió revisar el proceso de registro de cuenta sin problema. Sobre el aplicativo, a la entrevistada le pareció de bastante agrado el hecho que los botones y enlaces estaban bien definidos e indicaban de buena forma qué hacía cada uno. Además, los artículos en venta eran de especial interés para ella, ya que están enfocados en el trabajo continuo y largo en oficina. Finalmente, la parte gráfica, colores y tipografía de la aplicación fue buena para la vista y de fácil lectura. El único problema que la entrevistada presentó fue la falta de diagramas o explicaciones gráficas de los ejercicios.<br><br><br>
+  	- Entrevista #2:<br>
+   	![image](https://github.com/PhysioDesk/Informes/assets/89022078/03dcedb3-84e7-428c-81b3-5c2324b5b77c)<br>
+	Entrevistada: Mariafe Alcantara<br>
+	Edad: 18 años<br>
+	Entrevistador: Anthony Jeandet Guerrero Castillo<br>
+	Duracion: 14:01<br>
+ 	Minuto de inicio:<br>
+  	Link:<br>
+	Resumen: La entrevistada es una estudiante de la carrera de Traducción. Ella suele usar bastante su computadora y afirma que tiene conocimiento sobre problemas de la salud debido a las malas posturas. Le pareció bueno el landing page. Sin embargo, hay apartados como el "Contact Us", donde se puede mejorar el diseño. Sobre la aplicación web, destaca que la información es correcta y únicamente se puede mejorar en la confirmación de cita, haciendo que no sea un cambio tan brusco de color. Además, sería bueno que las actividades tengan un tiempo estimado de elaboración.
+
   	  
 - 5.3.3. Evaluaciones según heurísticas.
 
