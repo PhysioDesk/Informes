@@ -1859,6 +1859,8 @@ DVLOP14: Crear Endpoint para obtener las grabaciones de las sesiones
 
 
 DVLOP15: Crear Endpoint para eliminar las grabaciones de las sesiones
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/8d617d57-6ccc-47b4-85d3-2cfd9edd61d0)
+
 
 
 
