@@ -1784,8 +1784,19 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 - 5.2.3.3. Development Evidence for Sprint Review.
 
 | Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
-| ------------  | ------------  | ------------ | ------------ |------------|------------|
-| ------------  | ------------  | ------------ | ------------ |------------|------------|
+| https://discord.com/channels/1233525869616566272/1249228203717820427/1249246103518576672  | ------------  | ------------ | ------------ |------------|------------|
+| ------------  | DVLOP-006 | c9b4dae51feb4760459d04d649739bdab6d7629a | feat: GET and POST physiotherapists |------------|07/06/2024|
+| ------------  | DVLOP-004  | 28119f1068086f95e964c9d09d00135888102668 | feat: Added Products Bounded Context |------------| 01/06/2024 |
+| ------------  | DVLOP-001  | c8da6d6dc0a0e452e867a1895f616b027d777b3e | modelamientoCarpetas |------------|29/02/2024|
+| ------------  | DVLOP-003  | 61cc574eeec6341030c18c7b6d36d7ef05331f14 | feat: Added Appointments |------------|  Jun 7, 2024 |
+| ------------  | DVLOP-012  | 9d370bcaa638358bee15dc89886ff87234be2415 | feat: update physio (PUT) |------------| Jun 7, 2024 |
+| ------------  | DVLOP-008  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge branch 'US-DVLOP-008-Put-User' |------------| Jun 9, 2024 |
+| ------------  | DVLOP-013  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------ |  Jun 7, 2024 |
+| ------------  | DVLOP-013  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------ |  Jun 7, 2024 |
+| https://discord.com/channels/1233525869616566272/1249228203717820427/1249246059834904639  | Develop  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------ |  May 29, 2024 |
+|   | Develop  | 9c9a18342a310614a15c6784cc18da464d24255f | Feat: Se agregaron las funcionalidades faltantes del tp' | ------------ |  Jun 6, 2024 |
+|   | Develop  | d17827da27727f5cd96e54cce7c3b5c270f23cf4 | Feat: Arreglo del landing, y añado lista de usuarios' | ------------ | Jun 8, 2024 |
+
 
 - 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
