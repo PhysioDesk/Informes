@@ -1697,11 +1697,11 @@ Scenario: Interactuar con una tabla de tratamientos de pacientes
   
 | Integrante                         | Actividad                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Gianfranco Luna Morales| Diseño y estructura de la landing page. Vistas/estilos del personal data, side card. Appointment component. |
-| Erick Joaquin Palomino Santa Cruz |Creacion de la estrucutra de la WebApp, creacion de los componentes publicos, bounded context y pages |
-| Anthony Jeandet Guerrero Castillo | Creación de bounded-context para productos, detalle de productos, funcionalidades para carrito de compras y confirmación de compras. |
-| Juan Pablo Ramos Mendoza |Diseño de estilos para componente personal-data y main-container.|
-| Giacomo Zoppi Rodriguez | Creación de la vista de fisioterapeutas y selección de horarios |    
+| Gianfranco Luna Morales| Diseño y estructura de la landing page |
+| Erick Joaquin Palomino Santa Cruz | Implementación de funcionalidades |
+| Anthony Jeandet Guerrero Castillo | Diseño y estructura de la landing page |
+| Juan Pablo Ramos Mendoza | Creación de Typos |
+| Giacomo Zoppi Rodriguez | Implementación de la sección header de la landing page |    
 
 ![image](https://github.com/PhysioDesk/Informes/assets/127764958/819ae30d-8bd0-4e9e-97c7-49d59dd0669d)
 
@@ -1736,42 +1736,46 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 | ------------ | ------------ |------------|------------|------------|------------|------------|------------
 | User Story |------------|------------|------------|------------|------------|------------|------------
 |  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
-| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK24 | Endpoint | Crear endpoint que permite la comunicación para permitir el registro de nuevos usuarios |1 |Erick Palomino|To-do
-| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK25 | Validar correos |Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente |3 |Anthony Guerrero|To-do
-| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK26 | Validar Id | Recorrer los id ya existentes, para validar que no se repitan |2 |Erick Palomino|To-do
-| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK27 | Creacion en la base de datos | Crear una nueva cuenta de usuario en la base de datos |2 |Anthony Guerrero|To-do
-| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK28 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto a un mensaje de exito |2 |Anthony Guerrero|To-do
-| DVLOP-002 | Implementar Autenticación de Usuario |   TK29 | Validar datos | Recorrer los datos ya existentes, para validar los datos e iniciar sesión |2 |Erick Palomino|To-do
-| DVLOP-002 | Implementar Autenticación de Usuario |   TK30 | Crear Token | Se debe generar un token JWT válido |2|Erick Palomino|To-do
-| DVLOP-002 | Implementar Autenticación de Usuario |   TK31 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Erick Palomino|To-do
-| DVLOP-002 | Implementar Autenticación de Usuario |   TK32 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Erick Palomino|To-do
-| DVLOP-003 | Integrar Sistema de Citas | TK33 |Crear endpoint | Crear endpoint mediante una solicitud post que permita que los usuarios reserven cita |2|Giacomo Zoppi|To-do
-| DVLOP-003 | Integrar Sistema de Citas | TK34 | Validar cita | Se debe validar que los detalles coinciden con el horario disponible |2|Giacomo Zoppi|To-do
-| DVLOP-003 | Integrar Sistema de Citas | TK35 | Crear Token | Se debe generar un token JWT válido |2|Giacomo Zoppi|To-do
-| DVLOP-003 | Integrar Sistema de Citas |   TK36 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Giacomo Zoppi|To-do
-| DVLOP-003 | Integrar Sistema de Citas |   TK37 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi|To-do
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK24 | Endpoint | Crear endpoint que permite la comunicación para permitir el registro de nuevos usuarios |1 |Erick Palomino|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK25 | Validar correos |Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente |3 |Anthony Guerrero|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK26 | Validar Id | Recorrer los id ya existentes, para validar que no se repitan |2 |Erick Palomino|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK27 | Creacion en la base de datos | Crear una nueva cuenta de usuario en la base de datos |2 |Anthony Guerrero|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK28 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto a un mensaje de exito |2 |Anthony Guerrero|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK29 | Validar datos | Recorrer los datos ya existentes, para validar los datos e iniciar sesión |2 |Erick Palomino|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK30 | Crear Token | Se debe generar un token JWT válido |2|Erick Palomino|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK31 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Erick Palomino|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK32 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Erick Palomino|In Process
+| DVLOP-003 | Integrar Sistema de Citas | TK33 |Crear endpoint | Crear endpoint mediante una solicitud post que permita que los usuarios reserven cita |2|Giacomo Zoppi|Done
+| DVLOP-003 | Integrar Sistema de Citas | TK34 | Validar cita | Se debe validar que los detalles coinciden con el horario disponible |2|Giacomo Zoppi|Done
+| DVLOP-003 | Integrar Sistema de Citas | TK35 | Crear Token | Se debe generar un token JWT válido |2|Giacomo Zoppi|In Process
+| DVLOP-003 | Integrar Sistema de Citas |   TK36 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Giacomo Zoppi|Done
+| DVLOP-003 | Integrar Sistema de Citas |   TK37 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi|Done
 | DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | TK38 |Crear endpoint | Crear endpoint mediante una solicitud get que permita que los usuarios consultar productos ergonomicos |2|Giacomo Zoppi|Done
-| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | TK39 | Validar busqueda | Se debe validar que los detalles coinciden con algun producto |2|Giacomo Zoppi|To-do
-| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK40 | Parametros de busqueda | Se deben permitir ciertos parametros en la consulta de productos |2|Giacomo Zoppi|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | TK39 | Validar busqueda | Se debe validar que los detalles coinciden con algun producto |2|Giacomo Zoppi|Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK40 | Parametros de busqueda | Se deben permitir ciertos parametros en la consulta de productos |2|Giacomo Zoppi| Done
 | DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK41 | Devolver productos | Se debe devolver la informacion de los productos con los parametros designados |2|Giacomo Zoppi|Done
-| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK42 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Giacomo Zoppi|To-do
-| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK43 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi|To-do
-| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK44 | Crear endpoint | Crear endpoint mediante una solicitud post que permita a los fisioterapeutas subir sus datos |2|Juan Ramos|To-do
-| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK45 | Validar datos | Se debe validar que los detalles son validos o que la contraseña no coincide |2|Anthony Guerrero|To-do
-| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |  TK46 | Creacion en la base de datos | Crear una nueva cuenta de fisioterapeuta en la base de datos |2 |Anthony Guerrero|To-do
-| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |  TK47 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto a un mensaje de exito |2 |Anthony Guerrero|To-do
-| DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas |  TK48 | Crear endpoint| Crear endpoint mediante una solicitud get que permita a los usuarios consultar ciertos fisioterapeutas |2 |Juan Ramos|To-do
-| DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas |   TK49 | Devolver información | Se debe devolver la informacion del fisioterapeuta que consultó con los datos que brindó |2|Juan Ramos|To-do
-| DVLOP-007 | Integrar Cambio de fecha de citas | TK50 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien la fecha de cita |2|Giacomo Zoppi|To-do
-| DVLOP-007 | Integrar Cambio de fecha de citas | TK51 | Validar nuevos datos | Validar que la nueva fecha de cita es posible y por ende, valida |2|Giacomo Zoppi|To-do
-| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK52 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien sus datos |2|Erick Palomino|To-do
-| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK53 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Erick Palomino|To-do
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK42 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 |2|Giacomo Zoppi| Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK43 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi| Done
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK44 | Crear endpoint | Crear endpoint mediante una solicitud post que permita a los fisioterapeutas subir sus datos |2|Juan Ramos| Done
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK45 | Validar datos | Se debe validar que los detalles son validos o que la contraseña no coincide |2|Anthony Guerrero| In Process
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |  TK46 | Creacion en la base de datos | Crear una nueva cuenta de fisioterapeuta en la base de datos |2 |Anthony Guerrero| Done
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |  TK47 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto a un mensaje de exito |2 |Anthony Guerrero| Done
+| DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas |  TK48 | Crear endpoint| Crear endpoint mediante una solicitud get que permita a los usuarios consultar ciertos fisioterapeutas |2 |Juan Ramos| Done
+| DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas |   TK49 | Devolver información | Se debe devolver la informacion del fisioterapeuta que consultó con los datos que brindó |2|Juan Ramos| Done
+| DVLOP-007 | Integrar Cambio de fecha de citas | TK50 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien la fecha de cita |2|Giacomo Zoppi| Done
+| DVLOP-007 | Integrar Cambio de fecha de citas | TK51 | Validar nuevos datos | Validar que la nueva fecha de cita es posible y por ende, valida |2|Giacomo Zoppi| Done
+| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK52 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien sus datos |2|Erick Palomino| In Process
+| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK53 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Erick Palomino| In Process
 | DVLOP-009 | Crear Endpoint para ver plan de suscripcion | TK54 | Crear endpoint | Crear endpoint mediante una solicitud get que permita que los usuarios vean su suscripción |2|Gianfranco Luna|To-do 
 | DVLOP-010 | Crear Endpoint para cancelar plan de suscripcion | TK54 | Crear endpoint | Crear endpoint mediante una solicitud delete que permita que los usuarios vean cancelen su plan de suscripcion |2|Gianfranco Luna|To-do 
 | DVLOP-011 | Crear Endpoint para hacer un pago | TK54 | Crear endpoint | Crear endpoint mediante una solicitud post que permita que los usuarios paguen la suscripción |2|Gianfranco Luna|To-do 
 | DVLOP-011 | Crear Endpoint para hacer un pago | TK54 | Validar datos | Validar datos del metodo de pago |2|Gianfranco Luna|To-do 
-| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK54 | Crear endpoint | Crear endpoint mediante una solicitud put que permita a los fisioterapeutas actualizar sus horarios o datos |2|Juan Ramos|To-do 
-| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK53 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Juan Ramos|To-do
+| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK53 | Crear endpoint | Crear endpoint mediante una solicitud put que permita a los fisioterapeutas actualizar sus horarios o datos |2|Juan Ramos|Done
+| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK54 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Juan Ramos|Done
+| DVLOP-013 | Crear Endpoint para subir las grabaciones | TK55 | Crear Endpoint | Crear endpoint mediante una solicitud post que permita a los fisioterapeutas subir las grabaciones de las sesiones|2|Erick Palomino|Done
+| DVLOP-013 | Crear Endpoint para obtener las grabaciones de las sesiones | TK56 | Crear Endpoint | Permite a los usuarios acceder a grabaciones segun la fecha de publicacion |2|Erick Palomino|Done
+| DVLOP-013 | Crear Endpoint para obtener las grabaciones de las sesiones | TK57 | Acceder por Id | Permite a los usuarios acceder a grabaciones segun id |2|Erick Palomino|Done
+
 
 - 5.2.3.3. Development Evidence for Sprint Review.
 
@@ -1809,7 +1813,15 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 - 5.2.3.8.Team Collaboration Insights during Sprint.
 
+| Integrante                         | Actividad                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Gianfranco Luna Morales |  |
+| Erick Joaquin Palomino Santa Cruz | Implementación de Frontend y Desarrollo de Backend |
+| Anthony Jeandet Guerrero Castillo | Diseño de Frontend y Desarrollo de Backend |
+| Juan Pablo Ramos Mendoza | Implementación de Frontend y Desarollo de Backend |
+| Giacomo Zoppi Rodriguez | Implementación de Frontend y Desarrollo de Backend |    
 
+![image](https://github.com/PhysioDesk/Informes/assets/127764958/819ae30d-8bd0-4e9e-97c7-49d59dd0669d)
   
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
