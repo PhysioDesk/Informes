@@ -1,4 +1,3 @@
-![US2005](https://github.com/PhysioDesk/Informes/assets/129527802/4f02a286-272e-45d1-a57c-2f949d0645db)![US2004](https://github.com/PhysioDesk/Informes/assets/129527802/757e592f-3c13-40f7-aea2-a30318a26431)
 <p align ="center">
    <img src="./static/img/Logos/UPC_logo.png" >
 </p>
