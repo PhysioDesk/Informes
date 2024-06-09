@@ -1815,6 +1815,106 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 
  ```gherkin
+Feature: Registro de Usuario (DVLOP-001)
+
+  Scenario: Registro exitoso de un nuevo usuario
+    Given que existe un endpoint para el registro de usuarios (TK24)
+    When el usuario proporciona sus datos para registrarse
+    Then se valida que el correo electrónico no esté en uso (TK25)
+    And se valida que el ID no esté en uso (TK26)
+    And se crea una nueva cuenta de usuario en la base de datos (TK27)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito (TK28)
+
+  Scenario: Falla en el registro debido a datos inválidos
+    Given que existe un endpoint para el registro de usuarios (TK24)
+    When el usuario proporciona datos inválidos para registrarse
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK28)
+
+Feature: Autenticación de Usuario (DVLOP-002)
+
+  Scenario: Inicio de sesión exitoso
+    Given que existe un endpoint para la autenticación de usuarios (TK29)
+    When el usuario proporciona datos válidos para iniciar sesión
+    Then se valida los datos de inicio de sesión (TK29)
+    And se genera un token JWT válido (TK30)
+    And se devuelve un código de estado 200 junto con el token y un mensaje de éxito (TK31)
+
+  Scenario: Falla en el inicio de sesión debido a datos inválidos
+    Given que existe un endpoint para la autenticación de usuarios (TK29)
+    When el usuario proporciona datos inválidos para iniciar sesión
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK32)
+
+Feature: Sistema de Citas (DVLOP-003)
+
+  Scenario: Reserva de cita exitosa
+    Given que existe un endpoint para reservar citas (TK33)
+    When el usuario solicita reservar una cita
+    Then se valida la disponibilidad de la cita (TK34)
+    And se genera un token JWT válido (TK35)
+    And se devuelve un código de estado 200 junto con el token y un mensaje de éxito (TK36)
+
+  Scenario: Falla en la reserva de cita debido a datos inválidos
+    Given que existe un endpoint para reservar citas (TK33)
+    When el usuario solicita reservar una cita con datos inválidos
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK37)
+
+Feature: Consulta de Productos Ergonómicos (DVLOP-004)
+
+  Scenario: Consulta de productos exitosa
+    Given que existe un endpoint para consultar productos ergonómicos (TK38)
+    When el usuario solicita consultar productos
+    Then se valida la búsqueda de productos (TK39)
+    And se devuelven los productos con los parámetros especificados (TK41)
+    And se devuelve un código de estado 200 (TK42)
+
+  Scenario: Falla en la consulta de productos debido a datos inválidos
+    Given que existe un endpoint para consultar productos ergonómicos (TK38)
+    When el usuario solicita consultar productos con datos inválidos
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK43)
+
+Feature: Registro de Fisioterapeutas (DVLOP-005)
+
+  Scenario: Registro exitoso de un nuevo fisioterapeuta
+    Given que existe un endpoint para el registro de fisioterapeutas (TK44)
+    When el fisioterapeuta proporciona sus datos para registrarse
+    Then se valida que los datos sean válidos (TK45)
+    And se crea una nueva cuenta de fisioterapeuta en la base de datos (TK46)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito (TK47)
+
+  Scenario: Falla en el registro de fisioterapeuta debido a datos inválidos
+    Given que existe un endpoint para el registro de fisioterapeutas (TK44)
+    When el fisioterapeuta proporciona datos inválidos para registrarse
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK47)
+
+Feature: Cambio de Fecha de Citas (DVLOP-007)
+
+  Scenario: Cambio exitoso de la fecha de cita
+    Given que existe un endpoint para cambiar la fecha de citas (TK50)
+    When el usuario solicita cambiar la fecha de una cita
+    Then se valida que la nueva fecha sea posible (TK51)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito
+
+Feature: Actualización de Datos de Usuario (DVLOP-008)
+
+  Scenario: Actualización exitosa de datos de usuario
+    Given que existe un endpoint para cambiar los datos de usuario (TK52)
+    When el usuario solicita cambiar sus datos
+    Then se valida que los nuevos datos sean válidos (TK53)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito
+
+Feature: Subir Grabaciones de Sesiones (DVLOP-013)
+
+  Scenario: Subida exitosa de grabaciones de sesiones
+    Given que existe un endpoint para subir grabaciones de sesiones (TK60)
+    When el fisioterapeuta sube una grabación de sesión
+    Then se devuelve un código de estado 200 junto con un mensaje de éxito
+
+Feature: Obtener Grabaciones de Sesiones (DVLOP-014)
+
+  Scenario: Obtención exitosa de grabaciones de sesiones
+    Given que existe un endpoint para obtener grabaciones de sesiones (TK61)
+    When el usuario solicita obtener las grabaciones
+    Then se devuelve la información de las grabaciones según la fecha de publicación o el ID (TK62)
 
 
 
