@@ -1,4 +1,4 @@
-
+![US2005](https://github.com/PhysioDesk/Informes/assets/129527802/4f02a286-272e-45d1-a57c-2f949d0645db)![US2004](https://github.com/PhysioDesk/Informes/assets/129527802/757e592f-3c13-40f7-aea2-a30318a26431)
 <p align ="center">
    <img src="./static/img/Logos/UPC_logo.png" >
 </p>
@@ -1783,19 +1783,19 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 - 5.2.3.3. Development Evidence for Sprint Review.
 
-| Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
-| https://discord.com/channels/1233525869616566272/1249228203717820427/1249246103518576672  | ------------  | ------------ | ------------ |------------|------------|
-| ------------  | DVLOP-006 | c9b4dae51feb4760459d04d649739bdab6d7629a | feat: GET and POST physiotherapists |------------|07/06/2024|
-| ------------  | DVLOP-004  | 28119f1068086f95e964c9d09d00135888102668 | feat: Added Products Bounded Context |------------| 01/06/2024 |
-| ------------  | DVLOP-001  | c8da6d6dc0a0e452e867a1895f616b027d777b3e | modelamientoCarpetas |------------|29/02/2024|
-| ------------  | DVLOP-003  | 61cc574eeec6341030c18c7b6d36d7ef05331f14 | feat: Added Appointments |------------|  Jun 7, 2024 |
-| ------------  | DVLOP-012  | 9d370bcaa638358bee15dc89886ff87234be2415 | feat: update physio (PUT) |------------| Jun 7, 2024 |
-| ------------  | DVLOP-008  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge branch 'US-DVLOP-008-Put-User' |------------| Jun 9, 2024 |
-| ------------  | DVLOP-013  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------ |  Jun 7, 2024 |
-| ------------  | DVLOP-013  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------ |  Jun 7, 2024 |
-| https://discord.com/channels/1233525869616566272/1249228203717820427/1249246059834904639  | Develop  | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------ |  May 29, 2024 |
-|   | Develop  | 9c9a18342a310614a15c6784cc18da464d24255f | Feat: Se agregaron las funcionalidades faltantes del tp' | ------------ |  Jun 6, 2024 |
-|   | Develop  | d17827da27727f5cd96e54cce7c3b5c270f23cf4 | Feat: Arreglo del landing, y añado lista de usuarios' | ------------ | Jun 8, 2024 |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/PhysioDesk/Backend | DVLOP-006 | c9b4dae51feb4760459d04d649739bdab6d7629a | feat: GET and POST physiotherapists | ------------- | 07/06/2024 |
+|  | DVLOP-004 | 28119f1068086f95e964c9d09d00135888102668 | feat: Added Products Bounded Context | ------------- | 01/06/2024 |
+|  | DVLOP-001 | c8da6d6dc0a0e452e867a1895f616b027d777b3e | modelamientoCarpetas | ------------- | 29/02/2024 |
+|  | DVLOP-003 | 61cc574eeec6341030c18c7b6d36d7ef05331f14 | feat: Added Appointments | ------------- | Jun 7, 2024 |
+|  | DVLOP-012 | 9d370bcaa638358bee15dc89886ff87234be2415 | feat: update physio (PUT) | ------------- | Jun 7, 2024 |
+|  | DVLOP-008 | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge branch 'US-DVLOP-008-Put-User' | ------------- | Jun 9, 2024 |
+|  | DVLOP-013 | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------- | Jun 7, 2024 |
+|  | DVLOP-013 | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------- | Jun 7, 2024 |
+| https://github.com/PhysioDesk/PhysioDeskWebApp | Develop | 9c9a18342a310614a15c6784cc18da464d24255f | Feat: Se agregaron las funcionalidades faltantes del tp' | ------------- | Jun 6, 2024 |
+|  | Develop | d17827da27727f5cd96e54cce7c3b5c270f23cf4 | Feat: Arreglo del landing, y añado lista de usuarios' | ------------- | Jun 8, 2024 |
+
 
 
 - 5.2.3.4. Testing Suite Evidence for Sprint Review.
@@ -1923,41 +1923,57 @@ Feature: Obtener Grabaciones de Sesiones (DVLOP-014)
 - 5.2.3.5. Execution Evidence for Sprint Review.
 
 US2: Agregar herramienta ergonómica al carrito de compra y proceder al pago
+![US2006](https://github.com/PhysioDesk/Informes/assets/129527802/be2e1b41-7cf1-4f0e-9e30-a468e48e6651)
+![US2001](https://github.com/PhysioDesk/Informes/assets/129527802/dd42deec-132e-4ef0-9607-f8c51c56adda)
 
-US3:Ver detalle de la herramienta ergonómica
+![US2003](https://github.com/PhysioDesk/Informes/assets/129527802/e106589f-818f-4034-8b15-54bd0a955564)
+![US2002](https://github.com/PhysioDesk/Informes/assets/129527802/f3d2522b-3070-4c4f-b937-81b33cd42693)
 
 US4: Filtrar herramientas ergonómicas
+![US2004](https://github.com/PhysioDesk/Informes/assets/129527802/cf9e0e0d-48c5-4dc2-8aaf-71321681da1d)
 
 US6: Visualizar los horarios de atención de cada fisioterapeuta
+![US6001](https://github.com/PhysioDesk/Informes/assets/129527802/2755a929-2dd0-4188-b0ae-a54eab4d6ddb)
 
 US7: Reservar cita con fisioterapeuta
-
-US8: Acceder a un entorno fácil de usar para la cita.
+![US7001](https://github.com/PhysioDesk/Informes/assets/129527802/2b23556d-dbf1-4104-bf35-b9ab80e6c943)
 
 US12: Configurar notificaciones de cita
+![US12001](https://github.com/PhysioDesk/Informes/assets/129527802/2dab797f-dcaa-4cb0-b33c-9d03c28269ad)
 
 FISIO1:  Registrar detalles de cada sesión de tratamiento.
+![FISIO1](https://github.com/PhysioDesk/Informes/assets/129527802/bc77e08d-47bb-45a5-81c8-a89efa17e752)
 
 US19: Acceder al plan de ejercicios
+![US19002](https://github.com/PhysioDesk/Informes/assets/129527802/46180bdc-e421-4373-b2d0-9dded95fab9a)
+![US19001](https://github.com/PhysioDesk/Informes/assets/129527802/e9e75540-cee3-46f8-a089-94e9447cbc83)
 
 
 DVLOP1: Crear Endpoint para Registro de Usuario
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/258d33c9-d960-4686-93e6-0edfb0e9e07d)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/75912396-ccd9-40eb-962e-ff18402b0850)
 
-DVLOP2: Implementar Autenticación de Usuario
 
 DVLOP3: Integrar Sistema de Citas
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/36058bf7-9369-4900-bf51-cd3db4e522d7)
 
 DVLOP4: Crear Endpoint para Consulta de Productos Ergonómicos
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d1cb1bca-d3dc-4dc9-937b-e216aacdde87)
 
 DVLOP5: Crear Endpoint para registro de fisioterapeutas
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/dd6e0a0c-e681-4813-bab2-61b0179061df)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/2c001ad2-c34b-45c2-a91c-922d02f5e997)
+
 
 DVLOP6: Crear Endpoint para consulta de fisioterapeutas
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/63346af9-f2f9-4282-b7e2-5f0f42e7d6fc)
 
-DVLOP7: Integrar Cambio de fecha de citas
-
-DVLOP8: Crear Endpoint para cambio de datos de usuario
 
 DVLOP12: Crear Endpoint para actualizar datos de fisioterapia, como horarios
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/e2d02a90-253c-4b62-8e23-d943deb5a731)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ddc8a398-783e-4873-87cc-9729b0fdd589)
+
+
 
 DVLOP13: Crear Endpoint para subir las grabaciones
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b4af2ae-af36-4702-a625-9d35135ee011)
@@ -1985,11 +2001,36 @@ Web Service Images
 
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/17b611a3-0a07-4ad6-908f-7d2bc53ae64a)
 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/899c475b-cfa1-4cbd-b8c8-f2692e26575e)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/45a56f80-5e15-4538-a207-1effa3c9bad9)
+
+
+
 
 
 
 
 - 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Para la entrega del tercer sprint, se implementó una landing page completamente funcional, cumpliendo con las historias de usuario correspondientes. Además, se desplegó y lanzó parcialmente el back-end, el cual aún está en proceso de finalización.
+
+Landing Page y Web Application:
+
+La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/77cfbc02-de85-410f-ac3b-4abc7bdb9bce)
+
+[link de web app y landing page desplegado](https://sunny-croquembouche-b79315.netlify.app/main)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d7ea578d-e1fb-4fd3-8a1d-b7c2e8c1bcb4)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/1134aa82-24f8-4220-a365-9da8dab45aaa)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ae53a286-3bc5-4db7-a654-f9d1671ed2c9)
+
+
+
+
 
 - 5.2.3.8.Team Collaboration Insights during Sprint.
 
@@ -2001,7 +2042,7 @@ Web Service Images
 | Juan Pablo Ramos Mendoza | Implementación de Frontend y Desarollo de Backend |
 | Giacomo Zoppi Rodriguez | Implementación de Frontend y Desarrollo de Backend |    
 
-![image](https://github.com/PhysioDesk/Informes/assets/127764958/819ae30d-8bd0-4e9e-97c7-49d59dd0669d)
+
   
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
@@ -2017,24 +2058,73 @@ Web Service Images
   9. ¿Se encontró algún elemento visual como el posicionamiento o gama de colores, tipografía que no le fue se su agrado?
       
 - 5.3.2. Registro de Entrevistas.
-  	- Entrevista #1:<br>
+
+SEGMENTO OBJETIVO: USUARIOS
+  - Entrevista #1:<br>
   	<img src="static/img/Chapter 5/Entrevista_Veronica_Validacion.png"><br>
 	Entrevistado: Verónica Mendoza<br>
  	Edad: 52 años. 
  	Entrevistador: Juan Pablo Ramos Mendoza<br>
   	Duracion: 7:30<br>
    	Minuto de inicio:<br> 
-   	Link: https://youtu.be/xpqmxPZeg2M<br>
-    	Resumen: La entrevistada tuvo una buena experiencia con la landing page, pareciéndole bastante atractiva y con un diseño muy limpio que le permitió revisar el proceso de registro de cuenta sin problema. Sobre el aplicativo, a la entrevistada le pareció de bastante agrado el hecho que los botones y enlaces estaban bien definidos e indicaban de buena forma qué hacía cada uno. Además, los artículos en venta eran de especial interés para ella, ya que están enfocados en el trabajo continuo y largo en oficina. Finalmente, la parte gráfica, colores y tipografía de la aplicación fue buena para la vista y de fácil lectura. El único problema que la entrevistada presentó fue la falta de diagramas o explicaciones gráficas de los ejercicios.<br><br><br>
-  	- Entrevista #2:<br>
+   	Link: [upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQDF37WjQVhHmKVjrWnldsQBAtBWwkgYE2_PQjK67KNaLA?e=Pro1fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+    	Resumen: La entrevistada tuvo una excelente experiencia con la landing page, considerándola no solo atractiva, sino también muy intuitiva. Le llamó especialmente la atención el diseño limpio y moderno, que facilitaba la navegación y permitía revisar el proceso de registro de cuenta sin ningún inconveniente. Destacó que la página cargaba rápidamente y que la información estaba organizada de manera lógica, lo cual le permitió encontrar lo que buscaba de forma eficiente.
+
+En cuanto al aplicativo, a la entrevistada le resultó muy agradable que los botones y enlaces estuvieran claramente definidos, con etiquetas y descripciones que indicaban de manera precisa la función de cada uno. Esta claridad le proporcionó una experiencia de usuario sin fricciones, haciéndola sentir segura al realizar acciones dentro de la aplicación. Los artículos en venta captaron su interés de inmediato, especialmente porque estaban enfocados en el trabajo continuo y prolongado en oficina, algo que resonaba con sus necesidades diarias.
+
+Además, elogió la parte gráfica del aplicativo, señalando que los colores y la tipografía no solo eran estéticamente agradables, sino también cómodos para la vista, permitiendo una lectura fácil y sin esfuerzo. La combinación de colores era suave, evitando el cansancio visual, y la tipografía era clara, facilitando la comprensión del contenido.
+
+No obstante, la entrevistada señaló un único inconveniente: la falta de diagramas o explicaciones gráficas de los ejercicios propuestos. Comentó que, aunque las descripciones textuales eran útiles, hubiera sido beneficioso contar con ilustraciones o vídeos que mostraran cómo realizar los ejercicios correctamente. Este añadido gráfico habría proporcionado una mejor comprensión y ejecución de los ejercicios, mejorando aún más la utilidad del aplicativo.
+
+En resumen, la entrevistada quedó muy satisfecha con la experiencia general, apreciando tanto el diseño como la funcionalidad del aplicativo, y sugirió pequeñas mejoras que podrían incrementar aún más su efectividad y atractivo para los usuarios.
+
+  - Entrevista #2:<br>
+   	![image]<br>
+	Entrevistado: Leonardo Ibarra<br>
+	Edad: 21 años<br>
+	Entrevistador: Giacomo Zoppi Rodriguez<br>
+	Duracion: 04:50<br>
+ 	Minuto de inicio:<br>
+  	Link:[upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQDF37WjQVhHmKVjrWnldsQBAtBWwkgYE2_PQjK67KNaLA?e=Pro1fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+	Resumen: El entrevistado es un joven que padece de problemas de espalda y dolor de rodillas. Le gustó mucho la página y la encontró muy interactiva. Apreció el funcionamiento general del sitio, considerándolo una idea excelente en conjunto. Sin embargo, mencionó que debería implementarse una versión oscura o en negro para no dañar tanto la vista, especialmente durante el uso prolongado. Esta sugerencia es particularmente relevante y se alinea bien con el objetivo final de nuestro proyecto, que es mejorar la salud y el bienestar de los usuarios.
+
+El entrevistado es un joven que padece de problemas de espalda y dolor de rodillas. Le gustó mucho la página y la encontró muy interactiva. Apreció el funcionamiento general del sitio, considerándolo una idea excelente en conjunto. Sin embargo, mencionó que debería implementarse una versión oscura o en negro para no dañar tanto la vista, especialmente durante el uso prolongado. Esta sugerencia es particularmente relevante y se alinea bien con el objetivo final de nuestro proyecto, que es mejorar la salud y el bienestar de los usuarios.
+
+Además, el entrevistado usa el explorador Google Chrome para poder ejecutar la gran mayoría de programas y expresó un alto interés en poder adquirir nuestro producto. Esta retroalimentación positiva refuerza la viabilidad y el atractivo de nuestra aplicación, subrayando la importancia de seguir optimizando la experiencia del usuario para atender mejor sus necesidades y preferencias.
+
+SEGMENTO OBJETIVO: FISIOTERAPEUTAS
+
+  - Entrevista #3:<br>
    	![image](https://github.com/PhysioDesk/Informes/assets/89022078/03dcedb3-84e7-428c-81b3-5c2324b5b77c)<br>
 	Entrevistada: Mariafe Alcantara<br>
 	Edad: 18 años<br>
 	Entrevistador: Anthony Jeandet Guerrero Castillo<br>
 	Duracion: 14:01<br>
  	Minuto de inicio:<br>
-  	Link:<br>
-	Resumen: La entrevistada es una estudiante de la carrera de Traducción. Ella suele usar bastante su computadora y afirma que tiene conocimiento sobre problemas de la salud debido a las malas posturas. Le pareció bueno el landing page. Sin embargo, hay apartados como el "Contact Us", donde se puede mejorar el diseño. Sobre la aplicación web, destaca que la información es correcta y únicamente se puede mejorar en la confirmación de cita, haciendo que no sea un cambio tan brusco de color. Además, sería bueno que las actividades tengan un tiempo estimado de elaboración.
+  	Link:[upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQDF37WjQVhHmKVjrWnldsQBAtBWwkgYE2_PQjK67KNaLA?e=Pro1fQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+	Resumen: La entrevistada es una estudiante de la carrera de Traducción. Ella usa su computadora con frecuencia y está bien informada sobre los problemas de salud que pueden surgir debido a malas posturas. A la entrevistada le pareció buena la landing page en general. Sin embargo, mencionó que hay apartados, como la sección de "Contact Us", donde el diseño podría mejorarse para ofrecer una experiencia más cohesiva y agradable.
+
+En cuanto a la aplicación web, destacó que la información proporcionada es correcta y útil. No obstante, sugirió que la confirmación de cita podría mejorarse visualmente, ya que el cambio de color actual es demasiado brusco y puede resultar desconcertante para los usuarios. Un enfoque más suave y consistente en el diseño de las confirmaciones mejoraría la experiencia del usuario.
+
+Además, señaló que sería beneficioso incluir un tiempo estimado de elaboración para las actividades propuestas. Esto permitiría a los usuarios planificar mejor su tiempo y entender cuánto tiempo necesitarán dedicar a cada actividad, haciéndolas más accesibles y manejables dentro de sus horarios diarios.
+
+En resumen, la entrevistada encontró la landing page y la aplicación web en general satisfactorias, pero identificó áreas específicas donde se podrían realizar mejoras para aumentar aún más la usabilidad y la experiencia del usuario.
+
+ - Entrevista #4:<br>
+   	![image]()<br>
+	Entrevistada: Meyling Rojas<br>
+	Edad: 26 años<br>
+	Entrevistador: Gianfranco Luna Morales<br>
+	Duracion: 10:00<br>
+ 	Minuto de inicio:<br>
+  	Link:[upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EeuxRznGw3tHmgI1IoAY_csBQYMo_ds0tq_MCziXHhqa6A?e=YGr5TN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+	Resumen:  A la entrevistada le agradó mucho la aplicación. Pudo revisar el proceso de registro de cuenta sin ningún problema, encontrándolo sencillo y directo. Además, destacó lo práctico de las opciones y lo simple que es desplazarse por la aplicación. Esta facilidad de uso le permitió explorar rápidamente todas las funcionalidades sin encontrarse con obstáculos o confusiones.
+
+Recomendó que se pusiera un mayor énfasis en los artículos en venta, ya que por su trabajo sufre de lesiones en las manos y problemas de postura. Sugerió que se ofrezcan recomendaciones de productos ergonómicos, como sillas y mouse diseñados para prevenir y aliviar estos problemas. Considera que estos productos serían de gran valor para usuarios con necesidades similares, mejorando su salud y bienestar mientras trabajan.
+
+La parte gráfica de la aplicación también fue de su agrado. Apreció los colores y la tipografía, encontrándolos agradables a la vista y fáciles de leer. Sin embargo, expresó que no le gusta que se muestren opciones en color negro, ya que esto interrumpe el flujo del color base de la aplicación y puede resultar discordante. Asimismo, criticó el uso del subrayado en los títulos, sugiriendo que podría ser visualmente más armonioso emplear otros métodos de énfasis, como negritas o cambios en el tamaño de la fuente.
+
+Finalmente, mencionó que le gustaría recibir información más detallada sobre el costo de las sesiones, específicamente si el modelo de pago es mensual o por sesión individual. Cree que esta información adicional sería muy útil para los usuarios que están considerando contratar los servicios ofrecidos a través de la aplicación, permitiéndoles tomar decisiones informadas sobre su inversión en salud y bienestar.
 
   	  
 - 5.3.3. Evaluaciones según heurísticas.
@@ -2164,6 +2254,8 @@ AUDITOR / CLIENTE(S)		: PhysioDesk (Auto-Auditoría)<br>**
 
 - 5.3.4. Video About-the-Product.
 
+LINK DE VISUALIZACIÓN: [upc-pre-202401-si729-wx52-physiodesk-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EVZxNb8W0MBMv1Me1f-iS80BzQW0S5fJb1C9Cgx-WwjmqA?e=hZOeiy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## Conclusiones
 
 - Conclusiones y recomendaciones.
@@ -2174,6 +2266,9 @@ AUDITOR / CLIENTE(S)		: PhysioDesk (Auto-Auditoría)<br>**
  Para el segundo entregable, nos centramos en la creación del Web Application Service. Logramos aplicar todo lo aprendido en clase para su elaboración y además, pudimos corregir algunos puntos de la primera entrega del TB, asi como del Landing Page. 
  
 - Video About-the-Team.
+
+LINK DE VISUALIZACION: [upc-pre-202401-si729-wx52-physiodesk-about-the-team-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQc6_CDIQuxDnfyTuVIqTosBdMoezO4Qlqma8OnmN5Ogwg?e=IPHZDU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 ## Bibliografía 
 ErgoPlus. (2023). Soluciones Ergonómicas para Oficinas. Recuperado de https://ergoplus.com/
