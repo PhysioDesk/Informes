@@ -1825,7 +1825,141 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
   9. ¿Se encontró algún elemento visual como el posicionamiento o gama de colores, tipografía que no le fue se su agrado?
       
 - 5.3.2. Registro de Entrevistas.
+  	- Entrevista #1:<br>
+  	<img src="static/img/Chapter 5/Entrevista_Veronica_Validacion.png"><br>
+	Entrevistado: Verónica Mendoza<br>
+ 	Edad: 52 años. 
+ 	Entrevistador: Juan Pablo Ramos Mendoza<br>
+  	Duracion: 7:30<br>
+   	Minuto de inicio:<br> 
+   	Link: https://youtu.be/xpqmxPZeg2M<br>
+    	Resumen: La entrevistada tuvo una buena experiencia con la landing page, pareciéndole bastante atractiva y con un diseño muy limpio que le permitió revisar el proceso de registro de cuenta sin problema. Sobre el aplicativo, a la entrevistada le pareció de bastante agrado el hecho que los botones y enlaces estaban bien definidos e indicaban de buena forma qué hacía cada uno. Además, los artículos en venta eran de especial interés para ella, ya que están enfocados en el trabajo continuo y largo en oficina. Finalmente, la parte gráfica, colores y tipografía de la aplicación fue buena para la vista y de fácil lectura. El único problema que la entrevistada presentó fue la falta de diagramas o explicaciones gráficas de los ejercicios.
+  	  
 - 5.3.3. Evaluaciones según heurísticas.
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA			: Ingeniería de Software<br>
+CURSO				: Desarrollo de Aplicaciones Open Source<br>
+SECCIÓN			: WX52<br>
+PROFESORES			: Todos<br>
+AUDITOR / CLIENTE(S)		: PhysioDesk (Auto-Auditoría)<br>**
+
+
+***SITE o APP A EVALUAR:***
+
+*PhysioDesk*
+
+***TAREAS A EVALUAR:***
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1. *Uso de la página principal del usuario*
+1. *Registro de citas con fisioterapeutas*
+1. *Registro de artículos ergonómicos para compra*
+1. *Cancelación de compra de artículo ergonómico*
+1. *Compra de artículo ergonómico*
+1. *Revisión de la página de actividades/ejercicios*
+1. *Registro de problema*
+1. *Etc.*
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+
+1. *Registro de usuario nuevo*
+1. *Chat y comunicación con los fisioterapeutas*
+1. *Funcionalidad de las notificaciones*
+1. *Actualización de datos del usuario*
+1. *Etc.*
+
+***ESCALA DE SEVERIDAD:***
+
+*Los errores están puntuados tomando en cuenta la siguiente escala de severidad.*
+
+|**Nivel**|**Descripción**|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+***TABLA RESUMEN***
+
+|#|Problema|Escala de Severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|Imágenes sin atributo Alt o poco descriptivo|2|Inclusive Design: Proporciona experiencias comparables|
+|2|Carrito no muestra cantidad de objetos elegidos|1|Information Architecture: Is it clear?|
+|3|Botón de confirmación de cita muy pequeño|3|Information Architecture: Is it clear?|
+|4|Pantalla de notificaciones no muestra ejemplo de su funcionalidad|3|Information Architecture: is it findable?|
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+*PROBLEMA #1: Imágenes no presentan atributo Alt o tienen uno poco descriptivo*
+
+*SEVERIDAD: 2*
+
+*Heurística violada: Diseño Inclusivo – Proporciona experiencias comparables*
+
+*Problema:*
+
+*No todas las imágenes presentan un atributo Alt para su uso en la navegación inclusiva de usuarios que utilicen lectores de pantalla. Además, las imágenes que sí presentan este atributo no son tan explicativas o son muy genéricas.*
+
+<img src="static/img/Chapter 5/heuristics_1.png"><img src="static/img/Chapter 5/heuristics_2.png">
+
+*Recomendación:*
+
+*Revisar que todas las imágenes presenten atributos Alt que sean lo suficientemente descriptivos.*
+
+*PROBLEMA #2: Carrito no muestra cantidad de objetos elegidos*
+
+*SEVERIDAD: 1*
+
+*Heurística violada: Arquitectura de la información – Is it clear?*
+
+*Problema:*
+
+*Al añadir un objeto de la lista en compras, el símbolo del carrito no muestra si es que se ha añadido un objeto correctamente o cuántos objetos se han agregado hasta que se acceda a su página.*
+
+<img src="static/img/Chapter 5/heuristics_3.png">
+
+*Recomendación:*
+
+*Mostrar con un ícono la cantidad de objetos que se encuentran en el carrito.*
+
+*PROBLEMA #3: Botón de confirmación de cita muy pequeño*
+
+*SEVERIDAD: 3*
+
+*Heurística violada: Arquitectura de la información – Is it clear?*
+
+*Problema:*
+
+*El botón para confirmar una cita con uno de los fisioterapeutas es muy pequeño y aparece bastante lejos al resto del contenido de la página.*
+
+<img src="static/img/Chapter 5/heuristics_4.png">
+
+*Recomendación:*
+
+*Hacer el botón más grande y visible, además de colocarlo más cerca al resto del contenido.*
+
+*PROBLEMA #4: Pantalla de notificaciones no muestra ejemplo de su funcionalidad*
+
+*SEVERIDAD: 3*
+
+*Heurística violada: Arquitectura de la información – Is it findable?*
+
+*Problema:*
+
+*La pantalla de notificaciones simplemente muestra un mensaje donde no hay notificaciones, pero no hay forma de mostrar su uso sin notificaciones.*
+
+<img src="static/img/Chapter 5/heuristics_5.png">
+
+*Recomendación:* 
+
+*Añadir ciertas notificaciones de prueba para demostrar su uso en la aplicación.*
+
+
 - 5.3.4. Video About-the-Product.
 
 ## Conclusiones
