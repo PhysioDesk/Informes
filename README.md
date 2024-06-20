@@ -1,4 +1,3 @@
-
 <p align ="center">
    <img src="./static/img/Logos/UPC_logo.png" >
 </p>
@@ -45,8 +44,8 @@
 ### 0. Student Outcome
 Criterio específico | Acciones Realizadas | Conclusiones
 ------------------- | ------------------- | ------------
-Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1-Luna Morales, Gianfranco: Se compartió ideas con respecto a la problemática de la falta de ergonomización en los hogares, mediante ello se diseño la landing page mediante las necesidades encontradas.<br> TB1-Palomino Santa Cruz, Erick Joaquin: Compartio ideas con respecto a la problematica de la falta de ergonomización.<br> TB1-Zoppi Rodriguez, Giacomo: Comuniqué ideas sobre el enfoque de trabajo y los puntos que queriamos completar para el desarrollo del proyecto.<br>TB1-Ramos Mendoza, Juan Pablo: Comuniqué mis ideas y resultados desde un punto de vista objetivo, con el fin de desarrollar nuestro proyecto, <br>TB1-Guerrero Castillo, Anthony: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web.<br> TP1-Palomino Santa Cruz, Erick Joaquin: Se compartio ideas para la mejora de la WebApp y ordenamiento de las carpetas.<br> TP1-Guerrero Castillo, Anthony Jeandet: Me puse de acuerdo con mis compañeros para elborar el bounded-context de productos.<br>TP1-Luna Morales, Gianfranco: Se comunicaron las ideas de styles de side-cards, personal data<br>TP1-Ramos Mendoza, Juan Pablo: Gracias a la comunicación con mis compañeros, pude identificar con rapidez los usos de cada clase y componente para poder implementar los estilos de forma rápida y sin problemas <br>TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web.|  TB1-Luna Morales, Gianfranco: Se reforzó la práctica en el desarollo del langind, mock y wireframes, se solicitó apoyo del equipo para generar más ideas. <br> TB1-Palomino Santa Cruz, Erick Joaquin: Realizo el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III.<br>TB1-Zoppi Rodriguez, Giacomo: Compartir mis ideas nos permitió elaborar con facilidad y agilidad nuestro Sprint asi como nuestro Landing Page.<br>TB1-Ramos Mendoza, Juan Pablo: Al dialogar con mis compañeros y compartir nuestros objetivos, pudimos sacar adelante al equipo en la elaboración de nuestro proyecto. <br> TB1-Guerrero Castillo, Anthony: Al haber comunicado mis ideas de user story, todos logramos avanzar teniendo la misma noción de las funcionalidades de la aplicación.<br> TP1-Palomino Santa Cruz, Erick Joaquin: Al haber comunicado mis ideas se desarrollo la creacion y estructura de la WebApp.<br> TP1-Guerrero Castillo, Anthony Jeandet: Teniendo las ideas claras, elaboré los componentes necesarios.<br> TP1-Luna Morales, Gianfranco: Se necesita reforzar conceptos de estilos.<br>TP1-Ramos Mendoza, Juan Pablo: Una buena comunicación nos permite obtener resultados rápidamente y sin problemas. TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. 
-Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. <br>TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. | TB1-Luna Morales, Gianfranco: Se tuvo reuniones en Discord y en sesiones Google Meet para distriubir los puntos del trabajo, se comunicó dificultad al realizar los wireframes ya que necesitaba otra perfectiva, la cual mis compañeros pudieron realizar.<br>TB1-Zoppi Rodriguez, Giacomo: Mediante nuestro chat o nuestro Trello, pudimos compartir ideas y mensajes de forma escrita para la elaboración de nuestro proyecto.<br>TB1-Morales Mendoza, Juan Pablo: Logramos comunicarnos entre todos los integrantes, para poder elaborar nuestro producto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Meidante la comunicación escrita, realizamos el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III., <br> TB1-Guerrero Castillo, Anthony: Me comuniqué de foram escrita para brindar recomendaciones u observaciones sobre el avance del proyecto.<br>TP1-Palomino Santa Cruz Erick Joaquin: Mediante reuniones en discord se distribuyo las partes de cada integrante y se hicieron reuniones cada 3 dias para ver y compartir nuestros avances.<br> TP1: Guerrero Castillo, Anthony Jeandet: Gracias a las reuniones, lograron ser conscientes de nuestro avance general y apoyarnos mutuamente.<br>TP1-Luna Morales, Gianfranco: Mediante el grupo de comunicación del grupo se informó los cambios realizados en el proyecto.<br>TP1-Ramos Mendoza, Juan Pablo: Los comentarios en el programa y nombres claros de clases permitió la fácil identificación de cada uno de los elementos, facilitando el proceso de desarrollo de estilos. <br>TP1-Giacomo Zoppi Rodriguez: Planifiqué reuniones para el avance del frontend.|  TB1-Luna Morales, Gianfranco: Se logró delimitar los objetivos y extensión de la Startup, se basó en el público laboral y académico.<br>TB1-Zoppi Rodriguez, Giacomo: Pudimos definir y elaborar la idea de nuestro proyecto gracias a la comunicación escrita<br>TB1-Morales Mendoza, Juan Pablo: Comunicamos de forma escrita ideas y resultados con objetividad en nuestro proyecto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Pudimos hallar nuestro objetivo grupal para el proyecto y logramos culminarlo hasta su version mas reciente gracias a la comunicación escrita. <br>TB1-Guerrero Castillo, Anthony: Gracias a haberme comunicado de forma escrita, logré que todos podamos mejorar nuestra comunicación y afinar algunos puntos del proyecto.<br>TP1-Palomino Santa Cruz,Erick Joaquin: Gracias a la comunicacion escrita se lograron realizar todos los puntos de nuestro proyecto.<br> TP1-Guerrero Castillo, Anthony Jeandet: Logramos avanzar en conjunto, compartiendo las mejores ideas de cada uno.<br>TP1: Luna Morales, Gianfranco: Los medios de comunicación de discord facilita la comunicación entre el equipo.<br>TP1-Ramos Mendoza, Juan Pablo: Una claridad al programar respetando las reglas de buena programación es de gran ayuda para un mejor desarrollo. <br>TP1-Giacomo Zoppi Rodriguez: Planifiqué reuniones para el avance del frontend.
+Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1-Luna Morales, Gianfranco: Se compartió ideas con respecto a la problemática de la falta de ergonomización en los hogares, mediante ello se diseño la landing page mediante las necesidades encontradas.<br> TB1-Palomino Santa Cruz, Erick Joaquin: Compartio ideas con respecto a la problematica de la falta de ergonomización.<br> TB1-Zoppi Rodriguez, Giacomo: Comuniqué ideas sobre el enfoque de trabajo y los puntos que queriamos completar para el desarrollo del proyecto.<br>TB1-Ramos Mendoza, Juan Pablo: Comuniqué mis ideas y resultados desde un punto de vista objetivo, con el fin de desarrollar nuestro proyecto, <br>TB1-Guerrero Castillo, Anthony: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web.<br> TP1-Palomino Santa Cruz, Erick Joaquin: Se compartio ideas para la mejora de la WebApp y ordenamiento de las carpetas.<br> TP1-Guerrero Castillo, Anthony Jeandet: Me puse de acuerdo con mis compañeros para elborar el bounded-context de productos.<br>TP1-Luna Morales, Gianfranco: Se comunicaron las ideas de styles de side-cards, personal data<br>TP1-Ramos Mendoza, Juan Pablo: Gracias a la comunicación con mis compañeros, pude identificar con rapidez los usos de cada clase y componente para poder implementar los estilos de forma rápida y sin problemas <br>TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. <br>TB2-Luna Morales, Gianfranco: Se comunicaron las dificultades encontradas en el backend. <br> TB2-Palomino Santa Cruz, Erick Joaquin: Se identificaron los temas a reforzar en el backend para el cumplimiento del trabajo.<br> TB2-Zoppi Rodriguez, Giacomo: Compartí mis experiencias y dificultades encontradas durante el desarrollo del backend.<br> TB2-Ramos Mendoza, Juan Pablo: Discutí los desafíos técnicos y las soluciones planteadas para el backend.<br> TB2-Guerrero Castillo, Anthony: Expresé las necesidades de ajustes en el backend basado en las pruebas y feedback recibido.<br>|  TB1-Luna Morales, Gianfranco: Se reforzó la práctica en el desarollo del langind, mock y wireframes, se solicitó apoyo del equipo para generar más ideas. <br> TB1-Palomino Santa Cruz, Erick Joaquin: Realizo el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III.<br>TB1-Zoppi Rodriguez, Giacomo: Compartir mis ideas nos permitió elaborar con facilidad y agilidad nuestro Sprint asi como nuestro Landing Page.<br>TB1-Ramos Mendoza, Juan Pablo: Al dialogar con mis compañeros y compartir nuestros objetivos, pudimos sacar adelante al equipo en la elaboración de nuestro proyecto. <br> TB1-Guerrero Castillo, Anthony: Al haber comunicado mis ideas de user story, todos logramos avanzar teniendo la misma noción de las funcionalidades de la aplicación.<br> TP1-Palomino Santa Cruz, Erick Joaquin: Al haber comunicado mis ideas se desarrollo la creacion y estructura de la WebApp.<br> TP1-Guerrero Castillo, Anthony Jeandet: Teniendo las ideas claras, elaboré los componentes necesarios.<br> TP1-Luna Morales, Gianfranco: Se necesita reforzar conceptos de estilos.<br>TP1-Ramos Mendoza, Juan Pablo: Una buena comunicación nos permite obtener resultados rápidamente y sin problemas. TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. <br>TB2-Luna Morales, Gianfranco: Se identificaron soluciones para los problemas encontrados.<br> TB2-Palomino Santa Cruz, Erick Joaquin: Las entrevistas realizadas ayudaron a identificar aspectos críticos del backend.<br> TB2-Zoppi Rodriguez, Giacomo: Al compartir y discutir, pudimos avanzar en la solución de problemas del backend.<br> TB2-Ramos Mendoza, Juan Pablo: Aprendimos técnicas nuevas para mejorar el rendimiento del backend.<br> TB2-Guerrero Castillo, Anthony: Se planificaron mejoras para la próxima iteración del backend.<br>
+Comunica en forma escrita ideas y/o resultados con objetividad apúblico de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. <br>TP1-Giacomo Zoppi Rodriguez: Comuniqué mis ideas sobre la elaboración de los user story, y diseño de la aplicación web. | TB1-Luna Morales, Gianfranco: Se tuvo reuniones en Discord y en sesiones Google Meet para distriubir los puntos del trabajo, se comunicó dificultad al realizar los wireframes ya que necesitaba otra perfectiva, la cual mis compañeros pudieron realizar.<br>TB1-Zoppi Rodriguez, Giacomo: Mediante nuestro chat o nuestro Trello, pudimos compartir ideas y mensajes de forma escrita para la elaboración de nuestro proyecto.<br>TB1-Morales Mendoza, Juan Pablo: Logramos comunicarnos entre todos los integrantes, para poder elaborar nuestro producto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Meidante la comunicación escrita, realizamos el desarrollo del landing page, entrevistas y avance con los Capitulos I, II y III., <br> TB1-Guerrero Castillo, Anthony: Me comuniqué de foram escrita para brindar recomendaciones u observaciones sobre el avance del proyecto.<br>TP1-Palomino Santa Cruz Erick Joaquin: Mediante reuniones en discord se distribuyo las partes de cada integrante y se hicieron reuniones cada 3 dias para ver y compartir nuestros avances.<br> TP1: Guerrero Castillo, Anthony Jeandet: Gracias a las reuniones, lograron ser conscientes de nuestro avance general y apoyarnos mutuamente.<br>TP1-Luna Morales, Gianfranco: Mediante el grupo de comunicación del grupo se informó los cambios realizados en el proyecto.<br>TP1-Ramos Mendoza, Juan Pablo: Los comentarios en el programa y nombres claros de clases permitió la fácil identificación de cada uno de los elementos, facilitando el proceso de desarrollo de estilos. <br>TP1-Giacomo Zoppi Rodriguez: Planifiqué reuniones para el avance del frontend. <br>TB2-Luna Morales, Gianfranco: Documenté los procesos y cambios en el backend para el equipo.<br> TB2-Palomino Santa Cruz, Erick Joaquin: Redacté un informe detallado de las violaciones de diseño UX identificadas y cómo estas afectan el backend.<br> TB2-Zoppi Rodriguez, Giacomo: Escribí sobre los ajustes necesarios en el backend tras las observaciones recibidas.<br> TB2-Ramos Mendoza, Juan Pablo: Compartí mis notas de desarrollo y documentación técnica del backend con el equipo.<br> TB2-Guerrero Castillo, Anthony: Preparé un resumen de los desafíos y logros en el desarrollo del backend para la revisión del equipo.<br>|  TB1-Luna Morales, Gianfranco: Se logró delimitar los objetivos y extensión de la Startup, se basó en el público laboral y académico.<br>TB1-Zoppi Rodriguez, Giacomo: Pudimos definir y elaborar la idea de nuestro proyecto gracias a la comunicación escrita<br>TB1-Morales Mendoza, Juan Pablo: Comunicamos de forma escrita ideas y resultados con objetividad en nuestro proyecto.<br>TB1-Palomino Santa Cruz, Erick Joaquin: Pudimos hallar nuestro objetivo grupal para el proyecto y logramos culminarlo hasta su version mas reciente gracias a la comunicación escrita. <br>TB1-Guerrero Castillo, Anthony: Gracias a haberme comunicado de forma escrita, logré que todos podamos mejorar nuestra comunicación y afinar algunos puntos del proyecto.<br>TP1-Palomino Santa Cruz,Erick Joaquin: Gracias a la comunicacion escrita se lograron realizar todos los puntos de nuestro proyecto.<br> TP1-Guerrero Castillo, Anthony Jeandet: Logramos avanzar en conjunto, compartiendo las mejores ideas de cada uno.<br>TP1: Luna Morales, Gianfranco: Los medios de comunicación de discord facilita la comunicación entre el equipo.<br>TP1-Ramos Mendoza, Juan Pablo: Una claridad al programar respetando las reglas de buena programación es de gran ayuda para un mejor desarrollo. <br>TP1-Giacomo Zoppi Rodriguez: Planifiqué reuniones para el avance del frontend. <br>TB2-Luna Morales, Gianfranco: Mejoramos la documentación y procesos del backend.<br> TB2-Palomino Santa Cruz, Erick Joaquin: A través de la comunicación escrita se consiguió un entendimiento más claro de los problemas y sus soluciones.<br> TB2-Zoppi Rodriguez, Giacomo: La documentación preparada será útil para futuras referencias y correcciones.<br> TB2-Ramos Mendoza, Juan Pablo: El equipo está más informado sobre el backend y sus complejidades.<br> TB2-Guerrero Castillo, Anthony: Las discusiones escritas ayudaron a sintetizar y clarificar los pasos a seguir.<br>
 
 ### 1. Capítulo I: Introducción
 
@@ -705,6 +704,14 @@ Entrevista #4:
 | DVLOP-002 | Implementar Autenticación de Usuario | Como desarrollador, quiero agregar autenticación basada en tokens JWT para proteger los endpoints sensibles de la API, para garantizar la seguridad de los datos del usuario y restringir el acceso no autorizado. | Escenario 1: <br>Iniciar sesión con credenciales válidas. <br><br>Criterio1: <br>Dado que el usuario proporciona credenciales válidas (correo electrónico y contraseña)<br>Cuando se envía una solicitud POST al endpoint /api/login con las credenciales<br>Entonces se debe generar un token JWT válido y devolverlo en la respuesta<br>Y se debe devolver un código de estado 200 (OK) junto con un mensaje de éxito. <br><br> Escenario2: <br>Manejar credenciales inválidas.<br><br>Criterio 2:<br>Dado que el usuario proporciona credenciales inválidas<br>Cuando se envía una solicitud POST al endpoint /api/login con credenciales incorrectas<br>Entonces se debe devolver un código de estado 401 (No autorizado) junto con un mensaje de error. | EP-007 |
 | DVLOP-003 | Integrar Sistema de Citas | Como desarrollador, quiero integrar un sistema de gestión de citas para permitir que los usuarios reserven citas con fisioterapeutas, para facilitar la planificación y organización de las consultas. | Escenario 1: <br>Reservar una cita <br><br>Criterio 1: <br>Dado que el usuario envía una solicitud POST al endpoint /api/appointments para reservar una cita<br>Cuando la solicitud contiene los detalles de la cita y está dentro del horario disponible del fisioterapeuta<br>Entonces se debe registrar la cita en el sistema<br>Y se debe devolver un código de estado 201 (Creado) junto con un mensaje de éxito<br><br>Escenario 2: <br>Manejar horarios no disponibles. <br><br>Criterio 2:<br>Dado que el usuario intenta reservar una cita en un horario no disponible<br>Cuando se envía una solicitud POST al endpoint /api/appointments<br>Entonces se debe devolver un código de estado 400 (Solicitud incorrecta) junto con un mensaje de error. | EP-002 |
 | DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | Como desarrollador, quiero implementar un endpoint GET para permitir a los usuarios consultar productos ergonómicos disponibles en la plataforma, para que los usuarios puedan ver y buscar productos fácilmente. | Escenario 1: <br>Consultar productos disponibles. <br><br>Criterio 1: <br>Dado que el usuario envía una solicitud GET al endpoint /api/products<br>Cuando la solicitud es válida y contiene parámetros de búsqueda opcionales<br>Entcones se deben devolver los productos disponibles según los parámetros de búsqueda<br>Y se debe devolver un código de estado 200 (OK) junto con la lista de productos. <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que el usuario envía una solicitud GET inválida al endpoint /api/products<br>Cuando la solicitud no contiene parámetros válidos<br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error. | EP-001 |
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas | Como desarrollador, quiero crear un endpoint POST para permitir el registro de fisioterapeutas en la plataforma PhysioDesk, para que los usuarios puedan crear cuentas y acceder a la funcionalidad completa. | Escenario 1: <br>Registrar un nuevo fisioterapeuta. <br><br>Criterio 1: <br>Dado que un nuevo fisioterapeuta envía una solicitud POST al endpoint /api/register <br>Cuando la solicitud contiene información válida de registro <br>Entonces se debe crear una cuenta de fisioterapeuta y devolver un código de estado 201 (Created). <br><br>Escenario 2: <br>Manejar registros inválidos. <br><br>Criterio 2: <br>Dado que se envía una solicitud POST inválida al endpoint /api/register <br>Cuando la solicitud no contiene la información necesaria o es incorrecta <br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error explicativo. | EP-007 |
+| DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas | Como desarrollador, quiero crear un endpoint GET para permita a los usuarios consultar fisioterapeutas en la app de PhysioDesk | Escenario 1: <br>Consultar fisioterapeutas disponibles. <br><br>Criterio 1: <br>Dado que un usuario envía una solicitud GET al endpoint /api/fisioterapeutas <br>Cuando la solicitud es válida y contiene parámetros de búsqueda opcionales <br>Entonces se deben devolver los fisioterapeutas disponibles según los parámetros de búsqueda <br>Y se debe devolver un código de estado 200 (OK) junto con la lista de fisioterapeutas. <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que un usuario envía una solicitud GET inválida al endpoint /api/fisioterapeutas <br>Cuando la solicitud no contiene parámetros válidos <br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error. | EP-008 |
+| DVLOP-007 | Integrar Cambio de fecha de citas | Como desarrollador, quiero crear un endpoint PUT para permitir el cambio de fechas de citas que establezcan los usuarios con los fisioterapeutas | Escenario 1: <br>Cambiar fecha de cita. <br><br>Criterio 1: <br>Dado que un usuario envía una solicitud PUT al endpoint /api/citas/{id} <br>Cuando la solicitud contiene una nueva fecha válida para la cita identificada por su ID <br>Entonces se debe actualizar la fecha de la cita y devolver un código de estado 200 (OK). <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que un usuario envía una solicitud PUT inválida al endpoint /api/citas/{id} <br>Cuando la solicitud no contiene una nueva fecha válida o el ID de la cita es incorrecto <br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error. | EP-002 |
+| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | Como desarrollador, quiero crear un endpoint PUT para permitir el cambio de datos de  usuarios en la plataforma PhysioDesk, tales como nombre o correo. | Escenario 1: <br>Actualizar datos de usuario. <br><br>Criterio 1: <br>Dado que un usuario envía una solicitud PUT al endpoint /api/usuarios/{id} <br>Cuando la solicitud contiene nuevos datos válidos para el usuario identificado por su ID <br>Entonces se deben actualizar los datos del usuario y devolver un código de estado 200 (OK). <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que un usuario envía una solicitud PUT inválida al endpoint /api/usuarios/{id} <br>Cuando la solicitud no contiene datos válidos o el ID de usuario es incorrecto <br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error. | EP-008 |
+| DVLOP-009 | Crear Endpoint para ver plan de suscripcion | Como desarrollador, quiero crear un endpoint POST para permitir a usuarios sucribirse a nuestro plan | Escenario 1: <br>Suscribirse a un plan. <br><br>Criterio 1: <br>Dado que un usuario envía una solicitud POST al endpoint /api/suscripciones <br>Cuando la solicitud contiene información válida para la suscripción <br>Entonces se debe crear una nueva suscripción para el usuario y devolver un código de estado 201 (Created). <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que se envía una solicitud POST inválida al endpoint /api/suscripciones <br>Cuando la solicitud no contiene la información necesaria o es incorrecta <br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error. | EP-004 |
+| DVLOP-010 | Crear Endpoint para cancelar plan de suscripcion | Como desarrollador, quiero crear un endpoint DELETE para permitir que los usuarios cancelen sus planes de suscripcion | Escenario 1: <br>Cancelar suscripción. <br><br>Criterio 1: <br>Dado que un usuario envía una solicitud DELETE al endpoint /api/suscripciones/{id} <br>Cuando la solicitud contiene el ID de la suscripción a cancelar <br>Entonces se debe cancelar la suscripción y devolver un código de estado 204 (No Content). <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que un usuario envía una solicitud DELETE inválida al endpoint /api/suscripciones/{id} <br>Cuando el ID de la suscripción es incorrecto <br>Entonces se debe devolver un código de estado 404 (Not Found) junto con un mensaje de error. | EP-004 |
+| DVLOP-011 | Crear Endpoint para hacer un pago | Como desarrollador, quiero crear un endpoint POST para permitir a los usuarios efectuar los pagos de su plan de suscripcion o sus citas | Escenario 1: <br>Realizar un pago. <br><br>Criterio 1: <br>Dado que un usuario envía una solicitud POST al endpoint /api/pagos <br>Cuando la solicitud contiene información válida para el pago <br>Entonces se debe procesar el pago y devolver un código de estado 200 (OK). <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que se envía una solicitud POST inválida al endpoint /api/pagos <br>Cuando la solicitud no contiene la información necesaria o es incorrecta <br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error. |EP-004 |
+| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | Como desarrollador, quiero crear un endpoint PUT para permitir a los fisioterapeutas actualizar sus datos, tales como su horario de trabajo | Escenario 1: <br>Actualizar horario de trabajo. <br><br>Criterio 1: <br>Dado que un fisioterapeuta envía una solicitud PUT al endpoint /api/fisioterapeutas/{id} <br>Cuando la solicitud contiene un nuevo horario de trabajo válido para el fisioterapeuta identificado por su ID <br>Entonces se debe actualizar el horario de trabajo y devolver un código de estado 200 (OK). <br><br>Escenario 2: <br>Manejar solicitudes inválidas. <br><br>Criterio 2: <br>Dado que un fisioterapeuta envía una solicitud PUT inválida al endpoint /api/fisioterapeutas/{id} <br>Cuando la solicitud no contiene un horario de trabajo válido o el ID de fisioterapeuta es incorrecto <br>Entonces se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error. | EP-008 |
 | EP-001 | Gestión de Recomendaciones y Compra de Productos Ergonómicos | | | |
 | EP-002 | Gestión de Citas con Fisioterapeutas | | | |
 | EP-003 | Seguimiento y Evaluación del Progreso del Paciente | | | |
@@ -765,6 +772,19 @@ Entrevista #4:
 | 35 | DVLOP-001 | Crear Endpoint para Registro de Usuario | Como desarrollador, quiero crear un endpoint POST para permitir el registro de nuevos usuarios en la plataforma PhysioDesk, para que los usuarios puedan crear cuentas y acceder a la funcionalidad completa. | 2 |
 | 36 | USER-022 | Registrarse en la aplicación | Como usuario interesado en mejorar su postura y bienestar general, quiero poder registrarme en la aplicación de manera sencilla e intuitiva, para acceder a todas las funcionalidades y servicios disponibles de manera rápida. | 2 |
 | 37 | DVLOP-002 | Implementar Autenticación de Usuario | Como desarrollador, quiero agregar autenticación basada en tokens JWT para proteger los endpoints sensibles de la API, para garantizar la seguridad de los datos del usuario y restringir el acceso no autorizado. | 3 |
+| 38 | DVLOP-005 | Crear Endpoint para registro de fisioterapeutas | Como desarrollador, quiero crear un endpoint POST para permitir el registro de fisoterapeutas en la plataforma PhysioDesk, para que los usuarios puedan crear cuentas y acceder a la funcionalidad completa. | 3 |
+| 39 | DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas | Como desarrollador, quiero crear un endpoint GET para permita a los usuarios consultar fisioterapeutas en la app de PhysioDesk| 3 |
+| 40 | DVLOP-007 | Integrar Cambio de fecha de citas | Como desarrollador, quiero crear un endpoint PUT para permitir el cambio de fechas de citas que establezcan los usuarios con los fisioterapeutas| 3 |
+| 41 | DVLOP-008 | Crear Endpoint para cambio de datos de usuario | Como desarrollador, quiero crear un endpoint PUT para permitir el cambio de datos de  usuarios en la plataforma PhysioDesk, tales como nombre o correo | 2 |
+| 42 | DVLOP-009 | Crear Endpoint para ver plan de suscripcion | Como desarrollador, quiero crear un endpoint POST para permitir a usuarios sucribirse a nuestro plan | 3 |
+| 43 | DVLOP-010 | Crear Endpoint para cancelar plan de suscripcion | Como desarrollador, quiero crear un endpoint DELETE para permitir que los usuarios cancelen sus planes de suscripcion | 3 |
+| 44 | DVLOP-011 | Crear Endpoint para hacer un pago | Como desarrollador, quiero crear un endpoint POST para permitir a los usuarios efectuar los pagos de su plan de suscripcion o sus citas | 3 |
+| 45 | DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | Como desarrollador, quiero crear un endpoint PUT para permitir a los fisioterapeutas actualizar sus datos, tales como su horario de trabajo | 3 |
+| 46 | DVLOP-013 | Crear Endpoint para subir las grabaciones | Como desarrollador, quiero crear un endpoint POST que permita a los fisioterapeuta colgar las grabaciones de sus sesiones|3|
+| 46 | DVLOP-014 | Crear Endpoint para obtener  las grabaciones | Como desarrollador, quiero crear un endpoint GET que permita a los fisioterapeuta colgar las grabaciones de sus sesiones|3|
+| 46 | DVLOP-015 | Crear Endpoint para elimnar las grabaciones | Como desarrollador, quiero crear un endpoint DELETE que permita a los fisioterapeuta eliminar las grabaciones de las sesiones pasadas|3|
+
+
 
 Link para visualizar el Product Backlog en Pivotal Tracker: https://www.pivotaltracker.com/n/projects/2700540
   
@@ -1679,21 +1699,623 @@ Scenario: Interactuar con una tabla de tratamientos de pacientes
   
 | Integrante                         | Actividad                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Gianfranco Luna Morales| Diseño y estructura de la landing page. Vistas/estilos del personal data, side card. Appointment component. |
-| Erick Joaquin Palomino Santa Cruz |Creacion de la estrucutra de la WebApp, creacion de los componentes publicos, bounded context y pages |
-| Anthony Jeandet Guerrero Castillo | Creación de bounded-context para productos, detalle de productos, funcionalidades para carrito de compras y confirmación de compras. |
-| Juan Pablo Ramos Mendoza |Diseño de estilos para componente personal-data y main-container.|
-| Giacomo Zoppi Rodriguez | Creación de la vista de fisioterapeutas y selección de horarios |    
+| Gianfranco Luna Morales| Diseño y estructura de la landing page |
+| Erick Joaquin Palomino Santa Cruz | Implementación de funcionalidades |
+| Anthony Jeandet Guerrero Castillo | Diseño y estructura de la landing page |
+| Juan Pablo Ramos Mendoza | Creación de Typos |
+| Giacomo Zoppi Rodriguez | Implementación de la sección header de la landing page |    
 
 ![image](https://github.com/PhysioDesk/Informes/assets/127764958/819ae30d-8bd0-4e9e-97c7-49d59dd0669d)
 
+Sprint 3
+  - 5.2.2. Sprint 3
+    - 5.2.2.1. Sprint Planning 3
+    El Sprint #2 tiene como fecha de inicio el 25/05/2024 y como meta nos planteamos resolver algunos errores de la landing page y realizar una primera versión del frontend web application de tal modo que resulte funcional y atractiva visualmente.
+
+| Sprint #  | Sprint 2  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-05-25  |
+| Time  |  10:00 PM |
+| Location  | Discord |
+| Prepared  by  | Erick Palomino |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Relizar el Back end de la web application de modo que sea funcional y efectiva  |
+| Spring n Velocity |   puntos |
+| Sum of Story Points |  puntos|
 
 
+- 5.2.2.2. Sprint Backlog
+Para nuestro segundo Sprint Bakclog, el equipo se centró principalmente en la elaboración del back end de la web application. Siendo este el foco principal, nos dedicamos
+a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementar, basandonos en nuestras user stories. Es así, que las dividimos en
+tareas mas maneajables y organizables y las asignamos a cada uno de los miembros, según sus habiidades. Hicimos uso de Trello para la elaboración de esta actividad.
+
+
+
+
+| Sprint #  | Sprint 3 |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
+|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK24 | Endpoint | Crear endpoint que permite la comunicación para permitir el registro de nuevos usuarios |1 |Erick Palomino|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK25 | Validar correos |Recorrer los correos existentes para validar que no exista el mismo ingresado actualmente |3 |Anthony Guerrero|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |   TK26 | Validar Id | Recorrer los id ya existentes, para validar que no se repitan |2 |Erick Palomino|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK27 | Creacion en la base de datos | Crear una nueva cuenta de usuario en la base de datos |2 |Anthony Guerrero|Done
+| DVLOP-001 | Crear Endpoint para Registro de Usuario |  TK28 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto a un mensaje de exito |2 |Anthony Guerrero|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK29 | Validar datos | Recorrer los datos ya existentes, para validar los datos e iniciar sesión |2 |Erick Palomino|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK30 | Crear Token | Se debe generar un token JWT válido |2|Erick Palomino|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK31 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Erick Palomino|Done
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK32 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Erick Palomino|In Process
+| DVLOP-003 | Integrar Sistema de Citas | TK33 |Crear endpoint | Crear endpoint mediante una solicitud post que permita que los usuarios reserven cita |2|Giacomo Zoppi|Done
+| DVLOP-003 | Integrar Sistema de Citas | TK34 | Validar cita | Se debe validar que los detalles coinciden con el horario disponible |2|Giacomo Zoppi|Done
+| DVLOP-003 | Integrar Sistema de Citas | TK35 | Crear Token | Se debe generar un token JWT válido |2|Giacomo Zoppi|In Process
+| DVLOP-003 | Integrar Sistema de Citas |   TK36 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto al token y un mensaje de exito |2|Giacomo Zoppi|Done
+| DVLOP-003 | Integrar Sistema de Citas |   TK37 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi|Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | TK38 |Crear endpoint | Crear endpoint mediante una solicitud get que permita que los usuarios consultar productos ergonomicos |2|Giacomo Zoppi|Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos | TK39 | Validar busqueda | Se debe validar que los detalles coinciden con algun producto |2|Giacomo Zoppi|Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK40 | Parametros de busqueda | Se deben permitir ciertos parametros en la consulta de productos |2|Giacomo Zoppi| Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK41 | Devolver productos | Se debe devolver la informacion de los productos con los parametros designados |2|Giacomo Zoppi|Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK42 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 |2|Giacomo Zoppi| Done
+| DVLOP-004 | Crear Endpoint para Consulta de Productos Ergonómicos |   TK43 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Giacomo Zoppi| Done
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK44 | Crear endpoint | Crear endpoint mediante una solicitud post que permita a los fisioterapeutas subir sus datos |2|Juan Ramos| Done
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK45 | Validar datos | Se debe validar que los detalles son validos o que la contraseña no coincide |2|Anthony Guerrero| In Process
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |  TK46 | Creacion en la base de datos | Crear una nueva cuenta de fisioterapeuta en la base de datos |2 |Anthony Guerrero| Done
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |  TK47 | Devolver codigo de estado | Se debe devolver un codigo de estado 200 junto a un mensaje de exito |2 |Anthony Guerrero| Done
+| DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas |  TK48 | Crear endpoint| Crear endpoint mediante una solicitud get que permita a los usuarios consultar ciertos fisioterapeutas |2 |Juan Ramos| Done
+| DVLOP-006 | Crear Endpoint para consulta de fisioterapeutas |   TK49 | Devolver información | Se debe devolver la informacion del fisioterapeuta que consultó con los datos que brindó |2|Juan Ramos| Done
+| DVLOP-007 | Integrar Cambio de fecha de citas | TK50 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien la fecha de cita |2|Giacomo Zoppi| Done
+| DVLOP-007 | Integrar Cambio de fecha de citas | TK51 | Validar nuevos datos | Validar que la nueva fecha de cita es posible y por ende, valida |2|Giacomo Zoppi| Done
+| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK52 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien sus datos |2|Erick Palomino| In Process
+| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK53 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Erick Palomino| In Process
+| DVLOP-009 | Crear Endpoint para ver plan de suscripcion | TK54 | Crear endpoint | Crear endpoint mediante una solicitud get que permita que los usuarios vean su suscripción |2|Gianfranco Luna|To-do 
+| DVLOP-010 | Crear Endpoint para cancelar plan de suscripcion | TK55 | Crear endpoint | Crear endpoint mediante una solicitud delete que permita que los usuarios vean cancelen su plan de suscripcion |2|Gianfranco Luna|To-do 
+| DVLOP-011 | Crear Endpoint para hacer un pago | TK56 | Crear endpoint | Crear endpoint mediante una solicitud post que permita que los usuarios paguen la suscripción |2|Gianfranco Luna|To-do 
+| DVLOP-011 | Crear Endpoint para hacer un pago | TK57 | Validar datos | Validar datos del metodo de pago |2|Gianfranco Luna|To-do 
+| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK58 | Crear endpoint | Crear endpoint mediante una solicitud put que permita a los fisioterapeutas actualizar sus horarios o datos |2|Juan Ramos|Done
+| DVLOP-012 | Crear Endpoint para actualizar datos de fisioterapia, como horarios | TK59 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Juan Ramos|Done
+| DVLOP-013 | Crear Endpoint para subir las grabaciones | TK60 | Crear Endpoint | Crear endpoint mediante una solicitud post que permita a los fisioterapeutas subir las grabaciones de las sesiones|2|Erick Palomino|Done
+| DVLOP-014 | Crear Endpoint para obtener las grabaciones de las sesiones | TK61 | Crear Endpoint | Permite a los usuarios acceder a grabaciones segun la fecha de publicacion |2|Erick Palomino|Done
+| DVLOP-014 | Crear Endpoint para obtener las grabaciones de las sesiones | TK62 | Acceder por Id | Permite a los usuarios acceder a grabaciones segun id |2|Erick Palomino|Done
+| DVLOP-015 | Crear Endpoint para eliminar las grabaciones de las sesiones | TK62 | Acceder por Id | Permite a los fisioterapetuas eliminar las grabaciones pasadas |2|Erick Palomino|Done
+
+
+- 5.2.3.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/PhysioDesk/Backend | DVLOP-006 | c9b4dae51feb4760459d04d649739bdab6d7629a | feat: GET and POST physiotherapists | ------------- | 07/06/2024 |
+|  | DVLOP-004 | 28119f1068086f95e964c9d09d00135888102668 | feat: Added Products Bounded Context | ------------- | 01/06/2024 |
+|  | DVLOP-001 | c8da6d6dc0a0e452e867a1895f616b027d777b3e | modelamientoCarpetas | ------------- | 29/02/2024 |
+|  | DVLOP-003 | 61cc574eeec6341030c18c7b6d36d7ef05331f14 | feat: Added Appointments | ------------- | Jun 7, 2024 |
+|  | DVLOP-012 | 9d370bcaa638358bee15dc89886ff87234be2415 | feat: update physio (PUT) | ------------- | Jun 7, 2024 |
+|  | DVLOP-008 | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge branch 'US-DVLOP-008-Put-User' | ------------- | Jun 9, 2024 |
+|  | DVLOP-013 | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------- | Jun 7, 2024 |
+|  | DVLOP-013 | 1f394a55f46ef372f4b6a4526cd1a8488d3fe714 | Merge remote-tracking branch 'origin/US-DVLOP-012-Put-Physiotherapist' | ------------- | Jun 7, 2024 |
+| https://github.com/PhysioDesk/PhysioDeskWebApp | Develop | 9c9a18342a310614a15c6784cc18da464d24255f | Feat: Se agregaron las funcionalidades faltantes del tp' | ------------- | Jun 6, 2024 |
+|  | Develop | d17827da27727f5cd96e54cce7c3b5c270f23cf4 | Feat: Arreglo del landing, y añado lista de usuarios' | ------------- | Jun 8, 2024 |
+
+
+
+- 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+ |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+|erickpalomino1923|Acceptance-Test-Sprint-3/Main/Main|08028bb|Add Feature|Add Feature 1 |08/06/2024| 
+|erickpalomino1923|Acceptance-Test-Sprint-3/Main/Main|f6d4e73|Add Feature|Add Feature 2 |08/06/2024| 
+|Gianfranco4991|Acceptance-Test-Sprint-3/Main|09cb7ec|Create Feature_5.feature|Create Feature_5.feature |08/06/2024|
+|Gianfranco4991|Acceptance-Test-Sprint-3/Main|d26f330|Create Feature_6.feature|Create Feature_6.feature |08/06/2024|
+|Giacomo202210029|Acceptance-Test-Sprint-3/Main|23362b8|Created feature 7|Created feature 7|08/06/2024| 
+|Giacomo202210029|Acceptance-Test-Sprint-3/Main|c680f26|docs: Added feature 8|docs: Added feature 8|08/06/2024|
+|AnthonyGuerrero56|Acceptance-Test-Sprint-3/Main|31dd16e|Create Feature_9.feature|Create Feature_9.feature |08/06/2024|
+|AnthonyGuerrero56|Acceptance-Test-Sprint-3/Main|1c21e79|Create Feature_10.feature|Create Feature_10.feature|08/06/2024|
+|Juan Pablo|Acceptance-Test-Sprint-3/Main|17a24eb|Create Feature_3.feature|Create Feature_3.feature |08/06/2024|
+|Juan Pablo|Acceptance-Test-Sprint-3/Main|5ed0f8b|Create Feature_4.feature|Create Feature_4.feature|08/06/2024|
+
+
+ ```gherkin
+Feature: Registro de Usuario (DVLOP-001)
+
+  Scenario: Registro exitoso de un nuevo usuario
+    Given que existe un endpoint para el registro de usuarios (TK24)
+    When el usuario proporciona sus datos para registrarse
+    Then se valida que el correo electrónico no esté en uso (TK25)
+    And se valida que el ID no esté en uso (TK26)
+    And se crea una nueva cuenta de usuario en la base de datos (TK27)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito (TK28)
+
+  Scenario: Falla en el registro debido a datos inválidos
+    Given que existe un endpoint para el registro de usuarios (TK24)
+    When el usuario proporciona datos inválidos para registrarse
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK28)
+
+Feature: Autenticación de Usuario (DVLOP-002)
+
+  Scenario: Inicio de sesión exitoso
+    Given que existe un endpoint para la autenticación de usuarios (TK29)
+    When el usuario proporciona datos válidos para iniciar sesión
+    Then se valida los datos de inicio de sesión (TK29)
+    And se genera un token JWT válido (TK30)
+    And se devuelve un código de estado 200 junto con el token y un mensaje de éxito (TK31)
+
+  Scenario: Falla en el inicio de sesión debido a datos inválidos
+    Given que existe un endpoint para la autenticación de usuarios (TK29)
+    When el usuario proporciona datos inválidos para iniciar sesión
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK32)
+
+Feature: Sistema de Citas (DVLOP-003)
+
+  Scenario: Reserva de cita exitosa
+    Given que existe un endpoint para reservar citas (TK33)
+    When el usuario solicita reservar una cita
+    Then se valida la disponibilidad de la cita (TK34)
+    And se genera un token JWT válido (TK35)
+    And se devuelve un código de estado 200 junto con el token y un mensaje de éxito (TK36)
+
+  Scenario: Falla en la reserva de cita debido a datos inválidos
+    Given que existe un endpoint para reservar citas (TK33)
+    When el usuario solicita reservar una cita con datos inválidos
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK37)
+
+Feature: Consulta de Productos Ergonómicos (DVLOP-004)
+
+  Scenario: Consulta de productos exitosa
+    Given que existe un endpoint para consultar productos ergonómicos (TK38)
+    When el usuario solicita consultar productos
+    Then se valida la búsqueda de productos (TK39)
+    And se devuelven los productos con los parámetros especificados (TK41)
+    And se devuelve un código de estado 200 (TK42)
+
+  Scenario: Falla en la consulta de productos debido a datos inválidos
+    Given que existe un endpoint para consultar productos ergonómicos (TK38)
+    When el usuario solicita consultar productos con datos inválidos
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK43)
+
+Feature: Registro de Fisioterapeutas (DVLOP-005)
+
+  Scenario: Registro exitoso de un nuevo fisioterapeuta
+    Given que existe un endpoint para el registro de fisioterapeutas (TK44)
+    When el fisioterapeuta proporciona sus datos para registrarse
+    Then se valida que los datos sean válidos (TK45)
+    And se crea una nueva cuenta de fisioterapeuta en la base de datos (TK46)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito (TK47)
+
+  Scenario: Falla en el registro de fisioterapeuta debido a datos inválidos
+    Given que existe un endpoint para el registro de fisioterapeutas (TK44)
+    When el fisioterapeuta proporciona datos inválidos para registrarse
+    Then se devuelve un código de estado 401 junto con un mensaje de error (TK47)
+
+Feature: Cambio de Fecha de Citas (DVLOP-007)
+
+  Scenario: Cambio exitoso de la fecha de cita
+    Given que existe un endpoint para cambiar la fecha de citas (TK50)
+    When el usuario solicita cambiar la fecha de una cita
+    Then se valida que la nueva fecha sea posible (TK51)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito
+
+Feature: Actualización de Datos de Usuario (DVLOP-008)
+
+  Scenario: Actualización exitosa de datos de usuario
+    Given que existe un endpoint para cambiar los datos de usuario (TK52)
+    When el usuario solicita cambiar sus datos
+    Then se valida que los nuevos datos sean válidos (TK53)
+    And se devuelve un código de estado 200 junto con un mensaje de éxito
+
+Feature: Subir Grabaciones de Sesiones (DVLOP-013)
+
+  Scenario: Subida exitosa de grabaciones de sesiones
+    Given que existe un endpoint para subir grabaciones de sesiones (TK60)
+    When el fisioterapeuta sube una grabación de sesión
+    Then se devuelve un código de estado 200 junto con un mensaje de éxito
+
+Feature: Obtener Grabaciones de Sesiones (DVLOP-014)
+
+  Scenario: Obtención exitosa de grabaciones de sesiones
+    Given que existe un endpoint para obtener grabaciones de sesiones (TK61)
+    When el usuario solicita obtener las grabaciones
+    Then se devuelve la información de las grabaciones según la fecha de publicación o el ID (TK62)
+
+
+
+```
+
+- 5.2.3.5. Execution Evidence for Sprint Review.
+
+US2: Agregar herramienta ergonómica al carrito de compra y proceder al pago
+![US2006](https://github.com/PhysioDesk/Informes/assets/129527802/be2e1b41-7cf1-4f0e-9e30-a468e48e6651)
+![US2001](https://github.com/PhysioDesk/Informes/assets/129527802/dd42deec-132e-4ef0-9607-f8c51c56adda)
+
+![US2003](https://github.com/PhysioDesk/Informes/assets/129527802/e106589f-818f-4034-8b15-54bd0a955564)
+![US2002](https://github.com/PhysioDesk/Informes/assets/129527802/f3d2522b-3070-4c4f-b937-81b33cd42693)
+
+US4: Filtrar herramientas ergonómicas
+![US2004](https://github.com/PhysioDesk/Informes/assets/129527802/cf9e0e0d-48c5-4dc2-8aaf-71321681da1d)
+
+US6: Visualizar los horarios de atención de cada fisioterapeuta
+![US6001](https://github.com/PhysioDesk/Informes/assets/129527802/2755a929-2dd0-4188-b0ae-a54eab4d6ddb)
+
+US7: Reservar cita con fisioterapeuta
+![US7001](https://github.com/PhysioDesk/Informes/assets/129527802/2b23556d-dbf1-4104-bf35-b9ab80e6c943)
+
+US12: Configurar notificaciones de cita
+![US12001](https://github.com/PhysioDesk/Informes/assets/129527802/2dab797f-dcaa-4cb0-b33c-9d03c28269ad)
+
+FISIO1:  Registrar detalles de cada sesión de tratamiento.
+![FISIO1](https://github.com/PhysioDesk/Informes/assets/129527802/bc77e08d-47bb-45a5-81c8-a89efa17e752)
+
+US19: Acceder al plan de ejercicios
+![US19002](https://github.com/PhysioDesk/Informes/assets/129527802/46180bdc-e421-4373-b2d0-9dded95fab9a)
+![US19001](https://github.com/PhysioDesk/Informes/assets/129527802/e9e75540-cee3-46f8-a089-94e9447cbc83)
+
+
+DVLOP1: Crear Endpoint para Registro de Usuario
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/258d33c9-d960-4686-93e6-0edfb0e9e07d)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/75912396-ccd9-40eb-962e-ff18402b0850)
+
+
+DVLOP3: Integrar Sistema de Citas
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/36058bf7-9369-4900-bf51-cd3db4e522d7)
+
+DVLOP4: Crear Endpoint para Consulta de Productos Ergonómicos
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d1cb1bca-d3dc-4dc9-937b-e216aacdde87)
+
+DVLOP5: Crear Endpoint para registro de fisioterapeutas
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/dd6e0a0c-e681-4813-bab2-61b0179061df)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/2c001ad2-c34b-45c2-a91c-922d02f5e997)
+
+
+DVLOP6: Crear Endpoint para consulta de fisioterapeutas
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/63346af9-f2f9-4282-b7e2-5f0f42e7d6fc)
+
+
+DVLOP12: Crear Endpoint para actualizar datos de fisioterapia, como horarios
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/e2d02a90-253c-4b62-8e23-d943deb5a731)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ddc8a398-783e-4873-87cc-9729b0fdd589)
+
+
+
+DVLOP13: Crear Endpoint para subir las grabaciones
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b4af2ae-af36-4702-a625-9d35135ee011)
+
+
+DVLOP14: Crear Endpoint para obtener las grabaciones de las sesiones
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/453ec2b4-14eb-484d-b414-d7483fb6e2a0)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/8b1afad8-7c7e-4f97-961a-57ccf5be9a00)
+
+
+
+DVLOP15: Crear Endpoint para eliminar las grabaciones de las sesiones
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/8d617d57-6ccc-47b4-85d3-2cfd9edd61d0)
+
+
+
+
+- 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Web Service
+| Endpoint                | Operaciones | Parámetros       | URL                                                    |
+|-------------------------|-------------|------------------|--------------------------------------------------------|
+| user-controller         | GET         | No tiene         | /api/v1/users                                          |
+|                         | POST        | No tiene         | /api/v1/users                                          |
+|                         | GET         | {id}             | /api/v1/users/{id}                                     |
+|                         | DELETE      | {id}             | /api/v1/users/{id}                                     |
+| appointment-controller  | GET         | {patientId}      | /api/v1/profile/{patientId}                            |
+|                         | GET         | {physiotherapistId} | /api/v1/profile/{physiotherapistId}                   |
+|                         | POST        | No tiene         | /api/v1/appointments                                   |
+|                         | GET         | {physiotherapistId}{Date} | /api/v1/appointments                          |
+| product-controller      | GET         | {id}             | /api/v1/product/{id}                                   |
+|                         | GET         | No tiene         | /api/v1/product/all                                    |
+|                         | POST        | No tiene         | /api/v1/product                                        |
+| physiotherapist-controller | POST    | No tiene         | /api/v1/physiotherapist                                |
+|                         | PUT         | {id}             | /api/v1/physiotherapist                                |
+|                         | GET         | No tiene         | /api/v1/physiotherapist/all                            |
+|                         | GET         | {id}             | /api/v1/physiotherapist/{id}                           |
+|                         | GET         | No tiene         | /api/v1/user/all                                       |
+| record-controller       | POST        | No tiene         | /api/v1/record                                         |
+|                         | GET         | No tiene         | /api/v1/record/all                                     |
+|                         | GET         | {id}             | /api/v1/record/{id}                                    |
+|                         | GET         | {date}           | /api/v1/record/{date}                                  |
+
+
+Web Service Images
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/9cafa1a8-a6c6-4a41-98ec-4d9bc9ccd3de)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/718b9836-e0b2-4d41-8496-0b4477acc9e2)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/17b611a3-0a07-4ad6-908f-7d2bc53ae64a)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/899c475b-cfa1-4cbd-b8c8-f2692e26575e)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/45a56f80-5e15-4538-a207-1effa3c9bad9)
+
+
+
+
+
+
+
+- 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Para la entrega del tercer sprint, se implementó una landing page completamente funcional, cumpliendo con las historias de usuario correspondientes. Además, se desplegó y lanzó parcialmente el back-end, el cual aún está en proceso de finalización.
+
+Landing Page y Web Application:
+
+La actualización de la página de destino en GitHub Pages se realizó tras fusionar la rama "develop" con la rama principal ("main"). Este proceso permitió renovar la implementación de la página de destino.
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/77cfbc02-de85-410f-ac3b-4abc7bdb9bce)
+
+[link de web app y landing page desplegado](https://sunny-croquembouche-b79315.netlify.app/main)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d7ea578d-e1fb-4fd3-8a1d-b7c2e8c1bcb4)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/1134aa82-24f8-4220-a365-9da8dab45aaa)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ae53a286-3bc5-4db7-a654-f9d1671ed2c9)
+
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/d1cb1bca-d3dc-4dc9-937b-e216aacdde87)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/63346af9-f2f9-4282-b7e2-5f0f42e7d6fc)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/e2d02a90-253c-4b62-8e23-d943deb5a731)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/ddc8a398-783e-4873-87cc-9729b0fdd589)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/0b4af2ae-af36-4702-a625-9d35135ee011)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/453ec2b4-14eb-484d-b414-d7483fb6e2a0)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/8b1afad8-7c7e-4f97-961a-57ccf5be9a00)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/8d617d57-6ccc-47b4-85d3-2cfd9edd61d0)
+
+
+
+
+- 5.2.3.8.Team Collaboration Insights during Sprint.
+
+| Integrante                         | Actividad                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Gianfranco Luna Morales | Diseño de Entrevistas |
+| Erick Joaquin Palomino Santa Cruz | Implementación de Frontend y Desarrollo de Backend |
+| Anthony Jeandet Guerrero Castillo | Diseño de Frontend y Desarrollo de Backend |
+| Juan Pablo Ramos Mendoza | Implementación de Frontend y Desarollo de Backend |
+| Giacomo Zoppi Rodriguez | Implementación de Frontend y Desarrollo de Backend |    
+
+
+  
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
+  
+  1. ¿Cuál es su nombre completo? ¿Qué edad tiene? ¿En qué distrito reside actualmente?
+  2. ¿Cuál es su ocupación?
+  3. ¿Qué le parece el diseño de nuestra landing page? ¿Le resulta llamativa o le genera motivos de registro?
+  4. ¿Considera que la aplicación es intuitiva y proporciona información relevante? ¿Se puede desplazar con facilidad? ¿Por qué lo considera de esa manera?
+  5. ¿Qué funcionalidad o caracteristica cree que se podría agregar, sobra o podría actualizarse para generar mayor interés en su uso?
+  6. ¿Le parece adecuado los artículos en venta que le ofrecemos?
+  7. ¿Se siente cómodo con el uso de sesiones virtuales?
+  8. ¿Cuál fue su navegador de preferencia para el uso de la aplicación?
+  9. ¿Se encontró algún elemento visual como el posicionamiento o gama de colores, tipografía que no le fue se su agrado?
+ 
+  USER FLOWS DEL PROCESO DE VALIDACION:
+  Aquí tienes los user flows numerados:
+
+1. **Visitante Interactúa con la Sección de Inicio:**
+   - VISIT-001 -> VISIT-002 -> VISIT-003 -> VISIT-004 -> VISIT-005 -> VISIT-006
+
+
+2. **Usuario Filtra Herramientas Ergonómicas:**
+   - USER-004
+
+3. **Usuario Recibe Recordatorio de Ejercicios:**
+   - USER-021
+
+4. **Usuario Interactúa con Notificaciones de Cita:**
+   - USER-014
+
+
+5. **Usuario Ve Detalle de la Herramienta Ergonómica:**
+    - USER-003
+
+6. **Usuario Ve Detalle de la Compra:**
+    - USER-005
+
+7. **Usuario Accede a las Grabaciones:**
+    - USER-010
+
+8. **Usuario Visualiza los Horarios de Atención de Cada Fisioterapeuta:**
+    - USER-006
+
+
+9. **Usuario Configura Notificaciones de Cita:**
+    - USER-012
+
+      
 - 5.3.2. Registro de Entrevistas.
+
+SEGMENTO OBJETIVO: USUARIOS
+  - Entrevista #1:
+  	<img src="static/img/Chapter 5/Entrevista_Veronica_Validacion.png">
+   | Campo              | Detalles                                                                                                                                                                                                                                                                                       |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistado**   | Verónica Mendoza                                                                                                                                                                                                                                                                               |
+| **Edad**           | 52 años                                                                                                                                                                                                                                                                                        |
+| **Entrevistador**  | Juan Pablo Ramos Mendoza                                                                                                                                                                                                                                                                      |
+| **Duración**       | 7:30                                                                                                                                                                                                                                                                                           |
+| **Minuto de inicio** |       |
+| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                      |
+| **Resumen**        | La entrevistada tuvo una excelente experiencia con la landing page, considerándola no solo atractiva, sino también muy intuitiva. Le llamó especialmente la atención el diseño limpio y moderno, que facilitaba la navegación y permitía revisar el proceso de registro de cuenta sin ningún inconveniente. Destacó que la página cargaba rápidamente y que la información estaba organizada de manera lógica, lo cual le permitió encontrar lo que buscaba de forma eficiente. En cuanto al aplicativo, a la entrevistada le resultó muy agradable que los botones y enlaces estuvieran claramente definidos, con etiquetas y descripciones que indicaban de manera precisa la función de cada uno. Esta claridad le proporcionó una experiencia de usuario sin fricciones, haciéndola sentir segura al realizar acciones dentro de la aplicación. Los artículos en venta captaron su interés de inmediato, especialmente porque estaban enfocados en el trabajo continuo y prolongado en oficina, algo que resonaba con sus necesidades diarias. Además, elogió la parte gráfica del aplicativo, señalando que los colores y la tipografía no solo eran estéticamente agradables, sino también cómodos para la vista, permitiendo una lectura fácil y sin esfuerzo. La combinación de colores era suave, evitando el cansancio visual, y la tipografía era clara, facilitando la comprensión del contenido. No obstante, la entrevistada señaló un único inconveniente: la falta de diagramas o explicaciones gráficas de los ejercicios propuestos. Comentó que, aunque las descripciones textuales eran útiles, hubiera sido beneficioso contar con ilustraciones o vídeos que mostraran cómo realizar los ejercicios correctamente. Este añadido gráfico habría proporcionado una mejor comprensión y ejecución de los ejercicios, mejorando aún más la utilidad del aplicativo. En resumen, la entrevistada quedó muy satisfecha con la experiencia general, apreciando tanto el diseño como la funcionalidad del aplicativo, y sugirió pequeñas mejoras que podrían incrementar aún más su efectividad y atractivo para los usuarios. |
+
+
+
+
+
+  - Entrevista #2:<br>
+   	![image](https://github.com/PhysioDesk/Informes/assets/129527802/5fdc7512-668c-41c1-826b-0f9c4fd76a3e)
+| Campo              | Detalles                                                                                                                                                                                                                                                                                           |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevista #**   | 2                                                                                                                                                                                                                                                                                                  |
+| **Entrevistado**   | Leonardo Ibarra                                                                                                                                                                                                                                                                                    |
+| **Edad**           | 21 años                                                                                                                                                                                                                                                                                            |
+| **Entrevistador**  | Giacomo Zoppi Rodriguez                                                                                                                                                                                                                                                                            |
+| **Duración**       | 04:50                                                                                                                                                                                                                                                                                              |
+| **Minuto de inicio** |                                                                                                                                                                                                                                                                                                   |
+| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                            |
+| **Resumen**        | El entrevistado es un joven que padece de problemas de espalda y dolor de rodillas. Le gustó mucho la página y la encontró muy interactiva. Apreció el funcionamiento general del sitio, considerándolo una idea excelente en conjunto. Sin embargo, mencionó que debería implementarse una versión oscura o en negro para no dañar tanto la vista, especialmente durante el uso prolongado. Esta sugerencia es particularmente relevante y se alinea bien con el objetivo final de nuestro proyecto, que es mejorar la salud y el bienestar de los usuarios. Además, el entrevistado usa el explorador Google Chrome para poder ejecutar la gran mayoría de programas y expresó un alto interés en poder adquirir nuestro producto. Esta retroalimentación positiva refuerza la viabilidad y el atractivo de nuestra aplicación, subrayando la importancia de seguir optimizando la experiencia del usuario para atender mejor sus necesidades y preferencias. |
+
+SEGMENTO OBJETIVO: FISIOTERAPEUTAS
+
+  - Entrevista #3:<br>
+   	![image](https://github.com/PhysioDesk/Informes/assets/89022078/03dcedb3-84e7-428c-81b3-5c2324b5b77c)<br>
+| Campo              | Detalles                                                                                                                                                                                                                                                                                           |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevistada**   | Mariafe Alcantara                                                                                                                                                                                                                                                                                  |
+| **Edad**           | 18 años                                                                                                                                                                                                                                                                                            |
+| **Entrevistador**  | Anthony Jeandet Guerrero Castillo                                                                                                                                                                                                                                                                  |
+| **Duración**       | 14:01                                                                                                                                                                                                                                                                                              |
+| **Minuto de inicio** |          |                                                                                                                                                                                                                                                                                         |
+| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                            |
+| **Resumen**        | La entrevistada es una estudiante de la carrera de Traducción. Ella usa su computadora con frecuencia y está bien informada sobre los problemas de salud que pueden surgir debido a malas posturas. A la entrevistada le pareció buena la landing page en general. Sin embargo, mencionó que hay apartados, como la sección de "Contact Us", donde el diseño podría mejorarse para ofrecer una experiencia más cohesiva y agradable. En cuanto a la aplicación web, destacó que la información proporcionada es correcta y útil. No obstante, sugirió que la confirmación de cita podría mejorarse visualmente, ya que el cambio de color actual es demasiado brusco y puede resultar desconcertante para los usuarios. Un enfoque más suave y consistente en el diseño de las confirmaciones mejoraría la experiencia del usuario. Además, señaló que sería beneficioso incluir un tiempo estimado de elaboración para las actividades propuestas. Esto permitiría a los usuarios planificar mejor su tiempo y entender cuánto tiempo necesitarán dedicar a cada actividad, haciéndolas más accesibles y manejables dentro de sus horarios diarios. En resumen, la entrevistada encontró la landing page y la aplicación web en general satisfactorias, pero identificó áreas específicas donde se podrían realizar mejoras para aumentar aún más la usabilidad y la experiencia del usuario. |
+
+
+ - Entrevista #4:<br>
+   	![image](https://github.com/PhysioDesk/Informes/assets/129527802/8a4e9fc2-0fb7-4c6a-8f6a-b4df507fc96d)
+| Campo              | Detalles                                                                                                                                                                                                                                                                                        |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Entrevista**     | #4                                                                                                                                                                                                                                                                                               |
+| **Entrevistada**   | Meyling Rojas                                                                                                                                                                                                                                                                                    |
+| **Edad**           | 26 años                                                                                                                                                                                                                                                                                          |
+| **Entrevistador**  | Gianfranco Luna Morales                                                                                                                                                                                                                                                                          |
+| **Duración**       | 10:00                                                                                                                                                                                                                                                                                            |
+| **Minuto de inicio** |                                                                                                                                                                                                                                                                                                 |
+| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                          |
+| **Resumen**        | A la entrevistada le agradó mucho la aplicación. Pudo revisar el proceso de registro de cuenta sin ningún problema, encontrándolo sencillo y directo. Además, destacó lo práctico de las opciones y lo simple que es desplazarse por la aplicación. Esta facilidad de uso le permitió explorar rápidamente todas las funcionalidades sin encontrarse con obstáculos o confusiones. Recomendó que se pusiera un mayor énfasis en los artículos en venta, ya que por su trabajo sufre de lesiones en las manos y problemas de postura. Sugerió que se ofrezcan recomendaciones de productos ergonómicos, como sillas y mouse diseñados para prevenir y aliviar estos problemas. Considera que estos productos serían de gran valor para usuarios con necesidades similares, mejorando su salud y bienestar mientras trabajan. La parte gráfica de la aplicación también fue de su agrado. Apreció los colores y la tipografía, encontrándolos agradables a la vista y fáciles de leer. Sin embargo, expresó que no le gusta que se muestren opciones en color negro, ya que esto interrumpe el flujo del color base de la aplicación y puede resultar discordante. Asimismo, criticó el uso del subrayado en los títulos, sugiriendo que podría ser visualmente más armonioso emplear otros métodos de énfasis, como negritas o cambios en el tamaño de la fuente. Finalmente, mencionó que le gustaría recibir información más detallada sobre el costo de las sesiones, específicamente si el modelo de pago es mensual o por sesión individual. Cree que esta información adicional sería muy útil para los usuarios que están considerando contratar los servicios ofrecidos a través de la aplicación, permitiéndoles tomar decisiones informadas sobre su inversión en salud y bienestar. |
+
+
+  	  
 - 5.3.3. Evaluaciones según heurísticas.
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA			: Ingeniería de Software<br>
+CURSO				: Desarrollo de Aplicaciones Open Source<br>
+SECCIÓN			: WX52<br>
+PROFESORES			: Todos<br>
+AUDITOR / CLIENTE(S)		: PhysioDesk (Auto-Auditoría)<br>**
+
+
+***SITE o APP A EVALUAR:***
+
+*PhysioDesk*
+
+***TAREAS A EVALUAR:***
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1. *Uso de la página principal del usuario*
+1. *Registro de citas con fisioterapeutas*
+1. *Registro de artículos ergonómicos para compra*
+1. *Cancelación de compra de artículo ergonómico*
+1. *Compra de artículo ergonómico*
+1. *Revisión de la página de actividades/ejercicios*
+1. *Registro de problema*
+1. *Etc.*
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+
+1. *Registro de usuario nuevo*
+1. *Chat y comunicación con los fisioterapeutas*
+1. *Funcionalidad de las notificaciones*
+1. *Actualización de datos del usuario*
+1. *Etc.*
+
+***ESCALA DE SEVERIDAD:***
+
+*Los errores están puntuados tomando en cuenta la siguiente escala de severidad.*
+
+|**Nivel**|**Descripción**|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+***TABLA RESUMEN***
+
+|#|Problema|Escala de Severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|Imágenes sin atributo Alt o poco descriptivo|2|Inclusive Design: Proporciona experiencias comparables|
+|2|Carrito no muestra cantidad de objetos elegidos|1|Information Architecture: Is it clear?|
+|3|Botón de confirmación de cita muy pequeño|3|Information Architecture: Is it clear?|
+|4|Pantalla de notificaciones no muestra ejemplo de su funcionalidad|3|Information Architecture: is it findable?|
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+*PROBLEMA #1: Imágenes no presentan atributo Alt o tienen uno poco descriptivo*
+
+*SEVERIDAD: 2*
+
+*Heurística violada: Diseño Inclusivo – Proporciona experiencias comparables*
+
+*Problema:*
+
+*No todas las imágenes presentan un atributo Alt para su uso en la navegación inclusiva de usuarios que utilicen lectores de pantalla. Además, las imágenes que sí presentan este atributo no son tan explicativas o son muy genéricas.*
+
+<img src="static/img/Chapter 5/heuristics_1.png"><img src="static/img/Chapter 5/heuristics_2.png">
+
+*Recomendación:*
+
+*Revisar que todas las imágenes presenten atributos Alt que sean lo suficientemente descriptivos.*
+
+*PROBLEMA #2: Carrito no muestra cantidad de objetos elegidos*
+
+*SEVERIDAD: 1*
+
+*Heurística violada: Arquitectura de la información – Is it clear?*
+
+*Problema:*
+
+*Al añadir un objeto de la lista en compras, el símbolo del carrito no muestra si es que se ha añadido un objeto correctamente o cuántos objetos se han agregado hasta que se acceda a su página.*
+
+<img src="static/img/Chapter 5/heuristics_3.png">
+
+*Recomendación:*
+
+*Mostrar con un ícono la cantidad de objetos que se encuentran en el carrito.*
+
+*PROBLEMA #3: Botón de confirmación de cita muy pequeño*
+
+*SEVERIDAD: 3*
+
+*Heurística violada: Arquitectura de la información – Is it clear?*
+
+*Problema:*
+
+*El botón para confirmar una cita con uno de los fisioterapeutas es muy pequeño y aparece bastante lejos al resto del contenido de la página.*
+
+<img src="static/img/Chapter 5/heuristics_4.png">
+
+*Recomendación:*
+
+*Hacer el botón más grande y visible, además de colocarlo más cerca al resto del contenido.*
+
+*PROBLEMA #4: Pantalla de notificaciones no muestra ejemplo de su funcionalidad*
+
+*SEVERIDAD: 3*
+
+*Heurística violada: Arquitectura de la información – Is it findable?*
+
+*Problema:*
+
+*La pantalla de notificaciones simplemente muestra un mensaje donde no hay notificaciones, pero no hay forma de mostrar su uso sin notificaciones.*
+
+<img src="static/img/Chapter 5/heuristics_5.png">
+
+*Recomendación:* 
+
+*Añadir ciertas notificaciones de prueba para demostrar su uso en la aplicación.*
+
+
 - 5.3.4. Video About-the-Product.
+
+LINK DE VISUALIZACIÓN: [upc-pre-202401-si729-wx52-physiodesk-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EVZxNb8W0MBMv1Me1f-iS80BzQW0S5fJb1C9Cgx-WwjmqA?e=hZOeiy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## Conclusiones
 
@@ -1706,6 +2328,9 @@ Scenario: Interactuar con una tabla de tratamientos de pacientes
  
 - Video About-the-Team.
 
+LINK DE VISUALIZACION: [upc-pre-202401-si729-wx52-physiodesk-about-the-team-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQc6_CDIQuxDnfyTuVIqTosBdMoezO4Qlqma8OnmN5Ogwg?e=IPHZDU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
 ## Bibliografía 
 ErgoPlus. (2023). Soluciones Ergonómicas para Oficinas. Recuperado de https://ergoplus.com/
 
@@ -1717,5 +2342,7 @@ PhysioAdvisor. (2023). Aplicación de Fisioterapia para Trabajos de Oficina. Rec
 
 ## Anexos
 [Link del Github](https://github.com/PhysioDesk)
+
+[Link del Backend](https://github.com/PhysioDesk/Backend.git)
 
 [Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EcJAiWeePadJjl7rkmipPF4BK_bGQDE1r4K_iPBXZEv2iA?e=CMxI4U&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
