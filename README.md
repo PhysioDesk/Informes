@@ -1708,11 +1708,11 @@ Scenario: Interactuar con una tabla de tratamientos de pacientes
 ![image](https://github.com/PhysioDesk/Informes/assets/127764958/819ae30d-8bd0-4e9e-97c7-49d59dd0669d)
 
 Sprint 3
-  - 5.2.2. Sprint 3
-    - 5.2.2.1. Sprint Planning 3
-    El Sprint #2 tiene como fecha de inicio el 25/05/2024 y como meta nos planteamos resolver algunos errores de la landing page y realizar una primera versión del frontend web application de tal modo que resulte funcional y atractiva visualmente.
+  - 5.2.3. Sprint 3
+    - 5.2.3.1. Sprint Planning 3
+    El Sprint #3 tiene como fecha de inicio el 25/05/2024 y como meta nos planteamos resolver algunos errores de la landing page y realizar una primera versión del frontend web application de tal modo que resulte funcional y atractiva visualmente.
 
-| Sprint #  | Sprint 2  |
+| Sprint #  | Sprint 3  |
 | ------------ | ------------ |
 | **Sprint Planning Background**  |
 |  Date  | 2024-05-25  |
@@ -1722,13 +1722,13 @@ Sprint 3
 | Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
 | **Sprint Goal And User Stories**   |
 | Sprint n Goal | Relizar el Back end de la web application de modo que sea funcional y efectiva  |
-| Spring n Velocity |   puntos |
-| Sum of Story Points |  puntos|
+| Spring n Velocity |  80 puntos |
+| Sum of Story Points | 80 puntos|
 
 
-- 5.2.2.2. Sprint Backlog
-Para nuestro segundo Sprint Bakclog, el equipo se centró principalmente en la elaboración del back end de la web application. Siendo este el foco principal, nos dedicamos
-a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementar, basandonos en nuestras user stories. Es así, que las dividimos en
+- 5.2.3.2. Sprint Backlog
+Para nuestro segundo Sprint Backlog, el equipo se centró principalmente en la elaboración del back end de la web application. Siendo este el foco principal, nos dedicamos
+a determinadas metas más pequeñas y alguans funcionalidades que queriamos implementar, basándonos en nuestras user stories. Es así, que las dividimos en
 tareas mas maneajables y organizables y las asignamos a cada uno de los miembros, según sus habiidades. Hicimos uso de Trello para la elaboración de esta actividad.
 
 
@@ -2078,6 +2078,64 @@ La actualización de la página de destino en GitHub Pages se realizó tras fusi
 | Giacomo Zoppi Rodriguez | Implementación de Frontend y Desarrollo de Backend |    
 
 
+Sprint 4
+  - 5.2.4. Sprint 4
+    - 5.2.4.1. Sprint Planning 4
+    El Sprint #4 tiene como fecha de inicio el 15/06/2024 y como meta tenemos la finalización de los componentes funcionales de la aplicación y la resolución de los últimos errores que requerían corrección de la versión anterior.
+
+| Sprint #  | Sprint 4  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-06-15  |
+| Time  |  10:00 PM |
+| Location  | Discord |
+| Prepared  by  | Erick Palomino |
+| Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Finalizar las funcionalidades principales de la aplicación y corrección de errores. |
+| Spring n Velocity |   puntos |
+| Sum of Story Points |  puntos|
+
+- 5.2.4.2. Sprint Backlog
+Para este cuarto Sprint Backlog, se ha centrado en la corrección de las partes ya desarrolladas del front end y back end, con metas enfocadas a un correcto funcionamiento
+de la aplicación y una mejor experiencia de usuario. De la misma forma que antes, hemos dividido el trabajo en tareas más pequeñas y manejables para completar las correcciones.
+
+| Sprint #  | Sprint 4 |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
+|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+
+
+
+- 5.2.4.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+
+- 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+ |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|----------|------|---------|--------------|-------------------|------------------|
+
+```gherkin
+
+```
+
+- 5.2.4.5. Execution Evidence for Sprint Review.
+
+- 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+- 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+- 5.2.4.8.Team Collaboration Insights during Sprint.
+
+| Integrante                         | Actividad                                                                                          |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Gianfranco Luna Morales |  |
+| Erick Joaquin Palomino Santa Cruz |  |
+| Anthony Jeandet Guerrero Castillo |  |
+| Juan Pablo Ramos Mendoza |  |
+| Giacomo Zoppi Rodriguez |  |    
   
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
@@ -2131,15 +2189,12 @@ La actualización de la página de destino en GitHub Pages se realizó tras fusi
 SEGMENTO OBJETIVO: USUARIOS
   - Entrevista #1:
   	<img src="static/img/Chapter 5/Entrevista_Veronica_Validacion.png">
-   | Campo              | Detalles                                                                                                                                                                                                                                                                                       |
-|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Entrevistado**   | Verónica Mendoza                                                                                                                                                                                                                                                                               |
-| **Edad**           | 52 años                                                                                                                                                                                                                                                                                        |
-| **Entrevistador**  | Juan Pablo Ramos Mendoza                                                                                                                                                                                                                                                                      |
-| **Duración**       | 7:30                                                                                                                                                                                                                                                                                           |
-| **Minuto de inicio** |       |
-| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                      |
-| **Resumen**        | La entrevistada tuvo una excelente experiencia con la landing page, considerándola no solo atractiva, sino también muy intuitiva. Le llamó especialmente la atención el diseño limpio y moderno, que facilitaba la navegación y permitía revisar el proceso de registro de cuenta sin ningún inconveniente. Destacó que la página cargaba rápidamente y que la información estaba organizada de manera lógica, lo cual le permitió encontrar lo que buscaba de forma eficiente. En cuanto al aplicativo, a la entrevistada le resultó muy agradable que los botones y enlaces estuvieran claramente definidos, con etiquetas y descripciones que indicaban de manera precisa la función de cada uno. Esta claridad le proporcionó una experiencia de usuario sin fricciones, haciéndola sentir segura al realizar acciones dentro de la aplicación. Los artículos en venta captaron su interés de inmediato, especialmente porque estaban enfocados en el trabajo continuo y prolongado en oficina, algo que resonaba con sus necesidades diarias. Además, elogió la parte gráfica del aplicativo, señalando que los colores y la tipografía no solo eran estéticamente agradables, sino también cómodos para la vista, permitiendo una lectura fácil y sin esfuerzo. La combinación de colores era suave, evitando el cansancio visual, y la tipografía era clara, facilitando la comprensión del contenido. No obstante, la entrevistada señaló un único inconveniente: la falta de diagramas o explicaciones gráficas de los ejercicios propuestos. Comentó que, aunque las descripciones textuales eran útiles, hubiera sido beneficioso contar con ilustraciones o vídeos que mostraran cómo realizar los ejercicios correctamente. Este añadido gráfico habría proporcionado una mejor comprensión y ejecución de los ejercicios, mejorando aún más la utilidad del aplicativo. En resumen, la entrevistada quedó muy satisfecha con la experiencia general, apreciando tanto el diseño como la funcionalidad del aplicativo, y sugirió pequeñas mejoras que podrían incrementar aún más su efectividad y atractivo para los usuarios. |
+Entrevistado: Verónica Mendoza<br>
+Edad: 52 años. 
+Entrevistador: Juan Pablo Ramos Mendoza<br>
+Duración: 7:30<br>
+Link: upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3<br>
+Resumen: La entrevistada tuvo una excelente experiencia con la landing page, considerándola no solo atractiva, sino también muy intuitiva. Le llamó especialmente la atención el diseño limpio y moderno, que facilitaba la navegación y permitía revisar el proceso de registro de cuenta sin ningún inconveniente. Destacó que la página cargaba rápidamente y que la información estaba organizada de manera lógica, lo cual le permitió encontrar lo que buscaba de forma eficiente. En cuanto al aplicativo, a la entrevistada le resultó muy agradable que los botones y enlaces estuvieran claramente definidos, con etiquetas y descripciones que indicaban de manera precisa la función de cada uno. Esta claridad le proporcionó una experiencia de usuario sin fricciones, haciéndola sentir segura al realizar acciones dentro de la aplicación. Los artículos en venta captaron su interés de inmediato, especialmente porque estaban enfocados en el trabajo continuo y prolongado en oficina, algo que resonaba con sus necesidades diarias. Además, elogió la parte gráfica del aplicativo, señalando que los colores y la tipografía no solo eran estéticamente agradables, sino también cómodos para la vista, permitiendo una lectura fácil y sin esfuerzo. La combinación de colores era suave, evitando el cansancio visual, y la tipografía era clara, facilitando la comprensión del contenido. No obstante, la entrevistada señaló un único inconveniente: la falta de diagramas o explicaciones gráficas de los ejercicios propuestos. Comentó que, aunque las descripciones textuales eran útiles, hubiera sido beneficioso contar con ilustraciones o vídeos que mostraran cómo realizar los ejercicios correctamente. Este añadido gráfico habría proporcionado una mejor comprensión y ejecución de los ejercicios, mejorando aún más la utilidad del aplicativo. En resumen, la entrevistada quedó muy satisfecha con la experiencia general, apreciando tanto el diseño como la funcionalidad del aplicativo, y sugirió pequeñas mejoras que podrían incrementar aún más su efectividad y atractivo para los usuarios.<br>
 
 
 
@@ -2147,44 +2202,37 @@ SEGMENTO OBJETIVO: USUARIOS
 
   - Entrevista #2:<br>
    	![image](https://github.com/PhysioDesk/Informes/assets/129527802/5fdc7512-668c-41c1-826b-0f9c4fd76a3e)
-| Campo              | Detalles                                                                                                                                                                                                                                                                                           |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Entrevista #**   | 2                                                                                                                                                                                                                                                                                                  |
-| **Entrevistado**   | Leonardo Ibarra                                                                                                                                                                                                                                                                                    |
-| **Edad**           | 21 años                                                                                                                                                                                                                                                                                            |
-| **Entrevistador**  | Giacomo Zoppi Rodriguez                                                                                                                                                                                                                                                                            |
-| **Duración**       | 04:50                                                                                                                                                                                                                                                                                              |
-| **Minuto de inicio** |                                                                                                                                                                                                                                                                                                   |
-| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                            |
-| **Resumen**        | El entrevistado es un joven que padece de problemas de espalda y dolor de rodillas. Le gustó mucho la página y la encontró muy interactiva. Apreció el funcionamiento general del sitio, considerándolo una idea excelente en conjunto. Sin embargo, mencionó que debería implementarse una versión oscura o en negro para no dañar tanto la vista, especialmente durante el uso prolongado. Esta sugerencia es particularmente relevante y se alinea bien con el objetivo final de nuestro proyecto, que es mejorar la salud y el bienestar de los usuarios. Además, el entrevistado usa el explorador Google Chrome para poder ejecutar la gran mayoría de programas y expresó un alto interés en poder adquirir nuestro producto. Esta retroalimentación positiva refuerza la viabilidad y el atractivo de nuestra aplicación, subrayando la importancia de seguir optimizando la experiencia del usuario para atender mejor sus necesidades y preferencias. |
+Entrevistado: Leonardo Ibarra<br>
+Edad: 21 años<br>
+Entrevistador: Giacomo Zoppi Rodriguez<br>
+Duración: 04:50<br>
+Minuto de inicio:<br>
+Link: upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3<br>
+Resumen: El entrevistado es un joven que padece de problemas de espalda y dolor de rodillas. Le gustó mucho la página y la encontró muy interactiva. Apreció el funcionamiento general del sitio, considerándolo una idea excelente en conjunto. Sin embargo, mencionó que debería implementarse una versión oscura o en negro para no dañar tanto la vista, especialmente durante el uso prolongado. Esta sugerencia es particularmente relevante y se alinea bien con el objetivo final de nuestro proyecto, que es mejorar la salud y el bienestar de los usuarios. Además, el entrevistado usa el explorador Google Chrome para poder ejecutar la gran mayoría de programas y expresó un alto interés en poder adquirir nuestro producto. Esta retroalimentación positiva refuerza la viabilidad y el atractivo de nuestra aplicación, subrayando la importancia de seguir optimizando la experiencia del usuario para atender mejor sus necesidades y preferencias.<br>
+
 
 SEGMENTO OBJETIVO: FISIOTERAPEUTAS
 
   - Entrevista #3:<br>
    	![image](https://github.com/PhysioDesk/Informes/assets/89022078/03dcedb3-84e7-428c-81b3-5c2324b5b77c)<br>
-| Campo              | Detalles                                                                                                                                                                                                                                                                                           |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Entrevistada**   | Mariafe Alcantara                                                                                                                                                                                                                                                                                  |
-| **Edad**           | 18 años                                                                                                                                                                                                                                                                                            |
-| **Entrevistador**  | Anthony Jeandet Guerrero Castillo                                                                                                                                                                                                                                                                  |
-| **Duración**       | 14:01                                                                                                                                                                                                                                                                                              |
-| **Minuto de inicio** |          |                                                                                                                                                                                                                                                                                         |
-| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                            |
-| **Resumen**        | La entrevistada es una estudiante de la carrera de Traducción. Ella usa su computadora con frecuencia y está bien informada sobre los problemas de salud que pueden surgir debido a malas posturas. A la entrevistada le pareció buena la landing page en general. Sin embargo, mencionó que hay apartados, como la sección de "Contact Us", donde el diseño podría mejorarse para ofrecer una experiencia más cohesiva y agradable. En cuanto a la aplicación web, destacó que la información proporcionada es correcta y útil. No obstante, sugirió que la confirmación de cita podría mejorarse visualmente, ya que el cambio de color actual es demasiado brusco y puede resultar desconcertante para los usuarios. Un enfoque más suave y consistente en el diseño de las confirmaciones mejoraría la experiencia del usuario. Además, señaló que sería beneficioso incluir un tiempo estimado de elaboración para las actividades propuestas. Esto permitiría a los usuarios planificar mejor su tiempo y entender cuánto tiempo necesitarán dedicar a cada actividad, haciéndolas más accesibles y manejables dentro de sus horarios diarios. En resumen, la entrevistada encontró la landing page y la aplicación web en general satisfactorias, pero identificó áreas específicas donde se podrían realizar mejoras para aumentar aún más la usabilidad y la experiencia del usuario. |
+Entrevistada: Mariafe Alcantara<br>
+Edad: 18 años<br>
+Entrevistador: Anthony Jeandet Guerrero Castillo<br>
+Duración: 14:01<br>
+Minuto de inicio:<br>
+Link: upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3<br>
+Resumen: La entrevistada es una estudiante de la carrera de Traducción. Ella usa su computadora con frecuencia y está bien informada sobre los problemas de salud que pueden surgir debido a malas posturas. A la entrevistada le pareció buena la landing page en general. Sin embargo, mencionó que hay apartados, como la sección de "Contact Us", donde el diseño podría mejorarse para ofrecer una experiencia más cohesiva y agradable. En cuanto a la aplicación web, destacó que la información proporcionada es correcta y útil. No obstante, sugirió que la confirmación de cita podría mejorarse visualmente, ya que el cambio de color actual es demasiado brusco y puede resultar desconcertante para los usuarios. Un enfoque más suave y consistente en el diseño de las confirmaciones mejoraría la experiencia del usuario. Además, señaló que sería beneficioso incluir un tiempo estimado de elaboración para las actividades propuestas. Esto permitiría a los usuarios planificar mejor su tiempo y entender cuánto tiempo necesitarán dedicar a cada actividad, haciéndolas más accesibles y manejables dentro de sus horarios diarios. En resumen, la entrevistada encontró la landing page y la aplicación web en general satisfactorias, pero identificó áreas específicas donde se podrían realizar mejoras para aumentar aún más la usabilidad y la experiencia del usuario.<br>
 
 
  - Entrevista #4:<br>
    	![image](https://github.com/PhysioDesk/Informes/assets/129527802/8a4e9fc2-0fb7-4c6a-8f6a-b4df507fc96d)
-| Campo              | Detalles                                                                                                                                                                                                                                                                                        |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Entrevista**     | #4                                                                                                                                                                                                                                                                                               |
-| **Entrevistada**   | Meyling Rojas                                                                                                                                                                                                                                                                                    |
-| **Edad**           | 26 años                                                                                                                                                                                                                                                                                          |
-| **Entrevistador**  | Gianfranco Luna Morales                                                                                                                                                                                                                                                                          |
-| **Duración**       | 10:00                                                                                                                                                                                                                                                                                            |
-| **Minuto de inicio** |                                                                                                                                                                                                                                                                                                 |
-| **Link**           | upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3                                                                                                                                                                                                                                          |
-| **Resumen**        | A la entrevistada le agradó mucho la aplicación. Pudo revisar el proceso de registro de cuenta sin ningún problema, encontrándolo sencillo y directo. Además, destacó lo práctico de las opciones y lo simple que es desplazarse por la aplicación. Esta facilidad de uso le permitió explorar rápidamente todas las funcionalidades sin encontrarse con obstáculos o confusiones. Recomendó que se pusiera un mayor énfasis en los artículos en venta, ya que por su trabajo sufre de lesiones en las manos y problemas de postura. Sugerió que se ofrezcan recomendaciones de productos ergonómicos, como sillas y mouse diseñados para prevenir y aliviar estos problemas. Considera que estos productos serían de gran valor para usuarios con necesidades similares, mejorando su salud y bienestar mientras trabajan. La parte gráfica de la aplicación también fue de su agrado. Apreció los colores y la tipografía, encontrándolos agradables a la vista y fáciles de leer. Sin embargo, expresó que no le gusta que se muestren opciones en color negro, ya que esto interrumpe el flujo del color base de la aplicación y puede resultar discordante. Asimismo, criticó el uso del subrayado en los títulos, sugiriendo que podría ser visualmente más armonioso emplear otros métodos de énfasis, como negritas o cambios en el tamaño de la fuente. Finalmente, mencionó que le gustaría recibir información más detallada sobre el costo de las sesiones, específicamente si el modelo de pago es mensual o por sesión individual. Cree que esta información adicional sería muy útil para los usuarios que están considerando contratar los servicios ofrecidos a través de la aplicación, permitiéndoles tomar decisiones informadas sobre su inversión en salud y bienestar. |
+Entrevistada: Meyling Rojas<br>
+Edad: 26 años<br>
+Entrevistador: Gianfranco Luna Morales<br>
+Duración: 10:00
+Minuto de inicio:<br>
+Link: upc-pre-202401-si729-wx52-physiodesk-validation-sprint-3<br>
+Resumen: A la entrevistada le agradó mucho la aplicación. Pudo revisar el proceso de registro de cuenta sin ningún problema, encontrándolo sencillo y directo. Además, destacó lo práctico de las opciones y lo simple que es desplazarse por la aplicación. Esta facilidad de uso le permitió explorar rápidamente todas las funcionalidades sin encontrarse con obstáculos o confusiones. Recomendó que se pusiera un mayor énfasis en los artículos en venta, ya que por su trabajo sufre de lesiones en las manos y problemas de postura. Sugerió que se ofrezcan recomendaciones de productos ergonómicos, como sillas y mouse diseñados para prevenir y aliviar estos problemas. Considera que estos productos serían de gran valor para usuarios con necesidades similares, mejorando su salud y bienestar mientras trabajan. La parte gráfica de la aplicación también fue de su agrado. Apreció los colores y la tipografía, encontrándolos agradables a la vista y fáciles de leer. Sin embargo, expresó que no le gusta que se muestren opciones en color negro, ya que esto interrumpe el flujo del color base de la aplicación y puede resultar discordante. Asimismo, criticó el uso del subrayado en los títulos, sugiriendo que podría ser visualmente más armonioso emplear otros métodos de énfasis, como negritas o cambios en el tamaño de la fuente. Finalmente, mencionó que le gustaría recibir información más detallada sobre el costo de las sesiones, específicamente si el modelo de pago es mensual o por sesión individual. Cree que esta información adicional sería muy útil para los usuarios que están considerando contratar los servicios ofrecidos a través de la aplicación, permitiéndoles tomar decisiones informadas sobre su inversión en salud y bienestar.<br>
 
 
   	  
