@@ -2093,8 +2093,8 @@ Sprint 4
 | Attendees  | Erick Palomino, Giacomo Zoppi, Anthony Guerrero, Juan Ramos, Gianfranco Luna |
 | **Sprint Goal And User Stories**   |
 | Sprint n Goal | Finalizar las funcionalidades principales de la aplicación y corrección de errores. |
-| Spring n Velocity |   puntos |
-| Sum of Story Points |  puntos|
+| Spring n Velocity | 21 puntos |
+| Sum of Story Points | 21 puntos|
 
 - 5.2.4.2. Sprint Backlog
 Para este cuarto Sprint Backlog, se ha centrado en la corrección de las partes ya desarrolladas del front end y back end, con metas enfocadas a un correcto funcionamiento
@@ -2104,7 +2104,17 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 | ------------ | ------------ |------------|------------|------------|------------|------------|------------
 | User Story |------------|------------|------------|------------|------------|------------|------------
 |  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+| USER-012  | Configurar notificaciones de cita |  TK11 | Visualizar un recordatorio de cita |  Visualizar un recordatorio de cita|2 |Gianfranco Luna|Done
+| USER-012  | Configurar notificaciones de cita |  TK12 | Configuración de notificaciones | Visualizar una sección de configuración de notificaciones  |2 |Gianfranco Luna|Done
+| FISIO-001  | Registrar detalles de cada sesión de tratamiento. |  TK14 | Registro de tratamientos | El fisioterapeuta debe poder interactuar con una tabla de tratamientos de pacientes suyos. |3 |Erick Palomino|Done
+| FISIO-003  | Generar informes. |  TK15 | Acceder al perfil del usuario | El fisioterapeuta debe poder acceder al perfil de sus pacientes |2 |Juan Pablo Ramos| Done
+| FISIO-003  | Generar informes. |  TK16 | Registrar informes sobre el paciente | El fisioterapeuta debe poder añadir informes al perfil del paciente  |2 |Juan Pablo Ramos, Erick Palomino| Done
 | DVLOP-002 | Implementar Autenticación de Usuario |   TK32 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Erick Palomino|Done
+| DVLOP-003 | Integrar Sistema de Citas | TK35 | Crear Token | Se debe generar un token JWT válido |2|Giacomo Zoppi|Done
+| DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK45 | Validar datos | Se debe validar que los detalles son validos o que la contraseña no coincide |2|Anthony Guerrero| Done
+| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK52 |Crear endpoint | Crear endpoint mediante una solicitud put que permita que los usuarios cambien sus datos |2|Erick Palomino| Done
+| DVLOP-008 | Crear Endpoint para cambio de datos de usuario | TK53 | Validar nuevos datos | Validar que los nuevos datos son validos|2|Erick Palomino| Done
+
 
 
 - 5.2.4.3. Development Evidence for Sprint Review.
