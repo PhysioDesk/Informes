@@ -2258,6 +2258,26 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 
 - 5.2.4.5. Execution Evidence for Sprint Review.
 
+Web Application: 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/83e28723-13c3-4629-b2db-8ebf4c559137)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/51c963ab-8628-4dab-9134-bd37ea6d18ad)
+
+
+Link desplegado: https://prismatic-bonbon-65d9c0.netlify.app/main
+
+Web Service: 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/9cafa1a8-a6c6-4a41-98ec-4d9bc9ccd3de)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/718b9836-e0b2-4d41-8496-0b4477acc9e2)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/17b611a3-0a07-4ad6-908f-7d2bc53ae64a)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/899c475b-cfa1-4cbd-b8c8-f2692e26575e)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/45a56f80-5e15-4538-a207-1effa3c9bad9)
+
+Link desplegado: https://github.com/PhysioDesk/Backend_Desp.git 
+
 - 5.2.4.6.Services Documentation Evidence for Sprint Review.
 Web Service<br>
 
@@ -2290,25 +2310,12 @@ Web Service<br>
 |  *                       | DELETE         | {id}           | /api/v1/record/{id}                                  |
 
 - 5.2.4.7.Software Deployment Evidence for Sprint Review.
+Para el despliegue y desarrollo de nuestra API, hemos usado las siguientes herramientas: 
 
-Web Application: 
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/83e28723-13c3-4629-b2db-8ebf4c559137)
-
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/51c963ab-8628-4dab-9134-bd37ea6d18ad)
-
-
-Link desplegado: https://prismatic-bonbon-65d9c0.netlify.app/main
-
-Web Service: 
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/9cafa1a8-a6c6-4a41-98ec-4d9bc9ccd3de)
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/718b9836-e0b2-4d41-8496-0b4477acc9e2)
-
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/17b611a3-0a07-4ad6-908f-7d2bc53ae64a)
-
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/899c475b-cfa1-4cbd-b8c8-f2692e26575e)
-
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/45a56f80-5e15-4538-a207-1effa3c9bad9)
-
+Github: Plataforma que nos permitió trabajar en equipo a distancia, así como unir nuestro progreso en cuanto a codigo.
+Netlify: PLataforma que nos permitió desplegar la parte del Frontend de nuestro proyecto. 
+Swagger: Nos permitió probar la API de nuestro proyecto. 
+Postman: De igual forma, nos permitió probar la API y los endpoints. 
 
 - 5.2.4.8.Team Collaboration Insights during Sprint.
 
