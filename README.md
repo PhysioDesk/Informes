@@ -2259,7 +2259,8 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 - 5.2.4.5. Execution Evidence for Sprint Review.
 
 - 5.2.4.6.Services Documentation Evidence for Sprint Review.
-Web Service
+Web Service<br>
+
 | Endpoint                | Operaciones | Parámetros       | URL                                                    |
 |-------------------------|-------------|------------------|--------------------------------------------------------|
 | user-controller         | GET         | No tiene         | /api/v1/users                                          |
