@@ -2108,7 +2108,7 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 | USER-012  | Configurar notificaciones de cita |  TK12 | Configuración de notificaciones | Visualizar una sección de configuración de notificaciones  |2 |Gianfranco Luna|Done
 | FISIO-001  | Registrar detalles de cada sesión de tratamiento. |  TK14 | Registro de tratamientos | El fisioterapeuta debe poder interactuar con una tabla de tratamientos de pacientes suyos. |3 |Erick Palomino|Done
 | FISIO-003  | Generar informes. |  TK15 | Acceder al perfil del usuario | El fisioterapeuta debe poder acceder al perfil de sus pacientes |2 |Juan Pablo Ramos| Done
-| FISIO-003  | Generar informes. |  TK16 | Registrar informes sobre el paciente | El fisioterapeuta debe poder añadir informes al perfil del paciente  |2 |Juan Pablo Ramos, Erick Palomino| Done
+| FISIO-003  | Generar informes. |  TK16 | Registrar informes sobre el paciente | El fisioterapeuta debe poder añadir informes al perfil del paciente  |2 |Juan Pablo Ramos, Erick Palomino| To Do
 | DVLOP-002 | Implementar Autenticación de Usuario |   TK32 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Erick Palomino|Done
 | DVLOP-003 | Integrar Sistema de Citas | TK35 | Crear Token | Se debe generar un token JWT válido |2|Giacomo Zoppi|Done
 | DVLOP-005 | Crear Endpoint para registro de fisioterapeutas |   TK45 | Validar datos | Se debe validar que los detalles son validos o que la contraseña no coincide |2|Anthony Guerrero| Done
@@ -2145,24 +2145,164 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 |----------|------|---------|--------------|-------------------|------------------|
 
 ```gherkin
+Aquí tienes los escenarios solicitados en el formato adecuado:
 
+### US 12
+
+#### Feature: Configurar notificaciones de cita (US-12)
+
+**Scenario: Habilitar o deshabilitar notificaciones de recordatorio para citas**
+
+   Given que el usuario se ha registrado en la aplicación
+   When accede a la configuración de notificaciones desde la aplicación
+   Then puede habilitar o deshabilitar las notificaciones de recordatorio para citas
+
+**Scenario: Establecer tiempo de anticipación para notificaciones de recordatorio de citas**
+
+   Given que el usuario se ha registrado en la aplicación
+   When accede a la configuración de notificaciones desde la aplicación
+   Then puede establecer el tiempo de anticipación deseado para las notificaciones de recordatorio de citas
+
+### FIS 1
+
+#### Feature:  Registrar detalles de cada sesión de tratamiento.(FISIO-1)
+
+**Scenario: Registro de sesión de tratamiento por el fisioterapeuta**
+
+   Given que el fisioterapeuta está tratando a un paciente
+   When finaliza una sesión de tratamiento
+   Then debe poder registrar la fecha, duración, tipo de tratamiento y ejercicios realizados para esa sesión
+
+### FIS 3
+
+#### Feature:  Generar informes. (FIS-3)
+
+**Scenario: Generación de informes personalizados por el fisioterapeuta**
+
+   Given que el fisioterapeuta necesita comunicar el progreso del paciente
+   When accede al perfil del paciente
+   Then debe poder generar informes personalizados que incluyan gráficos, tablas u otros datos visuales
+
+### DVLOP 2
+
+#### Feature: Implementar Autenticación de Usuario (DVLOP-2)
+
+**Scenario: Inicio de sesión con credenciales válidas**
+
+   Given que el usuario proporciona credenciales válidas (correo electrónico y contraseña)
+   When se envía una solicitud POST al endpoint /api/login con las credenciales
+   Then se debe generar un token JWT válido y devolverlo en la respuesta
+   And se debe devolver un código de estado 200 (OK) junto con un mensaje de éxito
+
+**Scenario: Manejar credenciales inválidas**
+
+   Given que el usuario proporciona credenciales inválidas
+   When se envía una solicitud POST al endpoint /api/login con credenciales incorrectas
+   Then se debe devolver un código de estado 401 (No autorizado) junto con un mensaje de error
+
+### DVLOP 3
+
+#### Feature: Integrar Sistema de Citas (DVLOP-3)
+
+**Scenario: Reserva de cita exitosa**
+
+   Given que el usuario envía una solicitud POST al endpoint /api/appointments para reservar una cita
+   When la solicitud contiene los detalles de la cita y está dentro del horario disponible del fisioterapeuta
+   Then se debe registrar la cita en el sistema
+   And se debe devolver un código de estado 201 (Creado) junto con un mensaje de éxito
+
+**Scenario: Manejar horarios no disponibles**
+
+   Given que el usuario intenta reservar una cita en un horario no disponible
+   When se envía una solicitud POST al endpoint /api/appointments
+   Then se debe devolver un código de estado 400 (Solicitud incorrecta) junto con un mensaje de error
+
+### DVLOP 5
+
+#### Feature: Crear Endpoint para registro de fisioterapeutas (DVLOP-5)
+
+**Scenario: Registro exitoso de un nuevo fisioterapeuta**
+
+   Given que un nuevo fisioterapeuta envía una solicitud POST al endpoint /api/register
+   When la solicitud contiene información válida de registro
+   Then se debe crear una cuenta de fisioterapeuta y devolver un código de estado 201 (Created)
+
+**Scenario: Manejar registros inválidos**
+
+   Given que se envía una solicitud POST inválida al endpoint /api/register
+   When la solicitud no contiene la información necesaria o es incorrecta
+   Then se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error explicativo
+
+### DVLOP 8
+
+#### Feature: Crear Endpoint para cambio de datos de usuario (DVLOP-8)
+
+**Scenario: Actualización exitosa de datos de usuario**
+
+   Given que un usuario envía una solicitud PUT al endpoint /api/usuarios/{id}
+   When la solicitud contiene nuevos datos válidos para el usuario identificado por su ID
+   Then se deben actualizar los datos del usuario y devolver un código de estado 200 (OK)
+
+**Scenario: Manejar solicitudes inválidas**
+
+   Given que un usuario envía una solicitud PUT inválida al endpoint /api/usuarios/{id}
+   When la solicitud no contiene datos válidos o el ID de usuario es incorrecto
+   Then se debe devolver un código de estado 400 (Bad Request) junto con un mensaje de error
 ```
 
 - 5.2.4.5. Execution Evidence for Sprint Review.
 
 - 5.2.4.6.Services Documentation Evidence for Sprint Review.
+Web Service
+| Endpoint                | Operaciones | Parámetros       | URL                                                    |
+|-------------------------|-------------|------------------|--------------------------------------------------------|
+| user-controller         | GET         | No tiene         | /api/v1/users                                          |
+|                         | POST        | No tiene         | /api/v1/users                                          |
+|                         | GET         | {id}             | /api/v1/users/{id}                                     |
+|                         | DELETE      | {id}             | /api/v1/users/{id}                                     |
+| *                        | PUT      | {id}             | /api/v1/user/{id}                                     |
+| *                       | GET      | {email}             | /api/v1/user/{id}                                     |
+| *                       | GET      | {password}             | /api/v1/user/{id}                                     |
+| *                       | GET      | {email}{password}          | /api/v1/user/{id}                                     |
+| appointment-controller  | GET         | {patientId}      | /api/v1/profile/{patientId}                            |
+|                         | GET         | {physiotherapistId} | /api/v1/profile/{physiotherapistId}                   |
+|                         | POST        | No tiene         | /api/v1/appointments                                   |
+|                         | GET         | {physiotherapistId}{Date} | /api/v1/appointments                          |
+| *                        | GET         | {id} | /api/v1/appointments/{id}                          |
+| product-controller      | GET         | {id}             | /api/v1/product/{id}                                   |
+|                         | GET         | No tiene         | /api/v1/product/all                                    |
+|                         | POST        | No tiene         | /api/v1/product                                        |
+| physiotherapist-controller | POST    | No tiene         | /api/v1/physiotherapist                                |
+|                         | PUT         | {id} {physioDetails}            | /api/v1/physiotherapist/{id}                              |
+|                         | GET         | No tiene         | /api/v1/physiotherapist/all                            |
+|                         | GET         | {id}             | /api/v1/physiotherapist/{id}                           |
+| record-controller       | POST        | No tiene         | /api/v1/record                                         |
+|                         | GET         | No tiene         | /api/v1/record/all                                     |
+|                         | GET         | {id}             | /api/v1/record/{id}                                    |
+|                         | GET         | {date}           | /api/v1/record/{date}                                  |
+|  *                       | DELETE         | {id}           | /api/v1/record/{id}                                  |
 
 - 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Web Application: 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/83e28723-13c3-4629-b2db-8ebf4c559137)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/51c963ab-8628-4dab-9134-bd37ea6d18ad)
+
+
+Link desplegado: [https://sunny-croquembouche-b79315.netlify.app/main ](https://prismatic-bonbon-65d9c0.netlify.app/main)
+
+Web Service: 
 
 - 5.2.4.8.Team Collaboration Insights during Sprint.
 
 | Integrante                         | Actividad                                                                                          |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Gianfranco Luna Morales |  |
-| Erick Joaquin Palomino Santa Cruz |  |
-| Anthony Jeandet Guerrero Castillo |  |
-| Juan Pablo Ramos Mendoza |  |
-| Giacomo Zoppi Rodriguez |  |    
+| Gianfranco Luna Morales | Despliegue del Backend |
+| Erick Joaquin Palomino Santa Cruz | Corrección de errores del Backend, Integración del Backend y Despliegue |
+| Anthony Jeandet Guerrero Castillo | Corrección de errores del Frontend, Integración del Frontend y Despliegue  |
+| Juan Pablo Ramos Mendoza | Desarrollo del Sprint 4  |
+| Giacomo Zoppi Rodriguez | Corrección de errores del informe, desarrollo del sprint 4 y video About the Product |    
   
 - 5.3. Validation Interviews.
 - 5.3.1. Diseño de Entrevistas.
@@ -2390,7 +2530,7 @@ AUDITOR / CLIENTE(S)		: PhysioDesk (Auto-Auditoría)<br>**
 
 - 5.3.4. Video About-the-Product.
 
-LINK DE VISUALIZACIÓN: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQc6_CDIQuxDnfyTuVIqTosBdMoezO4Qlqma8OnmN5Ogwg?e=YB2Ahz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+LINK DE VISUALIZACIÓN: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EZq1fNYPQAJKqFOrv_GMqZwBGzoG2P1uctNWYffLVy9Lgg?e=pr8kXz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones
 
