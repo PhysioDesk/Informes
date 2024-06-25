@@ -1,3 +1,4 @@
+<p align="center">
    <img src="./static/img/Logos/UPC_logo.png" >
 </p>
 
