@@ -2141,14 +2141,16 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 
 - 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
- |User|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
-|erickpalomino1923|Acceptance-Test-Sprint-4/Main|08028bb|Add Feature|-------------------|26/06/24|
-|erickpalomino1923|Acceptance-Test-Sprint-4/Main|23362b8|Add Feature|-------------------|26/06/24|
-|Giacomo202210029|Acceptance-Test-Sprint-4/Main|d26f330|Add Feature|-------------------|26/06/24|
-|AnthonyGuerrero56|Acceptance-Test-Sprint-4/Main|f6d4e73|Add Feature|-------------------|26/06/24|
-|AnthonyGuerrero56|Acceptance-Test-Sprint-4/Main|31dd16e|Add Feature|-------------------|26/06/24|
-|Juan Pablo|Acceptance-Test-Sprint-4/Main|17a24eb|Add Feature|-------------------|26/06/24|
-|Gianfranco4991|Acceptance-Test-Sprint-4/Main|5ed0f8b|Add Feature|-------------------|26/06/24|
+| User              | Branch                       | Commit ID | Commit Message | Commit Message <br> Body | Commited <br> On (Date) |
+|-------------------|------------------------------|-----------|----------------|--------------------------|-------------------------|
+| erickpalomino1923 | Acceptance-Test-Sprint-4/Main| 08028bb   | Add Feature    | -------------------      | 26/06/24                |
+| erickpalomino1923 | Acceptance-Test-Sprint-4/Main| 23362b8   | Add Feature    | -------------------      | 26/06/24                |
+| Giacomo202210029  | Acceptance-Test-Sprint-4/Main| d26f330   | Add Feature    | -------------------      | 26/06/24                |
+| AnthonyGuerrero56 | Acceptance-Test-Sprint-4/Main| f6d4e73   | Add Feature    | -------------------      | 26/06/24                |
+| AnthonyGuerrero56 | Acceptance-Test-Sprint-4/Main| 31dd16e   | Add Feature    | -------------------      | 26/06/24                |
+| Juan Pablo        | Acceptance-Test-Sprint-4/Main| 17a24eb   | Add Feature    | -------------------      | 26/06/24                |
+| Gianfranco4991    | Acceptance-Test-Sprint-4/Main| 5ed0f8b   | Add Feature    | -------------------      | 26/06/24                |
+
 
 
 ```gherkin
@@ -2281,33 +2283,33 @@ Link desplegado: https://github.com/PhysioDesk/Backend_Desp.git
 - 5.2.4.6.Services Documentation Evidence for Sprint Review.
 Web Service<br>
 
-| Endpoint                | Operaciones | Parámetros       | URL                                                    |
-|-------------------------|-------------|------------------|--------------------------------------------------------|
-| user-controller         | GET         | No tiene         | /api/v1/users                                          |
-|                         | POST        | No tiene         | /api/v1/users                                          |
-|                         | GET         | {id}             | /api/v1/users/{id}                                     |
-|                         | DELETE      | {id}             | /api/v1/users/{id}                                     |
-| *                        | PUT      | {id}             | /api/v1/user/{id}                                     |
-| *                       | GET      | {email}             | /api/v1/user/{id}                                     |
-| *                       | GET      | {password}             | /api/v1/user/{id}                                     |
-| *                       | GET      | {email}{password}          | /api/v1/user/{id}                                     |
-| appointment-controller  | GET         | {patientId}      | /api/v1/profile/{patientId}                            |
-|                         | GET         | {physiotherapistId} | /api/v1/profile/{physiotherapistId}                   |
-|                         | POST        | No tiene         | /api/v1/appointments                                   |
-|                         | GET         | {physiotherapistId}{Date} | /api/v1/appointments                          |
-| *                        | GET         | {id} | /api/v1/appointments/{id}                          |
-| product-controller      | GET         | {id}             | /api/v1/product/{id}                                   |
-|                         | GET         | No tiene         | /api/v1/product/all                                    |
-|                         | POST        | No tiene         | /api/v1/product                                        |
-| physiotherapist-controller | POST    | No tiene         | /api/v1/physiotherapist                                |
-|                         | PUT         | {id} {physioDetails}            | /api/v1/physiotherapist/{id}                              |
-|                         | GET         | No tiene         | /api/v1/physiotherapist/all                            |
-|                         | GET         | {id}             | /api/v1/physiotherapist/{id}                           |
-| record-controller       | POST        | No tiene         | /api/v1/record                                         |
-|                         | GET         | No tiene         | /api/v1/record/all                                     |
-|                         | GET         | {id}             | /api/v1/record/{id}                                    |
-|                         | GET         | {date}           | /api/v1/record/{date}                                  |
-|  *                       | DELETE         | {id}           | /api/v1/record/{id}                                  |
+| Endpoint                  | Operaciones | Parámetros                | URL                                         |
+|---------------------------|-------------|---------------------------|---------------------------------------------|
+| user-controller           | GET         | No tiene                  | /api/v1/users                               |
+|                           | POST        | No tiene                  | /api/v1/users                               |
+|                           | GET         | {id}                      | /api/v1/users/{id}                          |
+|                           | DELETE      | {id}                      | /api/v1/users/{id}                          |
+|                           | PUT         | {id}                      | /api/v1/user/{id}                           |
+|                           | GET         | {email}                   | /api/v1/user/{id}                           |
+|                           | GET         | {password}                | /api/v1/user/{id}                           |
+|                           | GET         | {email}{password}         | /api/v1/user/{id}                           |
+| appointment-controller    | GET         | {patientId}               | /api/v1/profile/{patientId}                 |
+|                           | GET         | {physiotherapistId}       | /api/v1/profile/{physiotherapistId}         |
+|                           | POST        | No tiene                  | /api/v1/appointments                        |
+|                           | GET         | {physiotherapistId}{Date} | /api/v1/appointments                        |
+|                           | GET         | {id}                      | /api/v1/appointments/{id}                   |
+| product-controller        | GET         | {id}                      | /api/v1/product/{id}                        |
+|                           | GET         | No tiene                  | /api/v1/product/all                         |
+|                           | POST        | No tiene                  | /api/v1/product                             |
+| physiotherapist-controller| POST        | No tiene                  | /api/v1/physiotherapist                     |
+|                           | PUT         | {id} {physioDetails}      | /api/v1/physiotherapist/{id}                |
+|                           | GET         | No tiene                  | /api/v1/physiotherapist/all                 |
+|                           | GET         | {id}                      | /api/v1/physiotherapist/{id}                |
+| record-controller         | POST        | No tiene                  | /api/v1/record                              |
+|                           | GET         | No tiene                  | /api/v1/record/all                          |
+|                           | GET         | {id}                      | /api/v1/record/{id}                         |
+|                           | GET         | {date}                    | /api/v1/record/{date}                       |
+|                           | DELETE      | {id}                      | /api/v1/record/{id}                         |
 
 - 5.2.4.7.Software Deployment Evidence for Sprint Review.
 Para el despliegue y desarrollo de nuestra API, hemos usado las siguientes herramientas: 
