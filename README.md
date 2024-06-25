@@ -1,4 +1,3 @@
-![image](https://github.com/PhysioDesk/Informes/assets/129527802/6b2df084-07d8-4b05-8448-c46d6c60403c)<p align ="center">
    <img src="./static/img/Logos/UPC_logo.png" >
 </p>
 
