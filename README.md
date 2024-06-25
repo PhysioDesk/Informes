@@ -2121,6 +2121,23 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/PhysioDesk/PhysioDeskWebApp | main | 9ebc5e4 | edit | --- | 20/06/24 |
+| https://github.com/PhysioDesk/PhysioDeskWebApp | main | 0046b5a | Feat: First conection with Backend | --- | 24/06/24 |
+| https://github.com/PhysioDesk/PhysioDeskWebApp | main | 256a0b9 | edit | --- | 25/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 5d48638 | desplegar | --- | 19/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 30bdf6e | desplegar | --- | 19/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 1adb79f | Update application.properties | --- | 19/06/24 |
+| https://github.com/PhysioDesk/Backend | master | e4a42c8 | fusion | --- | 21/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 4888697 | Feat: modifying | --- | 23/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 5ad5f97 | edit products | --- | 23/06/24 |
+| https://github.com/PhysioDesk/Backend | master | e755074 | edit | --- | 24/06/24 |
+| https://github.com/PhysioDesk/Backend | master | f94cc04 | Feat: Modified controllers | --- | 24/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 33e10f4 | EDIT | --- | 24/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 58abb32 | Merge branch 'master' of https://github.com/PhysioDesk/Backend | --- | 24/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 3a7f16c | Connection to my localhost | --- | 24/06/24 |
+| https://github.com/PhysioDesk/Backend | master | 2a0d48c | Feat: InformationDetails solved | --- | 25/06/24 |
+| https://github.com/PhysioDesk/Backend | master | b7b1c49 | edit | --- | 25/06/24 |
+| https://github.com/PhysioDesk/Backend | master | b173c2c | Your commit message | --- | 25/06/24 |
 
 - 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
