@@ -2104,7 +2104,7 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 | ------------ | ------------ |------------|------------|------------|------------|------------|------------
 | User Story |------------|------------|------------|------------|------------|------------|------------
 |  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
-
+| DVLOP-002 | Implementar Autenticación de Usuario |   TK32 | Devolver codigo de estado erroneo | Se debe devolver un codigo de estado 401 junto a un mensaje de error |2|Erick Palomino|Done
 
 
 - 5.2.4.3. Development Evidence for Sprint Review.
@@ -2363,7 +2363,7 @@ AUDITOR / CLIENTE(S)		: PhysioDesk (Auto-Auditoría)<br>**
 
 - 5.3.4. Video About-the-Product.
 
-LINK DE VISUALIZACIÓN: [upc-pre-202401-si729-wx52-physiodesk-about-the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EVZxNb8W0MBMv1Me1f-iS80BzQW0S5fJb1C9Cgx-WwjmqA?e=hZOeiy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+LINK DE VISUALIZACIÓN: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQc6_CDIQuxDnfyTuVIqTosBdMoezO4Qlqma8OnmN5Ogwg?e=YB2Ahz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Conclusiones
 
@@ -2376,7 +2376,7 @@ LINK DE VISUALIZACIÓN: [upc-pre-202401-si729-wx52-physiodesk-about-the-product-
  
 - Video About-the-Team.
 
-LINK DE VISUALIZACION: [upc-pre-202401-si729-wx52-physiodesk-about-the-team-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EQc6_CDIQuxDnfyTuVIqTosBdMoezO4Qlqma8OnmN5Ogwg?e=IPHZDU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+LINK DE VISUALIZACION: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210029_upc_edu_pe/EVZxNb8W0MBMv1Me1f-iS80BzQW0S5fJb1C9Cgx-WwjmqA?e=EbTZVY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 ## Bibliografía 
