@@ -1,4 +1,4 @@
-<p align ="center">
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/6b2df084-07d8-4b05-8448-c46d6c60403c)<p align ="center">
    <img src="./static/img/Logos/UPC_logo.png" >
 </p>
 
@@ -2141,11 +2141,17 @@ de la aplicación y una mejor experiencia de usuario. De la misma forma que ante
 
 - 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
- |Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
-|----------|------|---------|--------------|-------------------|------------------|
+ |User|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
+|erickpalomino1923|Acceptance-Test-Sprint-4/Main|08028bb|Add Feature|-------------------|26/06/24|
+|erickpalomino1923|Acceptance-Test-Sprint-4/Main|23362b8|Add Feature|-------------------|26/06/24|
+|Giacomo202210029|Acceptance-Test-Sprint-4/Main|d26f330|Add Feature|-------------------|26/06/24|
+|AnthonyGuerrero56|Acceptance-Test-Sprint-4/Main|f6d4e73|Add Feature|-------------------|26/06/24|
+|AnthonyGuerrero56|Acceptance-Test-Sprint-4/Main|31dd16e|Add Feature|-------------------|26/06/24|
+|Juan Pablo|Acceptance-Test-Sprint-4/Main|17a24eb|Add Feature|-------------------|26/06/24|
+|Gianfranco4991|Acceptance-Test-Sprint-4/Main|5ed0f8b|Add Feature|-------------------|26/06/24|
+
 
 ```gherkin
-Aquí tienes los escenarios solicitados en el formato adecuado:
 
 ### US 12
 
@@ -2290,9 +2296,18 @@ Web Application:
 ![image](https://github.com/PhysioDesk/Informes/assets/129527802/51c963ab-8628-4dab-9134-bd37ea6d18ad)
 
 
-Link desplegado: [https://sunny-croquembouche-b79315.netlify.app/main ](https://prismatic-bonbon-65d9c0.netlify.app/main)
+Link desplegado: https://prismatic-bonbon-65d9c0.netlify.app/main
 
 Web Service: 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/9cafa1a8-a6c6-4a41-98ec-4d9bc9ccd3de)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/718b9836-e0b2-4d41-8496-0b4477acc9e2)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/17b611a3-0a07-4ad6-908f-7d2bc53ae64a)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/899c475b-cfa1-4cbd-b8c8-f2692e26575e)
+
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/45a56f80-5e15-4538-a207-1effa3c9bad9)
+
 
 - 5.2.4.8.Team Collaboration Insights during Sprint.
 
