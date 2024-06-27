@@ -29,6 +29,15 @@
 </br>
 
 ## Project Report Collaboration Insights
+Backend: 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/06c7cf69-e2ca-4065-822a-52c25a297463)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/1646470f-0a27-48b8-b5a6-7cd7eebf1f15)
+
+Frontend: 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/779ccbfe-a716-4e65-8ecb-b6bb0f722535)
+
+Landing Page: 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/a5c45d81-1f82-4995-8919-e8793aa5fc30)
 
 ## Contenido
   - [0. Student Outcome](#0)
