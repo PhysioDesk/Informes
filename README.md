@@ -30,6 +30,11 @@
 
 ## Project Report Collaboration Insights
 
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/06c7cf69-e2ca-4065-822a-52c25a297463)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/1646470f-0a27-48b8-b5a6-7cd7eebf1f15)
+![image](https://github.com/PhysioDesk/Informes/assets/129527802/779ccbfe-a716-4e65-8ecb-b6bb0f722535)
+
+
 ## Contenido
   - [0. Student Outcome](#0)
   - [1. Capítulo I: Introducción](#1-student-outcome-cap%C3%ADtulo-i-introducci%C3%B3n)
